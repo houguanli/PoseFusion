@@ -13,6 +13,17 @@ PoseFusion: Fusing neural implicit surfaces for multi-view reconstruction from m
 
 ## 获取完整文件
 
+无需安装 Git，也无需登录 GitHub，可直接下载完整发布附件：
+
+- [Code ZIP（含推理权重）](https://github.com/houguanli/PoseFusion/releases/download/v1.0.0/PoseFusion-code.zip)
+- [Dataset ZIP 1](https://github.com/houguanli/PoseFusion/releases/download/v1.0.0/PoseFusion-dataset-part1.zip)
+- [Dataset ZIP 2](https://github.com/houguanli/PoseFusion/releases/download/v1.0.0/PoseFusion-dataset-part2.zip)
+- [SHA256 校验值](https://github.com/houguanli/PoseFusion/releases/download/v1.0.0/SHA256SUMS.txt)
+
+将三个 ZIP 解压到同一目录，得到同级的 `code/` 与 `dataset/`。两份 Dataset ZIP 包含不同 case，必须全部下载；ZIP 1 同时包含数据集说明和清单。
+
+也可以通过 Git LFS 获取：
+
 图像、GT mesh、NeuS 相机及预训练网络权重通过 Git LFS 保存。先安装 Git 和 Git LFS，再执行：
 
 ```bash
@@ -23,7 +34,7 @@ git lfs pull
 cd code
 ```
 
-本仓库公开，浏览及使用上述命令下载完整代码、数据集和模型权重均无需登录 GitHub。Git LFS 用于取得实际二进制文件；仅下载默认源码 ZIP 可能得到 LFS 指针文件。获取实际二进制文件的方法见 [Git LFS 协作说明](https://docs.github.com/en/repositories/working-with-files/managing-large-files/collaboration-with-git-large-file-storage)。
+本仓库公开，浏览及使用上述命令下载完整代码、数据集和模型权重均无需登录 GitHub。GitHub 自动生成的 Source code ZIP / TAR.GZ 默认包含 LFS 指针；请使用上面的完整发布附件，或执行 `git lfs pull` 取得实际二进制文件。获取实际二进制文件的方法见 [Git LFS 协作说明](https://docs.github.com/en/repositories/working-with-files/managing-large-files/collaboration-with-git-large-file-storage)。
 
 ## 发布内容
 
