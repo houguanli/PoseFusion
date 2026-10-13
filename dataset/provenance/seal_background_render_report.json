@@ -1,0 +1,24 @@
+{
+  "source_blend": "E:\\PoseFusionExp\\synthetic\\seal_re_20260928\\seal_background.blend",
+  "compositor_disabled": true,
+  "poses": [
+    {
+      "pose": 1,
+      "frames_requested": 40,
+      "source_cameras": "E:\\PoseFusionExp\\synthetic\\seal_re_20260928\\rendered\\_re_seal_pose1\\camera_data.json",
+      "source_GT_unchanged": true
+    },
+    {
+      "pose": 2,
+      "frames_requested": 40,
+      "source_cameras": "E:\\PoseFusionExp\\synthetic\\seal_re_20260928\\rendered\\_re_seal_pose2\\camera_data.json",
+      "source_GT_unchanged": true
+    },
+    {
+      "pose": 3,
+      "frames_requested": 40,
+      "source_cameras": "E:\\PoseFusionExp\\synthetic\\seal_re_20260928\\rendered\\_re_seal_pose3\\camera_data.json",
+      "source_GT_unchanged": true
+    }
+  ]
+}

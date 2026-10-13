@@ -1,0 +1,1129 @@
+{
+  "case_id": "nikon",
+  "paper_label": "Nikon",
+  "domain": "synthetic",
+  "status": "complete_background",
+  "poses": [
+    {
+      "pose": 1,
+      "image_count": 40,
+      "background_image_count": 40,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image",
+      "camera_sha256": "f59b7aab47cf55aa7f93938d4f598737e9698dcd77283f008ffe399759258ab6",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose1/image/000.png",
+          "mask": "pose1/mask/000.png",
+          "image_sha256": "fe2d7b406cffa015fe4908914c4e4398596c7e7c69982004d8c73020c8d14d0d",
+          "mask_sha256": "0b255e4e98e8ba3e3d3e741f6223047815f483d5ec2ea9856f483d71bd0c99df",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\000.png",
+          "source_background_sha256": "fe2d7b406cffa015fe4908914c4e4398596c7e7c69982004d8c73020c8d14d0d"
+        },
+        {
+          "index": 1,
+          "image": "pose1/image/001.png",
+          "mask": "pose1/mask/001.png",
+          "image_sha256": "3af6e0a42ab26cfee6a46dab0042969e76f3371d251c7eb3bc93fa3a495a7936",
+          "mask_sha256": "1a2bd0c5caad9fc4b73784c0e3bc88e588260a953922c99252c4ef2a405ef604",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\001.png",
+          "source_background_sha256": "3af6e0a42ab26cfee6a46dab0042969e76f3371d251c7eb3bc93fa3a495a7936"
+        },
+        {
+          "index": 2,
+          "image": "pose1/image/002.png",
+          "mask": "pose1/mask/002.png",
+          "image_sha256": "a235e36b64273278c6b77a2551aad3dfea8bf45bb0706a93ebdad506a7ee0b85",
+          "mask_sha256": "0e67e7f13d7f88aa347cfc6879c350a4883e9d48cf36de0955f2c8eb29d0fa58",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\002.png",
+          "source_background_sha256": "a235e36b64273278c6b77a2551aad3dfea8bf45bb0706a93ebdad506a7ee0b85"
+        },
+        {
+          "index": 3,
+          "image": "pose1/image/003.png",
+          "mask": "pose1/mask/003.png",
+          "image_sha256": "5fd332c003959ede45b1527ec762727b786336a0f340ad9838f84cd4b6ea4549",
+          "mask_sha256": "7d7f5562cd3fe570922c8c80032cf2b013cc7df04c392e37c763fcee478306df",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\003.png",
+          "source_background_sha256": "5fd332c003959ede45b1527ec762727b786336a0f340ad9838f84cd4b6ea4549"
+        },
+        {
+          "index": 4,
+          "image": "pose1/image/004.png",
+          "mask": "pose1/mask/004.png",
+          "image_sha256": "455675f069df84bd2b448918a4942388f9c9b021b28cac50424dcfa8279cfe03",
+          "mask_sha256": "c1df94fddb97dcb186f1b1f2c1004f2b6188f35c91e6b04ca53b591c6fcc79ae",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\004.png",
+          "source_background_sha256": "455675f069df84bd2b448918a4942388f9c9b021b28cac50424dcfa8279cfe03"
+        },
+        {
+          "index": 5,
+          "image": "pose1/image/005.png",
+          "mask": "pose1/mask/005.png",
+          "image_sha256": "c6dc530895517f64d095a6336313991398efdbd779f401d89623bc9825ce527d",
+          "mask_sha256": "bf5db07d6ec2508bf251b4fb3e7c3b25ee46c2b36ed83b5c08ae77b6890a8932",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\005.png",
+          "source_background_sha256": "c6dc530895517f64d095a6336313991398efdbd779f401d89623bc9825ce527d"
+        },
+        {
+          "index": 6,
+          "image": "pose1/image/006.png",
+          "mask": "pose1/mask/006.png",
+          "image_sha256": "7de11526d911f9c91997a42dd73e0d00b62bb7d36772266af8e5adfe0ba1dca6",
+          "mask_sha256": "169bf0cff8f5345c3376b83f31720dcfa495526fc0d146c9aad6e0fdb66982d9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\006.png",
+          "source_background_sha256": "7de11526d911f9c91997a42dd73e0d00b62bb7d36772266af8e5adfe0ba1dca6"
+        },
+        {
+          "index": 7,
+          "image": "pose1/image/007.png",
+          "mask": "pose1/mask/007.png",
+          "image_sha256": "4a9d4f5b3cd3e2a5078178a30510b58c912b085e1ee7b60fc91f9a75e2c535f0",
+          "mask_sha256": "dbf3dd71f4c82212f133d05d467e4fda68b9f4efe8d6faf00c53bd68692e957a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\007.png",
+          "source_background_sha256": "4a9d4f5b3cd3e2a5078178a30510b58c912b085e1ee7b60fc91f9a75e2c535f0"
+        },
+        {
+          "index": 8,
+          "image": "pose1/image/008.png",
+          "mask": "pose1/mask/008.png",
+          "image_sha256": "5806385986b2dd4215b8070eff304b1432cc6589ce93d7a3361f9f6a88877be0",
+          "mask_sha256": "708dc3c4ba498c0b92916799d4ab99b9bf66adb04a5b8f32dd9712c8c8a6bbf6",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\008.png",
+          "source_background_sha256": "5806385986b2dd4215b8070eff304b1432cc6589ce93d7a3361f9f6a88877be0"
+        },
+        {
+          "index": 9,
+          "image": "pose1/image/009.png",
+          "mask": "pose1/mask/009.png",
+          "image_sha256": "ae415ed7869ad8f67cd02051fb6fc8bf695e697770a094d44b8cfed5de9725ed",
+          "mask_sha256": "085b58167b336c889014e7811dbe6736511e8dd908fc3a2ef053a7c1346ea8d8",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\009.png",
+          "source_background_sha256": "ae415ed7869ad8f67cd02051fb6fc8bf695e697770a094d44b8cfed5de9725ed"
+        },
+        {
+          "index": 10,
+          "image": "pose1/image/010.png",
+          "mask": "pose1/mask/010.png",
+          "image_sha256": "7de0c56560b1348f81f88022f087e2efd563479be8a99b6c83f313c4868b7d3a",
+          "mask_sha256": "8ce6bea46a6643643824fb948145a4150b245d4473f93e20565d9c47a38983e5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\010.png",
+          "source_background_sha256": "7de0c56560b1348f81f88022f087e2efd563479be8a99b6c83f313c4868b7d3a"
+        },
+        {
+          "index": 11,
+          "image": "pose1/image/011.png",
+          "mask": "pose1/mask/011.png",
+          "image_sha256": "a9c60b8faafca1ec42e9e58eceb9c16bce833eeb84c76c0e729deb10bb0640e6",
+          "mask_sha256": "1b794a9915e656446bc7ede595684c522f9ab1c249099e46de5a314fc70e6d88",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\011.png",
+          "source_background_sha256": "a9c60b8faafca1ec42e9e58eceb9c16bce833eeb84c76c0e729deb10bb0640e6"
+        },
+        {
+          "index": 12,
+          "image": "pose1/image/012.png",
+          "mask": "pose1/mask/012.png",
+          "image_sha256": "92d05498e8331719ef101b2d142370a63c0373fa505f34954ddbb88b4fd344d4",
+          "mask_sha256": "a32234d3a8d6dd71d721fa23048ee5d667e5703b405dd13dd13a59a184e8d7c7",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\012.png",
+          "source_background_sha256": "92d05498e8331719ef101b2d142370a63c0373fa505f34954ddbb88b4fd344d4"
+        },
+        {
+          "index": 13,
+          "image": "pose1/image/013.png",
+          "mask": "pose1/mask/013.png",
+          "image_sha256": "8b9307297b5fa83ba9a059632504f92a8213788739782a0e8bf31bebc8ab851e",
+          "mask_sha256": "c7f29f416cdc074514fc0c459cf4919984050006e5b4878c89b934343b985991",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\013.png",
+          "source_background_sha256": "8b9307297b5fa83ba9a059632504f92a8213788739782a0e8bf31bebc8ab851e"
+        },
+        {
+          "index": 14,
+          "image": "pose1/image/014.png",
+          "mask": "pose1/mask/014.png",
+          "image_sha256": "cebff07eec3e91ac90f9bee41ea7e605bef203b808f11dc9dcf3b5324db4e4d8",
+          "mask_sha256": "ce0d930e61032df0ad113897829baa006d34777f72d44a69242db8b68d87bca5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\014.png",
+          "source_background_sha256": "cebff07eec3e91ac90f9bee41ea7e605bef203b808f11dc9dcf3b5324db4e4d8"
+        },
+        {
+          "index": 15,
+          "image": "pose1/image/015.png",
+          "mask": "pose1/mask/015.png",
+          "image_sha256": "a6baa71b23a07392fc76b3fabab4cf5b135235411483d9f032df1779857fba5d",
+          "mask_sha256": "78d4b55107cabdce399e29a48904d14520bba1122958e9afdca838c71db70681",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\015.png",
+          "source_background_sha256": "a6baa71b23a07392fc76b3fabab4cf5b135235411483d9f032df1779857fba5d"
+        },
+        {
+          "index": 16,
+          "image": "pose1/image/016.png",
+          "mask": "pose1/mask/016.png",
+          "image_sha256": "1fc935451bb66175f86587c4ee894ee0f7aa0fefc32ae501484f27e4f7c6752b",
+          "mask_sha256": "9589ae6089f57c7a311e27fae631518833ce4fbd147191305c2b80d0768aa9f6",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\016.png",
+          "source_background_sha256": "1fc935451bb66175f86587c4ee894ee0f7aa0fefc32ae501484f27e4f7c6752b"
+        },
+        {
+          "index": 17,
+          "image": "pose1/image/017.png",
+          "mask": "pose1/mask/017.png",
+          "image_sha256": "1f26cacf1597dea0426f35448672849f67d760d6bb4c9f327012cc9b9c09e4d8",
+          "mask_sha256": "69d74382b5b07a5bfef30bc835289b58b9bbd0274899c68db5f50e7f6ca28775",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\017.png",
+          "source_background_sha256": "1f26cacf1597dea0426f35448672849f67d760d6bb4c9f327012cc9b9c09e4d8"
+        },
+        {
+          "index": 18,
+          "image": "pose1/image/018.png",
+          "mask": "pose1/mask/018.png",
+          "image_sha256": "b0c6f84e0251ad3b3ea3c40291816676439be70a742464858191d6009de87912",
+          "mask_sha256": "6fcdae18b96c83d77a0a20c232c325c71db08cfab94a24ec3fed28319fde8418",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\018.png",
+          "source_background_sha256": "b0c6f84e0251ad3b3ea3c40291816676439be70a742464858191d6009de87912"
+        },
+        {
+          "index": 19,
+          "image": "pose1/image/019.png",
+          "mask": "pose1/mask/019.png",
+          "image_sha256": "84f525ee98ebe0961fb1bbd79ab7de5f03a5914675cfcc68c8a23aad42793383",
+          "mask_sha256": "45eae1081e5b48711ff457d6ce9dbd29088aee32756cb940e0c7860da17faa5e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\019.png",
+          "source_background_sha256": "84f525ee98ebe0961fb1bbd79ab7de5f03a5914675cfcc68c8a23aad42793383"
+        },
+        {
+          "index": 20,
+          "image": "pose1/image/020.png",
+          "mask": "pose1/mask/020.png",
+          "image_sha256": "8a5f06c9b3f18530a643e5c3e8c71b00954cefc1f902b9d1eea3d2f13c978614",
+          "mask_sha256": "b1940c2552e573235b35fe26ba9d75d8df1c6d93694ccaede259eb95f01ca05f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\020.png",
+          "source_background_sha256": "8a5f06c9b3f18530a643e5c3e8c71b00954cefc1f902b9d1eea3d2f13c978614"
+        },
+        {
+          "index": 21,
+          "image": "pose1/image/021.png",
+          "mask": "pose1/mask/021.png",
+          "image_sha256": "25155bd34242ad119eb0cfe97a18396d32d6e2ae18ce201b1120746f5f1fee56",
+          "mask_sha256": "58d12a894929611de485097754d00825411521d8a67393abd687fae50828d21c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\021.png",
+          "source_background_sha256": "25155bd34242ad119eb0cfe97a18396d32d6e2ae18ce201b1120746f5f1fee56"
+        },
+        {
+          "index": 22,
+          "image": "pose1/image/022.png",
+          "mask": "pose1/mask/022.png",
+          "image_sha256": "07a9afc91aac4a231576894142e1cc471c7cdd2ce2c7fea294b766aa919dc872",
+          "mask_sha256": "45ba077af28c055fe036dc0b0e82619c023466d9908db80fe619d989656dfeba",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\022.png",
+          "source_background_sha256": "07a9afc91aac4a231576894142e1cc471c7cdd2ce2c7fea294b766aa919dc872"
+        },
+        {
+          "index": 23,
+          "image": "pose1/image/023.png",
+          "mask": "pose1/mask/023.png",
+          "image_sha256": "ba6124082500faedf3224138d9ea865e86aa8ded1764aa6542d388b66ddd502f",
+          "mask_sha256": "a097623c979ea8de73d58c3a0fe3c09e098e32cc2b1feca2408a4195fbc43b46",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\023.png",
+          "source_background_sha256": "ba6124082500faedf3224138d9ea865e86aa8ded1764aa6542d388b66ddd502f"
+        },
+        {
+          "index": 24,
+          "image": "pose1/image/024.png",
+          "mask": "pose1/mask/024.png",
+          "image_sha256": "2fdd5216ef376b81e14205032bd553a016d5e99394b74a9334fd0240a84cbcff",
+          "mask_sha256": "d8da143587fe19b0da972f2ecef721f8eebd90f4bdb2370723b7843aabbb9e9b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\024.png",
+          "source_background_sha256": "2fdd5216ef376b81e14205032bd553a016d5e99394b74a9334fd0240a84cbcff"
+        },
+        {
+          "index": 25,
+          "image": "pose1/image/025.png",
+          "mask": "pose1/mask/025.png",
+          "image_sha256": "e50ac6721358bbda37d3f43e948683b03da714c560abf5c4732d189417cc64c4",
+          "mask_sha256": "e836c989e1960339e040f8dafefd277e11caca5df03e880c72d00fc540decbd8",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\025.png",
+          "source_background_sha256": "e50ac6721358bbda37d3f43e948683b03da714c560abf5c4732d189417cc64c4"
+        },
+        {
+          "index": 26,
+          "image": "pose1/image/026.png",
+          "mask": "pose1/mask/026.png",
+          "image_sha256": "6d4a13db7bd59c147003f8ae42c67f1ce5610e52ad16b41aad5003b1d9ed2b7d",
+          "mask_sha256": "09d04579ede13ff2ac61636568a580cca1b242f95b7dee98955b9f1f82348020",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\026.png",
+          "source_background_sha256": "6d4a13db7bd59c147003f8ae42c67f1ce5610e52ad16b41aad5003b1d9ed2b7d"
+        },
+        {
+          "index": 27,
+          "image": "pose1/image/027.png",
+          "mask": "pose1/mask/027.png",
+          "image_sha256": "b1da614f4950c641c3ea5e512020044f17dd462b51f670494c2cc08c7c531525",
+          "mask_sha256": "ab7415327bd36799b919ed704276736606b623ecd509d2ffd64e5876d471813d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\027.png",
+          "source_background_sha256": "b1da614f4950c641c3ea5e512020044f17dd462b51f670494c2cc08c7c531525"
+        },
+        {
+          "index": 28,
+          "image": "pose1/image/028.png",
+          "mask": "pose1/mask/028.png",
+          "image_sha256": "58431b9152c30e13b0151b02e7d7194df2e973fe5f1aa1b444eeee22be8d902a",
+          "mask_sha256": "c9eeaa5ebb143089fe229d061676d703ae0c7c0fe9d886fb39b4411976fbe86e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\028.png",
+          "source_background_sha256": "58431b9152c30e13b0151b02e7d7194df2e973fe5f1aa1b444eeee22be8d902a"
+        },
+        {
+          "index": 29,
+          "image": "pose1/image/029.png",
+          "mask": "pose1/mask/029.png",
+          "image_sha256": "a94433df3ee9c2d00abccd567f92240386dee5b2cf363101172fb6fa3800ba19",
+          "mask_sha256": "02b1684f117044275e2ca3c52b6b703aa62f446e9fc91cf82632473ea11db371",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\029.png",
+          "source_background_sha256": "a94433df3ee9c2d00abccd567f92240386dee5b2cf363101172fb6fa3800ba19"
+        },
+        {
+          "index": 30,
+          "image": "pose1/image/030.png",
+          "mask": "pose1/mask/030.png",
+          "image_sha256": "281ed097883ad4b873e221b92e58353e49b5ddfac7f89f98a8ba7ecae64cfb77",
+          "mask_sha256": "7c9120d8fb36f301689880f0b7e0787d12fdfc46937f2651a973cbbb791bd7ff",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\030.png",
+          "source_background_sha256": "281ed097883ad4b873e221b92e58353e49b5ddfac7f89f98a8ba7ecae64cfb77"
+        },
+        {
+          "index": 31,
+          "image": "pose1/image/031.png",
+          "mask": "pose1/mask/031.png",
+          "image_sha256": "e1dd97fc6046d24286aa4802e70fef7552d78ee9924d209f9b775f1795c9c9af",
+          "mask_sha256": "8167585acf97ddb4e886d66c438f0742568c769585f7925f36ed36e7af37377e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\031.png",
+          "source_background_sha256": "e1dd97fc6046d24286aa4802e70fef7552d78ee9924d209f9b775f1795c9c9af"
+        },
+        {
+          "index": 32,
+          "image": "pose1/image/032.png",
+          "mask": "pose1/mask/032.png",
+          "image_sha256": "71b7e52ffb7f2284ee4392bfceb213f1b6ea4b0ad9baaf412d25fbbb8f74dcde",
+          "mask_sha256": "80b58603cc685304e86f49e2f4c171de7eb8164b19b9eef252eb89cf1591fe1c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\032.png",
+          "source_background_sha256": "71b7e52ffb7f2284ee4392bfceb213f1b6ea4b0ad9baaf412d25fbbb8f74dcde"
+        },
+        {
+          "index": 33,
+          "image": "pose1/image/033.png",
+          "mask": "pose1/mask/033.png",
+          "image_sha256": "645cce0e5bdfc66bb1f3a2c4056cb7cb66df86412e59454959aa3140eb212509",
+          "mask_sha256": "422ba5a092d26f714e80ab277d3f572d26117842afcb85abcd76138f5b11f00c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\033.png",
+          "source_background_sha256": "645cce0e5bdfc66bb1f3a2c4056cb7cb66df86412e59454959aa3140eb212509"
+        },
+        {
+          "index": 34,
+          "image": "pose1/image/034.png",
+          "mask": "pose1/mask/034.png",
+          "image_sha256": "df1a8408426751528f71af74a81b24b3651eb4d04d8b1d7b6a9970c7a85a97b1",
+          "mask_sha256": "db8fed384a00e36a9f60d7c3c4f648d7cdbd06ba0c322c32778740d928e6b047",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\034.png",
+          "source_background_sha256": "df1a8408426751528f71af74a81b24b3651eb4d04d8b1d7b6a9970c7a85a97b1"
+        },
+        {
+          "index": 35,
+          "image": "pose1/image/035.png",
+          "mask": "pose1/mask/035.png",
+          "image_sha256": "d75179c2e4f6c7ca1296885e7791e10aa82130e266d20e7b97d43f8d60e2e9bd",
+          "mask_sha256": "01e801ec5ca8ae01ded41a29b6ebbc0f6a3c05e47f603659adf8f64d36f714e7",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\035.png",
+          "source_background_sha256": "d75179c2e4f6c7ca1296885e7791e10aa82130e266d20e7b97d43f8d60e2e9bd"
+        },
+        {
+          "index": 36,
+          "image": "pose1/image/036.png",
+          "mask": "pose1/mask/036.png",
+          "image_sha256": "dbc4f9a7ec025bb17c91f5af58861f41eec0249d77a755a3a9be601428506060",
+          "mask_sha256": "66fd8884e9008d765aef1a437bbe77502722094995ac23fe78cf08c755159369",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\036.png",
+          "source_background_sha256": "dbc4f9a7ec025bb17c91f5af58861f41eec0249d77a755a3a9be601428506060"
+        },
+        {
+          "index": 37,
+          "image": "pose1/image/037.png",
+          "mask": "pose1/mask/037.png",
+          "image_sha256": "2b9be02c938512da5a432e517a1fe38407b8ed6decbbaebf378fbab1b65d7e0c",
+          "mask_sha256": "f60c1808a5959ac82a659d0cc3b3e99bb4ec828e38c2d4aafbf203451ab1a1bc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\037.png",
+          "source_background_sha256": "2b9be02c938512da5a432e517a1fe38407b8ed6decbbaebf378fbab1b65d7e0c"
+        },
+        {
+          "index": 38,
+          "image": "pose1/image/038.png",
+          "mask": "pose1/mask/038.png",
+          "image_sha256": "f11a82e1dba766c408989df0f48c29f9b93f79430003f76859b328df1a7121cd",
+          "mask_sha256": "ec43a797b9d90a98fa8c0d65f4b4022adb9ec7cb45d1fceb1fc51ebfafad9af1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\038.png",
+          "source_background_sha256": "f11a82e1dba766c408989df0f48c29f9b93f79430003f76859b328df1a7121cd"
+        },
+        {
+          "index": 39,
+          "image": "pose1/image/039.png",
+          "mask": "pose1/mask/039.png",
+          "image_sha256": "167a57f4726f0ddeaa159d1217e49947e2525436870d1ff2c0636ba609e40e91",
+          "mask_sha256": "6a373a9476797a28a8c77146752815ee62b8701c536b3f38b8c063499385cc96",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose1\\image\\039.png",
+          "source_background_sha256": "167a57f4726f0ddeaa159d1217e49947e2525436870d1ff2c0636ba609e40e91"
+        }
+      ],
+      "dimensions": {
+        "800x800 RGB": 40
+      }
+    },
+    {
+      "pose": 2,
+      "image_count": 40,
+      "background_image_count": 40,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image",
+      "camera_sha256": "a1ce25b3eb6ba912c68d34450ea250b2c4792e4d156a1e673aad5924443490ac",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose2/image/000.png",
+          "mask": "pose2/mask/000.png",
+          "image_sha256": "ec98670d2bcabe7f1cc9cbb523fb8d941b5cd0225b66c7edbc28457269bc56f5",
+          "mask_sha256": "249e02acd62b9b9c6b48363c2ea9b091aa6a7c12e989ffb96e23cce61e238172",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\000.png",
+          "source_background_sha256": "ec98670d2bcabe7f1cc9cbb523fb8d941b5cd0225b66c7edbc28457269bc56f5"
+        },
+        {
+          "index": 1,
+          "image": "pose2/image/001.png",
+          "mask": "pose2/mask/001.png",
+          "image_sha256": "981ce87047930d0c3594288b92ad5623a6b677b1e70d7545db56ba0097d20693",
+          "mask_sha256": "492d498d542870b7c1c5696ed8e47a3758dd14dc9f3d07ac52bdef2cce7ba6ed",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\001.png",
+          "source_background_sha256": "981ce87047930d0c3594288b92ad5623a6b677b1e70d7545db56ba0097d20693"
+        },
+        {
+          "index": 2,
+          "image": "pose2/image/002.png",
+          "mask": "pose2/mask/002.png",
+          "image_sha256": "66d5e655965a5d408af997626758b10fbb40971ff05a0e3e3706804b85cea9ee",
+          "mask_sha256": "d4a518d50befc8105f116d736db70de9559b15cecb8c4a8b93c040d272efc339",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\002.png",
+          "source_background_sha256": "66d5e655965a5d408af997626758b10fbb40971ff05a0e3e3706804b85cea9ee"
+        },
+        {
+          "index": 3,
+          "image": "pose2/image/003.png",
+          "mask": "pose2/mask/003.png",
+          "image_sha256": "45698b7213b485f481706f4885a27ff3b29e2c245cae23d9de7f85a81487d067",
+          "mask_sha256": "189481e578cdaf2c114dedc9fe8cf71f5aa4f7ee71b95a05582554dc155e6bec",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\003.png",
+          "source_background_sha256": "45698b7213b485f481706f4885a27ff3b29e2c245cae23d9de7f85a81487d067"
+        },
+        {
+          "index": 4,
+          "image": "pose2/image/004.png",
+          "mask": "pose2/mask/004.png",
+          "image_sha256": "4e8c8f607c70dd2795a52af0dbe20532169e967b364f5bd899bbb67719c676f7",
+          "mask_sha256": "39a5c29f27957dd173654aca2a7066f94fa3fe709bb2888e5498a89803fd0466",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\004.png",
+          "source_background_sha256": "4e8c8f607c70dd2795a52af0dbe20532169e967b364f5bd899bbb67719c676f7"
+        },
+        {
+          "index": 5,
+          "image": "pose2/image/005.png",
+          "mask": "pose2/mask/005.png",
+          "image_sha256": "446e1b4f713fd2fb6ff8dc3628facf409e69910612869ad97934a6a66d4c738e",
+          "mask_sha256": "eb0b91f85c8ce7657a9f209eba2c473bbb954347504c78da6ec98134b351bab1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\005.png",
+          "source_background_sha256": "446e1b4f713fd2fb6ff8dc3628facf409e69910612869ad97934a6a66d4c738e"
+        },
+        {
+          "index": 6,
+          "image": "pose2/image/006.png",
+          "mask": "pose2/mask/006.png",
+          "image_sha256": "d80ba90173aa75f33088c14578b2ad0dae59d82e1e3ad9d9ced3b350fb520181",
+          "mask_sha256": "5d9f6b34af20ecca72c113bb6f68f01996cdb36a88494985bd597dad3f1b30dc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\006.png",
+          "source_background_sha256": "d80ba90173aa75f33088c14578b2ad0dae59d82e1e3ad9d9ced3b350fb520181"
+        },
+        {
+          "index": 7,
+          "image": "pose2/image/007.png",
+          "mask": "pose2/mask/007.png",
+          "image_sha256": "6fa7471922110da50579b33f46e3c4838b703a338cfaff4358f57d93eea8ed31",
+          "mask_sha256": "e49847bf2fe34ff3e454e88d654a72badbb3cdf588870ac61618aab31678d735",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\007.png",
+          "source_background_sha256": "6fa7471922110da50579b33f46e3c4838b703a338cfaff4358f57d93eea8ed31"
+        },
+        {
+          "index": 8,
+          "image": "pose2/image/008.png",
+          "mask": "pose2/mask/008.png",
+          "image_sha256": "9917c365f1e63a7da1e8046a0ad73eef49feeaeedf1343dbaea50d4d1703340b",
+          "mask_sha256": "d63df8c8f91b73c4dc3c881a0e0c9fc742fa361e8f1287de471d91b42b686eb9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\008.png",
+          "source_background_sha256": "9917c365f1e63a7da1e8046a0ad73eef49feeaeedf1343dbaea50d4d1703340b"
+        },
+        {
+          "index": 9,
+          "image": "pose2/image/009.png",
+          "mask": "pose2/mask/009.png",
+          "image_sha256": "d580c8353a8c19305874e8d2166be3c8e10908227f2ba873d50cbd5022b2584b",
+          "mask_sha256": "b0cee61bb6d20635de9039218ad45c2de2b4bc21a1647f727361e18ace593dac",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\009.png",
+          "source_background_sha256": "d580c8353a8c19305874e8d2166be3c8e10908227f2ba873d50cbd5022b2584b"
+        },
+        {
+          "index": 10,
+          "image": "pose2/image/010.png",
+          "mask": "pose2/mask/010.png",
+          "image_sha256": "540348607a3b570017e6d0b3d51feec19cfc27167cbf82d96e903fd281b45afc",
+          "mask_sha256": "85c5f020f779210bb4dd8b0b204fb4364f0b11ad109d031623c2ce49fc0cb081",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\010.png",
+          "source_background_sha256": "540348607a3b570017e6d0b3d51feec19cfc27167cbf82d96e903fd281b45afc"
+        },
+        {
+          "index": 11,
+          "image": "pose2/image/011.png",
+          "mask": "pose2/mask/011.png",
+          "image_sha256": "30f9084b0ac3ca1b12c630f1cb210ca0226530fa13a92197cffa9b0c9857f1ae",
+          "mask_sha256": "b31871c3fce639f6c7fd01d58055aa90b06b720207c9698e38586ee74603b9fe",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\011.png",
+          "source_background_sha256": "30f9084b0ac3ca1b12c630f1cb210ca0226530fa13a92197cffa9b0c9857f1ae"
+        },
+        {
+          "index": 12,
+          "image": "pose2/image/012.png",
+          "mask": "pose2/mask/012.png",
+          "image_sha256": "4f6a6c32f1c9c2405b796f244bb08aab0a306aba8824658155657f4952e6cc5f",
+          "mask_sha256": "12ff759a4d5658d2f8e59b810965a290a7acdc6c0c89f5fecc98b7bf409992d6",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\012.png",
+          "source_background_sha256": "4f6a6c32f1c9c2405b796f244bb08aab0a306aba8824658155657f4952e6cc5f"
+        },
+        {
+          "index": 13,
+          "image": "pose2/image/013.png",
+          "mask": "pose2/mask/013.png",
+          "image_sha256": "c67e0a0bdf9f50f4d1d158f03c5eda48db7c9862ed047445add66bfd52749bae",
+          "mask_sha256": "43170c40fb25e27d55b9a7db46a8f19cbd7bd2ac78e9ea309816e3715df294a2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\013.png",
+          "source_background_sha256": "c67e0a0bdf9f50f4d1d158f03c5eda48db7c9862ed047445add66bfd52749bae"
+        },
+        {
+          "index": 14,
+          "image": "pose2/image/014.png",
+          "mask": "pose2/mask/014.png",
+          "image_sha256": "5ab8863a48e53d2451bc8e0a17510669554220f429a4646912ee05905010998c",
+          "mask_sha256": "da4a9d356bcc2d1b4fe7e4efeabd0dd5be7a7f79b9c1588eeef4891889db89f1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\014.png",
+          "source_background_sha256": "5ab8863a48e53d2451bc8e0a17510669554220f429a4646912ee05905010998c"
+        },
+        {
+          "index": 15,
+          "image": "pose2/image/015.png",
+          "mask": "pose2/mask/015.png",
+          "image_sha256": "ebe84b2a5653aa0324708c4ea61eaac6fc01e6a1ecc190016dfe561ba77bc541",
+          "mask_sha256": "9feeb9f49bb95f3619aae9ea401b4b5a476485dacf9e026e372d82ab87334843",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\015.png",
+          "source_background_sha256": "ebe84b2a5653aa0324708c4ea61eaac6fc01e6a1ecc190016dfe561ba77bc541"
+        },
+        {
+          "index": 16,
+          "image": "pose2/image/016.png",
+          "mask": "pose2/mask/016.png",
+          "image_sha256": "6e7b408d21467b4d8e77e3b8c3f9ab9f96b48554769cbad924e85b395cd31763",
+          "mask_sha256": "11d0232478fe3e888cd5ff0454d376172d453975947510b6f313cd0529bb993d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\016.png",
+          "source_background_sha256": "6e7b408d21467b4d8e77e3b8c3f9ab9f96b48554769cbad924e85b395cd31763"
+        },
+        {
+          "index": 17,
+          "image": "pose2/image/017.png",
+          "mask": "pose2/mask/017.png",
+          "image_sha256": "44c53ece625792dbb4a5105621e28f1131ce341ab18ce2d8aefd09673dc4e4d9",
+          "mask_sha256": "15d6668614ba39d3105d67123f1d81d4ea7f5c4893fb8f6ae80978b19ec7d1a2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\017.png",
+          "source_background_sha256": "44c53ece625792dbb4a5105621e28f1131ce341ab18ce2d8aefd09673dc4e4d9"
+        },
+        {
+          "index": 18,
+          "image": "pose2/image/018.png",
+          "mask": "pose2/mask/018.png",
+          "image_sha256": "35985b281911e33d673f5b5bd9e3ee83cb3d271d7f0a00e87c954d49dcbc3d36",
+          "mask_sha256": "c2389d3e5cab1e1689b8f516b747d572e330681fbe97e67f1bca6072f63c32aa",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\018.png",
+          "source_background_sha256": "35985b281911e33d673f5b5bd9e3ee83cb3d271d7f0a00e87c954d49dcbc3d36"
+        },
+        {
+          "index": 19,
+          "image": "pose2/image/019.png",
+          "mask": "pose2/mask/019.png",
+          "image_sha256": "b3123523338c45057739ed072e527c63e615a04b9cb91d1dda652d57b2ff72bc",
+          "mask_sha256": "59362d10dfa11c3c8f23121c95233e5aeb9c23c09afa850f666385d1294a429f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\019.png",
+          "source_background_sha256": "b3123523338c45057739ed072e527c63e615a04b9cb91d1dda652d57b2ff72bc"
+        },
+        {
+          "index": 20,
+          "image": "pose2/image/020.png",
+          "mask": "pose2/mask/020.png",
+          "image_sha256": "5104372a1cb4ac27423b706498daccf14fd765d7382408e8c70f2b04d9eebd1a",
+          "mask_sha256": "59ff6996aa6c2ae373a261bb3116754d31ab00bd4ca403b5285ab2f7247dee41",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\020.png",
+          "source_background_sha256": "5104372a1cb4ac27423b706498daccf14fd765d7382408e8c70f2b04d9eebd1a"
+        },
+        {
+          "index": 21,
+          "image": "pose2/image/021.png",
+          "mask": "pose2/mask/021.png",
+          "image_sha256": "95def36c3c7b62584692cfd7751fa78fa0e806195a30c96c2635ffdc5864b671",
+          "mask_sha256": "82671070fd6433ad1e8d012ec60e6b89e6e722dc65bf24866c9fe0ecf563563f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\021.png",
+          "source_background_sha256": "95def36c3c7b62584692cfd7751fa78fa0e806195a30c96c2635ffdc5864b671"
+        },
+        {
+          "index": 22,
+          "image": "pose2/image/022.png",
+          "mask": "pose2/mask/022.png",
+          "image_sha256": "fc682dd8ef308098e303d415a3813c8d1f82689c2ba4255e1d4eb42899e12c0c",
+          "mask_sha256": "c8359cef0b09dd888f9ab9c6392640112750ed118c121b2cd13cbc6c1812317c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\022.png",
+          "source_background_sha256": "fc682dd8ef308098e303d415a3813c8d1f82689c2ba4255e1d4eb42899e12c0c"
+        },
+        {
+          "index": 23,
+          "image": "pose2/image/023.png",
+          "mask": "pose2/mask/023.png",
+          "image_sha256": "439f0edd9101f7a5ee425edc9564cc65492406010f2c246c3b2f3a14d49f211e",
+          "mask_sha256": "e3b1f9e58df67210a206d8798755196159e35265b0299c529d1d99754f952e16",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\023.png",
+          "source_background_sha256": "439f0edd9101f7a5ee425edc9564cc65492406010f2c246c3b2f3a14d49f211e"
+        },
+        {
+          "index": 24,
+          "image": "pose2/image/024.png",
+          "mask": "pose2/mask/024.png",
+          "image_sha256": "c0057c9e82a497c1094ea6ceadf86a09ccea54e1dab4b4c435f37d15617aa947",
+          "mask_sha256": "8e89bf07ea2767609c89ce1b2c302809f0b7c074b52dca166b319f3883d43037",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\024.png",
+          "source_background_sha256": "c0057c9e82a497c1094ea6ceadf86a09ccea54e1dab4b4c435f37d15617aa947"
+        },
+        {
+          "index": 25,
+          "image": "pose2/image/025.png",
+          "mask": "pose2/mask/025.png",
+          "image_sha256": "1af9f37f6034e2a4bed37f58b9c0dd7911a398c35b7c4e94bd6d38b0e966b783",
+          "mask_sha256": "eed254863b762e4ffa7a03724ae731f451f069a5126541662161bf3dfe1106fa",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\025.png",
+          "source_background_sha256": "1af9f37f6034e2a4bed37f58b9c0dd7911a398c35b7c4e94bd6d38b0e966b783"
+        },
+        {
+          "index": 26,
+          "image": "pose2/image/026.png",
+          "mask": "pose2/mask/026.png",
+          "image_sha256": "2e74be663b5f281c5c010f4f68f9e7e3fb26d8c88d4c9513fda0e9b33009cbb4",
+          "mask_sha256": "3a790f06ae83d978e5f1d8505e99d768333a794da071491c484ab54ace479e0e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\026.png",
+          "source_background_sha256": "2e74be663b5f281c5c010f4f68f9e7e3fb26d8c88d4c9513fda0e9b33009cbb4"
+        },
+        {
+          "index": 27,
+          "image": "pose2/image/027.png",
+          "mask": "pose2/mask/027.png",
+          "image_sha256": "79a25eab832dd3930deebd0006a97c77864a3d593e3b282ae9184b14fcd48c38",
+          "mask_sha256": "e4e2f8136f791fb2e3e286f474fbabe8a59b80b9dd6cf32fe871183ff1003ca2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\027.png",
+          "source_background_sha256": "79a25eab832dd3930deebd0006a97c77864a3d593e3b282ae9184b14fcd48c38"
+        },
+        {
+          "index": 28,
+          "image": "pose2/image/028.png",
+          "mask": "pose2/mask/028.png",
+          "image_sha256": "d746f37cdd90f77a4285e2d707ab6648a052e6f2fc2c9a5f4f4da25040bc2a2a",
+          "mask_sha256": "a9f86d9fb5157167c1548e09227ecebb532c6a13fd89d94203c6d8d2a913082f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\028.png",
+          "source_background_sha256": "d746f37cdd90f77a4285e2d707ab6648a052e6f2fc2c9a5f4f4da25040bc2a2a"
+        },
+        {
+          "index": 29,
+          "image": "pose2/image/029.png",
+          "mask": "pose2/mask/029.png",
+          "image_sha256": "80401b3fdae57d68eb5feb1c5ef5227f8d8e9374a67a65dbf291624ddfba5949",
+          "mask_sha256": "d8440f00bcfb48db1b155de290d1272a6d58b0f2851878a6d05990d0cd385811",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\029.png",
+          "source_background_sha256": "80401b3fdae57d68eb5feb1c5ef5227f8d8e9374a67a65dbf291624ddfba5949"
+        },
+        {
+          "index": 30,
+          "image": "pose2/image/030.png",
+          "mask": "pose2/mask/030.png",
+          "image_sha256": "cce95931fb67178d9e361b9bd623e86195ba419218e286536d016dae7c994a7c",
+          "mask_sha256": "31eb54b35b883f97c4cd8b08d1c63678ce0d258d6ef302aa1ed07f89c8ec3d77",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\030.png",
+          "source_background_sha256": "cce95931fb67178d9e361b9bd623e86195ba419218e286536d016dae7c994a7c"
+        },
+        {
+          "index": 31,
+          "image": "pose2/image/031.png",
+          "mask": "pose2/mask/031.png",
+          "image_sha256": "594992594dcdee4f7c103b0ece39acca5541bfc127916107819e38e745bdf69b",
+          "mask_sha256": "58fd8d04c94b2f2fb197a93b4d084cece2eedffc38a9fd45b2a0321da20efbc0",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\031.png",
+          "source_background_sha256": "594992594dcdee4f7c103b0ece39acca5541bfc127916107819e38e745bdf69b"
+        },
+        {
+          "index": 32,
+          "image": "pose2/image/032.png",
+          "mask": "pose2/mask/032.png",
+          "image_sha256": "252ce838383fd8a3e033aa2f52f703ba95537015daefda4db3c1039177399dba",
+          "mask_sha256": "78a06b885d7d947e9127f61f6cdb810a9bfa0da7b15aa6f4ed1fec4172549b85",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\032.png",
+          "source_background_sha256": "252ce838383fd8a3e033aa2f52f703ba95537015daefda4db3c1039177399dba"
+        },
+        {
+          "index": 33,
+          "image": "pose2/image/033.png",
+          "mask": "pose2/mask/033.png",
+          "image_sha256": "5f4dc7032d646e59954db2ab5ac56c4fd8fd08df66d9608f8f088cb1813bdfa1",
+          "mask_sha256": "471143c003fe721a412a188c96ed66718af5d4b473ccac1164a9e10b6aa1bfd8",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\033.png",
+          "source_background_sha256": "5f4dc7032d646e59954db2ab5ac56c4fd8fd08df66d9608f8f088cb1813bdfa1"
+        },
+        {
+          "index": 34,
+          "image": "pose2/image/034.png",
+          "mask": "pose2/mask/034.png",
+          "image_sha256": "ad9b829025e1530cbcaae22117b74dbbbdb8ce197ff32390822a6421ccd4f30e",
+          "mask_sha256": "95da89269477ee338cfd360ac4796aca5ad614c42710f58472d757a7839296ca",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\034.png",
+          "source_background_sha256": "ad9b829025e1530cbcaae22117b74dbbbdb8ce197ff32390822a6421ccd4f30e"
+        },
+        {
+          "index": 35,
+          "image": "pose2/image/035.png",
+          "mask": "pose2/mask/035.png",
+          "image_sha256": "d21564a1c6b2cce17d0e8e3012aeff31d09e271a97fc75ff37aef1c738d8e3b7",
+          "mask_sha256": "ae8a9fc17816c92369499e86e5d7f5ac76a83808f2abfae87b278821bbde13e5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\035.png",
+          "source_background_sha256": "d21564a1c6b2cce17d0e8e3012aeff31d09e271a97fc75ff37aef1c738d8e3b7"
+        },
+        {
+          "index": 36,
+          "image": "pose2/image/036.png",
+          "mask": "pose2/mask/036.png",
+          "image_sha256": "2e1650e9cf8c71a711579670c49b0b7449103c95c455ef3a02539b098556d544",
+          "mask_sha256": "68c27e9f567944eb8fe35fda39779ee17bf101a5b9e9e12b2eb0532c2121e0fa",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\036.png",
+          "source_background_sha256": "2e1650e9cf8c71a711579670c49b0b7449103c95c455ef3a02539b098556d544"
+        },
+        {
+          "index": 37,
+          "image": "pose2/image/037.png",
+          "mask": "pose2/mask/037.png",
+          "image_sha256": "11c494febb132caccf4d445458ddd7ddb810c3e544e2daeda63489be6396c534",
+          "mask_sha256": "c687b35bd30e364580ae9ac2f9930b96a904f9265e8f5afa5385d40d5b952022",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\037.png",
+          "source_background_sha256": "11c494febb132caccf4d445458ddd7ddb810c3e544e2daeda63489be6396c534"
+        },
+        {
+          "index": 38,
+          "image": "pose2/image/038.png",
+          "mask": "pose2/mask/038.png",
+          "image_sha256": "a4bc2028a1bd7b656c839e252d89aef347cfc6b5f5e0b75a88de5ff9ca06b898",
+          "mask_sha256": "ac3f3218d381dff4df9d92a882f09592b6704a308ed07165c2857e5162c07512",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\038.png",
+          "source_background_sha256": "a4bc2028a1bd7b656c839e252d89aef347cfc6b5f5e0b75a88de5ff9ca06b898"
+        },
+        {
+          "index": 39,
+          "image": "pose2/image/039.png",
+          "mask": "pose2/mask/039.png",
+          "image_sha256": "5577570b6a5252615ee806faa9cd1de55be253210f1e2c0773a569294bc87c36",
+          "mask_sha256": "2c70f319670f3f7367289e59739cc3820d1ccec4b0eed1afa5e33778819d3785",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose2\\image\\039.png",
+          "source_background_sha256": "5577570b6a5252615ee806faa9cd1de55be253210f1e2c0773a569294bc87c36"
+        }
+      ],
+      "dimensions": {
+        "800x800 RGB": 40
+      }
+    },
+    {
+      "pose": 3,
+      "image_count": 40,
+      "background_image_count": 40,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image",
+      "camera_sha256": "0d02192558bd30c93e2ff4db333023bbec8952f54ede6268134d96a15e860e94",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose3/image/000.png",
+          "mask": "pose3/mask/000.png",
+          "image_sha256": "2bb694f4067f30bf5de8033716c901fb938a320736cd9fafcdb50c91317039eb",
+          "mask_sha256": "aed6be2a11224af3d735dd4f947f00e5c8d72e8cc5ff81ae01823ceeff5a62bf",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\000.png",
+          "source_background_sha256": "2bb694f4067f30bf5de8033716c901fb938a320736cd9fafcdb50c91317039eb"
+        },
+        {
+          "index": 1,
+          "image": "pose3/image/001.png",
+          "mask": "pose3/mask/001.png",
+          "image_sha256": "b6502637642ad640c1bb214a2696a2cd28c8953272a109190eb7189e8abf1a31",
+          "mask_sha256": "da816e7ce92d4c2574370f105b7fde4560d55e4ec3ff13e43dc8f38b45d6dcdb",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\001.png",
+          "source_background_sha256": "b6502637642ad640c1bb214a2696a2cd28c8953272a109190eb7189e8abf1a31"
+        },
+        {
+          "index": 2,
+          "image": "pose3/image/002.png",
+          "mask": "pose3/mask/002.png",
+          "image_sha256": "200908389022319e51d5c4135f3850ec91a73745a77d4a1368e759841b545eaa",
+          "mask_sha256": "d1e23cf0b95352ed7d0bad7179f6e366ac09d54ca2d5a550ebfb0909dca79d26",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\002.png",
+          "source_background_sha256": "200908389022319e51d5c4135f3850ec91a73745a77d4a1368e759841b545eaa"
+        },
+        {
+          "index": 3,
+          "image": "pose3/image/003.png",
+          "mask": "pose3/mask/003.png",
+          "image_sha256": "83d941aaaf7600edcd9ce680e671d167b6c51c6b042e8dca2ca377248047adf8",
+          "mask_sha256": "f81f4c9e053227498ee5f8ee2850b70155f82578dd3183b0788e8ebca54d39b2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\003.png",
+          "source_background_sha256": "83d941aaaf7600edcd9ce680e671d167b6c51c6b042e8dca2ca377248047adf8"
+        },
+        {
+          "index": 4,
+          "image": "pose3/image/004.png",
+          "mask": "pose3/mask/004.png",
+          "image_sha256": "60ba56c04b7cc88087b9ba007fddb5e81c91346ab219b34c481088e955116328",
+          "mask_sha256": "ea3a0aa54f433017bdf31fe8a064ccaf9550b78b7ac14ebff755447c3975e4cc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\004.png",
+          "source_background_sha256": "60ba56c04b7cc88087b9ba007fddb5e81c91346ab219b34c481088e955116328"
+        },
+        {
+          "index": 5,
+          "image": "pose3/image/005.png",
+          "mask": "pose3/mask/005.png",
+          "image_sha256": "7e637ab0e7889a7a37209c7d866dc2397fe5dc509dd4d5b4e5d821750ed453df",
+          "mask_sha256": "e3e988021d14f3112daafa5a4a5607714e4976f460a0354bb469cfa982d50073",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\005.png",
+          "source_background_sha256": "7e637ab0e7889a7a37209c7d866dc2397fe5dc509dd4d5b4e5d821750ed453df"
+        },
+        {
+          "index": 6,
+          "image": "pose3/image/006.png",
+          "mask": "pose3/mask/006.png",
+          "image_sha256": "87784c87ff7ca583387a578eda9a8068f64e4bcd8aa5d6e7a518346913b5965a",
+          "mask_sha256": "5a4b0165d464f28c9dec560304f2af492e5cd01be3593db3e0303db756f000fc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\006.png",
+          "source_background_sha256": "87784c87ff7ca583387a578eda9a8068f64e4bcd8aa5d6e7a518346913b5965a"
+        },
+        {
+          "index": 7,
+          "image": "pose3/image/007.png",
+          "mask": "pose3/mask/007.png",
+          "image_sha256": "8b434b8152a1f79fd92f9ca8a673165f87d1558cfb64874f67765f5e54c6f3c5",
+          "mask_sha256": "4f1e875b1734e79025ea8ee06fdaa8900fc848a5b611bb21a682cbc2b52b12a5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\007.png",
+          "source_background_sha256": "8b434b8152a1f79fd92f9ca8a673165f87d1558cfb64874f67765f5e54c6f3c5"
+        },
+        {
+          "index": 8,
+          "image": "pose3/image/008.png",
+          "mask": "pose3/mask/008.png",
+          "image_sha256": "5167a4f017123e0970f78ba3e6b50b83bc037cbec2fa978ee05333429af145f1",
+          "mask_sha256": "63f774f76236822e64056cce1a37cd46a0f66e929e99e3fd92432fabc010908d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\008.png",
+          "source_background_sha256": "5167a4f017123e0970f78ba3e6b50b83bc037cbec2fa978ee05333429af145f1"
+        },
+        {
+          "index": 9,
+          "image": "pose3/image/009.png",
+          "mask": "pose3/mask/009.png",
+          "image_sha256": "7d4462014cd4975814d035c55c6b82dc3d7761825360cfe89eab485c4464ac03",
+          "mask_sha256": "5a5e841dd77e987596a90445cac9a88882eea7dcf9e65ced529c0c8270221b8a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\009.png",
+          "source_background_sha256": "7d4462014cd4975814d035c55c6b82dc3d7761825360cfe89eab485c4464ac03"
+        },
+        {
+          "index": 10,
+          "image": "pose3/image/010.png",
+          "mask": "pose3/mask/010.png",
+          "image_sha256": "b013d120fc79eca254b1e8a1d4ed0763ebd939cba00e9fa7d093956a79f8fc50",
+          "mask_sha256": "3f981c086211bdacb6b2b762cfa419e98417610d9040b65a988f1c6ddadee68e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\010.png",
+          "source_background_sha256": "b013d120fc79eca254b1e8a1d4ed0763ebd939cba00e9fa7d093956a79f8fc50"
+        },
+        {
+          "index": 11,
+          "image": "pose3/image/011.png",
+          "mask": "pose3/mask/011.png",
+          "image_sha256": "b837f660fac57d0c71765df8b1798c49c13afed32553b3d5300fb342392c9957",
+          "mask_sha256": "50c570401285e81c107809116a91f540684a6eb7db8860c14b935b166c8ac49b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\011.png",
+          "source_background_sha256": "b837f660fac57d0c71765df8b1798c49c13afed32553b3d5300fb342392c9957"
+        },
+        {
+          "index": 12,
+          "image": "pose3/image/012.png",
+          "mask": "pose3/mask/012.png",
+          "image_sha256": "b511f99851de19b422b43e040f8d7b674ae1521aa6320610d26dbb897f3c564d",
+          "mask_sha256": "cbbef401bfe8fdcc575705eaed2953a16e7833e46edb752adfbb1924b9e11777",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\012.png",
+          "source_background_sha256": "b511f99851de19b422b43e040f8d7b674ae1521aa6320610d26dbb897f3c564d"
+        },
+        {
+          "index": 13,
+          "image": "pose3/image/013.png",
+          "mask": "pose3/mask/013.png",
+          "image_sha256": "76c87bcd0cfc2cfbddadd55dfe5d15a86728aadf9adb952da7c8f21667226062",
+          "mask_sha256": "015a282799f792293217c3d6f22d13926a5fdee808c33bcd46db6c7c7ffaeac5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\013.png",
+          "source_background_sha256": "76c87bcd0cfc2cfbddadd55dfe5d15a86728aadf9adb952da7c8f21667226062"
+        },
+        {
+          "index": 14,
+          "image": "pose3/image/014.png",
+          "mask": "pose3/mask/014.png",
+          "image_sha256": "76f3de900135ce528741e0af5b90d6888e63ad0f375511755c10b4f1573d3a41",
+          "mask_sha256": "f8f3222c0320dc74bd6431c9db9a127b8e11d17173d5aa35b30c4c5f8e72855b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\014.png",
+          "source_background_sha256": "76f3de900135ce528741e0af5b90d6888e63ad0f375511755c10b4f1573d3a41"
+        },
+        {
+          "index": 15,
+          "image": "pose3/image/015.png",
+          "mask": "pose3/mask/015.png",
+          "image_sha256": "c3bd134276b67445959e2232163edf53d21f03c662827cf8bc3fad6f6c5f73a7",
+          "mask_sha256": "6af1cab3928ce64c7b11f74b692b5ec4def4d1c2ebf80bd65cd6b80c7f1650ab",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\015.png",
+          "source_background_sha256": "c3bd134276b67445959e2232163edf53d21f03c662827cf8bc3fad6f6c5f73a7"
+        },
+        {
+          "index": 16,
+          "image": "pose3/image/016.png",
+          "mask": "pose3/mask/016.png",
+          "image_sha256": "027102a1d3c8bf856313e98bcb05bb682849e6cc71a976a16f6a2b68618f7766",
+          "mask_sha256": "492b9a8df0c0b300cb682fa233e5165b77b7df98512ee839b019f6ef712067dd",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\016.png",
+          "source_background_sha256": "027102a1d3c8bf856313e98bcb05bb682849e6cc71a976a16f6a2b68618f7766"
+        },
+        {
+          "index": 17,
+          "image": "pose3/image/017.png",
+          "mask": "pose3/mask/017.png",
+          "image_sha256": "f170ca3673e1a764b290cba9f0cc23c93a02b33babab92c8123842fcafbbd601",
+          "mask_sha256": "d2bb6913e97d05d1b8304c52e4b0ca8aa1233d8cba34b435b95dfa7ecda00c83",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\017.png",
+          "source_background_sha256": "f170ca3673e1a764b290cba9f0cc23c93a02b33babab92c8123842fcafbbd601"
+        },
+        {
+          "index": 18,
+          "image": "pose3/image/018.png",
+          "mask": "pose3/mask/018.png",
+          "image_sha256": "e159bf66c2aba4a6fbe16b1a163dc7f084cc92eddc6a4dc395dde0ba576938a2",
+          "mask_sha256": "462592bd24fdb2b76225468a0ee5588a6f9c35c613c1f9e7a986124551c0977c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\018.png",
+          "source_background_sha256": "e159bf66c2aba4a6fbe16b1a163dc7f084cc92eddc6a4dc395dde0ba576938a2"
+        },
+        {
+          "index": 19,
+          "image": "pose3/image/019.png",
+          "mask": "pose3/mask/019.png",
+          "image_sha256": "2a046036cf961fe23f21eb2e7b81d39110ed8da0a171ec842ead2429d0e2b913",
+          "mask_sha256": "700997b36abfaa8823d30401a4ab9e0e9c17dc97bd4892c29392f8bfac6038b7",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\019.png",
+          "source_background_sha256": "2a046036cf961fe23f21eb2e7b81d39110ed8da0a171ec842ead2429d0e2b913"
+        },
+        {
+          "index": 20,
+          "image": "pose3/image/020.png",
+          "mask": "pose3/mask/020.png",
+          "image_sha256": "09bda9d220288057f1bdbcd6ac5d24936e4a223160e356f1bf527011b4918b3e",
+          "mask_sha256": "71d8653c4b74c1d80a0ebf886348c81da22e43b75c14d12ee3e8d63be7b5e761",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\020.png",
+          "source_background_sha256": "09bda9d220288057f1bdbcd6ac5d24936e4a223160e356f1bf527011b4918b3e"
+        },
+        {
+          "index": 21,
+          "image": "pose3/image/021.png",
+          "mask": "pose3/mask/021.png",
+          "image_sha256": "2f0485fcb441b34f952b1e10c648f6a697aa8be0035ff7522c3a2b72687c2c3a",
+          "mask_sha256": "7ee8dbbb20f468cd00aa7f8cd33ddc554f96557172c4df4639e1219a685eae2c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\021.png",
+          "source_background_sha256": "2f0485fcb441b34f952b1e10c648f6a697aa8be0035ff7522c3a2b72687c2c3a"
+        },
+        {
+          "index": 22,
+          "image": "pose3/image/022.png",
+          "mask": "pose3/mask/022.png",
+          "image_sha256": "b8ae10cd002d90a95af976594e0d4c7cdd707f7e9d9c30f70b54ededd0503840",
+          "mask_sha256": "46acc0b1ec9d502bb782b73805742b1945624730f9afd953b2adac704be60003",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\022.png",
+          "source_background_sha256": "b8ae10cd002d90a95af976594e0d4c7cdd707f7e9d9c30f70b54ededd0503840"
+        },
+        {
+          "index": 23,
+          "image": "pose3/image/023.png",
+          "mask": "pose3/mask/023.png",
+          "image_sha256": "849e7d74eb8b1cf41eb26691f60218f9ff8307a3c3bfe21437e149444b7392c0",
+          "mask_sha256": "347cb193242c028c6e47a32526f0a7562c49f0a7c37a00729d68b59c83f7e4ac",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\023.png",
+          "source_background_sha256": "849e7d74eb8b1cf41eb26691f60218f9ff8307a3c3bfe21437e149444b7392c0"
+        },
+        {
+          "index": 24,
+          "image": "pose3/image/024.png",
+          "mask": "pose3/mask/024.png",
+          "image_sha256": "63ae4c540fde5091f10ea9ef7084faa072450b835bf30c81adda4744e224555a",
+          "mask_sha256": "6fc709cfd5959bee4d1bedc40981e59f14580d5303ef75280e10098dd660216f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\024.png",
+          "source_background_sha256": "63ae4c540fde5091f10ea9ef7084faa072450b835bf30c81adda4744e224555a"
+        },
+        {
+          "index": 25,
+          "image": "pose3/image/025.png",
+          "mask": "pose3/mask/025.png",
+          "image_sha256": "1d0217d8cb29ba88b92aa7f122450a60a0295774b8354788b4c3f1583238f1ad",
+          "mask_sha256": "ae8e036427f1daa2132ea04b1ea8e5917f2c351ba7064e4408edf5c7f3b484a5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\025.png",
+          "source_background_sha256": "1d0217d8cb29ba88b92aa7f122450a60a0295774b8354788b4c3f1583238f1ad"
+        },
+        {
+          "index": 26,
+          "image": "pose3/image/026.png",
+          "mask": "pose3/mask/026.png",
+          "image_sha256": "5093dd34e48a666db15409e26cf071a2f67a972eb7129efd1ab1667bd7d729ec",
+          "mask_sha256": "45f86dbf2e27aff5af4e65a667b1da89d6a1ae5d2891e13a7d2bddf7a8609a2b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\026.png",
+          "source_background_sha256": "5093dd34e48a666db15409e26cf071a2f67a972eb7129efd1ab1667bd7d729ec"
+        },
+        {
+          "index": 27,
+          "image": "pose3/image/027.png",
+          "mask": "pose3/mask/027.png",
+          "image_sha256": "58e349d4d4244c96320ee64a11518652d23b6696ffb1026bc197461eb8e2063d",
+          "mask_sha256": "4e7cf088fb7b50bc6af5368d3ff5be85fedd4d5793453c5e33262a42bc06073f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\027.png",
+          "source_background_sha256": "58e349d4d4244c96320ee64a11518652d23b6696ffb1026bc197461eb8e2063d"
+        },
+        {
+          "index": 28,
+          "image": "pose3/image/028.png",
+          "mask": "pose3/mask/028.png",
+          "image_sha256": "f8dfae7253edd570378af2c2a3e38426e931c47898126d626bdbc91a52db2fc8",
+          "mask_sha256": "1b12f821bdc266b7b53b42fb6efa06ccb3a84222457af2e6818cdacbb5ceff34",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\028.png",
+          "source_background_sha256": "f8dfae7253edd570378af2c2a3e38426e931c47898126d626bdbc91a52db2fc8"
+        },
+        {
+          "index": 29,
+          "image": "pose3/image/029.png",
+          "mask": "pose3/mask/029.png",
+          "image_sha256": "36e70952756335e2bcb1ba52c7e6f908ee2b58071b800766c89db1a53cb4ebfd",
+          "mask_sha256": "bef75a604b70eb80a0d3492fab23db1906ba1f884adc7340c2fd38067ac67693",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\029.png",
+          "source_background_sha256": "36e70952756335e2bcb1ba52c7e6f908ee2b58071b800766c89db1a53cb4ebfd"
+        },
+        {
+          "index": 30,
+          "image": "pose3/image/030.png",
+          "mask": "pose3/mask/030.png",
+          "image_sha256": "747b9b4c717132b9fed6ff35a7c29cbb3dde688b1350ac2325af8b22d7be7854",
+          "mask_sha256": "07d65eb3750c8270205a363322949b0a59a71e2235a1f4fce1c379467e7d8eb4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\030.png",
+          "source_background_sha256": "747b9b4c717132b9fed6ff35a7c29cbb3dde688b1350ac2325af8b22d7be7854"
+        },
+        {
+          "index": 31,
+          "image": "pose3/image/031.png",
+          "mask": "pose3/mask/031.png",
+          "image_sha256": "b626f518db7ce3847c509e0dcb498d3de6f3a5591409c058130b4c754e6a08cd",
+          "mask_sha256": "1fab4eb8ec9138739014c255628e8e562501d92d6d8cb3ee49264d3fb8898006",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\031.png",
+          "source_background_sha256": "b626f518db7ce3847c509e0dcb498d3de6f3a5591409c058130b4c754e6a08cd"
+        },
+        {
+          "index": 32,
+          "image": "pose3/image/032.png",
+          "mask": "pose3/mask/032.png",
+          "image_sha256": "5905c709c36a46daebb4315a801b4eb22bd1b5147c0c9029fca49e86d7d197eb",
+          "mask_sha256": "96b1c7d8cc11dcd5e5d96d21d3ef5fd3293fe13691fb279dcbebefc39ca4b82c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\032.png",
+          "source_background_sha256": "5905c709c36a46daebb4315a801b4eb22bd1b5147c0c9029fca49e86d7d197eb"
+        },
+        {
+          "index": 33,
+          "image": "pose3/image/033.png",
+          "mask": "pose3/mask/033.png",
+          "image_sha256": "a3181d9cd39f3616b4c7c2e6bc616cd82b03b028f01cf29634a36d6e32737b86",
+          "mask_sha256": "c7ae0478f64ae92862f7d3f775016032d779bd3a5da0b8150e5b9237fe472b46",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\033.png",
+          "source_background_sha256": "a3181d9cd39f3616b4c7c2e6bc616cd82b03b028f01cf29634a36d6e32737b86"
+        },
+        {
+          "index": 34,
+          "image": "pose3/image/034.png",
+          "mask": "pose3/mask/034.png",
+          "image_sha256": "a23a513651d8bce7dab32b41b448b666a9a622ca308b4a09767ce7f925754599",
+          "mask_sha256": "13440c1d5d232bcbd1f035d5f0ea22cf43659e33eded4e2de351088c5f4687a9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\034.png",
+          "source_background_sha256": "a23a513651d8bce7dab32b41b448b666a9a622ca308b4a09767ce7f925754599"
+        },
+        {
+          "index": 35,
+          "image": "pose3/image/035.png",
+          "mask": "pose3/mask/035.png",
+          "image_sha256": "5e1bc4b642ae26e223c429b1aac18f8ccb7abee02ef6fa9392c0b817ec03aa74",
+          "mask_sha256": "9ae0786dc5337aab235f3f2f57ce98d8cf027502578de44b29f97d7dc8d77ff4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\035.png",
+          "source_background_sha256": "5e1bc4b642ae26e223c429b1aac18f8ccb7abee02ef6fa9392c0b817ec03aa74"
+        },
+        {
+          "index": 36,
+          "image": "pose3/image/036.png",
+          "mask": "pose3/mask/036.png",
+          "image_sha256": "d1ff8b83bdd8253da9a004fef4a6c85a0011ae786e9b9bd29ae8a04aef90dee8",
+          "mask_sha256": "32c3ef57728b529729c79c9b0a2bd030301cedb2017dedf9cb2a6966f9f0b6fb",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\036.png",
+          "source_background_sha256": "d1ff8b83bdd8253da9a004fef4a6c85a0011ae786e9b9bd29ae8a04aef90dee8"
+        },
+        {
+          "index": 37,
+          "image": "pose3/image/037.png",
+          "mask": "pose3/mask/037.png",
+          "image_sha256": "847b9e0bd0eb33c5bde23716658acbbc3d2e923682e7afbfd1a05e7ae3256584",
+          "mask_sha256": "1362226469cf7e618f31af1877435f5e7aaaa014dd8b870368343a646f55dc43",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\037.png",
+          "source_background_sha256": "847b9e0bd0eb33c5bde23716658acbbc3d2e923682e7afbfd1a05e7ae3256584"
+        },
+        {
+          "index": 38,
+          "image": "pose3/image/038.png",
+          "mask": "pose3/mask/038.png",
+          "image_sha256": "f3326f6d1cef093c6f96184d562cdaa949a94af975c4be4c80350ab8226d68c8",
+          "mask_sha256": "0fc5e5b82aeb52dd101954c403672b7fdd5c00771ca092bf947b8dda41bf0c44",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\038.png",
+          "source_background_sha256": "f3326f6d1cef093c6f96184d562cdaa949a94af975c4be4c80350ab8226d68c8"
+        },
+        {
+          "index": 39,
+          "image": "pose3/image/039.png",
+          "mask": "pose3/mask/039.png",
+          "image_sha256": "8aac8c5c1fba5c3e7ac9bd771cbedf8bf58809a0e476e5ac859d2eb9f3399ae0",
+          "mask_sha256": "4e98ff06471aed156c358b8c221d9e4487e6f5f1ccc7867938892ca05d460c8d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\nikon\\pose3\\image\\039.png",
+          "source_background_sha256": "8aac8c5c1fba5c3e7ac9bd771cbedf8bf58809a0e476e5ac859d2eb9f3399ae0"
+        }
+      ],
+      "dimensions": {
+        "800x800 RGB": 40
+      }
+    }
+  ],
+  "dataset_version": "background_inputs_20260929",
+  "display_name": "Nikon",
+  "source_blend": "E:\\PoseFusionExp\\synthetic\\nikon\\nikon.blend",
+  "source_prefix": "_re_nikon",
+  "ground_truth": "gt/meshes/poseN.ply and gt/transforms.json; source geometry coordinates, no estimated alignment"
+}

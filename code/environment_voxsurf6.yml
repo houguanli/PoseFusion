@@ -1,0 +1,12 @@
+name: posefusion
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.21
+  - pip
+  - wheel
+  - setuptools=59.5.0
+  - gcc=10.4.0
+  - gxx=10.4.0
+  - cudatoolkit-dev=11.7.0
+# Install PyTorch, torch-scatter and requirements.txt in the order shown in README.

@@ -1,0 +1,1264 @@
+{
+  "case_id": "book",
+  "paper_label": "Book",
+  "domain": "synthetic",
+  "status": "complete_background",
+  "poses": [
+    {
+      "pose": 1,
+      "image_count": 45,
+      "background_image_count": 45,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image",
+      "camera_sha256": "580d46666c54a8ec839bb92c0b021c25310802b89215269a69dd76f7aa364b97",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose1/image/000.png",
+          "mask": "pose1/mask/000.png",
+          "image_sha256": "aee67f0e57d1dc7d954562641b1e8f5f20e8e0cfb06c2073941ebe8f826fa75e",
+          "mask_sha256": "db70b8dd51b338858853b24cb3b1e4acda8cec2b8870bec7d569cae4cafe1705",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\000.png",
+          "source_background_sha256": "aee67f0e57d1dc7d954562641b1e8f5f20e8e0cfb06c2073941ebe8f826fa75e"
+        },
+        {
+          "index": 1,
+          "image": "pose1/image/001.png",
+          "mask": "pose1/mask/001.png",
+          "image_sha256": "1e90a20bfc2901cbcc38b98822ed88668473be52f6cb558547cb929f3e23c8ed",
+          "mask_sha256": "ed74deb1397204d18b88517a316454298de5584dadf127fa8bb13553cb1127ca",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\001.png",
+          "source_background_sha256": "1e90a20bfc2901cbcc38b98822ed88668473be52f6cb558547cb929f3e23c8ed"
+        },
+        {
+          "index": 2,
+          "image": "pose1/image/002.png",
+          "mask": "pose1/mask/002.png",
+          "image_sha256": "5f2aa64e7611dc88fa694689703a51073c3e90e0330791a74f578bbb8310d49d",
+          "mask_sha256": "f2dd44f0801d358e7ed174c66aa1788131fd2c6d646a6ddf6e8a8ce17841a4a4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\002.png",
+          "source_background_sha256": "5f2aa64e7611dc88fa694689703a51073c3e90e0330791a74f578bbb8310d49d"
+        },
+        {
+          "index": 3,
+          "image": "pose1/image/003.png",
+          "mask": "pose1/mask/003.png",
+          "image_sha256": "43f5fd8ae3c39cf6dd7e4f7e88d55932597010d37645f5899efd7644b41bf225",
+          "mask_sha256": "dcc06d2a4a8727a71d9585692bbdffff89530260471b87defb46ebc851d87274",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\003.png",
+          "source_background_sha256": "43f5fd8ae3c39cf6dd7e4f7e88d55932597010d37645f5899efd7644b41bf225"
+        },
+        {
+          "index": 4,
+          "image": "pose1/image/004.png",
+          "mask": "pose1/mask/004.png",
+          "image_sha256": "883820b4b45a2b7c8f1e9d281a5047335c111d300ce9aa62f0b64b247d105748",
+          "mask_sha256": "142c0c4f28428a75a658eb4390031d136000e31b13e8fbfb9d3852ab38a2d1f0",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\004.png",
+          "source_background_sha256": "883820b4b45a2b7c8f1e9d281a5047335c111d300ce9aa62f0b64b247d105748"
+        },
+        {
+          "index": 5,
+          "image": "pose1/image/005.png",
+          "mask": "pose1/mask/005.png",
+          "image_sha256": "101cfb8b5c9f0958186d363c5d1f46f175197d24e2c0c32a70f9d3fe86ef6432",
+          "mask_sha256": "3b97d09ea4b3058a26bf8edaee30a452d680fff2027adce65be0281baf84af22",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\005.png",
+          "source_background_sha256": "101cfb8b5c9f0958186d363c5d1f46f175197d24e2c0c32a70f9d3fe86ef6432"
+        },
+        {
+          "index": 6,
+          "image": "pose1/image/006.png",
+          "mask": "pose1/mask/006.png",
+          "image_sha256": "2ddaf4da26fd7ae9733e1b29c7cbc4a67584b203d2585dad4d9c4845f0dbc217",
+          "mask_sha256": "1dce8a60ca9e809a7d5e3bd94d7f689dc5f92256c2377781e419a526bda07d16",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\006.png",
+          "source_background_sha256": "2ddaf4da26fd7ae9733e1b29c7cbc4a67584b203d2585dad4d9c4845f0dbc217"
+        },
+        {
+          "index": 7,
+          "image": "pose1/image/007.png",
+          "mask": "pose1/mask/007.png",
+          "image_sha256": "b91859cb1106fbee3356461391563ad91939f1a1c4423579c264fef33048d43f",
+          "mask_sha256": "0624fa316f34671e543a794cc42d6ecb870c01d07a2ab559511eb0a6e1f3d68d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\007.png",
+          "source_background_sha256": "b91859cb1106fbee3356461391563ad91939f1a1c4423579c264fef33048d43f"
+        },
+        {
+          "index": 8,
+          "image": "pose1/image/008.png",
+          "mask": "pose1/mask/008.png",
+          "image_sha256": "de2eadb0a550f06b3d16f4f3e7e19967a5e3d32a399febd7bcc92fa3b1a55739",
+          "mask_sha256": "5b602442983e72456ceded6ce864fa19b1cc7c3d4fee8a940ddcf3f9c637f319",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\008.png",
+          "source_background_sha256": "de2eadb0a550f06b3d16f4f3e7e19967a5e3d32a399febd7bcc92fa3b1a55739"
+        },
+        {
+          "index": 9,
+          "image": "pose1/image/009.png",
+          "mask": "pose1/mask/009.png",
+          "image_sha256": "41bfa654ff461f6b40d42a8e7c16665872ab6d2b07b52647e6a3dfe79ca2cb8f",
+          "mask_sha256": "a4a78ab1dd3408fb150487094e058617b9bcb28aede8efa6e30556145abf4d82",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\009.png",
+          "source_background_sha256": "41bfa654ff461f6b40d42a8e7c16665872ab6d2b07b52647e6a3dfe79ca2cb8f"
+        },
+        {
+          "index": 10,
+          "image": "pose1/image/010.png",
+          "mask": "pose1/mask/010.png",
+          "image_sha256": "5f6fe4aecd34432d385babc918940069134d23ec871277c9bfa697876e78c847",
+          "mask_sha256": "f013bdcd7a786c67e7d4e890fbdbc0b0633011fbff41785e4eebc37d55844a2a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\010.png",
+          "source_background_sha256": "5f6fe4aecd34432d385babc918940069134d23ec871277c9bfa697876e78c847"
+        },
+        {
+          "index": 11,
+          "image": "pose1/image/011.png",
+          "mask": "pose1/mask/011.png",
+          "image_sha256": "d75365ab7b15c558aaaa2f29925dc000aff7f8eee0d5c1be5723570811d83cd0",
+          "mask_sha256": "e6fe845e15a36a1e2caeab2501ea44f0406583810188f82c8367ce6d91d6e5fa",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\011.png",
+          "source_background_sha256": "d75365ab7b15c558aaaa2f29925dc000aff7f8eee0d5c1be5723570811d83cd0"
+        },
+        {
+          "index": 12,
+          "image": "pose1/image/012.png",
+          "mask": "pose1/mask/012.png",
+          "image_sha256": "e159e9cefa84fd8f60f2ff5126916f43f860054188234409fa8a73970e8c9dbd",
+          "mask_sha256": "d20423e1114d49037ed6d02eb65797dce4e473ea15799cf91c4d59445d0bc6bd",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\012.png",
+          "source_background_sha256": "e159e9cefa84fd8f60f2ff5126916f43f860054188234409fa8a73970e8c9dbd"
+        },
+        {
+          "index": 13,
+          "image": "pose1/image/013.png",
+          "mask": "pose1/mask/013.png",
+          "image_sha256": "2ce40e5babf091cac0bcc8f6a1eb3b6c5fd074588f7bc3448aef8dbf7511dc2e",
+          "mask_sha256": "afaae9aac583759f06e4cfa6a10b265d69ecf9021afaf9ef4c3858304ed49a98",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\013.png",
+          "source_background_sha256": "2ce40e5babf091cac0bcc8f6a1eb3b6c5fd074588f7bc3448aef8dbf7511dc2e"
+        },
+        {
+          "index": 14,
+          "image": "pose1/image/014.png",
+          "mask": "pose1/mask/014.png",
+          "image_sha256": "c8c09c8f1cff43f8b114acb9bee8e17a1e652fa0021595d0829e1c9b2a11ba5d",
+          "mask_sha256": "fbee91390593c1fa8541d85b7077679c6df43d355adc8840f11cd59c0640bcb3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\014.png",
+          "source_background_sha256": "c8c09c8f1cff43f8b114acb9bee8e17a1e652fa0021595d0829e1c9b2a11ba5d"
+        },
+        {
+          "index": 15,
+          "image": "pose1/image/015.png",
+          "mask": "pose1/mask/015.png",
+          "image_sha256": "89c0259d83eb89e875b66952aa8447c3b1b5f6aad57f46db95bb9ed54f0b099f",
+          "mask_sha256": "56607afba855df3fe192e38bbea993fce3a6ead696f58a4210c3e52ddd5e5a84",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\015.png",
+          "source_background_sha256": "89c0259d83eb89e875b66952aa8447c3b1b5f6aad57f46db95bb9ed54f0b099f"
+        },
+        {
+          "index": 16,
+          "image": "pose1/image/016.png",
+          "mask": "pose1/mask/016.png",
+          "image_sha256": "a31c981f845c414d9fec07665b70b68bb9021c33f56fbf770398288be430196e",
+          "mask_sha256": "dbcd7d400c920668bbffc92daa7d632523962c8db0afa259faab75bf7995b82d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\016.png",
+          "source_background_sha256": "a31c981f845c414d9fec07665b70b68bb9021c33f56fbf770398288be430196e"
+        },
+        {
+          "index": 17,
+          "image": "pose1/image/017.png",
+          "mask": "pose1/mask/017.png",
+          "image_sha256": "281f62c1578258f6939da9f8a18ce38a3b4ccc2bcf3110b6685ab802e8985eb3",
+          "mask_sha256": "c394f4824fb62c358ab8d42bfadf7ed88e8a480578cc9fec28509e022c1ad0d7",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\017.png",
+          "source_background_sha256": "281f62c1578258f6939da9f8a18ce38a3b4ccc2bcf3110b6685ab802e8985eb3"
+        },
+        {
+          "index": 18,
+          "image": "pose1/image/018.png",
+          "mask": "pose1/mask/018.png",
+          "image_sha256": "ea2972a521dd7e90f3799c319dd7027647675a269c7deee381c7a11893a7db3e",
+          "mask_sha256": "444beedd0ebc45b373bfded66594b2d112e6b4e6ba39a24d31745a229cc6132d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\018.png",
+          "source_background_sha256": "ea2972a521dd7e90f3799c319dd7027647675a269c7deee381c7a11893a7db3e"
+        },
+        {
+          "index": 19,
+          "image": "pose1/image/019.png",
+          "mask": "pose1/mask/019.png",
+          "image_sha256": "165392fceab8c2acabbcb58813f916658f4e795b10540f03b6ffc8c0520d7ee9",
+          "mask_sha256": "9ad1bc82fdd7fd9addb0f98b65ab1b819cda9e671076ec530b9512f23541c2d3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\019.png",
+          "source_background_sha256": "165392fceab8c2acabbcb58813f916658f4e795b10540f03b6ffc8c0520d7ee9"
+        },
+        {
+          "index": 20,
+          "image": "pose1/image/020.png",
+          "mask": "pose1/mask/020.png",
+          "image_sha256": "bb3c0eb1125e541f9e0582a3ce7d90b8005cbb40502a7663fe9a96ed8e2efdb9",
+          "mask_sha256": "2014140d31a239c303752c369a7c8d859b6a6235c6e2c54de05853d7b607f8e5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\020.png",
+          "source_background_sha256": "bb3c0eb1125e541f9e0582a3ce7d90b8005cbb40502a7663fe9a96ed8e2efdb9"
+        },
+        {
+          "index": 21,
+          "image": "pose1/image/021.png",
+          "mask": "pose1/mask/021.png",
+          "image_sha256": "0adf407f525e93d5510db52c9ebc202c87cfe530a2b5884e427e2d3a81890437",
+          "mask_sha256": "34f8d941191c1049e38eb3e13249e3be2d77cefe317801a4910083069d32a54a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\021.png",
+          "source_background_sha256": "0adf407f525e93d5510db52c9ebc202c87cfe530a2b5884e427e2d3a81890437"
+        },
+        {
+          "index": 22,
+          "image": "pose1/image/022.png",
+          "mask": "pose1/mask/022.png",
+          "image_sha256": "65902cba4266a1bc913fc39d65ed781888a2bb8d4dd05d50151b062f0c1abf8c",
+          "mask_sha256": "bb495d6ef73f7d0f67967e686b92bd5e1e13821ce6183ce2f40af64374c0db29",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\022.png",
+          "source_background_sha256": "65902cba4266a1bc913fc39d65ed781888a2bb8d4dd05d50151b062f0c1abf8c"
+        },
+        {
+          "index": 23,
+          "image": "pose1/image/023.png",
+          "mask": "pose1/mask/023.png",
+          "image_sha256": "37ff9802a31ed7bc9621534ca90081a0fb19f233c7a69eca5357301a45470158",
+          "mask_sha256": "ef1b9ef606f0281b91873366abd3b6d7efbee8a7576e6d058bb9c1766903a312",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\023.png",
+          "source_background_sha256": "37ff9802a31ed7bc9621534ca90081a0fb19f233c7a69eca5357301a45470158"
+        },
+        {
+          "index": 24,
+          "image": "pose1/image/024.png",
+          "mask": "pose1/mask/024.png",
+          "image_sha256": "73fbf0cddceb15dfdee4c2623e0f03df5eaf6d562d64430a27f4a38b32d51090",
+          "mask_sha256": "a53bd3ad02162e903cff492cf45aaa942a29ae7308b57d97828a627d94bea2ae",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\024.png",
+          "source_background_sha256": "73fbf0cddceb15dfdee4c2623e0f03df5eaf6d562d64430a27f4a38b32d51090"
+        },
+        {
+          "index": 25,
+          "image": "pose1/image/025.png",
+          "mask": "pose1/mask/025.png",
+          "image_sha256": "0ff6dd7d7c7acd5c173df908c89367f9f4bb4275d0d91392eeb91faca3f68c62",
+          "mask_sha256": "4f982f0afb56e466a8944007a9c77738d45515f26d8509c0087750e79156265e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\025.png",
+          "source_background_sha256": "0ff6dd7d7c7acd5c173df908c89367f9f4bb4275d0d91392eeb91faca3f68c62"
+        },
+        {
+          "index": 26,
+          "image": "pose1/image/026.png",
+          "mask": "pose1/mask/026.png",
+          "image_sha256": "6efb9583ac281ab35d427cf8cbf717a19df2b0b90ea9f2c3b9d402dc33b17ed3",
+          "mask_sha256": "0dbb82c0d144b4f9638036c550432a838b25016616e59a81111f1702c8f6e053",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\026.png",
+          "source_background_sha256": "6efb9583ac281ab35d427cf8cbf717a19df2b0b90ea9f2c3b9d402dc33b17ed3"
+        },
+        {
+          "index": 27,
+          "image": "pose1/image/027.png",
+          "mask": "pose1/mask/027.png",
+          "image_sha256": "2e0edef7ffb6bc548b58d6c1f26dca25d620b5f0d5cc898c63311cde2cba298b",
+          "mask_sha256": "fc03b830e97586fc5ab2f58e4ef5ec674ac862fbdb7844a348fcb9e6191e6cf4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\027.png",
+          "source_background_sha256": "2e0edef7ffb6bc548b58d6c1f26dca25d620b5f0d5cc898c63311cde2cba298b"
+        },
+        {
+          "index": 28,
+          "image": "pose1/image/028.png",
+          "mask": "pose1/mask/028.png",
+          "image_sha256": "857422953ebece8f30f83c8868f79b18843218d07b2410bab97da667316b57fc",
+          "mask_sha256": "49ed54a3d98541f5f3c92804379dff6437a3a33f20afa721a9bd81ab4690f1e2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\028.png",
+          "source_background_sha256": "857422953ebece8f30f83c8868f79b18843218d07b2410bab97da667316b57fc"
+        },
+        {
+          "index": 29,
+          "image": "pose1/image/029.png",
+          "mask": "pose1/mask/029.png",
+          "image_sha256": "a26b4a74a285433d1ca6f55dce8856652cb3d9fa463ef0f4a5debae2e5ac6383",
+          "mask_sha256": "1b9d7f8b2884966ddf3954b897315b3f2e97413c2020c20810c59b762d553340",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\029.png",
+          "source_background_sha256": "a26b4a74a285433d1ca6f55dce8856652cb3d9fa463ef0f4a5debae2e5ac6383"
+        },
+        {
+          "index": 30,
+          "image": "pose1/image/030.png",
+          "mask": "pose1/mask/030.png",
+          "image_sha256": "389d60c7cfb6ea54f4925d1399e120a89713fa414c5e1b5922afa0d48a27ff4e",
+          "mask_sha256": "61b72a82dc102d9dd194d7dd44e85aa1c2e575463f183b2ca2a3b6f19c3e9fa1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\030.png",
+          "source_background_sha256": "389d60c7cfb6ea54f4925d1399e120a89713fa414c5e1b5922afa0d48a27ff4e"
+        },
+        {
+          "index": 31,
+          "image": "pose1/image/031.png",
+          "mask": "pose1/mask/031.png",
+          "image_sha256": "80effb7aa25639b1df848b644ec0d1a079f79918c0df78325714e2ca5920d829",
+          "mask_sha256": "65acceef61b0634c5f36c41c3b95a40d19cc774d9d218c003c131be7139ee886",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\031.png",
+          "source_background_sha256": "80effb7aa25639b1df848b644ec0d1a079f79918c0df78325714e2ca5920d829"
+        },
+        {
+          "index": 32,
+          "image": "pose1/image/032.png",
+          "mask": "pose1/mask/032.png",
+          "image_sha256": "bdd5dfd5169f38322745478304d19edf4b26b42ad74718ea74a66f34b0fc5cb6",
+          "mask_sha256": "d18ac4fd1fb8343c52f0d4bef6ebb919754ea9e0241d00134bead579a5903827",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\032.png",
+          "source_background_sha256": "bdd5dfd5169f38322745478304d19edf4b26b42ad74718ea74a66f34b0fc5cb6"
+        },
+        {
+          "index": 33,
+          "image": "pose1/image/033.png",
+          "mask": "pose1/mask/033.png",
+          "image_sha256": "d8640cd520d85482bce4397bb3d657b28756feaf1ab9c56f9db6313aa84f2abe",
+          "mask_sha256": "661ff0f5a4da82c70ab1722194be7165893bd12bbf4771542f3c4b0deaf9f01f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\033.png",
+          "source_background_sha256": "d8640cd520d85482bce4397bb3d657b28756feaf1ab9c56f9db6313aa84f2abe"
+        },
+        {
+          "index": 34,
+          "image": "pose1/image/034.png",
+          "mask": "pose1/mask/034.png",
+          "image_sha256": "1ac44728aea9341580dfb0d5ecdf8424c564319b8fa33192434f912d5cfa62ca",
+          "mask_sha256": "b3c8c35ab93c3b2f8ae049f4f7b316b6a57fdfa8e985410f613cef091d9e9da9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\034.png",
+          "source_background_sha256": "1ac44728aea9341580dfb0d5ecdf8424c564319b8fa33192434f912d5cfa62ca"
+        },
+        {
+          "index": 35,
+          "image": "pose1/image/035.png",
+          "mask": "pose1/mask/035.png",
+          "image_sha256": "956ff3c41a358b6bb4ca20e71783200cda7a3521bb65039495b765e460ebc701",
+          "mask_sha256": "f08518b879f6f708765ef629199882d1a2b750435f0923f15afd3eb9f9e45c54",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\035.png",
+          "source_background_sha256": "956ff3c41a358b6bb4ca20e71783200cda7a3521bb65039495b765e460ebc701"
+        },
+        {
+          "index": 36,
+          "image": "pose1/image/036.png",
+          "mask": "pose1/mask/036.png",
+          "image_sha256": "257c0790daf1c36ad86c8c930de3b4b8074acf1666ec0c23179c4a3cebdffa20",
+          "mask_sha256": "17828cc95ad1b1b85728810cafd935e320f940bf722e3647bc91e1aac4313c1f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\036.png",
+          "source_background_sha256": "257c0790daf1c36ad86c8c930de3b4b8074acf1666ec0c23179c4a3cebdffa20"
+        },
+        {
+          "index": 37,
+          "image": "pose1/image/037.png",
+          "mask": "pose1/mask/037.png",
+          "image_sha256": "35ea103247ab091aaf1ef7ee2a997f7771c4fec303e56fae26bc779455c49d77",
+          "mask_sha256": "2634daf12a3ae8a681b36b6493f092ebfb039ac8a84db284bc0e234b07ec62bd",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\037.png",
+          "source_background_sha256": "35ea103247ab091aaf1ef7ee2a997f7771c4fec303e56fae26bc779455c49d77"
+        },
+        {
+          "index": 38,
+          "image": "pose1/image/038.png",
+          "mask": "pose1/mask/038.png",
+          "image_sha256": "aeaf1df53d48a45e2ae13660de5f050f290852da2a21a7f6ac5e7b556e999cec",
+          "mask_sha256": "d4ea137c03885377f134b9dfa681bc9b892e39fbd0d718e70fe47b444d38ce28",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\038.png",
+          "source_background_sha256": "aeaf1df53d48a45e2ae13660de5f050f290852da2a21a7f6ac5e7b556e999cec"
+        },
+        {
+          "index": 39,
+          "image": "pose1/image/039.png",
+          "mask": "pose1/mask/039.png",
+          "image_sha256": "34bdb4092b7c0c0f5644c6490346413a46287f0c64d8ed743c8c6715cae89f6b",
+          "mask_sha256": "bc067ef2e23b85eb0b9d92b738cdb08c8382326669325f927c1f96e1d3e41036",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\039.png",
+          "source_background_sha256": "34bdb4092b7c0c0f5644c6490346413a46287f0c64d8ed743c8c6715cae89f6b"
+        },
+        {
+          "index": 40,
+          "image": "pose1/image/040.png",
+          "mask": "pose1/mask/040.png",
+          "image_sha256": "92b6bcedbcbbdaf52c2fc470ed8946530ccd6c7055cd6c414f4e5601acf30537",
+          "mask_sha256": "ae4a4df8769dd0d8a8d850820a757f054c1c1d73cd96f3c83d342cbc99dd9de2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\040.png",
+          "source_background_sha256": "92b6bcedbcbbdaf52c2fc470ed8946530ccd6c7055cd6c414f4e5601acf30537"
+        },
+        {
+          "index": 41,
+          "image": "pose1/image/041.png",
+          "mask": "pose1/mask/041.png",
+          "image_sha256": "9fc6f2066b8d53832c8ded6e8fc06f574b723eb2d896c3562a3560941edb0387",
+          "mask_sha256": "bda744e097ab0ec1609010c222354882bb3c90374a3da2bd633093652d93ff18",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\041.png",
+          "source_background_sha256": "9fc6f2066b8d53832c8ded6e8fc06f574b723eb2d896c3562a3560941edb0387"
+        },
+        {
+          "index": 42,
+          "image": "pose1/image/042.png",
+          "mask": "pose1/mask/042.png",
+          "image_sha256": "306a60d901fe94d3ea1a8564ba1f014f8886dc98c1e0d94702e0421480329035",
+          "mask_sha256": "a3a3fc2444f782ed9bc1ce41b16942374a8135f8be0c75bb1bbd219fb299e201",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\042.png",
+          "source_background_sha256": "306a60d901fe94d3ea1a8564ba1f014f8886dc98c1e0d94702e0421480329035"
+        },
+        {
+          "index": 43,
+          "image": "pose1/image/043.png",
+          "mask": "pose1/mask/043.png",
+          "image_sha256": "6aae2147c395cc923ae35b6da1b7b613e5d2f8a0a9cdd785704ce60d42ea788d",
+          "mask_sha256": "e94f989ca12a814e6e54602dd9c29e759640af7c2c3e3ea15c9b1d9c0e38f476",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\043.png",
+          "source_background_sha256": "6aae2147c395cc923ae35b6da1b7b613e5d2f8a0a9cdd785704ce60d42ea788d"
+        },
+        {
+          "index": 44,
+          "image": "pose1/image/044.png",
+          "mask": "pose1/mask/044.png",
+          "image_sha256": "bee1bed510bee650022bbbd345d140a2aff3ea5a2cd1070fb9b5fca904de6e30",
+          "mask_sha256": "43ef3581d91a0869cb114403d8a1a741ae523e80545555ecd67010a12ac8e8f5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose1\\image\\044.png",
+          "source_background_sha256": "bee1bed510bee650022bbbd345d140a2aff3ea5a2cd1070fb9b5fca904de6e30"
+        }
+      ],
+      "dimensions": {
+        "800x800 RGB": 45
+      }
+    },
+    {
+      "pose": 2,
+      "image_count": 45,
+      "background_image_count": 45,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image",
+      "camera_sha256": "939bae1040e33183a9a5f9d4df1a920a747215fe889f188e0f9c3f0ace105c82",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose2/image/000.png",
+          "mask": "pose2/mask/000.png",
+          "image_sha256": "a833c753a4b3e33da8363593d0ef9e5bdc3d7ec95f7d51ab30521900f64ba713",
+          "mask_sha256": "cd396c7e91df26384057cf68e48f02c2b09e21afa52596f8e49beb8f62765fbd",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\000.png",
+          "source_background_sha256": "a833c753a4b3e33da8363593d0ef9e5bdc3d7ec95f7d51ab30521900f64ba713"
+        },
+        {
+          "index": 1,
+          "image": "pose2/image/001.png",
+          "mask": "pose2/mask/001.png",
+          "image_sha256": "c90d700c36de5a7e085835ff248fccead211e4464d78573a67c4b6d11380dff1",
+          "mask_sha256": "454adb1bea2ad76e8faa4cfafc17920a4a95496db6de2540956405bd874b081d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\001.png",
+          "source_background_sha256": "c90d700c36de5a7e085835ff248fccead211e4464d78573a67c4b6d11380dff1"
+        },
+        {
+          "index": 2,
+          "image": "pose2/image/002.png",
+          "mask": "pose2/mask/002.png",
+          "image_sha256": "48073f402796a1e08dabf210cde53fa7f7abe189237c21df7ec579d24a35267d",
+          "mask_sha256": "8f2c826be2ed7ee10d31e100d21f8b587f8613bb7645765602f831030bfefa43",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\002.png",
+          "source_background_sha256": "48073f402796a1e08dabf210cde53fa7f7abe189237c21df7ec579d24a35267d"
+        },
+        {
+          "index": 3,
+          "image": "pose2/image/003.png",
+          "mask": "pose2/mask/003.png",
+          "image_sha256": "50aa0ba531bbca0a766a699792de38705a3cc701ee67e5743ba884f99c0ba5a8",
+          "mask_sha256": "04b2f6c101ef3f1a07024e83d8e4514c0468c56d1985faa3110dd17fe307668b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\003.png",
+          "source_background_sha256": "50aa0ba531bbca0a766a699792de38705a3cc701ee67e5743ba884f99c0ba5a8"
+        },
+        {
+          "index": 4,
+          "image": "pose2/image/004.png",
+          "mask": "pose2/mask/004.png",
+          "image_sha256": "ef354d535ee376f719280d007c7d6152f33eebc5805471a417697cf699aa7b30",
+          "mask_sha256": "f28566736fd54826b038a498f537765979c6e4de787ea081eb9748cd58b6abc1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\004.png",
+          "source_background_sha256": "ef354d535ee376f719280d007c7d6152f33eebc5805471a417697cf699aa7b30"
+        },
+        {
+          "index": 5,
+          "image": "pose2/image/005.png",
+          "mask": "pose2/mask/005.png",
+          "image_sha256": "adbc465e9f5aefe32c2a8c2884ec38ff6a8a7d8f5659f8089e5bf4af284c0755",
+          "mask_sha256": "8fdc606e375b8a435c97f37dac101276f8d9112cf04afbccde57286e3e6d98e3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\005.png",
+          "source_background_sha256": "adbc465e9f5aefe32c2a8c2884ec38ff6a8a7d8f5659f8089e5bf4af284c0755"
+        },
+        {
+          "index": 6,
+          "image": "pose2/image/006.png",
+          "mask": "pose2/mask/006.png",
+          "image_sha256": "89799dd228e03c0ffd43fefd0bf955606a1304c5f5d72bc97d36c61a619a32f5",
+          "mask_sha256": "1e9529ac554049e8c44a37b71fb6dec8944607766589e9e83b2f31eefc4a76fd",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\006.png",
+          "source_background_sha256": "89799dd228e03c0ffd43fefd0bf955606a1304c5f5d72bc97d36c61a619a32f5"
+        },
+        {
+          "index": 7,
+          "image": "pose2/image/007.png",
+          "mask": "pose2/mask/007.png",
+          "image_sha256": "dd9d14e9c369c58c1cfd6a9775b8cb5ae29f7d4f4859ae6d4a3e550a808f8e22",
+          "mask_sha256": "f9fe525148ea9454558f2f0e3c63cb00576531bd296c3758e141eb88acd9039b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\007.png",
+          "source_background_sha256": "dd9d14e9c369c58c1cfd6a9775b8cb5ae29f7d4f4859ae6d4a3e550a808f8e22"
+        },
+        {
+          "index": 8,
+          "image": "pose2/image/008.png",
+          "mask": "pose2/mask/008.png",
+          "image_sha256": "79b5c3696bd39e64feea44d765bdab85d2cc9a1dd7f5fe06556d2a918cbcf366",
+          "mask_sha256": "85ed840171f414257e54913168db089efadf31c558b8be79c04bb4b09a85d657",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\008.png",
+          "source_background_sha256": "79b5c3696bd39e64feea44d765bdab85d2cc9a1dd7f5fe06556d2a918cbcf366"
+        },
+        {
+          "index": 9,
+          "image": "pose2/image/009.png",
+          "mask": "pose2/mask/009.png",
+          "image_sha256": "c6fbbaae58b15cb0f52e64cb7217e853d23d4847e00d25b12675705f2912dede",
+          "mask_sha256": "4770da37fb0eeb5bf84e64de3d3eabbd59aa046f62c8dc476a431a58e1b21332",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\009.png",
+          "source_background_sha256": "c6fbbaae58b15cb0f52e64cb7217e853d23d4847e00d25b12675705f2912dede"
+        },
+        {
+          "index": 10,
+          "image": "pose2/image/010.png",
+          "mask": "pose2/mask/010.png",
+          "image_sha256": "3f35b48b794e91e146dd4d1d0cf8ddcdce2b033282a36c00c0506ca52fe59f86",
+          "mask_sha256": "7fbff2141f9f8370ab6cb153a46907f6feac6860cbe4a59c0ba8ba667ec27734",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\010.png",
+          "source_background_sha256": "3f35b48b794e91e146dd4d1d0cf8ddcdce2b033282a36c00c0506ca52fe59f86"
+        },
+        {
+          "index": 11,
+          "image": "pose2/image/011.png",
+          "mask": "pose2/mask/011.png",
+          "image_sha256": "34dd9c0b67b0fc3e05a98583e53bd3ca190e1c086d5b38afc22f247f1d49c317",
+          "mask_sha256": "1b87b48cbd0414adde3708071e1ed0427e186de445c0782821e8c561fdc0efb6",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\011.png",
+          "source_background_sha256": "34dd9c0b67b0fc3e05a98583e53bd3ca190e1c086d5b38afc22f247f1d49c317"
+        },
+        {
+          "index": 12,
+          "image": "pose2/image/012.png",
+          "mask": "pose2/mask/012.png",
+          "image_sha256": "1630eedfb7a123b168bbb5d0ba0eb8841693344fb25851b19de015726b90e689",
+          "mask_sha256": "7a8dc011d6a6f984efe7d8057142b1c88400a53113f30ac33acde2204a8284bb",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\012.png",
+          "source_background_sha256": "1630eedfb7a123b168bbb5d0ba0eb8841693344fb25851b19de015726b90e689"
+        },
+        {
+          "index": 13,
+          "image": "pose2/image/013.png",
+          "mask": "pose2/mask/013.png",
+          "image_sha256": "e0dc9d41f1cc969e5246fca544a98a43d3802f63811795da17ece987e64baeb2",
+          "mask_sha256": "b2145d1cd3b3a434c44e546b09be984c18cce53240aa4155fb4e12ff9b49bcf0",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\013.png",
+          "source_background_sha256": "e0dc9d41f1cc969e5246fca544a98a43d3802f63811795da17ece987e64baeb2"
+        },
+        {
+          "index": 14,
+          "image": "pose2/image/014.png",
+          "mask": "pose2/mask/014.png",
+          "image_sha256": "bb87be03f0751cfe8fb8ccd1f9fa2bc4ef36a982f4440f29f1a9b8ca3f1f7e9d",
+          "mask_sha256": "634e7eeb97fe496906c6a154de1f0c5c38163eb2728f849c521034e3d31416e3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\014.png",
+          "source_background_sha256": "bb87be03f0751cfe8fb8ccd1f9fa2bc4ef36a982f4440f29f1a9b8ca3f1f7e9d"
+        },
+        {
+          "index": 15,
+          "image": "pose2/image/015.png",
+          "mask": "pose2/mask/015.png",
+          "image_sha256": "f6829fd48a336dc7648aa4bce5f048bdb62a5f54c24a8827fa6e1e7deecc284a",
+          "mask_sha256": "0070b11c84198fff52257a4f9adfd74637829b02728324f5c7e96d32dd0d86bf",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\015.png",
+          "source_background_sha256": "f6829fd48a336dc7648aa4bce5f048bdb62a5f54c24a8827fa6e1e7deecc284a"
+        },
+        {
+          "index": 16,
+          "image": "pose2/image/016.png",
+          "mask": "pose2/mask/016.png",
+          "image_sha256": "0b9a30474046ea4062526acc9b92fe4fa6dfb933e32214178d22f9a69022a92d",
+          "mask_sha256": "5a5af6d20241eab48277561d173d144b8a7476cc3a6b22ad2edb75f5a31a4fcc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\016.png",
+          "source_background_sha256": "0b9a30474046ea4062526acc9b92fe4fa6dfb933e32214178d22f9a69022a92d"
+        },
+        {
+          "index": 17,
+          "image": "pose2/image/017.png",
+          "mask": "pose2/mask/017.png",
+          "image_sha256": "dd47f54b50240ae860c7cb78144028de33c98b431a19c57877bef5af6e08aa9f",
+          "mask_sha256": "70a58a4b9799d3ae50797d6031d03eefed5daa8ce12bd179bf462b645ccf6359",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\017.png",
+          "source_background_sha256": "dd47f54b50240ae860c7cb78144028de33c98b431a19c57877bef5af6e08aa9f"
+        },
+        {
+          "index": 18,
+          "image": "pose2/image/018.png",
+          "mask": "pose2/mask/018.png",
+          "image_sha256": "966c0025753c7d4d318cf3aa1f5a4d0a64f67a2c2dfc9eabc74b6b87b0c410b0",
+          "mask_sha256": "7f2e32a1750c77cd3f1ffc66afbd1985a0b536f1cedb84aca617a110533c4949",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\018.png",
+          "source_background_sha256": "966c0025753c7d4d318cf3aa1f5a4d0a64f67a2c2dfc9eabc74b6b87b0c410b0"
+        },
+        {
+          "index": 19,
+          "image": "pose2/image/019.png",
+          "mask": "pose2/mask/019.png",
+          "image_sha256": "f5d9e23956364936e9c5040af958ba1ce922731825eee5c06365a3e7b9f943a6",
+          "mask_sha256": "629df72649818b95e44432361e067333a7adca9c7f81da8f84acde8b699d46a9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\019.png",
+          "source_background_sha256": "f5d9e23956364936e9c5040af958ba1ce922731825eee5c06365a3e7b9f943a6"
+        },
+        {
+          "index": 20,
+          "image": "pose2/image/020.png",
+          "mask": "pose2/mask/020.png",
+          "image_sha256": "4a31d13b2a47ff9e30b94c9a247d6c4944e683512b5ed0f1959e7fb40469b162",
+          "mask_sha256": "a7d819aac49f994765bece743d16f89972bd26b1f7720e80890f515471b3330d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\020.png",
+          "source_background_sha256": "4a31d13b2a47ff9e30b94c9a247d6c4944e683512b5ed0f1959e7fb40469b162"
+        },
+        {
+          "index": 21,
+          "image": "pose2/image/021.png",
+          "mask": "pose2/mask/021.png",
+          "image_sha256": "5c7d16e00d85116508a0f822d14d6f4311c99d366da705960b938507e82fc71f",
+          "mask_sha256": "7bf228488739de4e7f57eff04430ad1a02d32b3b1032186592e57d25a4bc0a93",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\021.png",
+          "source_background_sha256": "5c7d16e00d85116508a0f822d14d6f4311c99d366da705960b938507e82fc71f"
+        },
+        {
+          "index": 22,
+          "image": "pose2/image/022.png",
+          "mask": "pose2/mask/022.png",
+          "image_sha256": "12f547609f7efdc55cd869f4991c97da9c0be056176d27cde392ced8849e64f6",
+          "mask_sha256": "4329159658a409e3a9d8dc0a80ebbbe90e7386c183c4ab60780cc98505a1fac3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\022.png",
+          "source_background_sha256": "12f547609f7efdc55cd869f4991c97da9c0be056176d27cde392ced8849e64f6"
+        },
+        {
+          "index": 23,
+          "image": "pose2/image/023.png",
+          "mask": "pose2/mask/023.png",
+          "image_sha256": "065a6c93d264dddbd51ddd2c317626acc3bde191058ed31e9b1904400e9eb888",
+          "mask_sha256": "5d7899fc780b7ffbc82203be8a2e899577aab04f0ce70b7011623aad7a9a0f13",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\023.png",
+          "source_background_sha256": "065a6c93d264dddbd51ddd2c317626acc3bde191058ed31e9b1904400e9eb888"
+        },
+        {
+          "index": 24,
+          "image": "pose2/image/024.png",
+          "mask": "pose2/mask/024.png",
+          "image_sha256": "7f06abda852972b1394d9b5dad3ae446274bd102271b68c8305f4943377219dc",
+          "mask_sha256": "9751c8678958434d55ef814226e05addfd609a84b73752ec0ec5c5c93000f8a3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\024.png",
+          "source_background_sha256": "7f06abda852972b1394d9b5dad3ae446274bd102271b68c8305f4943377219dc"
+        },
+        {
+          "index": 25,
+          "image": "pose2/image/025.png",
+          "mask": "pose2/mask/025.png",
+          "image_sha256": "f599e145bc0ef393d8e5bf99599acb18a6acf490b2ea9cfe21910d634f544e12",
+          "mask_sha256": "f3e42c18ea2c68fafbbecd8a003d28fbc7eb1b45af1d8d350be1d54f9bcc73a5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\025.png",
+          "source_background_sha256": "f599e145bc0ef393d8e5bf99599acb18a6acf490b2ea9cfe21910d634f544e12"
+        },
+        {
+          "index": 26,
+          "image": "pose2/image/026.png",
+          "mask": "pose2/mask/026.png",
+          "image_sha256": "fffdc248b3581d822a795118f9d3ef6c4fa4cfd17256f2845028d494cb9dcda9",
+          "mask_sha256": "ea60b9be8f193ba403f237210ff3656ef109a04ab168f4f4dbca2b57afd51981",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\026.png",
+          "source_background_sha256": "fffdc248b3581d822a795118f9d3ef6c4fa4cfd17256f2845028d494cb9dcda9"
+        },
+        {
+          "index": 27,
+          "image": "pose2/image/027.png",
+          "mask": "pose2/mask/027.png",
+          "image_sha256": "fa882f203a28f627f9adca683d8ecfc50a0762e82df1d9aa038ca4018485d0fc",
+          "mask_sha256": "3a3f2069d152ec62a8bdc71d61e976ec779bc8ee83b78553c1a21a6ed1580293",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\027.png",
+          "source_background_sha256": "fa882f203a28f627f9adca683d8ecfc50a0762e82df1d9aa038ca4018485d0fc"
+        },
+        {
+          "index": 28,
+          "image": "pose2/image/028.png",
+          "mask": "pose2/mask/028.png",
+          "image_sha256": "2ed7515a61455c703de94459ebb0b31815371b73f21657483b12a17fd7649b94",
+          "mask_sha256": "e3eabb356ab4e307b06abb86f179addb4e3cd70d12a365bf5e5993cc979a33fb",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\028.png",
+          "source_background_sha256": "2ed7515a61455c703de94459ebb0b31815371b73f21657483b12a17fd7649b94"
+        },
+        {
+          "index": 29,
+          "image": "pose2/image/029.png",
+          "mask": "pose2/mask/029.png",
+          "image_sha256": "0311ca33109123a3bb3358d9d75f9cccd53e08129c7a2cb8d7826e8b98d16981",
+          "mask_sha256": "b8269757786ac1d0cd2e68494fbce9abe8a054203f8b5ddbfc89cd1abb95aefe",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\029.png",
+          "source_background_sha256": "0311ca33109123a3bb3358d9d75f9cccd53e08129c7a2cb8d7826e8b98d16981"
+        },
+        {
+          "index": 30,
+          "image": "pose2/image/030.png",
+          "mask": "pose2/mask/030.png",
+          "image_sha256": "67f646197b76fd3aad18ac1f80c774fd7afcc9b2e87fdc4a07efcb8fcf308dba",
+          "mask_sha256": "9e507f450b9efc4d5eec3bd0c8e2ee54a39ed1832b8b074aa6011352736bb7ba",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\030.png",
+          "source_background_sha256": "67f646197b76fd3aad18ac1f80c774fd7afcc9b2e87fdc4a07efcb8fcf308dba"
+        },
+        {
+          "index": 31,
+          "image": "pose2/image/031.png",
+          "mask": "pose2/mask/031.png",
+          "image_sha256": "aaf4d85343e5c672fc1ab5aefd3cf44c50389b4255de8d0b4af4fc81df2a1ef4",
+          "mask_sha256": "f792f8d34fa958106b695cc00bf179e1afed1a82ac758fc4654936db126f010c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\031.png",
+          "source_background_sha256": "aaf4d85343e5c672fc1ab5aefd3cf44c50389b4255de8d0b4af4fc81df2a1ef4"
+        },
+        {
+          "index": 32,
+          "image": "pose2/image/032.png",
+          "mask": "pose2/mask/032.png",
+          "image_sha256": "c8bf2e4faf418e384532f956fef7aa290c8494f05e20562b7fcffd5458913bed",
+          "mask_sha256": "811aeceb0af4c7d4822afb9e7a32397457b895ce8ab2dd2e4f1f18822bb90eb6",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\032.png",
+          "source_background_sha256": "c8bf2e4faf418e384532f956fef7aa290c8494f05e20562b7fcffd5458913bed"
+        },
+        {
+          "index": 33,
+          "image": "pose2/image/033.png",
+          "mask": "pose2/mask/033.png",
+          "image_sha256": "cbb780c83fa0ae5be0c6d1913ddb0707ffed69217c6b3f0a62a0527cf2686dd5",
+          "mask_sha256": "42581f4aa005fa4181dd417ad11fbd488096bb8f21ad60967242ba47dbabafbe",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\033.png",
+          "source_background_sha256": "cbb780c83fa0ae5be0c6d1913ddb0707ffed69217c6b3f0a62a0527cf2686dd5"
+        },
+        {
+          "index": 34,
+          "image": "pose2/image/034.png",
+          "mask": "pose2/mask/034.png",
+          "image_sha256": "78518806f6569b087037602c9e1fec6decf7a66aeda71d6bd5dcacbdab6a3f7e",
+          "mask_sha256": "720230bf9cdb4b4df222317075be2115590ca17fb1c81ab7b5be4e439bed2f20",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\034.png",
+          "source_background_sha256": "78518806f6569b087037602c9e1fec6decf7a66aeda71d6bd5dcacbdab6a3f7e"
+        },
+        {
+          "index": 35,
+          "image": "pose2/image/035.png",
+          "mask": "pose2/mask/035.png",
+          "image_sha256": "b9194dd25483335634c974c134277ed14d1a52b8d95be3e4ba2de05e8556d898",
+          "mask_sha256": "f575ceebd9b0132d303d817f4198a450c88ba0ecc6c961ffd17683e8bb0ca25a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\035.png",
+          "source_background_sha256": "b9194dd25483335634c974c134277ed14d1a52b8d95be3e4ba2de05e8556d898"
+        },
+        {
+          "index": 36,
+          "image": "pose2/image/036.png",
+          "mask": "pose2/mask/036.png",
+          "image_sha256": "16fec15aec13af852969971bf47517ed52db0bbb2014dbb2d460ea66a5c2ff12",
+          "mask_sha256": "c70dac0d1e4c19ba879404713bea09511846a6e4df37442a8c675014c1b2311f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\036.png",
+          "source_background_sha256": "16fec15aec13af852969971bf47517ed52db0bbb2014dbb2d460ea66a5c2ff12"
+        },
+        {
+          "index": 37,
+          "image": "pose2/image/037.png",
+          "mask": "pose2/mask/037.png",
+          "image_sha256": "bd4fcd262b1c67afeb6bfbc6ad293076fa40be61198e09a34a92aba4a2678146",
+          "mask_sha256": "2ef886b4726e64083c429f2ba6287fcef49974a867f291a750b933b8566d22d0",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\037.png",
+          "source_background_sha256": "bd4fcd262b1c67afeb6bfbc6ad293076fa40be61198e09a34a92aba4a2678146"
+        },
+        {
+          "index": 38,
+          "image": "pose2/image/038.png",
+          "mask": "pose2/mask/038.png",
+          "image_sha256": "11832a7287a6634d58ed8857d772b3d78970a599e3e11124624d7ccaca6652cf",
+          "mask_sha256": "4bf4eb1e17048225fdf2b2442636e91aae6f8416c314744dd665daa0cf4655e4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\038.png",
+          "source_background_sha256": "11832a7287a6634d58ed8857d772b3d78970a599e3e11124624d7ccaca6652cf"
+        },
+        {
+          "index": 39,
+          "image": "pose2/image/039.png",
+          "mask": "pose2/mask/039.png",
+          "image_sha256": "948e34a958171116b5ab2d4f08d1ea45d6c366e3efc4b1084183d41458eb1a1b",
+          "mask_sha256": "6007eb08d23d5f7d374928240444839d56b07b7d99c96a3fe84edec8bd960011",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\039.png",
+          "source_background_sha256": "948e34a958171116b5ab2d4f08d1ea45d6c366e3efc4b1084183d41458eb1a1b"
+        },
+        {
+          "index": 40,
+          "image": "pose2/image/040.png",
+          "mask": "pose2/mask/040.png",
+          "image_sha256": "3396d24563cad417120f1b44a4c8461c3355952b2a34c48377dab44ab30cac26",
+          "mask_sha256": "3ba6c65ffa9f9c85119edee03ae89017a44c0c52be0556549a161bd0128ab192",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\040.png",
+          "source_background_sha256": "3396d24563cad417120f1b44a4c8461c3355952b2a34c48377dab44ab30cac26"
+        },
+        {
+          "index": 41,
+          "image": "pose2/image/041.png",
+          "mask": "pose2/mask/041.png",
+          "image_sha256": "6c491d8d111038a9980a12e5de57e0ed40617c12eda27c90a4ad9ae83577e768",
+          "mask_sha256": "032bf7dd712597cdca675eaf2b67c868a0762b2ba4332fed5cf04517f2289fc2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\041.png",
+          "source_background_sha256": "6c491d8d111038a9980a12e5de57e0ed40617c12eda27c90a4ad9ae83577e768"
+        },
+        {
+          "index": 42,
+          "image": "pose2/image/042.png",
+          "mask": "pose2/mask/042.png",
+          "image_sha256": "7460cc77ad82b24889d80ec69b2517d033670d8a3bbc4940336b509a4fb03680",
+          "mask_sha256": "e38b6ca8d85ba4a7922d16ccc101cf4510fce0d6f91d0fb0f59ac73ab7a04301",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\042.png",
+          "source_background_sha256": "7460cc77ad82b24889d80ec69b2517d033670d8a3bbc4940336b509a4fb03680"
+        },
+        {
+          "index": 43,
+          "image": "pose2/image/043.png",
+          "mask": "pose2/mask/043.png",
+          "image_sha256": "47f926e63ecd9ef2e479eae4b83e9d4051410dadfd3c59014e0cb151f59d0021",
+          "mask_sha256": "579abf6f7f6e5510fd4764e65b02abadb93e263530b09208ff6ac378c9659798",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\043.png",
+          "source_background_sha256": "47f926e63ecd9ef2e479eae4b83e9d4051410dadfd3c59014e0cb151f59d0021"
+        },
+        {
+          "index": 44,
+          "image": "pose2/image/044.png",
+          "mask": "pose2/mask/044.png",
+          "image_sha256": "04c5866a4dfe254c586543e79f4d19e41be08c675ea231f0ac2e24d8ecb9eb09",
+          "mask_sha256": "65b7b79066d15a42e87e2f18942db8b72014fb04acb3d8a0bd669b26f02bdba3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose2\\image\\044.png",
+          "source_background_sha256": "04c5866a4dfe254c586543e79f4d19e41be08c675ea231f0ac2e24d8ecb9eb09"
+        }
+      ],
+      "dimensions": {
+        "800x800 RGB": 45
+      }
+    },
+    {
+      "pose": 3,
+      "image_count": 45,
+      "background_image_count": 45,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image",
+      "camera_sha256": "ff6a3e52ed479931eb9b0987bbb7204a72fbccced6d5be6f1134e5ce5ff75e89",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose3/image/000.png",
+          "mask": "pose3/mask/000.png",
+          "image_sha256": "144bd03f78d04a92a4d7446fdce49c93cd51a489c6ed923f55a3de172bc3d8a2",
+          "mask_sha256": "b6455bae91e13ea2de5b02b59c49c76031a7b664f1596242c764202e7aac9e32",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\000.png",
+          "source_background_sha256": "144bd03f78d04a92a4d7446fdce49c93cd51a489c6ed923f55a3de172bc3d8a2"
+        },
+        {
+          "index": 1,
+          "image": "pose3/image/001.png",
+          "mask": "pose3/mask/001.png",
+          "image_sha256": "240df68329f728f3828f618ddcc0c667d3ef86fa2f5f57aaea209ac2aac3a2a2",
+          "mask_sha256": "a77d2769696e3ac48396bdd4c0fa57ed0027d240a47f90ffc88e3659737228cc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\001.png",
+          "source_background_sha256": "240df68329f728f3828f618ddcc0c667d3ef86fa2f5f57aaea209ac2aac3a2a2"
+        },
+        {
+          "index": 2,
+          "image": "pose3/image/002.png",
+          "mask": "pose3/mask/002.png",
+          "image_sha256": "e9622fb14d9e5c18479c21491c5599a9c7ca3c5c89c2b92c4e288d20f5098f0a",
+          "mask_sha256": "338154462e08ffa5d788e056fce01d8029f5760d7d9397e902f047316d011f89",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\002.png",
+          "source_background_sha256": "e9622fb14d9e5c18479c21491c5599a9c7ca3c5c89c2b92c4e288d20f5098f0a"
+        },
+        {
+          "index": 3,
+          "image": "pose3/image/003.png",
+          "mask": "pose3/mask/003.png",
+          "image_sha256": "f81754cc043eb164494b20e02db7c9e1e42e5b76f9e9d80f392ad5d390cf409b",
+          "mask_sha256": "754ae4f8b79f9fd506d4e1dd8620c7c87ed8ffdc0783b83fa611c7e08a50b290",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\003.png",
+          "source_background_sha256": "f81754cc043eb164494b20e02db7c9e1e42e5b76f9e9d80f392ad5d390cf409b"
+        },
+        {
+          "index": 4,
+          "image": "pose3/image/004.png",
+          "mask": "pose3/mask/004.png",
+          "image_sha256": "68e4f07ebc6ccb36cbaab3d8b0efbd551ae2679ba3424fc477774e589f13d435",
+          "mask_sha256": "e08f2805e7bd0920d8866adb615ae66f53509a14bd2ce4a9d4bd4ba87975dd30",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\004.png",
+          "source_background_sha256": "68e4f07ebc6ccb36cbaab3d8b0efbd551ae2679ba3424fc477774e589f13d435"
+        },
+        {
+          "index": 5,
+          "image": "pose3/image/005.png",
+          "mask": "pose3/mask/005.png",
+          "image_sha256": "57ef3f408712b98dbd2b98a0de6169d096737c8caa046a9f545be6b45ddeb643",
+          "mask_sha256": "ba6001f6a4065956f43b6640322be313f00405cc6c0a89405a1fbb891c0831b9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\005.png",
+          "source_background_sha256": "57ef3f408712b98dbd2b98a0de6169d096737c8caa046a9f545be6b45ddeb643"
+        },
+        {
+          "index": 6,
+          "image": "pose3/image/006.png",
+          "mask": "pose3/mask/006.png",
+          "image_sha256": "727e7639a999ba8c986bb6a624fc322b17026a441c515c889beef05bf13cb6e9",
+          "mask_sha256": "572dcfd87da24093380b3d54302f8e653bd313e82eabfd24667f02ea58d32d94",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\006.png",
+          "source_background_sha256": "727e7639a999ba8c986bb6a624fc322b17026a441c515c889beef05bf13cb6e9"
+        },
+        {
+          "index": 7,
+          "image": "pose3/image/007.png",
+          "mask": "pose3/mask/007.png",
+          "image_sha256": "44ebaa34b893d2433846bc50caa1c89e94e875bcddced3662a635c4ef5dad7d2",
+          "mask_sha256": "2424517078d74ffba0345d68bf5d721d494b1c0978f84d5a09620c20b8a583d2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\007.png",
+          "source_background_sha256": "44ebaa34b893d2433846bc50caa1c89e94e875bcddced3662a635c4ef5dad7d2"
+        },
+        {
+          "index": 8,
+          "image": "pose3/image/008.png",
+          "mask": "pose3/mask/008.png",
+          "image_sha256": "dad5501534bc273296f4d47144a2f23e5f867de7f9094c399c8794dfc83e5f75",
+          "mask_sha256": "2ed211d3f37f9035484dea3aee71402109ada50eb1ede5abc9a34c8a4dd48312",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\008.png",
+          "source_background_sha256": "dad5501534bc273296f4d47144a2f23e5f867de7f9094c399c8794dfc83e5f75"
+        },
+        {
+          "index": 9,
+          "image": "pose3/image/009.png",
+          "mask": "pose3/mask/009.png",
+          "image_sha256": "037a6592b7e9ce96058465b43aba088f357ad9e0a464aa0613c65e7b72d4cf83",
+          "mask_sha256": "f24bf90ea884c85a38dcd3c6ee6662fd73f3ea617c0aff6e07dd3d4b5d0bdeba",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\009.png",
+          "source_background_sha256": "037a6592b7e9ce96058465b43aba088f357ad9e0a464aa0613c65e7b72d4cf83"
+        },
+        {
+          "index": 10,
+          "image": "pose3/image/010.png",
+          "mask": "pose3/mask/010.png",
+          "image_sha256": "2986e5229b1ef7abde894c2193686c67b73a95c2382631ac67dc9e2a7e5e7d32",
+          "mask_sha256": "4dc0b222af10a4562371496d0b57c34b7c6359c3dec8f4e44bf1707c743d3293",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\010.png",
+          "source_background_sha256": "2986e5229b1ef7abde894c2193686c67b73a95c2382631ac67dc9e2a7e5e7d32"
+        },
+        {
+          "index": 11,
+          "image": "pose3/image/011.png",
+          "mask": "pose3/mask/011.png",
+          "image_sha256": "0c2bcef4b2b3c166f357f5f08937f9ffa0438b31bf287a7f726425fe2bffa503",
+          "mask_sha256": "4b1dea656bb3a737898a57091cbb2588fda1f1eb8928abc571f74d3e97592d7c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\011.png",
+          "source_background_sha256": "0c2bcef4b2b3c166f357f5f08937f9ffa0438b31bf287a7f726425fe2bffa503"
+        },
+        {
+          "index": 12,
+          "image": "pose3/image/012.png",
+          "mask": "pose3/mask/012.png",
+          "image_sha256": "e4edd90372f6782a048b8b52f6678547e913ad700c5dc1223197c7f0929fd558",
+          "mask_sha256": "3b70d611c6abbfc08d22743b3c48be79ab07b7c4b6a95b8712b445673ee58b5a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\012.png",
+          "source_background_sha256": "e4edd90372f6782a048b8b52f6678547e913ad700c5dc1223197c7f0929fd558"
+        },
+        {
+          "index": 13,
+          "image": "pose3/image/013.png",
+          "mask": "pose3/mask/013.png",
+          "image_sha256": "feac20ca856d189f89b0ce34146770f705849d67e4e8d710e4072df80adee632",
+          "mask_sha256": "abed6fc2be38693d46910cb7c0d0ebf711bc8a3cd3d7f51f87130799b839840b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\013.png",
+          "source_background_sha256": "feac20ca856d189f89b0ce34146770f705849d67e4e8d710e4072df80adee632"
+        },
+        {
+          "index": 14,
+          "image": "pose3/image/014.png",
+          "mask": "pose3/mask/014.png",
+          "image_sha256": "129e011e5f3f6cc2ec704815b64fe2ca8285c18c2de3aacdd7c792c4182e7399",
+          "mask_sha256": "356927b8665bab56e6f3a44a9b687ce4da1ff419c929b826dad686808c7f7511",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\014.png",
+          "source_background_sha256": "129e011e5f3f6cc2ec704815b64fe2ca8285c18c2de3aacdd7c792c4182e7399"
+        },
+        {
+          "index": 15,
+          "image": "pose3/image/015.png",
+          "mask": "pose3/mask/015.png",
+          "image_sha256": "c4f1020a34cefd35ec281d697e1e1521deab3fb5de40e589b45cc88672c6176d",
+          "mask_sha256": "ad83960d9212b6ac0cde62deabadb3ab000e74bd70562f0a98f5a6d49d003144",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\015.png",
+          "source_background_sha256": "c4f1020a34cefd35ec281d697e1e1521deab3fb5de40e589b45cc88672c6176d"
+        },
+        {
+          "index": 16,
+          "image": "pose3/image/016.png",
+          "mask": "pose3/mask/016.png",
+          "image_sha256": "1647908c8bec5973874d5b3fcf371a0d676eb5b67b715043f393766421450725",
+          "mask_sha256": "3c0a8767f7bd818ae89107cec10ea597ffad98931facb94b588839280a2e89ed",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\016.png",
+          "source_background_sha256": "1647908c8bec5973874d5b3fcf371a0d676eb5b67b715043f393766421450725"
+        },
+        {
+          "index": 17,
+          "image": "pose3/image/017.png",
+          "mask": "pose3/mask/017.png",
+          "image_sha256": "a38ea220ca3920ae2d89ed0fa6709d58bba941e0256c9644a2e795311f622bc0",
+          "mask_sha256": "c9a107ad346dfd02ff8d704933d8d9bd731adba6e49becce4c7d5b0413a6fc4c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\017.png",
+          "source_background_sha256": "a38ea220ca3920ae2d89ed0fa6709d58bba941e0256c9644a2e795311f622bc0"
+        },
+        {
+          "index": 18,
+          "image": "pose3/image/018.png",
+          "mask": "pose3/mask/018.png",
+          "image_sha256": "8b2e69a367707341a0dbf27c466cf1302372b79b4179df1888569cff79a68968",
+          "mask_sha256": "9dcd538af1f8f40e3db2f79fe291e24b9b0f113efc7933240b307f0b68095583",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\018.png",
+          "source_background_sha256": "8b2e69a367707341a0dbf27c466cf1302372b79b4179df1888569cff79a68968"
+        },
+        {
+          "index": 19,
+          "image": "pose3/image/019.png",
+          "mask": "pose3/mask/019.png",
+          "image_sha256": "d1a776b8dc47245e89ed2f1cabb81da2b30d799732e9141e2abd572db9c975ac",
+          "mask_sha256": "29d74e1b32af712d4929cd4dbc62cca72cdeca475ce667b54c879751c9cb4805",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\019.png",
+          "source_background_sha256": "d1a776b8dc47245e89ed2f1cabb81da2b30d799732e9141e2abd572db9c975ac"
+        },
+        {
+          "index": 20,
+          "image": "pose3/image/020.png",
+          "mask": "pose3/mask/020.png",
+          "image_sha256": "0c4215d0cf10f254f0f6c0d9d32f217bbe034db4450742222a700c99654db0b5",
+          "mask_sha256": "e554e22327d9423c511bb545df5472226475dc4d8f1378c85666e5ff27269665",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\020.png",
+          "source_background_sha256": "0c4215d0cf10f254f0f6c0d9d32f217bbe034db4450742222a700c99654db0b5"
+        },
+        {
+          "index": 21,
+          "image": "pose3/image/021.png",
+          "mask": "pose3/mask/021.png",
+          "image_sha256": "30f268f1cafedb51fc449f3c84299fc7abad66be3894355a4cb4d474ebaaa594",
+          "mask_sha256": "a1d82365bbd94756fb60dbf27fc5982d6f87554b432a3ef919f9e990cf683c73",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\021.png",
+          "source_background_sha256": "30f268f1cafedb51fc449f3c84299fc7abad66be3894355a4cb4d474ebaaa594"
+        },
+        {
+          "index": 22,
+          "image": "pose3/image/022.png",
+          "mask": "pose3/mask/022.png",
+          "image_sha256": "861faa6714a8bbc55191186bd06b37384c62260067a7d573626ceceba8d3e26b",
+          "mask_sha256": "faf97b0b29089a7f2925260a261b2544867478b8a066900827b45c25fa998ce9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\022.png",
+          "source_background_sha256": "861faa6714a8bbc55191186bd06b37384c62260067a7d573626ceceba8d3e26b"
+        },
+        {
+          "index": 23,
+          "image": "pose3/image/023.png",
+          "mask": "pose3/mask/023.png",
+          "image_sha256": "957dc6b9d3d197aa262cefbb1244a12f2fd748e67d37a193abf132383409693c",
+          "mask_sha256": "c6e5451c1522d5200d50fbf2593c4ee33460972f267a58fdd9f687f73f07d95c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\023.png",
+          "source_background_sha256": "957dc6b9d3d197aa262cefbb1244a12f2fd748e67d37a193abf132383409693c"
+        },
+        {
+          "index": 24,
+          "image": "pose3/image/024.png",
+          "mask": "pose3/mask/024.png",
+          "image_sha256": "0f817c8623e72d54f36c0c66605b873b01d7ed3c0de3811ac29dcf6fb8f96080",
+          "mask_sha256": "3ed18e006edc101ae579c3e0d60e99af5a7301695f6c5bd80330eeab54bb22c1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\024.png",
+          "source_background_sha256": "0f817c8623e72d54f36c0c66605b873b01d7ed3c0de3811ac29dcf6fb8f96080"
+        },
+        {
+          "index": 25,
+          "image": "pose3/image/025.png",
+          "mask": "pose3/mask/025.png",
+          "image_sha256": "2affab47a95e27e2b7334aab6066538e7e288246a388853f171ef57eb42a380f",
+          "mask_sha256": "93225a1d0783252c07c53cde99bd81f65f9c961c6d770981ff9bb16c32a889ba",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\025.png",
+          "source_background_sha256": "2affab47a95e27e2b7334aab6066538e7e288246a388853f171ef57eb42a380f"
+        },
+        {
+          "index": 26,
+          "image": "pose3/image/026.png",
+          "mask": "pose3/mask/026.png",
+          "image_sha256": "624b9b796f83fb1f6c8ccf6d78ccf60cde66098e47e1b1fb384e229ab7655684",
+          "mask_sha256": "1d2e988667b2dd3d69e16ef93772f9ef23db77d2a001c65b2548323115d865f7",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\026.png",
+          "source_background_sha256": "624b9b796f83fb1f6c8ccf6d78ccf60cde66098e47e1b1fb384e229ab7655684"
+        },
+        {
+          "index": 27,
+          "image": "pose3/image/027.png",
+          "mask": "pose3/mask/027.png",
+          "image_sha256": "7d7cc8e57f5ad35879e11b298826835d22de75259b397773710322bc6d71809e",
+          "mask_sha256": "689a06604775ff6dd99fc2d568e19657b03854d6ece591a502f64fca0493319e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\027.png",
+          "source_background_sha256": "7d7cc8e57f5ad35879e11b298826835d22de75259b397773710322bc6d71809e"
+        },
+        {
+          "index": 28,
+          "image": "pose3/image/028.png",
+          "mask": "pose3/mask/028.png",
+          "image_sha256": "7f0603d86c00cc7237e57625c717ac106ce97408b1f9d3a39dcaf5d8093995b7",
+          "mask_sha256": "80f912b4e0cf77eb8e75ad7ebc335d0cf4058eebe5c39aed9125dbd1f5bc743c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\028.png",
+          "source_background_sha256": "7f0603d86c00cc7237e57625c717ac106ce97408b1f9d3a39dcaf5d8093995b7"
+        },
+        {
+          "index": 29,
+          "image": "pose3/image/029.png",
+          "mask": "pose3/mask/029.png",
+          "image_sha256": "cb5a6cf1110cda376aa9507315e9b806872c2787969780f98bd4f1065a5ee462",
+          "mask_sha256": "9db23fa34c63bc713fed3dfcdc8722cc86224e447e3b75004db01935e7e0be51",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\029.png",
+          "source_background_sha256": "cb5a6cf1110cda376aa9507315e9b806872c2787969780f98bd4f1065a5ee462"
+        },
+        {
+          "index": 30,
+          "image": "pose3/image/030.png",
+          "mask": "pose3/mask/030.png",
+          "image_sha256": "f86dc8c37308a316337433081a03c59cbe5a20e2e6cd7b11eb8d144d91a66879",
+          "mask_sha256": "154c328c09601de62032b0df400388a2bc10d1d7d2850e2fa4ed0679d04bae2c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\030.png",
+          "source_background_sha256": "f86dc8c37308a316337433081a03c59cbe5a20e2e6cd7b11eb8d144d91a66879"
+        },
+        {
+          "index": 31,
+          "image": "pose3/image/031.png",
+          "mask": "pose3/mask/031.png",
+          "image_sha256": "f33df2e81ab22198d54777f3b75f278d9d9b14db518e64b81827821c6b9cf84f",
+          "mask_sha256": "960793e7601e3c0e3db76c9ce25c118c3254ce17669450ea865bde0e7803427b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\031.png",
+          "source_background_sha256": "f33df2e81ab22198d54777f3b75f278d9d9b14db518e64b81827821c6b9cf84f"
+        },
+        {
+          "index": 32,
+          "image": "pose3/image/032.png",
+          "mask": "pose3/mask/032.png",
+          "image_sha256": "3f590e36bdf1ea53ed990622170355104a8a9eea034b3f8c9ac5fb2f3a84c73c",
+          "mask_sha256": "5b9f9957fd176858080de0b66085d52161071924d4a7f4e9f90832cf2f9b9cc4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\032.png",
+          "source_background_sha256": "3f590e36bdf1ea53ed990622170355104a8a9eea034b3f8c9ac5fb2f3a84c73c"
+        },
+        {
+          "index": 33,
+          "image": "pose3/image/033.png",
+          "mask": "pose3/mask/033.png",
+          "image_sha256": "a3237df0059f7e614af2f06d6e135e619707969ea981cca01125369e489afa00",
+          "mask_sha256": "d3a5d2057a2158e9de7017f2459a3a13508cd5d6aea55555d8ef2a91821d6995",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\033.png",
+          "source_background_sha256": "a3237df0059f7e614af2f06d6e135e619707969ea981cca01125369e489afa00"
+        },
+        {
+          "index": 34,
+          "image": "pose3/image/034.png",
+          "mask": "pose3/mask/034.png",
+          "image_sha256": "a988338027cd9b2bb4d146d2845405f95e95f08ac499f79e964058ac465537a6",
+          "mask_sha256": "7013b25216bdd376e30b842fb875798c7c25f09ec85d4126bced9b4b4e8ce66e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\034.png",
+          "source_background_sha256": "a988338027cd9b2bb4d146d2845405f95e95f08ac499f79e964058ac465537a6"
+        },
+        {
+          "index": 35,
+          "image": "pose3/image/035.png",
+          "mask": "pose3/mask/035.png",
+          "image_sha256": "ce58b6797ff423de1cb85d440ac14ce4c501ec063c17adc74e0f613a12c08fc0",
+          "mask_sha256": "b5759413b8136875064a8bb9859cf481226b6b550eb599d627f2cbffea523ff3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\035.png",
+          "source_background_sha256": "ce58b6797ff423de1cb85d440ac14ce4c501ec063c17adc74e0f613a12c08fc0"
+        },
+        {
+          "index": 36,
+          "image": "pose3/image/036.png",
+          "mask": "pose3/mask/036.png",
+          "image_sha256": "994aa54c0f940b76ef262500ad654e0ae77e108a075bd43d8db6f09e251a6d80",
+          "mask_sha256": "9df11178378940737618bffd14554d326f7c69cceeee698a7aa219a7f6da3855",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\036.png",
+          "source_background_sha256": "994aa54c0f940b76ef262500ad654e0ae77e108a075bd43d8db6f09e251a6d80"
+        },
+        {
+          "index": 37,
+          "image": "pose3/image/037.png",
+          "mask": "pose3/mask/037.png",
+          "image_sha256": "a6954a72517c398fba55cb6cc496195269e9cc5c4185d3b39a1bf96b66d2cfd1",
+          "mask_sha256": "623913eed8a5a082bc66a0e0ed131c5af69ccc1db442d859d9a88cc130029574",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\037.png",
+          "source_background_sha256": "a6954a72517c398fba55cb6cc496195269e9cc5c4185d3b39a1bf96b66d2cfd1"
+        },
+        {
+          "index": 38,
+          "image": "pose3/image/038.png",
+          "mask": "pose3/mask/038.png",
+          "image_sha256": "9f05046eb5238005017a349fbfeecf1595ef02e527e1751baec310db0ff4877b",
+          "mask_sha256": "fccfd1835174ac0710568f2f1cc9934479e2f4876646d4e7aa73b2148d1d55cc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\038.png",
+          "source_background_sha256": "9f05046eb5238005017a349fbfeecf1595ef02e527e1751baec310db0ff4877b"
+        },
+        {
+          "index": 39,
+          "image": "pose3/image/039.png",
+          "mask": "pose3/mask/039.png",
+          "image_sha256": "5e652103ff76df978abc4d7942c713a4f34601f409a4901b360b0bf47c959ccc",
+          "mask_sha256": "545f5760c3f5d63dc9ff979e1ba3d352f2370bb08351dea8c54e61d0efd4f0ed",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\039.png",
+          "source_background_sha256": "5e652103ff76df978abc4d7942c713a4f34601f409a4901b360b0bf47c959ccc"
+        },
+        {
+          "index": 40,
+          "image": "pose3/image/040.png",
+          "mask": "pose3/mask/040.png",
+          "image_sha256": "56b31d4e9110a305596e8e6e2d8c98e64e9364de03dd4cdaccdf8cd3b7a7f684",
+          "mask_sha256": "dc77ab3346ebd73f0f2f88dcaa2a4cedfe19aacf8612d34acc3095f2c915de93",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\040.png",
+          "source_background_sha256": "56b31d4e9110a305596e8e6e2d8c98e64e9364de03dd4cdaccdf8cd3b7a7f684"
+        },
+        {
+          "index": 41,
+          "image": "pose3/image/041.png",
+          "mask": "pose3/mask/041.png",
+          "image_sha256": "6b87c5af6afe15dd426a8321805f123a73d7db86c3bf8273a72fdddbe54514bc",
+          "mask_sha256": "92b67f9522d940c4cae483ddb02d5e682f64a62d898ea1316cce99ea12cc8d47",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\041.png",
+          "source_background_sha256": "6b87c5af6afe15dd426a8321805f123a73d7db86c3bf8273a72fdddbe54514bc"
+        },
+        {
+          "index": 42,
+          "image": "pose3/image/042.png",
+          "mask": "pose3/mask/042.png",
+          "image_sha256": "83f95b21b1e881520dda2eb49f09b73ee0ba5dca00bed7f1510998cbc84c413e",
+          "mask_sha256": "03689cc305906b3237fda0128b76fc234152b8fecab3ba6d7304d40dbc02219d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\042.png",
+          "source_background_sha256": "83f95b21b1e881520dda2eb49f09b73ee0ba5dca00bed7f1510998cbc84c413e"
+        },
+        {
+          "index": 43,
+          "image": "pose3/image/043.png",
+          "mask": "pose3/mask/043.png",
+          "image_sha256": "28d7c0c8d481d26fb1dfe10502c2c6184ec40429fd6e8fbb50a58c6ef39d9949",
+          "mask_sha256": "98a04dd41e87e0c8b640c3c9a643dfc6407cd517e9fa7c43bbadc44b4b0be3e4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\043.png",
+          "source_background_sha256": "28d7c0c8d481d26fb1dfe10502c2c6184ec40429fd6e8fbb50a58c6ef39d9949"
+        },
+        {
+          "index": 44,
+          "image": "pose3/image/044.png",
+          "mask": "pose3/mask/044.png",
+          "image_sha256": "a7ace32b76e3bdcf808146e65e3e9d2162458dd6c89b664daccdb3d981c21b0d",
+          "mask_sha256": "c59765c6556322c791a0cfc45ad88fc6704dffdea4891eb1cb3747b8c05ec7ab",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\book\\pose3\\image\\044.png",
+          "source_background_sha256": "a7ace32b76e3bdcf808146e65e3e9d2162458dd6c89b664daccdb3d981c21b0d"
+        }
+      ],
+      "dimensions": {
+        "800x800 RGB": 45
+      }
+    }
+  ],
+  "dataset_version": "background_inputs_20260929",
+  "display_name": "Book",
+  "source_blend": "E:\\PoseFusionExp\\synthetic\\dadian\\dadian.blend",
+  "source_prefix": "_re_book",
+  "ground_truth": "gt/meshes/poseN.ply and gt/transforms.json; source geometry coordinates, no estimated alignment"
+}

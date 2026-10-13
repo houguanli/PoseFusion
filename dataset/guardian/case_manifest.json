@@ -1,0 +1,1850 @@
+{
+  "case_id": "guardian",
+  "paper_label": "OBB ambiguity failure (real)",
+  "domain": "real",
+  "status": "complete_background",
+  "poses": [
+    {
+      "pose": 1,
+      "image_count": 60,
+      "background_image_count": 60,
+      "source_background_directory": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image",
+      "camera_sha256": "a8987cabf6da2218efc7d469b6be2b25ce479775bc272892bdfcc61eee2da287",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose1/image/000.png",
+          "mask": "pose1/mask/000.png",
+          "image_sha256": "1e6ff7a777ef8562a7b161054605400b07c98de114cb5a5566c2c79e300a2861",
+          "mask_sha256": "a2767e93dcdd79c696595b684a5d1a0aa01b776b650a2916c91d8bdc801eb16a",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/000.png",
+          "source_background_sha256": "1e6ff7a777ef8562a7b161054605400b07c98de114cb5a5566c2c79e300a2861",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 1,
+          "image": "pose1/image/001.png",
+          "mask": "pose1/mask/001.png",
+          "image_sha256": "bb58f3c12136016ca9ffe0fceb110c5d76b13e2477d5ab6046f6c61901a0721c",
+          "mask_sha256": "dcb6eef79b41d357e3fafe9f6246a27187a02d43206dd82a5d0e0188e7e1cff7",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/001.png",
+          "source_background_sha256": "bb58f3c12136016ca9ffe0fceb110c5d76b13e2477d5ab6046f6c61901a0721c",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 2,
+          "image": "pose1/image/002.png",
+          "mask": "pose1/mask/002.png",
+          "image_sha256": "38319e614e8e4724373a76ca3f22f81d95be52a225e23fba245fbd855ca4b11f",
+          "mask_sha256": "f4db4c36192df431d6477ff8087834d85b4fca4bde25f3db1a4bf4286eea73da",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/002.png",
+          "source_background_sha256": "38319e614e8e4724373a76ca3f22f81d95be52a225e23fba245fbd855ca4b11f",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 3,
+          "image": "pose1/image/003.png",
+          "mask": "pose1/mask/003.png",
+          "image_sha256": "21565bb05950b72bce932613ef623f663049b7fdd8598ca4b85eafa60f760154",
+          "mask_sha256": "5c058078c0a366be6ff93a8c804216778accaaf407a973aec875a4a7a679e352",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/003.png",
+          "source_background_sha256": "21565bb05950b72bce932613ef623f663049b7fdd8598ca4b85eafa60f760154",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 4,
+          "image": "pose1/image/004.png",
+          "mask": "pose1/mask/004.png",
+          "image_sha256": "5db30443fab9a12f6b1f3a8427d50e286b6ad4ac22cf8422efa091403ead37aa",
+          "mask_sha256": "3b63043bbb2194058d4f86dc7fbee83e3f05bd76992b2609c5ba5aec680770ba",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/004.png",
+          "source_background_sha256": "5db30443fab9a12f6b1f3a8427d50e286b6ad4ac22cf8422efa091403ead37aa",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 5,
+          "image": "pose1/image/005.png",
+          "mask": "pose1/mask/005.png",
+          "image_sha256": "1f77821d98877939447502da755bcc3aff030e691506e200a99cacd7be2ea353",
+          "mask_sha256": "9d35bebea719b99c51d90f3daf23a4fc45730cf36bb3ca175c017d8c80cf1078",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/005.png",
+          "source_background_sha256": "1f77821d98877939447502da755bcc3aff030e691506e200a99cacd7be2ea353",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 6,
+          "image": "pose1/image/006.png",
+          "mask": "pose1/mask/006.png",
+          "image_sha256": "eccb713d315b0dfa42d31aae5d9d979c13f14f02b8bcfc5549983df26cd43e4f",
+          "mask_sha256": "4f27ab614d4211494bf16b4e1e01ad837584bbf4ea05ce7b8632acd267a03fee",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/006.png",
+          "source_background_sha256": "eccb713d315b0dfa42d31aae5d9d979c13f14f02b8bcfc5549983df26cd43e4f",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 7,
+          "image": "pose1/image/007.png",
+          "mask": "pose1/mask/007.png",
+          "image_sha256": "b54b622cbed880db7c6c73737610ec4af8d18cdcf2613426da8b986b2acfc7e5",
+          "mask_sha256": "d0a0b5105482ce2b0731ebb7914873197b1bb0e73707f6654a9193f49ebe991c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/007.png",
+          "source_background_sha256": "b54b622cbed880db7c6c73737610ec4af8d18cdcf2613426da8b986b2acfc7e5",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 8,
+          "image": "pose1/image/008.png",
+          "mask": "pose1/mask/008.png",
+          "image_sha256": "30b44f667e456ce554af59690d37eca602d20c8f71d898a2f81bc8c36af33c77",
+          "mask_sha256": "6a74c8c8854c62649d0227dab911f999efc47b2eb69436870cc3e603f22372d9",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/008.png",
+          "source_background_sha256": "30b44f667e456ce554af59690d37eca602d20c8f71d898a2f81bc8c36af33c77",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 9,
+          "image": "pose1/image/009.png",
+          "mask": "pose1/mask/009.png",
+          "image_sha256": "57d2397af7f6364b9475b00f56c2044197c005124e7f52bd509660daa961ec01",
+          "mask_sha256": "148da9d173c8b8f6ddd6fcdf442c8bcbd4796caef6f570d3e223f401de26c5a8",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/009.png",
+          "source_background_sha256": "57d2397af7f6364b9475b00f56c2044197c005124e7f52bd509660daa961ec01",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 10,
+          "image": "pose1/image/010.png",
+          "mask": "pose1/mask/010.png",
+          "image_sha256": "ba8332b09fa6af7288496106d4e7f3628a4a4b38279b5179fcb1ab9f5a27ec45",
+          "mask_sha256": "f3b6948738cfe18cd9dd59657b051d0974e1c0b7c0f419ffb91a17282a10d19c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/010.png",
+          "source_background_sha256": "ba8332b09fa6af7288496106d4e7f3628a4a4b38279b5179fcb1ab9f5a27ec45",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 11,
+          "image": "pose1/image/011.png",
+          "mask": "pose1/mask/011.png",
+          "image_sha256": "a96bf9c34ff412efb4d36c3e8dd7add6356e5d57ad564b5cdacb9fb53be4966f",
+          "mask_sha256": "304dcad851094bfd23510ad8cd5b8a6675895d25fc4be4623a12239416d21c90",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/011.png",
+          "source_background_sha256": "a96bf9c34ff412efb4d36c3e8dd7add6356e5d57ad564b5cdacb9fb53be4966f",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 12,
+          "image": "pose1/image/012.png",
+          "mask": "pose1/mask/012.png",
+          "image_sha256": "800f64c9b972d03e57d3f95a7adfdb0487a4d28a9bb1128ceb45895cb01a20f8",
+          "mask_sha256": "e9afe6b1074c056bfb44f51757031ba4ea10a87850076a59d9b8978ed4a6cca3",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/012.png",
+          "source_background_sha256": "800f64c9b972d03e57d3f95a7adfdb0487a4d28a9bb1128ceb45895cb01a20f8",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 13,
+          "image": "pose1/image/013.png",
+          "mask": "pose1/mask/013.png",
+          "image_sha256": "d6ac3d19207cd0f1b444ef76b26f42b1717625ea973413f38b155bc49c36dbb2",
+          "mask_sha256": "b24ac29c6bbc11b21c89cd4fa303f2caef6669d80e523eed287191a57c4732e6",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/013.png",
+          "source_background_sha256": "d6ac3d19207cd0f1b444ef76b26f42b1717625ea973413f38b155bc49c36dbb2",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 14,
+          "image": "pose1/image/014.png",
+          "mask": "pose1/mask/014.png",
+          "image_sha256": "c7f6be1a88a0a571c0b2145662f2f67c5f93542a61480fc96b9eba021242248c",
+          "mask_sha256": "b81a242446324a13bb39e45e66b90fd61ce5efe7a24ec2994895197233dac2cb",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/014.png",
+          "source_background_sha256": "c7f6be1a88a0a571c0b2145662f2f67c5f93542a61480fc96b9eba021242248c",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 15,
+          "image": "pose1/image/015.png",
+          "mask": "pose1/mask/015.png",
+          "image_sha256": "de4bc82930109e5a78ab4894878ab0d2e0ac1257c8e46c24fa3f8e5d7b27303a",
+          "mask_sha256": "e39193856318f4e76b8b6d2696f22cfaf08a82b053ab7e82c66f79051755a251",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/015.png",
+          "source_background_sha256": "de4bc82930109e5a78ab4894878ab0d2e0ac1257c8e46c24fa3f8e5d7b27303a",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 16,
+          "image": "pose1/image/016.png",
+          "mask": "pose1/mask/016.png",
+          "image_sha256": "09086979e3af572a92466057608c04b0a4d9ac1d2ecd61804dc9174543fbae11",
+          "mask_sha256": "bd958c6c7439fb8b3a3302554f36574ed63b701dda06a666e911f5cb932267f1",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/016.png",
+          "source_background_sha256": "09086979e3af572a92466057608c04b0a4d9ac1d2ecd61804dc9174543fbae11",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 17,
+          "image": "pose1/image/017.png",
+          "mask": "pose1/mask/017.png",
+          "image_sha256": "68ee790873b9ac572ca733666f23740e509384b773499af6ea15e7e6f6a5f979",
+          "mask_sha256": "d18f12d703d594856f7b3a09bbc7b91414492c3955f384fc8e828e21a245199d",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/017.png",
+          "source_background_sha256": "68ee790873b9ac572ca733666f23740e509384b773499af6ea15e7e6f6a5f979",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 18,
+          "image": "pose1/image/018.png",
+          "mask": "pose1/mask/018.png",
+          "image_sha256": "b618e80e9da2a9f8cf74e886468e7bb88f1f74e532daaa13bd07aec3f124c08e",
+          "mask_sha256": "5d2ed0d168c13390f6fe861a90ee3d62a798f14a7eeb000d80a7319a39c5e563",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/018.png",
+          "source_background_sha256": "b618e80e9da2a9f8cf74e886468e7bb88f1f74e532daaa13bd07aec3f124c08e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 19,
+          "image": "pose1/image/019.png",
+          "mask": "pose1/mask/019.png",
+          "image_sha256": "7b43a9d248af3f0ca78fe34d67241fe9c5029609e964b870eb10b66acc5719b7",
+          "mask_sha256": "2b1128d9f99ed99bd9904a7b562469228b91ded10f591f62ba154a44fe0830d9",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/019.png",
+          "source_background_sha256": "7b43a9d248af3f0ca78fe34d67241fe9c5029609e964b870eb10b66acc5719b7",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 20,
+          "image": "pose1/image/020.png",
+          "mask": "pose1/mask/020.png",
+          "image_sha256": "30517cda341c1888a6be5c65318a40e4ed38e97c8dddb3e6c8c2bcc2933939e2",
+          "mask_sha256": "a844193e8d0b3293a8521a7544a3c6f86fb03864671041eb406785281ffa4423",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/020.png",
+          "source_background_sha256": "30517cda341c1888a6be5c65318a40e4ed38e97c8dddb3e6c8c2bcc2933939e2",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 21,
+          "image": "pose1/image/021.png",
+          "mask": "pose1/mask/021.png",
+          "image_sha256": "da5d2170456f4d7bb9fdfb12702e0ed0eaaad196a43eebc8227ebc4d2f32ad06",
+          "mask_sha256": "5cd71401ed2087dd30573ce3dc9252949f423a329b59242bc35ffe64e52d1312",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/021.png",
+          "source_background_sha256": "da5d2170456f4d7bb9fdfb12702e0ed0eaaad196a43eebc8227ebc4d2f32ad06",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 22,
+          "image": "pose1/image/022.png",
+          "mask": "pose1/mask/022.png",
+          "image_sha256": "c0550c9d3823b273a9dd92f9766c3ce10311efbb8a18e5c69d9b67bccbefe48f",
+          "mask_sha256": "3635f28419490965053e292d7ac958d18e9d98b4ba8fb6141206aef271601be3",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/022.png",
+          "source_background_sha256": "c0550c9d3823b273a9dd92f9766c3ce10311efbb8a18e5c69d9b67bccbefe48f",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 23,
+          "image": "pose1/image/023.png",
+          "mask": "pose1/mask/023.png",
+          "image_sha256": "ecef98b3fba0efb9385012c4c262735ee0ad53f4d8dbc30a3f8aa044e8dbd1e9",
+          "mask_sha256": "5cb8993925d677279801c70343fb25a061131c61c1998a0bcb2e559cdcd9a094",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/023.png",
+          "source_background_sha256": "ecef98b3fba0efb9385012c4c262735ee0ad53f4d8dbc30a3f8aa044e8dbd1e9",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 24,
+          "image": "pose1/image/024.png",
+          "mask": "pose1/mask/024.png",
+          "image_sha256": "f59f42d741bf3088c5a1ddcc5413a4ef231ac23b00685b154beca566c1166bee",
+          "mask_sha256": "16866e3657c163d63658afc35850238badc60816e08dce958013bd744c4fc986",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/024.png",
+          "source_background_sha256": "f59f42d741bf3088c5a1ddcc5413a4ef231ac23b00685b154beca566c1166bee",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 25,
+          "image": "pose1/image/025.png",
+          "mask": "pose1/mask/025.png",
+          "image_sha256": "1c333b3c23832b218e9eb83ccf048b22fce6a22cd4d58c533b7af2e0927d81b3",
+          "mask_sha256": "6a2fc244d8a0599381c82f0afde055c4ecdb8a78a454e91bc444d5026e63f0d3",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/025.png",
+          "source_background_sha256": "1c333b3c23832b218e9eb83ccf048b22fce6a22cd4d58c533b7af2e0927d81b3",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 26,
+          "image": "pose1/image/026.png",
+          "mask": "pose1/mask/026.png",
+          "image_sha256": "b7a5e8bf6955cca1c63dc142adcbf135bacb8c3d9dd4f74ff0c25c9c89114cf2",
+          "mask_sha256": "fa7f6c6aa930a251feed0a82df4d3d7e956c6a9bc74d72cf7b3f27b813eb9e4a",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/026.png",
+          "source_background_sha256": "b7a5e8bf6955cca1c63dc142adcbf135bacb8c3d9dd4f74ff0c25c9c89114cf2",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 27,
+          "image": "pose1/image/027.png",
+          "mask": "pose1/mask/027.png",
+          "image_sha256": "bc67ca7a201dada93c437e93ccd93f26dba8c5295bfef535cd97b117935048da",
+          "mask_sha256": "013ac3388a58395bd4f0aaf429e250b4d76abeaaf1fd413c356296dfd2dd60a6",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/027.png",
+          "source_background_sha256": "bc67ca7a201dada93c437e93ccd93f26dba8c5295bfef535cd97b117935048da",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 28,
+          "image": "pose1/image/028.png",
+          "mask": "pose1/mask/028.png",
+          "image_sha256": "f926032bef4322fc6f8aa2c274cced0bffc1bf25eca1da25ce44c76e0aa57908",
+          "mask_sha256": "a5c5f923ba4eac68bd7b68fc242db75332da55d7f835942ca7ccce4a227b9025",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/028.png",
+          "source_background_sha256": "f926032bef4322fc6f8aa2c274cced0bffc1bf25eca1da25ce44c76e0aa57908",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 29,
+          "image": "pose1/image/029.png",
+          "mask": "pose1/mask/029.png",
+          "image_sha256": "f4af19689dd2046b37335f7360281ff33f532e47d7b83f3eab4584b943361c93",
+          "mask_sha256": "ddc937ae494694d1800b8fd8cfb01e96e7e1a767f5c4e8da1fb89e13471b46e3",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/029.png",
+          "source_background_sha256": "f4af19689dd2046b37335f7360281ff33f532e47d7b83f3eab4584b943361c93",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 30,
+          "image": "pose1/image/030.png",
+          "mask": "pose1/mask/030.png",
+          "image_sha256": "2592fe8faa3cffac9a0d47eddd15cba43a7b768fb6307ff462a12fc7ca72ea2d",
+          "mask_sha256": "476bf108993156aabd4fd84ef364dae4458c4e91ecaa119ad0347d4ccac4884f",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/030.png",
+          "source_background_sha256": "2592fe8faa3cffac9a0d47eddd15cba43a7b768fb6307ff462a12fc7ca72ea2d",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 31,
+          "image": "pose1/image/031.png",
+          "mask": "pose1/mask/031.png",
+          "image_sha256": "9dbed95151767840298c1799ec316045a41d31d9af143b1e186fad4147bd1654",
+          "mask_sha256": "17997655ed8136a7bc60e1049b6d7ac1da4a39d51be3afa2b588f656ee29a463",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/031.png",
+          "source_background_sha256": "9dbed95151767840298c1799ec316045a41d31d9af143b1e186fad4147bd1654",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 32,
+          "image": "pose1/image/032.png",
+          "mask": "pose1/mask/032.png",
+          "image_sha256": "f650bbcf9a6b2b170742e44fafc151544f9e123aa47cc46a89768242e1bde54b",
+          "mask_sha256": "db97573ddbbb9c3f1acd7281aeaf64bb964b92905b6498946d46db62b9ef2085",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/032.png",
+          "source_background_sha256": "f650bbcf9a6b2b170742e44fafc151544f9e123aa47cc46a89768242e1bde54b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 33,
+          "image": "pose1/image/033.png",
+          "mask": "pose1/mask/033.png",
+          "image_sha256": "e0f71b9c389ff41215797fd91aed4fda91161353dc4ea4281ad373a4613128be",
+          "mask_sha256": "ecffcd6b7734ef5382e299a86cad843137e0f09d6f848c2c4b0c6dfe1b157315",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/033.png",
+          "source_background_sha256": "e0f71b9c389ff41215797fd91aed4fda91161353dc4ea4281ad373a4613128be",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 34,
+          "image": "pose1/image/034.png",
+          "mask": "pose1/mask/034.png",
+          "image_sha256": "b23aec177e7ef2bd9016ac0c8288a71d01192794fc854a6de5adb2c17afcad35",
+          "mask_sha256": "5b6caf3d0df70ffa1ca904d034584bb7363e895641fed6c6b424156f115044e5",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/034.png",
+          "source_background_sha256": "b23aec177e7ef2bd9016ac0c8288a71d01192794fc854a6de5adb2c17afcad35",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 35,
+          "image": "pose1/image/035.png",
+          "mask": "pose1/mask/035.png",
+          "image_sha256": "fae267fc008c74f8f7c29248c20c9990ac9aa19ecf437d1c9fdb01ad0c254a86",
+          "mask_sha256": "abbee485daaa75ad78812d0d53f81eec2c969631976d7622c627434aa26f6e5c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/035.png",
+          "source_background_sha256": "fae267fc008c74f8f7c29248c20c9990ac9aa19ecf437d1c9fdb01ad0c254a86",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 36,
+          "image": "pose1/image/036.png",
+          "mask": "pose1/mask/036.png",
+          "image_sha256": "b000e38751267a364b16b1db1b170e74d9cdbac723948e86e9c0c060413d6df5",
+          "mask_sha256": "f68323737a31a552ba64de9f12a8f81e6b0611a7b90fcbf616e1985cb1f44b11",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/036.png",
+          "source_background_sha256": "b000e38751267a364b16b1db1b170e74d9cdbac723948e86e9c0c060413d6df5",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 37,
+          "image": "pose1/image/037.png",
+          "mask": "pose1/mask/037.png",
+          "image_sha256": "669554a18a17c00b88e813ee2fec38e21e9e04d914b7f34dbbf543c628202ec4",
+          "mask_sha256": "567326d5d5502baf1cc4076e4d5e2ca7aa11aacb24f048c450ac88255bb2700d",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/037.png",
+          "source_background_sha256": "669554a18a17c00b88e813ee2fec38e21e9e04d914b7f34dbbf543c628202ec4",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 38,
+          "image": "pose1/image/038.png",
+          "mask": "pose1/mask/038.png",
+          "image_sha256": "b6a8ef417e66a60c347ebe1a441ff4e8b6739bd53c942dff6b4b53d8d6cd2f20",
+          "mask_sha256": "dbc3b54dcb7d52feeec53d9f2fa098c322ff9bb41ba53afd45208b34791c9cc8",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/038.png",
+          "source_background_sha256": "b6a8ef417e66a60c347ebe1a441ff4e8b6739bd53c942dff6b4b53d8d6cd2f20",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 39,
+          "image": "pose1/image/039.png",
+          "mask": "pose1/mask/039.png",
+          "image_sha256": "be6391afda1b4011d72d0c6fdda99e0b8a71f2a01249b3dccc6b8bdcc324253b",
+          "mask_sha256": "56789b5e41b6d4cc4690fe3342700bf2b6682b5707bdbd8aec34eebef7aa2df9",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/039.png",
+          "source_background_sha256": "be6391afda1b4011d72d0c6fdda99e0b8a71f2a01249b3dccc6b8bdcc324253b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 40,
+          "image": "pose1/image/040.png",
+          "mask": "pose1/mask/040.png",
+          "image_sha256": "f6d8c5e170dd2e475959b26a5e3bbfe862e233d9e9b5b93ee67eba8b0127eeb3",
+          "mask_sha256": "ff76e79518ef975e0f8c79b1c579055f513f2dea2d11331f32141b0ff9cbd6e0",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/040.png",
+          "source_background_sha256": "f6d8c5e170dd2e475959b26a5e3bbfe862e233d9e9b5b93ee67eba8b0127eeb3",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 41,
+          "image": "pose1/image/041.png",
+          "mask": "pose1/mask/041.png",
+          "image_sha256": "3e2a85daa26a91663a43038bbf07387a10c49275841d83cd7b37e71b84b292a8",
+          "mask_sha256": "f8d3968fe39f9ae38753b1762a2d74c5e764cd2a9fde5e78604147588b9dbfbb",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/041.png",
+          "source_background_sha256": "3e2a85daa26a91663a43038bbf07387a10c49275841d83cd7b37e71b84b292a8",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 42,
+          "image": "pose1/image/042.png",
+          "mask": "pose1/mask/042.png",
+          "image_sha256": "7829d5110f27f9c515723c48054f664255c408e272d752c1f3fc6f21ec89685a",
+          "mask_sha256": "24644e26df64afa31581b5bba12e87895912add93dc45b8e3d2954cda37c641e",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/042.png",
+          "source_background_sha256": "7829d5110f27f9c515723c48054f664255c408e272d752c1f3fc6f21ec89685a",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 43,
+          "image": "pose1/image/043.png",
+          "mask": "pose1/mask/043.png",
+          "image_sha256": "1ed3db5255832dc318c5904aa15e587c4d2221ea27097f49f83431e9b4b66719",
+          "mask_sha256": "710bd0c013552ef0a8463e121c3d9ffa68145a4331f41b288c0059d62e10c87a",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/043.png",
+          "source_background_sha256": "1ed3db5255832dc318c5904aa15e587c4d2221ea27097f49f83431e9b4b66719",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 44,
+          "image": "pose1/image/044.png",
+          "mask": "pose1/mask/044.png",
+          "image_sha256": "44b62e3bce0f8998a0f06d6d74e62a5f59bcee153aaed0af6f2a2a68674b8328",
+          "mask_sha256": "753fcbe604b3f6b7ab27cc2accd7c6ea1766ea92ea5f4265eedd6ef8ede9257e",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/044.png",
+          "source_background_sha256": "44b62e3bce0f8998a0f06d6d74e62a5f59bcee153aaed0af6f2a2a68674b8328",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 45,
+          "image": "pose1/image/045.png",
+          "mask": "pose1/mask/045.png",
+          "image_sha256": "6f186f176b60cd623ab96162ea180aff7c8011e3e0b64b514cc9f046a8a43e1c",
+          "mask_sha256": "1625ec768f3eea5f8d818503727eea4614cf390538909eb2a5fc6b984ece3b90",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/045.png",
+          "source_background_sha256": "6f186f176b60cd623ab96162ea180aff7c8011e3e0b64b514cc9f046a8a43e1c",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 46,
+          "image": "pose1/image/046.png",
+          "mask": "pose1/mask/046.png",
+          "image_sha256": "90b380439583991d1a9c096346c0f8b012f9071e9d3f72d821e983657c92a6ca",
+          "mask_sha256": "07a7c9811e85aea436183c88151f31f0bc2904f382a04499078f041b42cd47e4",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/046.png",
+          "source_background_sha256": "90b380439583991d1a9c096346c0f8b012f9071e9d3f72d821e983657c92a6ca",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 47,
+          "image": "pose1/image/047.png",
+          "mask": "pose1/mask/047.png",
+          "image_sha256": "3a532d7829b5d1daea31548acc1f36dfd747d8bb9b45f4a7685301af29f573c2",
+          "mask_sha256": "8e8283749133543b7ca13b4003feea2c95381e7326efd2f4b5663a63cfeca030",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/047.png",
+          "source_background_sha256": "3a532d7829b5d1daea31548acc1f36dfd747d8bb9b45f4a7685301af29f573c2",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 48,
+          "image": "pose1/image/048.png",
+          "mask": "pose1/mask/048.png",
+          "image_sha256": "b3a3439510c4d6674da2cd6a39b14b11f86150fbb152a5291d42bd97e15eea5b",
+          "mask_sha256": "1592994d63d04d3ce8faa81e5ec2fcda1675eedec51b4c09c289cd711db7d977",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/048.png",
+          "source_background_sha256": "b3a3439510c4d6674da2cd6a39b14b11f86150fbb152a5291d42bd97e15eea5b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 49,
+          "image": "pose1/image/049.png",
+          "mask": "pose1/mask/049.png",
+          "image_sha256": "fd06a7c118d40584c9d6912743274d943dd7b547a11d15a799145345f8dba934",
+          "mask_sha256": "eb5530179b2cbbda270b4ab8f02d5bdec58d9963dd87b006ae203f4b97f4d3d2",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/049.png",
+          "source_background_sha256": "fd06a7c118d40584c9d6912743274d943dd7b547a11d15a799145345f8dba934",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 50,
+          "image": "pose1/image/050.png",
+          "mask": "pose1/mask/050.png",
+          "image_sha256": "7100e3680385e08b2b56d721de945abf100ee93852686eab5569cdd2e6f4166b",
+          "mask_sha256": "3f18aad088d5307a103373592263789d89ac0124874763aae4d76a3931e11ae1",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/050.png",
+          "source_background_sha256": "7100e3680385e08b2b56d721de945abf100ee93852686eab5569cdd2e6f4166b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 51,
+          "image": "pose1/image/051.png",
+          "mask": "pose1/mask/051.png",
+          "image_sha256": "8af3a686d4da7fffa72343e1b81c064503b5288491e7b2e9efb0accfdf48cf55",
+          "mask_sha256": "d86dd775f17f3a0c5571c5c439de0e3435022738c2c29c897de7fafb14ae79b4",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/051.png",
+          "source_background_sha256": "8af3a686d4da7fffa72343e1b81c064503b5288491e7b2e9efb0accfdf48cf55",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 52,
+          "image": "pose1/image/052.png",
+          "mask": "pose1/mask/052.png",
+          "image_sha256": "40c434ffc293a45c097ea98217d11ae68d5781fa07e7e4cda0b8cee05ea437ba",
+          "mask_sha256": "f2d029f1dfcc8cded82e2519e8e9fb41287530bc23c7a8d3c674ebcc0c68235c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/052.png",
+          "source_background_sha256": "40c434ffc293a45c097ea98217d11ae68d5781fa07e7e4cda0b8cee05ea437ba",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 53,
+          "image": "pose1/image/053.png",
+          "mask": "pose1/mask/053.png",
+          "image_sha256": "293e79ff84d04e22fe580200d9d6091f0c684cc91d6f6fcaaa30ee8aad25c710",
+          "mask_sha256": "5dd0b19204177dcc9d624cd742eface67ed7619cda86a2c4bb68ef75cc056d35",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/053.png",
+          "source_background_sha256": "293e79ff84d04e22fe580200d9d6091f0c684cc91d6f6fcaaa30ee8aad25c710",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 54,
+          "image": "pose1/image/054.png",
+          "mask": "pose1/mask/054.png",
+          "image_sha256": "7832a8cbd2d2060b5f560921abe35b05a3b2db616f7fb9342f09cf45043c5870",
+          "mask_sha256": "e4d62ba923eddde165ca67b46d08c74fab02d73c4aa2143b3362afcba66f53e4",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/054.png",
+          "source_background_sha256": "7832a8cbd2d2060b5f560921abe35b05a3b2db616f7fb9342f09cf45043c5870",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 55,
+          "image": "pose1/image/055.png",
+          "mask": "pose1/mask/055.png",
+          "image_sha256": "cca8ae3b4f66c6f4745074b8a76e2378335a08ca4f3b82627c463281b1261a81",
+          "mask_sha256": "031f722f420a3bc2b389f47457d8f7955c98facae855e2e13fb91a8f9f196ccd",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/055.png",
+          "source_background_sha256": "cca8ae3b4f66c6f4745074b8a76e2378335a08ca4f3b82627c463281b1261a81",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 56,
+          "image": "pose1/image/056.png",
+          "mask": "pose1/mask/056.png",
+          "image_sha256": "a14aad74675d9fc91887e970cd4b4681d1b084c8ec08a61b91b35e28f288e588",
+          "mask_sha256": "6b02bb21592810f75877cad33c1833386e5f888860e24295c8b46881e1b7e0eb",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/056.png",
+          "source_background_sha256": "a14aad74675d9fc91887e970cd4b4681d1b084c8ec08a61b91b35e28f288e588",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 57,
+          "image": "pose1/image/057.png",
+          "mask": "pose1/mask/057.png",
+          "image_sha256": "596e27a075b84af0e2d50710dfa66adbbfe576e805dc509bde3325ae0d1cb183",
+          "mask_sha256": "250a06582738d37888de4e1167af42584b2c415988542994ee0f9705b2829d20",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/057.png",
+          "source_background_sha256": "596e27a075b84af0e2d50710dfa66adbbfe576e805dc509bde3325ae0d1cb183",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 58,
+          "image": "pose1/image/058.png",
+          "mask": "pose1/mask/058.png",
+          "image_sha256": "e096eda918ec0f1300a38a39d7f8417c9804c1c0054da555ee21be57bc0f03ea",
+          "mask_sha256": "d41fbe7c2266b12d44647d75eb898feaaeab2e0044e3b1deec76bea98134fd75",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/058.png",
+          "source_background_sha256": "e096eda918ec0f1300a38a39d7f8417c9804c1c0054da555ee21be57bc0f03ea",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 59,
+          "image": "pose1/image/059.png",
+          "mask": "pose1/mask/059.png",
+          "image_sha256": "353282973b40840ff9e3733285bb1b584a257031bfdbbd34ea4b3f9652b3a060",
+          "mask_sha256": "69ed71c47d477682c295f3e397de1f8ef930627d30d7bea8ba4efd8e40ffd1d8",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose1/image/059.png",
+          "source_background_sha256": "353282973b40840ff9e3733285bb1b584a257031bfdbbd34ea4b3f9652b3a060",
+          "retained_copy_matches_pre_move_manifest": true
+        }
+      ],
+      "dimensions": {
+        "1024x1024 RGB": 60
+      }
+    },
+    {
+      "pose": 2,
+      "image_count": 60,
+      "background_image_count": 60,
+      "source_background_directory": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image",
+      "camera_sha256": "6f664abbfca99a47de590851236c4bbd54aee021137edcd9c109a3acc7b931c7",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose2/image/000.png",
+          "mask": "pose2/mask/000.png",
+          "image_sha256": "244b3456c2097e6a1f020c67bfb58817fe037d219c67f88c32a265980067236b",
+          "mask_sha256": "35af8e93a3385805637ee131067ca44f475da295c273672e237f9ef3ae5a8c3e",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/000.png",
+          "source_background_sha256": "244b3456c2097e6a1f020c67bfb58817fe037d219c67f88c32a265980067236b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 1,
+          "image": "pose2/image/001.png",
+          "mask": "pose2/mask/001.png",
+          "image_sha256": "0b0635ebdafa4ff6134ec39471db191c3078eede12b32fd3952904bd9f1380be",
+          "mask_sha256": "18327ddc9a72487542d11870b497957c67f7c9a5d68eee868b514900517e23b8",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/001.png",
+          "source_background_sha256": "0b0635ebdafa4ff6134ec39471db191c3078eede12b32fd3952904bd9f1380be",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 2,
+          "image": "pose2/image/002.png",
+          "mask": "pose2/mask/002.png",
+          "image_sha256": "1701629b9c0ce6491d2cba8da12525c000bea74e7b9bda7005e1a1ddf86039aa",
+          "mask_sha256": "d68be1d8f422fc4771ffb0cd1850fd1d66874378c99956387c0883e05c7d78f8",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/002.png",
+          "source_background_sha256": "1701629b9c0ce6491d2cba8da12525c000bea74e7b9bda7005e1a1ddf86039aa",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 3,
+          "image": "pose2/image/003.png",
+          "mask": "pose2/mask/003.png",
+          "image_sha256": "cf5494b295154bc8bd0f815b44f80ff5784fa477a8fc38122478024a4a465943",
+          "mask_sha256": "1ea935a98057c2984f09e5192b06c39acd0f0fca4deda93e6d92794e20bb4bed",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/003.png",
+          "source_background_sha256": "cf5494b295154bc8bd0f815b44f80ff5784fa477a8fc38122478024a4a465943",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 4,
+          "image": "pose2/image/004.png",
+          "mask": "pose2/mask/004.png",
+          "image_sha256": "aac654d75181ebed3df6f076ee486fc5ce33f15c58f02eb4495b87834ac82b17",
+          "mask_sha256": "f100b2bcb6030a754875d7f36a910fa6714f2d54c0d472a8456b422dacad7f49",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/004.png",
+          "source_background_sha256": "aac654d75181ebed3df6f076ee486fc5ce33f15c58f02eb4495b87834ac82b17",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 5,
+          "image": "pose2/image/005.png",
+          "mask": "pose2/mask/005.png",
+          "image_sha256": "a9166defd288d3404fade740cf57315c92ff9fe92ca856730d4de39cb57109b4",
+          "mask_sha256": "7e9f32331616a5d1a4611c1e827cbff786b6da42e3358e17aa0088a7890c0004",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/005.png",
+          "source_background_sha256": "a9166defd288d3404fade740cf57315c92ff9fe92ca856730d4de39cb57109b4",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 6,
+          "image": "pose2/image/006.png",
+          "mask": "pose2/mask/006.png",
+          "image_sha256": "3eefea843909a04dad4669cf71162380e7bf5126ce59c6e49aad4afd65eb8456",
+          "mask_sha256": "d0aaba6b07c585b1c63192bc088ea9950e56dc815222b7ecb3006062da3f4a86",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/006.png",
+          "source_background_sha256": "3eefea843909a04dad4669cf71162380e7bf5126ce59c6e49aad4afd65eb8456",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 7,
+          "image": "pose2/image/007.png",
+          "mask": "pose2/mask/007.png",
+          "image_sha256": "8626af35c07faa74cf98e4ed8b65a519fd962277f76cba5a0de7b6bc349781d9",
+          "mask_sha256": "1c68f80062b09e3dd62dd35431990240f314d99a47906ef535783c27b8137fd6",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/007.png",
+          "source_background_sha256": "8626af35c07faa74cf98e4ed8b65a519fd962277f76cba5a0de7b6bc349781d9",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 8,
+          "image": "pose2/image/008.png",
+          "mask": "pose2/mask/008.png",
+          "image_sha256": "5abcfec1757de852df772d7f7f0d1f660bbaedfd2ec0b2a403ebf1135f7888f4",
+          "mask_sha256": "340189654cfc4a26ebf59bad7f60d816c4abb8ba92f11194bdb75d56aa119b52",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/008.png",
+          "source_background_sha256": "5abcfec1757de852df772d7f7f0d1f660bbaedfd2ec0b2a403ebf1135f7888f4",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 9,
+          "image": "pose2/image/009.png",
+          "mask": "pose2/mask/009.png",
+          "image_sha256": "43a1f724783c10d8c785595de3bfad82acaba4a28d6026e5d18fe6a1607b4942",
+          "mask_sha256": "a552ba165263c66c9d1df30abc70e85fd53bdf8b3a5459fe3477ad099c80420b",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/009.png",
+          "source_background_sha256": "43a1f724783c10d8c785595de3bfad82acaba4a28d6026e5d18fe6a1607b4942",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 10,
+          "image": "pose2/image/010.png",
+          "mask": "pose2/mask/010.png",
+          "image_sha256": "bfbcc2e87b570db054f8014b664a676f95c062592937d7ce830188d49216ccb2",
+          "mask_sha256": "737064f21083a5fafcc7413562feef720dbf6e854317b40f4b030cc2f0a05e48",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/010.png",
+          "source_background_sha256": "bfbcc2e87b570db054f8014b664a676f95c062592937d7ce830188d49216ccb2",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 11,
+          "image": "pose2/image/011.png",
+          "mask": "pose2/mask/011.png",
+          "image_sha256": "edb0d03536fd04d76f10f1b0c74583ce2755be1214455ee0d687e4e9e9db4b10",
+          "mask_sha256": "a7dc333bc286e282120bc812c6734f1c1132bd3d1c0e5e87394779ca5c515abb",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/011.png",
+          "source_background_sha256": "edb0d03536fd04d76f10f1b0c74583ce2755be1214455ee0d687e4e9e9db4b10",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 12,
+          "image": "pose2/image/012.png",
+          "mask": "pose2/mask/012.png",
+          "image_sha256": "bf481f4ff0141b08cb1c95f5fd979857abf666baf4f0ba74d048016c5441d5bb",
+          "mask_sha256": "27a4cd4a105d4da9c3306ed4dc97daed764dcc56fdeb79a376c2f1bd42d03f82",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/012.png",
+          "source_background_sha256": "bf481f4ff0141b08cb1c95f5fd979857abf666baf4f0ba74d048016c5441d5bb",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 13,
+          "image": "pose2/image/013.png",
+          "mask": "pose2/mask/013.png",
+          "image_sha256": "d39d35121ef8829772840162fe15a46ba73d5c65dcdd415eb68bfa1679e351c5",
+          "mask_sha256": "697a4c33b62aacb2f66a0a91c1916ed7876b5bd7f96299a42db88a3cc34f616b",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/013.png",
+          "source_background_sha256": "d39d35121ef8829772840162fe15a46ba73d5c65dcdd415eb68bfa1679e351c5",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 14,
+          "image": "pose2/image/014.png",
+          "mask": "pose2/mask/014.png",
+          "image_sha256": "a03baff350a4fd2e259768353ab73764183205aadc4adfa30932632fd03e42f5",
+          "mask_sha256": "5c1e54d523834005c40d4938504ab9aff5192a34a7d5c430f52bb13189f04eba",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/014.png",
+          "source_background_sha256": "a03baff350a4fd2e259768353ab73764183205aadc4adfa30932632fd03e42f5",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 15,
+          "image": "pose2/image/015.png",
+          "mask": "pose2/mask/015.png",
+          "image_sha256": "aecfc7d2a5348498ae9d431233cfb54b28a4b84efa17aead7a87c5e6a0da1aa1",
+          "mask_sha256": "ed46c94f55a68fe12e834b4e4590598166e70987b3120ea20fffed6eb3952b7f",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/015.png",
+          "source_background_sha256": "aecfc7d2a5348498ae9d431233cfb54b28a4b84efa17aead7a87c5e6a0da1aa1",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 16,
+          "image": "pose2/image/016.png",
+          "mask": "pose2/mask/016.png",
+          "image_sha256": "5cb91458010241cef39a237b8554ba8553fa238a325d7acf50021903597d50f4",
+          "mask_sha256": "a9c6ffb39a4ea945e60b632bc2d153cca2097ef30f3dcd57a139da4d839743f0",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/016.png",
+          "source_background_sha256": "5cb91458010241cef39a237b8554ba8553fa238a325d7acf50021903597d50f4",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 17,
+          "image": "pose2/image/017.png",
+          "mask": "pose2/mask/017.png",
+          "image_sha256": "a8ff006437d4d746faf96716395aafbdb6f6fd7e8cfa2e8a541cc007cb7180bb",
+          "mask_sha256": "81e70c8dfb8e4dd1ee14f675aebfc5968f718d775af71cb9930543993903de7f",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/017.png",
+          "source_background_sha256": "a8ff006437d4d746faf96716395aafbdb6f6fd7e8cfa2e8a541cc007cb7180bb",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 18,
+          "image": "pose2/image/018.png",
+          "mask": "pose2/mask/018.png",
+          "image_sha256": "ce2d85d1c087f2efc399b2c264c1e0f100125a7fcc672c96916c1f032301b765",
+          "mask_sha256": "d8893e0a6d1d62a806bd3aa513e72ae5a0ba426b11b0e9a087471614f4ce339e",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/018.png",
+          "source_background_sha256": "ce2d85d1c087f2efc399b2c264c1e0f100125a7fcc672c96916c1f032301b765",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 19,
+          "image": "pose2/image/019.png",
+          "mask": "pose2/mask/019.png",
+          "image_sha256": "0d8e79075eb3601c446c040b6a94ce1607480f51b649785e3376f26d7b29dad6",
+          "mask_sha256": "6a3454eb68a294af72a14e97250621a427a8dfea6296b56fc4e741467b5d8645",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/019.png",
+          "source_background_sha256": "0d8e79075eb3601c446c040b6a94ce1607480f51b649785e3376f26d7b29dad6",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 20,
+          "image": "pose2/image/020.png",
+          "mask": "pose2/mask/020.png",
+          "image_sha256": "3a453577460ca31565ca257ae401e03b4ba4e3a8c1a501f7144b248a754ae8a3",
+          "mask_sha256": "d6b7350e111cdaa286f75d00b6b835d4c1f60947ef7cfa985acea0ef6770ba90",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/020.png",
+          "source_background_sha256": "3a453577460ca31565ca257ae401e03b4ba4e3a8c1a501f7144b248a754ae8a3",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 21,
+          "image": "pose2/image/021.png",
+          "mask": "pose2/mask/021.png",
+          "image_sha256": "b109b1778520b34f346f6f1b86fd0b3289d9ecd0b26d698d1c108b1929f91f7b",
+          "mask_sha256": "388fcbf67754d2cb9baad2f5a7e07ef0db47234dde95fa2aa3148b68511c160f",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/021.png",
+          "source_background_sha256": "b109b1778520b34f346f6f1b86fd0b3289d9ecd0b26d698d1c108b1929f91f7b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 22,
+          "image": "pose2/image/022.png",
+          "mask": "pose2/mask/022.png",
+          "image_sha256": "a2789066d304a0f39ab5ab50d706fcb74566448bb4d38daa58b93379bef36c44",
+          "mask_sha256": "c8e83f9f6b4256010523114d5e56811d5f814479ea74a33634dee45752d2b735",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/022.png",
+          "source_background_sha256": "a2789066d304a0f39ab5ab50d706fcb74566448bb4d38daa58b93379bef36c44",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 23,
+          "image": "pose2/image/023.png",
+          "mask": "pose2/mask/023.png",
+          "image_sha256": "8ee56fdc8df7e19be637cb7d0919493081e39ac0b6ed6ad56ebe4f8dc4344d44",
+          "mask_sha256": "c542f6b2e2fda3a14d2b06c8cbd05eb03656ced5d26e0088fcdf36e6616bf4f7",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/023.png",
+          "source_background_sha256": "8ee56fdc8df7e19be637cb7d0919493081e39ac0b6ed6ad56ebe4f8dc4344d44",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 24,
+          "image": "pose2/image/024.png",
+          "mask": "pose2/mask/024.png",
+          "image_sha256": "c2751fa725534abffab59747e9564a32701fd7dd04ae48014d854dc5dfd02187",
+          "mask_sha256": "9d660726663b6deb58d56f284f9fc9082ce7fcd75a8b4964e902418b74d57c77",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/024.png",
+          "source_background_sha256": "c2751fa725534abffab59747e9564a32701fd7dd04ae48014d854dc5dfd02187",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 25,
+          "image": "pose2/image/025.png",
+          "mask": "pose2/mask/025.png",
+          "image_sha256": "f6d754601368b88bfcd0022bb92c33730f452ddb2ed4d9a044f698a5e0584ef2",
+          "mask_sha256": "2b04f40589deabcec730daf666c6bb3a738f5dbbb0e20b04984da6af74dda628",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/025.png",
+          "source_background_sha256": "f6d754601368b88bfcd0022bb92c33730f452ddb2ed4d9a044f698a5e0584ef2",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 26,
+          "image": "pose2/image/026.png",
+          "mask": "pose2/mask/026.png",
+          "image_sha256": "2e31ae10abe57f2e691bba516ed88e52ce9f6f0a0a723f663a03f04fdee0b44d",
+          "mask_sha256": "28ab35c45372406b92a1f64ea3f881d6cdbcc3aac4bc0704b540a4b0342c4a43",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/026.png",
+          "source_background_sha256": "2e31ae10abe57f2e691bba516ed88e52ce9f6f0a0a723f663a03f04fdee0b44d",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 27,
+          "image": "pose2/image/027.png",
+          "mask": "pose2/mask/027.png",
+          "image_sha256": "efa05a483782e4efce73ee1dd755d4a49c5dfa1cf5ebdf9582e1bd040be09e5f",
+          "mask_sha256": "db862dfee9a72538ac6524635c09257119bdd0da792a2b43a523e0b4cd7ab51d",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/027.png",
+          "source_background_sha256": "efa05a483782e4efce73ee1dd755d4a49c5dfa1cf5ebdf9582e1bd040be09e5f",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 28,
+          "image": "pose2/image/028.png",
+          "mask": "pose2/mask/028.png",
+          "image_sha256": "e16fc8e9df54e53b3ff1eecdad59cd5ef76c96de1eb445bc9865ec0ee9f8b300",
+          "mask_sha256": "18a936046ce40798ebd42b446697760f469dc92cb5b0c40fbd4e08c751b8db50",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/028.png",
+          "source_background_sha256": "e16fc8e9df54e53b3ff1eecdad59cd5ef76c96de1eb445bc9865ec0ee9f8b300",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 29,
+          "image": "pose2/image/029.png",
+          "mask": "pose2/mask/029.png",
+          "image_sha256": "b3815d193c5317c806aa0e7f77fb7ada5ff94162b099044652dd886529ad2d32",
+          "mask_sha256": "4ae60f3617f1de6451ec8f119e314c0df1357915d4aa1c00488c030f90369a65",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/029.png",
+          "source_background_sha256": "b3815d193c5317c806aa0e7f77fb7ada5ff94162b099044652dd886529ad2d32",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 30,
+          "image": "pose2/image/030.png",
+          "mask": "pose2/mask/030.png",
+          "image_sha256": "de11ce1dded91cec054fd1fd7ac3d1e805a342dd11a93430602a8ff9e7ace359",
+          "mask_sha256": "b4b1e41b4eca1526dc515c5f176cbb6d6229f78e4d46b3b2f99322015d3366a5",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/030.png",
+          "source_background_sha256": "de11ce1dded91cec054fd1fd7ac3d1e805a342dd11a93430602a8ff9e7ace359",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 31,
+          "image": "pose2/image/031.png",
+          "mask": "pose2/mask/031.png",
+          "image_sha256": "77fff86ea949bddb332de7fc9720de46b1d1d3f54ca3fcdb8c9f02ab963aef16",
+          "mask_sha256": "ad1f09e22a649d95cf1c1e66e79fe6f1de9b81b7180f3070e5021d00aa28cecb",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/031.png",
+          "source_background_sha256": "77fff86ea949bddb332de7fc9720de46b1d1d3f54ca3fcdb8c9f02ab963aef16",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 32,
+          "image": "pose2/image/032.png",
+          "mask": "pose2/mask/032.png",
+          "image_sha256": "4a71833b6e5cd577d5918ca35fa3fb79f6d2e39fe994d02df52dedc89550348b",
+          "mask_sha256": "14d260c22103b4ff6bf6910ad4b1a713c3b7ddd2c981ebec44ea804a0ff2b052",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/032.png",
+          "source_background_sha256": "4a71833b6e5cd577d5918ca35fa3fb79f6d2e39fe994d02df52dedc89550348b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 33,
+          "image": "pose2/image/033.png",
+          "mask": "pose2/mask/033.png",
+          "image_sha256": "f06bdac7b033afbfcdb31ae8a7b07149b4629c386a9ac31698a5287c6a53dc1a",
+          "mask_sha256": "bf534e1848988f3fa59a3cddd6a5a3050ed479ea99b3a07f8a37e4882f7054da",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/033.png",
+          "source_background_sha256": "f06bdac7b033afbfcdb31ae8a7b07149b4629c386a9ac31698a5287c6a53dc1a",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 34,
+          "image": "pose2/image/034.png",
+          "mask": "pose2/mask/034.png",
+          "image_sha256": "3dee71306d6537c9b45693e912d21d1384805cbe1d09165ba48cf9c797f82a07",
+          "mask_sha256": "f3bfd56c6e0d4a5508369b473d15bc52537a6ff4debcc5cee915ed16b44a7489",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/034.png",
+          "source_background_sha256": "3dee71306d6537c9b45693e912d21d1384805cbe1d09165ba48cf9c797f82a07",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 35,
+          "image": "pose2/image/035.png",
+          "mask": "pose2/mask/035.png",
+          "image_sha256": "ed34c40b09a509a67413f79f7b2f5e55b92dab7a87d8c456930ade717616deb0",
+          "mask_sha256": "c4311cb69f4c3e432354804c4d143d9d3c40a5fb25c8da32e898517bfbcd5321",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/035.png",
+          "source_background_sha256": "ed34c40b09a509a67413f79f7b2f5e55b92dab7a87d8c456930ade717616deb0",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 36,
+          "image": "pose2/image/036.png",
+          "mask": "pose2/mask/036.png",
+          "image_sha256": "3ba3ab46c90dbf432e43c72f7d38aa02fa96c30848bbf3e2f4c957da5d146ba2",
+          "mask_sha256": "5ac8bc266a73946bb4166dafff8134af7a38728dbb918805f290e6d32f2f35a7",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/036.png",
+          "source_background_sha256": "3ba3ab46c90dbf432e43c72f7d38aa02fa96c30848bbf3e2f4c957da5d146ba2",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 37,
+          "image": "pose2/image/037.png",
+          "mask": "pose2/mask/037.png",
+          "image_sha256": "2a68008ab171551d89fda358c038a29afb088066301d029796f0501be63c6abb",
+          "mask_sha256": "0804d85e3a40eb1a4a6153fbe9aa2022274112351ad0cbc4b5b66f98b5e11237",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/037.png",
+          "source_background_sha256": "2a68008ab171551d89fda358c038a29afb088066301d029796f0501be63c6abb",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 38,
+          "image": "pose2/image/038.png",
+          "mask": "pose2/mask/038.png",
+          "image_sha256": "42f325f57280bd42babca7124f801000940d05882046fd078e8a578d6b933740",
+          "mask_sha256": "578f05be4f692edd54af6503da49698b8a3efdbd78a2dd59fd2a62a4bc2af95f",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/038.png",
+          "source_background_sha256": "42f325f57280bd42babca7124f801000940d05882046fd078e8a578d6b933740",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 39,
+          "image": "pose2/image/039.png",
+          "mask": "pose2/mask/039.png",
+          "image_sha256": "0ae5a34d82c4593821a27c199d42cf101995276681b6dc95d1adef9d5815c5cd",
+          "mask_sha256": "a7451b0cba311113042f5eea31e5cde1540f9e7c4d83af2f501be8d9046f5e41",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/039.png",
+          "source_background_sha256": "0ae5a34d82c4593821a27c199d42cf101995276681b6dc95d1adef9d5815c5cd",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 40,
+          "image": "pose2/image/040.png",
+          "mask": "pose2/mask/040.png",
+          "image_sha256": "9c5d31399c47e5259fd600db3e587d81ff2d1e2b1535041cbc9c56f6c921ade6",
+          "mask_sha256": "99080d192ed14a35cb0c9333bb4c0e77f08c2fcaf33c1ffcc21e23dedc79cc39",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/040.png",
+          "source_background_sha256": "9c5d31399c47e5259fd600db3e587d81ff2d1e2b1535041cbc9c56f6c921ade6",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 41,
+          "image": "pose2/image/041.png",
+          "mask": "pose2/mask/041.png",
+          "image_sha256": "0acc2d20bf9145f0056b29cb063f4582189f550d35b47996d6e7ef5f1949398b",
+          "mask_sha256": "89eb04b5ffb2ce035e02046f3e5a26dc07937c9f0edee4457f464d54bec57cae",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/041.png",
+          "source_background_sha256": "0acc2d20bf9145f0056b29cb063f4582189f550d35b47996d6e7ef5f1949398b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 42,
+          "image": "pose2/image/042.png",
+          "mask": "pose2/mask/042.png",
+          "image_sha256": "ab81fd90cb5edc4d51340a9195fc6d95ca309c6b747cd35309e70d334af6e101",
+          "mask_sha256": "4f126d7b5e577cf0306808747ad61e2c3597fc6831f5860f0bdff4dd570bc491",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/042.png",
+          "source_background_sha256": "ab81fd90cb5edc4d51340a9195fc6d95ca309c6b747cd35309e70d334af6e101",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 43,
+          "image": "pose2/image/043.png",
+          "mask": "pose2/mask/043.png",
+          "image_sha256": "1ecd11dfc9431e22bfe1ca6edbf9204b717ef5459ff556aa1bba0d9de57705b2",
+          "mask_sha256": "1fbe971122ffe5c6177c921b82e180cecf37399ebceab1aa0b940284a99b9b0b",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/043.png",
+          "source_background_sha256": "1ecd11dfc9431e22bfe1ca6edbf9204b717ef5459ff556aa1bba0d9de57705b2",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 44,
+          "image": "pose2/image/044.png",
+          "mask": "pose2/mask/044.png",
+          "image_sha256": "e4e31cdad404669d195b56b67d400a8d807f21b48fd38c860426a4805fe129fb",
+          "mask_sha256": "9a86f7f51326f83ca2524719b64ddcd452dd1e18b53969516f63e1667799f80b",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/044.png",
+          "source_background_sha256": "e4e31cdad404669d195b56b67d400a8d807f21b48fd38c860426a4805fe129fb",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 45,
+          "image": "pose2/image/045.png",
+          "mask": "pose2/mask/045.png",
+          "image_sha256": "b8e8cbc36728c05055f16988b3c309277f680165a15e553fab353e3a625337b6",
+          "mask_sha256": "276f9b61ef5ed34fa0d80212ec0818e371eb73a93517db55c805aa70ec37c21c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/045.png",
+          "source_background_sha256": "b8e8cbc36728c05055f16988b3c309277f680165a15e553fab353e3a625337b6",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 46,
+          "image": "pose2/image/046.png",
+          "mask": "pose2/mask/046.png",
+          "image_sha256": "e2217226e052480d5546cdfac86bf6138e89d57be369f48563fa9dde93db8373",
+          "mask_sha256": "4215367f5735c34beb60b2607a740e64b0ca179131076894ad8b6bcbffb9c93c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/046.png",
+          "source_background_sha256": "e2217226e052480d5546cdfac86bf6138e89d57be369f48563fa9dde93db8373",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 47,
+          "image": "pose2/image/047.png",
+          "mask": "pose2/mask/047.png",
+          "image_sha256": "efc7869b91dd9284544d65f8b267d88281e9f761aa13e16942b722aa8d486834",
+          "mask_sha256": "6bc6f73db794508ff9e117aee9efbda5d934c38f345b62aefc0496055581e191",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/047.png",
+          "source_background_sha256": "efc7869b91dd9284544d65f8b267d88281e9f761aa13e16942b722aa8d486834",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 48,
+          "image": "pose2/image/048.png",
+          "mask": "pose2/mask/048.png",
+          "image_sha256": "8276885025a9a85552e79770befdac983f52f57a05d6ba4bc9d50d2260ae3b80",
+          "mask_sha256": "b3030cdebf50a591066d03590cb376e87709d6416c4c83a8cfae46bb83a5f906",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/048.png",
+          "source_background_sha256": "8276885025a9a85552e79770befdac983f52f57a05d6ba4bc9d50d2260ae3b80",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 49,
+          "image": "pose2/image/049.png",
+          "mask": "pose2/mask/049.png",
+          "image_sha256": "e20b187232663a2313d7e198338495bbe5dcd4e67ef163ada3f33bc424652d01",
+          "mask_sha256": "944feea688652e67f464d874be6064c759f9e51be6650add153c3f773314281b",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/049.png",
+          "source_background_sha256": "e20b187232663a2313d7e198338495bbe5dcd4e67ef163ada3f33bc424652d01",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 50,
+          "image": "pose2/image/050.png",
+          "mask": "pose2/mask/050.png",
+          "image_sha256": "b3cbe603228d68fdce887c945e0596488585ce2f2b717e62398e336db465964f",
+          "mask_sha256": "7fd8b00b90574bb18bae404f06ff53e7a0e79a1a432e8eb0991477e7d5b52b11",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/050.png",
+          "source_background_sha256": "b3cbe603228d68fdce887c945e0596488585ce2f2b717e62398e336db465964f",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 51,
+          "image": "pose2/image/051.png",
+          "mask": "pose2/mask/051.png",
+          "image_sha256": "020d882934e528a172c49dcebc412f473e7fbe4254f256858a510947a565f73a",
+          "mask_sha256": "480cd8a9aa8d8c47a04e0aa6552c5c2744c4dc3412b0a1e51989e2b7f368fa68",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/051.png",
+          "source_background_sha256": "020d882934e528a172c49dcebc412f473e7fbe4254f256858a510947a565f73a",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 52,
+          "image": "pose2/image/052.png",
+          "mask": "pose2/mask/052.png",
+          "image_sha256": "d6e547c8485925399b627f79aee6cc2f4b79d3172e04fb95626e987670fbe1e1",
+          "mask_sha256": "dff4cae2b869908be93e19681077af90f3f5f7a43ce7af6b40d2bd776eb2da88",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/052.png",
+          "source_background_sha256": "d6e547c8485925399b627f79aee6cc2f4b79d3172e04fb95626e987670fbe1e1",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 53,
+          "image": "pose2/image/053.png",
+          "mask": "pose2/mask/053.png",
+          "image_sha256": "13b0070565cc775c485607d4b269c0d58949608d0f89c2e0a0fd09dacfd7768c",
+          "mask_sha256": "2de698d70120c41bf37e59d1d269ab17400a38b5da21ff24d50406fefdb50905",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/053.png",
+          "source_background_sha256": "13b0070565cc775c485607d4b269c0d58949608d0f89c2e0a0fd09dacfd7768c",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 54,
+          "image": "pose2/image/054.png",
+          "mask": "pose2/mask/054.png",
+          "image_sha256": "9d23c1a802c75f5e4b7c1bdcf8a3ff731495e99d73bfcd2994dc4a9d74f647b5",
+          "mask_sha256": "e6aa3782eb644c4e5bfa19f724d7104be30710940b3a6a1dd25687af6857202f",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/054.png",
+          "source_background_sha256": "9d23c1a802c75f5e4b7c1bdcf8a3ff731495e99d73bfcd2994dc4a9d74f647b5",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 55,
+          "image": "pose2/image/055.png",
+          "mask": "pose2/mask/055.png",
+          "image_sha256": "4f985d4a49ee5ed7b606da65bc842d0061b584ea933895f5303b8979b1e7f3ef",
+          "mask_sha256": "568cf337016398df63f560f18fc7685743fd00fe414bdc357d59d0265e5c4773",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/055.png",
+          "source_background_sha256": "4f985d4a49ee5ed7b606da65bc842d0061b584ea933895f5303b8979b1e7f3ef",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 56,
+          "image": "pose2/image/056.png",
+          "mask": "pose2/mask/056.png",
+          "image_sha256": "4af0ba9fcd0bc4e6f7f6897a5cf662d3a2404868d30c7e82f3c107649b561264",
+          "mask_sha256": "cbc68fe49c74fb5f6fc2208b7c0b4452290ae37e8a97b149a34a9aece71a6f54",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/056.png",
+          "source_background_sha256": "4af0ba9fcd0bc4e6f7f6897a5cf662d3a2404868d30c7e82f3c107649b561264",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 57,
+          "image": "pose2/image/057.png",
+          "mask": "pose2/mask/057.png",
+          "image_sha256": "eebbab09c7242acc1c998b99dc620787a8f91dcb86aefb99efda4ce3a2aba56c",
+          "mask_sha256": "1b2d699174257c4417d4f3e3313559b0a8b1e026fe155b8fa454e76c654e107c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/057.png",
+          "source_background_sha256": "eebbab09c7242acc1c998b99dc620787a8f91dcb86aefb99efda4ce3a2aba56c",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 58,
+          "image": "pose2/image/058.png",
+          "mask": "pose2/mask/058.png",
+          "image_sha256": "a154992d5d5f76957b2ff8d97b65894df9fb26ceeec56b60a990e47692fbe814",
+          "mask_sha256": "3508c418e45c25301f898892735bd1f3207580618fe6086c5ede68be864fc63f",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/058.png",
+          "source_background_sha256": "a154992d5d5f76957b2ff8d97b65894df9fb26ceeec56b60a990e47692fbe814",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 59,
+          "image": "pose2/image/059.png",
+          "mask": "pose2/mask/059.png",
+          "image_sha256": "340cc0c889dea4282ec6bc499a8a6838279c467c51cd99c72842b5f92178e3d9",
+          "mask_sha256": "0b0ca533c15d29e442ddfcc333eba145e6cb8216dae1b78f443fec0433e234db",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose2/image/059.png",
+          "source_background_sha256": "340cc0c889dea4282ec6bc499a8a6838279c467c51cd99c72842b5f92178e3d9",
+          "retained_copy_matches_pre_move_manifest": true
+        }
+      ],
+      "dimensions": {
+        "1024x1024 RGB": 60
+      }
+    },
+    {
+      "pose": 3,
+      "image_count": 60,
+      "background_image_count": 60,
+      "source_background_directory": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image",
+      "camera_sha256": "5be342bffd3254cd15b357f8d04182f46e8f71977d951e253d03239c51fc4f8f",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose3/image/000.png",
+          "mask": "pose3/mask/000.png",
+          "image_sha256": "3616053bc15cf61648429d193efef4bdcb47175aec39e77543ffb22a272b5c16",
+          "mask_sha256": "13f0d2b1b308c88c8d1d5946d251dbeb33023b23c7289da8230daa3345171293",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/000.png",
+          "source_background_sha256": "3616053bc15cf61648429d193efef4bdcb47175aec39e77543ffb22a272b5c16",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 1,
+          "image": "pose3/image/001.png",
+          "mask": "pose3/mask/001.png",
+          "image_sha256": "24eeb07702d2400e7cc6d6cde3bc390d631f131382b5cee9721a9211faad35cf",
+          "mask_sha256": "b90b5535708631f8dae4dc279aaa3a6ff27b7e4b3b7fc5af2705591e6ac7a70d",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/001.png",
+          "source_background_sha256": "24eeb07702d2400e7cc6d6cde3bc390d631f131382b5cee9721a9211faad35cf",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 2,
+          "image": "pose3/image/002.png",
+          "mask": "pose3/mask/002.png",
+          "image_sha256": "aef501d159296193f8bfe0d8c49b5a9c39a10f3bb38973264f68d78f8f9c3a7e",
+          "mask_sha256": "011b647ab4d2cbdcc915f2425801bb901f9b454745d157c3fb8c8eb03732e5cf",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/002.png",
+          "source_background_sha256": "aef501d159296193f8bfe0d8c49b5a9c39a10f3bb38973264f68d78f8f9c3a7e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 3,
+          "image": "pose3/image/003.png",
+          "mask": "pose3/mask/003.png",
+          "image_sha256": "ec1873b444bd0e46426e318bd97dc43be8ef63da855ff5e961a2a8d561de1af3",
+          "mask_sha256": "62d57aff64195ba4538de240188451169ba265cd1d2c6078c57fbc99817d3610",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/003.png",
+          "source_background_sha256": "ec1873b444bd0e46426e318bd97dc43be8ef63da855ff5e961a2a8d561de1af3",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 4,
+          "image": "pose3/image/004.png",
+          "mask": "pose3/mask/004.png",
+          "image_sha256": "b8b6504e3580204d5f8e815491ea182d6a1cd907ea92ea65311595a9571e4de7",
+          "mask_sha256": "bf9713af86dc5bca5cc49be6bbf7c7e98efe9b9706cc20c84000ab1dd7bd7679",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/004.png",
+          "source_background_sha256": "b8b6504e3580204d5f8e815491ea182d6a1cd907ea92ea65311595a9571e4de7",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 5,
+          "image": "pose3/image/005.png",
+          "mask": "pose3/mask/005.png",
+          "image_sha256": "c6002a94e8177f0c3100600a303f915153fa0f88a62159ca14fa0a709c270011",
+          "mask_sha256": "21447198c7a29a01238665f9e2276d3124cb61b140ba10ee3654a58c802a68ef",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/005.png",
+          "source_background_sha256": "c6002a94e8177f0c3100600a303f915153fa0f88a62159ca14fa0a709c270011",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 6,
+          "image": "pose3/image/006.png",
+          "mask": "pose3/mask/006.png",
+          "image_sha256": "91814f43392869ec9afa94a4372b1b0fe535dd0e9289b7f44a13313449378a0d",
+          "mask_sha256": "4ce7a2d431d232034d40d395cc7df2ecb26ec6733671947a7cc7a7c5bbba9cdb",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/006.png",
+          "source_background_sha256": "91814f43392869ec9afa94a4372b1b0fe535dd0e9289b7f44a13313449378a0d",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 7,
+          "image": "pose3/image/007.png",
+          "mask": "pose3/mask/007.png",
+          "image_sha256": "d8ea43160d9db30c6ba1dad02307f37497334498935243f8f132e095e6e95c3e",
+          "mask_sha256": "0edbae5e03d01527e0ab4b72eedd1d4c744b9d15afd73501b914bdb1ee3c265a",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/007.png",
+          "source_background_sha256": "d8ea43160d9db30c6ba1dad02307f37497334498935243f8f132e095e6e95c3e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 8,
+          "image": "pose3/image/008.png",
+          "mask": "pose3/mask/008.png",
+          "image_sha256": "c97266e51d8b538c4075cd2a8d56de849c6de1ccdbd8e1108a197bd0b0ade52d",
+          "mask_sha256": "96f8d1223948c4af6b1ef3972c9b2fc6d1f48356f63443a9c22bd4032fcfee53",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/008.png",
+          "source_background_sha256": "c97266e51d8b538c4075cd2a8d56de849c6de1ccdbd8e1108a197bd0b0ade52d",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 9,
+          "image": "pose3/image/009.png",
+          "mask": "pose3/mask/009.png",
+          "image_sha256": "4ce7ee3bfe77066fb9ade1735241d62fb3d17eb8f99952ae71296766ae78e765",
+          "mask_sha256": "46e3fcd08f20672e4a934c15fd58c3845a1c9f6053e42f1650723a677067cfdf",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/009.png",
+          "source_background_sha256": "4ce7ee3bfe77066fb9ade1735241d62fb3d17eb8f99952ae71296766ae78e765",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 10,
+          "image": "pose3/image/010.png",
+          "mask": "pose3/mask/010.png",
+          "image_sha256": "96fbfc32735563e8c5ab4e656862cd1a6e7201572a3dd47fc8b56a21237efb54",
+          "mask_sha256": "8d017f6c4393ff542218e61bd10333745b31b1d4850e491d908091de6c92e25e",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/010.png",
+          "source_background_sha256": "96fbfc32735563e8c5ab4e656862cd1a6e7201572a3dd47fc8b56a21237efb54",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 11,
+          "image": "pose3/image/011.png",
+          "mask": "pose3/mask/011.png",
+          "image_sha256": "6e819ae353c923df87cee584842dd86a94c2c2481d35c301b963aecd9a247407",
+          "mask_sha256": "f3116aa215ecfa4590dac6ad05ec45068fea7c7d4b0de944954b805e57f15699",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/011.png",
+          "source_background_sha256": "6e819ae353c923df87cee584842dd86a94c2c2481d35c301b963aecd9a247407",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 12,
+          "image": "pose3/image/012.png",
+          "mask": "pose3/mask/012.png",
+          "image_sha256": "58e33cc270373aad51b25d27af4d0315db3ae4859e339ef8d7bed55ea5e53df0",
+          "mask_sha256": "e0f2c99fc37b85b4e03374863564e09cf20a6da4e1a4bd001b83af8257c1d23a",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/012.png",
+          "source_background_sha256": "58e33cc270373aad51b25d27af4d0315db3ae4859e339ef8d7bed55ea5e53df0",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 13,
+          "image": "pose3/image/013.png",
+          "mask": "pose3/mask/013.png",
+          "image_sha256": "0414f55050416a652a9180ecbdcb682c3ddcf9c5031e419a0da688c1e1377d97",
+          "mask_sha256": "85332504e87af28dd022c0e2521ff0bef1d6fbc361a7afff3dad6223efd1bd2e",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/013.png",
+          "source_background_sha256": "0414f55050416a652a9180ecbdcb682c3ddcf9c5031e419a0da688c1e1377d97",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 14,
+          "image": "pose3/image/014.png",
+          "mask": "pose3/mask/014.png",
+          "image_sha256": "f3c900ca93d5e29053938932351670b81d862dd2a8de6831db893558a77b6f6c",
+          "mask_sha256": "cd9694dc2fbc4ffdc8d0f45e4b842415e47565e8e16df7bcfff57d898bbfb9f0",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/014.png",
+          "source_background_sha256": "f3c900ca93d5e29053938932351670b81d862dd2a8de6831db893558a77b6f6c",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 15,
+          "image": "pose3/image/015.png",
+          "mask": "pose3/mask/015.png",
+          "image_sha256": "e4eb3f0c6ec2c28cdc46260765652c1c57f4207c7009867f1584e0b90ab3460e",
+          "mask_sha256": "6b3df8ce1af4d4eef9b0a5fbaca612b0d88a33ed6efcf3b4cfcdf7ea832d2ef3",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/015.png",
+          "source_background_sha256": "e4eb3f0c6ec2c28cdc46260765652c1c57f4207c7009867f1584e0b90ab3460e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 16,
+          "image": "pose3/image/016.png",
+          "mask": "pose3/mask/016.png",
+          "image_sha256": "8bb84f144d20f692d1c407a6c83ebaece912f2c272ff6232b5df4e3f57d499d9",
+          "mask_sha256": "0134a0f9e8205a9314693457b94d8d0864ae2d9edb66e9dbf6f20132fd69489f",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/016.png",
+          "source_background_sha256": "8bb84f144d20f692d1c407a6c83ebaece912f2c272ff6232b5df4e3f57d499d9",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 17,
+          "image": "pose3/image/017.png",
+          "mask": "pose3/mask/017.png",
+          "image_sha256": "20f643400ae64f7e7332fbc342bd5f8558a0980dc6fd25bf5da2e4c73fc03a46",
+          "mask_sha256": "5949ac69ac3e59f215422768d7809a7436fae0a9b924b57d31f17b0f54443fed",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/017.png",
+          "source_background_sha256": "20f643400ae64f7e7332fbc342bd5f8558a0980dc6fd25bf5da2e4c73fc03a46",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 18,
+          "image": "pose3/image/018.png",
+          "mask": "pose3/mask/018.png",
+          "image_sha256": "c87d93006cf90a66ea7b06ca73fafcfaab97e059cb889506f2bb38ade5097a81",
+          "mask_sha256": "25278ba7405bb95680ed4196e0d71d297d1ba64b8310c0e08f5847d996a7b585",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/018.png",
+          "source_background_sha256": "c87d93006cf90a66ea7b06ca73fafcfaab97e059cb889506f2bb38ade5097a81",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 19,
+          "image": "pose3/image/019.png",
+          "mask": "pose3/mask/019.png",
+          "image_sha256": "08500a9e299ccc355a82fa810ca2bb51de5243e7f859aa95548f21a389b90ee7",
+          "mask_sha256": "145f10640288ea260b801ce6de7888ee83f7eb7f6fe29beaeaa498e655ef549e",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/019.png",
+          "source_background_sha256": "08500a9e299ccc355a82fa810ca2bb51de5243e7f859aa95548f21a389b90ee7",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 20,
+          "image": "pose3/image/020.png",
+          "mask": "pose3/mask/020.png",
+          "image_sha256": "bea74d3bdff92107198966c7725fe1b9444020dbd3c1402502c44a2f998486fe",
+          "mask_sha256": "49281128042531705a7838fc99cd5399293ddeea1d0fa08e1342fa28f47784ec",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/020.png",
+          "source_background_sha256": "bea74d3bdff92107198966c7725fe1b9444020dbd3c1402502c44a2f998486fe",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 21,
+          "image": "pose3/image/021.png",
+          "mask": "pose3/mask/021.png",
+          "image_sha256": "4b866211a41192d5e791c87868d0712391006003a3292280365c8ce64e1dd3d3",
+          "mask_sha256": "144edb5b8d247732f2a916418e39d9ff38243e28fe980fe74be7c711502813bf",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/021.png",
+          "source_background_sha256": "4b866211a41192d5e791c87868d0712391006003a3292280365c8ce64e1dd3d3",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 22,
+          "image": "pose3/image/022.png",
+          "mask": "pose3/mask/022.png",
+          "image_sha256": "19f1fe9d111ce404b6aa1568803e2b53b2c095275f2dae9604199d1ad7a16031",
+          "mask_sha256": "7ec94225f45507c658978fa71065f791e667fda34b33e9373cc060f24b9fc7c5",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/022.png",
+          "source_background_sha256": "19f1fe9d111ce404b6aa1568803e2b53b2c095275f2dae9604199d1ad7a16031",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 23,
+          "image": "pose3/image/023.png",
+          "mask": "pose3/mask/023.png",
+          "image_sha256": "f516d8b48a0770f7df50bde236e9cfc26c51eee3ca648ea097f227d57db9de17",
+          "mask_sha256": "6f95fc0e888264c19d8d3b5be7f4439abf0eab4bc951fd13acb8b0bf5f74c49a",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/023.png",
+          "source_background_sha256": "f516d8b48a0770f7df50bde236e9cfc26c51eee3ca648ea097f227d57db9de17",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 24,
+          "image": "pose3/image/024.png",
+          "mask": "pose3/mask/024.png",
+          "image_sha256": "0da6520f667a368e991385081c29f820cdf23df86dcdc76fba8198545584ae06",
+          "mask_sha256": "ff0e419f6af9496e4cc49865b7cb22f3df858efba37651c362ef1e4e8f8557ba",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/024.png",
+          "source_background_sha256": "0da6520f667a368e991385081c29f820cdf23df86dcdc76fba8198545584ae06",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 25,
+          "image": "pose3/image/025.png",
+          "mask": "pose3/mask/025.png",
+          "image_sha256": "991e59d6425c197abb91b5e292a1a9dfd94798ed96ae74bc98dc4be833999508",
+          "mask_sha256": "7ae3c9ab1f53fbd58f885334cdeb0326792183c4487ad8425653adde343eea45",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/025.png",
+          "source_background_sha256": "991e59d6425c197abb91b5e292a1a9dfd94798ed96ae74bc98dc4be833999508",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 26,
+          "image": "pose3/image/026.png",
+          "mask": "pose3/mask/026.png",
+          "image_sha256": "78f06dd66eaf94d22f5caec66992b021f23090ee48bc63c67b9da8101423e4df",
+          "mask_sha256": "5c52013feb0b37f101768d5fa53fbd360d039228deecd20baed33bd122a05237",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/026.png",
+          "source_background_sha256": "78f06dd66eaf94d22f5caec66992b021f23090ee48bc63c67b9da8101423e4df",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 27,
+          "image": "pose3/image/027.png",
+          "mask": "pose3/mask/027.png",
+          "image_sha256": "aed0edc152a44bf2330274d087e403c4a6aabb5a3a770d1e3c36870ee77821c4",
+          "mask_sha256": "e6d67f009cfc6ec41d358ee20e2f84cc46d091d5982a29a8030cb7009c0208d4",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/027.png",
+          "source_background_sha256": "aed0edc152a44bf2330274d087e403c4a6aabb5a3a770d1e3c36870ee77821c4",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 28,
+          "image": "pose3/image/028.png",
+          "mask": "pose3/mask/028.png",
+          "image_sha256": "8e01893acbb1b2189f75cbefcf7a847308f2a4366fe96224b6e8162a0f622d8e",
+          "mask_sha256": "d1be8058cb8f305a5938502223dc801ee0cb767ba3b56a07e3968fc053a2bdd0",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/028.png",
+          "source_background_sha256": "8e01893acbb1b2189f75cbefcf7a847308f2a4366fe96224b6e8162a0f622d8e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 29,
+          "image": "pose3/image/029.png",
+          "mask": "pose3/mask/029.png",
+          "image_sha256": "a5182443398549d151ab47a433c73eed33b00a0f6bb75c17d31e788eaa871837",
+          "mask_sha256": "80009724b62026484dac0ffdc79770a7cb7786a5ae5986bd669eac0e17aa66d0",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/029.png",
+          "source_background_sha256": "a5182443398549d151ab47a433c73eed33b00a0f6bb75c17d31e788eaa871837",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 30,
+          "image": "pose3/image/030.png",
+          "mask": "pose3/mask/030.png",
+          "image_sha256": "93603ff6215e219b23e9d94f18f62f56f2bd52b673635805f71bf1569e294a32",
+          "mask_sha256": "7911e94ddcb504897fa5b709b2e567af0efa2314b791d9f6ef996d1000853fac",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/030.png",
+          "source_background_sha256": "93603ff6215e219b23e9d94f18f62f56f2bd52b673635805f71bf1569e294a32",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 31,
+          "image": "pose3/image/031.png",
+          "mask": "pose3/mask/031.png",
+          "image_sha256": "1b12823a6b05f31ccf389c81d7ba6bac4a50ba602e5dc5fc71bf213d8c1e4298",
+          "mask_sha256": "2ea9dec1c157638b5bf538baa040361478a8e08041ddf9460577e1e1c8a618af",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/031.png",
+          "source_background_sha256": "1b12823a6b05f31ccf389c81d7ba6bac4a50ba602e5dc5fc71bf213d8c1e4298",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 32,
+          "image": "pose3/image/032.png",
+          "mask": "pose3/mask/032.png",
+          "image_sha256": "b8802af2a63beb0cd40dccdd7218d38f4441350b937647dfcb50ac87e04c3e1e",
+          "mask_sha256": "936954c7b7e26d17f6dc7ad64a55d771f7caaf106225283a94d7acf424e5f0ec",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/032.png",
+          "source_background_sha256": "b8802af2a63beb0cd40dccdd7218d38f4441350b937647dfcb50ac87e04c3e1e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 33,
+          "image": "pose3/image/033.png",
+          "mask": "pose3/mask/033.png",
+          "image_sha256": "dede496bb2bd3ad56902ed83fba9061a7ddc3bf8e13ae97b8a105dca8cf8a9d8",
+          "mask_sha256": "249a4b5cce7e8c1b25289d6fddc804554d970036af992cf3b95252a7a1b121f2",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/033.png",
+          "source_background_sha256": "dede496bb2bd3ad56902ed83fba9061a7ddc3bf8e13ae97b8a105dca8cf8a9d8",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 34,
+          "image": "pose3/image/034.png",
+          "mask": "pose3/mask/034.png",
+          "image_sha256": "2987bda8785d2dce382b5803eff3fefc48abc78f1eb9ec9f26f6cd5106034914",
+          "mask_sha256": "8bbc26c91aa41b4ec2e24a1e0b35ac2bdeae6852285730cd7aec5a5db6071a2d",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/034.png",
+          "source_background_sha256": "2987bda8785d2dce382b5803eff3fefc48abc78f1eb9ec9f26f6cd5106034914",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 35,
+          "image": "pose3/image/035.png",
+          "mask": "pose3/mask/035.png",
+          "image_sha256": "2cd521263f8c7888744552b003759e265b0e8c1611b6790e9183439466cc6aea",
+          "mask_sha256": "0b62b8183c781150e367b8d6daa55aed2dd5610eb38c465e05ffe0d3d4451ea9",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/035.png",
+          "source_background_sha256": "2cd521263f8c7888744552b003759e265b0e8c1611b6790e9183439466cc6aea",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 36,
+          "image": "pose3/image/036.png",
+          "mask": "pose3/mask/036.png",
+          "image_sha256": "afdbc754df125f351de43f5e25827b8172b76a0ad18e86c0fde1aab32fef4349",
+          "mask_sha256": "4f5ed4ebf3638b7310a170db215be524a0a7229d2fcf09ee964d8aca002f1889",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/036.png",
+          "source_background_sha256": "afdbc754df125f351de43f5e25827b8172b76a0ad18e86c0fde1aab32fef4349",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 37,
+          "image": "pose3/image/037.png",
+          "mask": "pose3/mask/037.png",
+          "image_sha256": "baddb28aa90996a9d69a1f25cd7d210f87e1d9f49ed2969f34c7a9fc87b1a1e4",
+          "mask_sha256": "9152383a66ba55e7b100658dda7fb85003a9e22f3286b7b6c0f24d7f4f30b68c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/037.png",
+          "source_background_sha256": "baddb28aa90996a9d69a1f25cd7d210f87e1d9f49ed2969f34c7a9fc87b1a1e4",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 38,
+          "image": "pose3/image/038.png",
+          "mask": "pose3/mask/038.png",
+          "image_sha256": "e49fe303e5de1c5920e55bbfc4f11aaf6483c20da2351b9a31f90f5f1b4965f3",
+          "mask_sha256": "651b1dbda50fb6f47d2c14bb37592168bccd0ce2f64a6c4b017e360624f9d89c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/038.png",
+          "source_background_sha256": "e49fe303e5de1c5920e55bbfc4f11aaf6483c20da2351b9a31f90f5f1b4965f3",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 39,
+          "image": "pose3/image/039.png",
+          "mask": "pose3/mask/039.png",
+          "image_sha256": "cf14a9e27944b736e2b80443be81a588091cbea4636d8fee62117ed076331fd2",
+          "mask_sha256": "a59efd6591744e6b42d2cade0b9631ce4d4ef8bd10eb087c1c329e694a49d37b",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/039.png",
+          "source_background_sha256": "cf14a9e27944b736e2b80443be81a588091cbea4636d8fee62117ed076331fd2",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 40,
+          "image": "pose3/image/040.png",
+          "mask": "pose3/mask/040.png",
+          "image_sha256": "30e6e9dc1c01c8125f527021a8fce83cfc2bd50796ee41467436c55c39052bb4",
+          "mask_sha256": "72f38a18427651b3abd0440a6725cfeb7518bf3274b1f6a8395f26bc040ece9f",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/040.png",
+          "source_background_sha256": "30e6e9dc1c01c8125f527021a8fce83cfc2bd50796ee41467436c55c39052bb4",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 41,
+          "image": "pose3/image/041.png",
+          "mask": "pose3/mask/041.png",
+          "image_sha256": "9cad32ea65aa3682cf09c40179fe0d98b0185aa8ad93c521b19d235304f7d392",
+          "mask_sha256": "e4048a27d808809c4b49fa5225d9fe04672286421806caa54fcac0a1f63c66ee",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/041.png",
+          "source_background_sha256": "9cad32ea65aa3682cf09c40179fe0d98b0185aa8ad93c521b19d235304f7d392",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 42,
+          "image": "pose3/image/042.png",
+          "mask": "pose3/mask/042.png",
+          "image_sha256": "ef925aab46f0920f12e562934b3b4eded3e8416e647754c4a2a919e6434c6e59",
+          "mask_sha256": "a812d92246f06afea6a8b9f4280c905f284f102ea39ad1c96decd02a7c279880",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/042.png",
+          "source_background_sha256": "ef925aab46f0920f12e562934b3b4eded3e8416e647754c4a2a919e6434c6e59",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 43,
+          "image": "pose3/image/043.png",
+          "mask": "pose3/mask/043.png",
+          "image_sha256": "7760e2c0e815519e8ba62b43a8b76a320fb4cdac18984f24df031364fd2774fb",
+          "mask_sha256": "440159f536537bfd164d13637095c856283b6f5623bd2459e60c7388fd810d45",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/043.png",
+          "source_background_sha256": "7760e2c0e815519e8ba62b43a8b76a320fb4cdac18984f24df031364fd2774fb",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 44,
+          "image": "pose3/image/044.png",
+          "mask": "pose3/mask/044.png",
+          "image_sha256": "97fe318b0f33dd6bfe59b9bc1170f28f3e692beae4d080a816deec6d612f2172",
+          "mask_sha256": "294dc4f1ab2016b79eadc7eedd13f57c233af439292dea7333c9d87c46d54b58",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/044.png",
+          "source_background_sha256": "97fe318b0f33dd6bfe59b9bc1170f28f3e692beae4d080a816deec6d612f2172",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 45,
+          "image": "pose3/image/045.png",
+          "mask": "pose3/mask/045.png",
+          "image_sha256": "3c9bee74e5193346f1373e0c80e8c3d2c419a276640c6e0e2f895bda7fa27220",
+          "mask_sha256": "b098644caf02d793629756fc9743b2dcb3da6752658cf12b35a3d428afbbcfa0",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/045.png",
+          "source_background_sha256": "3c9bee74e5193346f1373e0c80e8c3d2c419a276640c6e0e2f895bda7fa27220",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 46,
+          "image": "pose3/image/046.png",
+          "mask": "pose3/mask/046.png",
+          "image_sha256": "f4342452b944b4eb9b4d716c33c4735551e4572642fcce740a416a3d13d19d6b",
+          "mask_sha256": "9e96342e2df02ee813b09a5eedf6af70ff721676d26e0d94362a6fc9e9ca5b47",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/046.png",
+          "source_background_sha256": "f4342452b944b4eb9b4d716c33c4735551e4572642fcce740a416a3d13d19d6b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 47,
+          "image": "pose3/image/047.png",
+          "mask": "pose3/mask/047.png",
+          "image_sha256": "1371e4635e36c26ba72bb5b5f2f07719f1dbbea59b5be3c746b055ec4f189573",
+          "mask_sha256": "84953f88ecc5849eac95432bd241ed75403fddc77d531acfe4d7e4b3eae4ba23",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/047.png",
+          "source_background_sha256": "1371e4635e36c26ba72bb5b5f2f07719f1dbbea59b5be3c746b055ec4f189573",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 48,
+          "image": "pose3/image/048.png",
+          "mask": "pose3/mask/048.png",
+          "image_sha256": "f3c9d495327a7fff12c6a4b3dc02f8ab5cdbdcb0dd27fce8e7d8176c6e533d39",
+          "mask_sha256": "316a8b02ad6135498c849c0e19872f74e2fe5be893a6e3c16d7fe105274a00d7",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/048.png",
+          "source_background_sha256": "f3c9d495327a7fff12c6a4b3dc02f8ab5cdbdcb0dd27fce8e7d8176c6e533d39",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 49,
+          "image": "pose3/image/049.png",
+          "mask": "pose3/mask/049.png",
+          "image_sha256": "ad72923cdb855d5e562ace23f33bc77360c663584b0ce9336a17fdc77fbd12b8",
+          "mask_sha256": "1b1c55ef959db1d38ca410f25ae55337a9fc09c317f2ff8ecf19826875c66754",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/049.png",
+          "source_background_sha256": "ad72923cdb855d5e562ace23f33bc77360c663584b0ce9336a17fdc77fbd12b8",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 50,
+          "image": "pose3/image/050.png",
+          "mask": "pose3/mask/050.png",
+          "image_sha256": "e8e8fdd67c1e4da84a5503f21f5b73ac7753a54ecf22ba734e8177fe463a3c28",
+          "mask_sha256": "7fa007d1980e633b68bc441f5da7d988980a7e27c939c3cea2830011f221a7cf",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/050.png",
+          "source_background_sha256": "e8e8fdd67c1e4da84a5503f21f5b73ac7753a54ecf22ba734e8177fe463a3c28",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 51,
+          "image": "pose3/image/051.png",
+          "mask": "pose3/mask/051.png",
+          "image_sha256": "ce41df219e7bb25104eb90a51e512708d9afa92f00c86088f932777a1eee0f91",
+          "mask_sha256": "d1006baccbe569d83251eb391db7c6ac801f53e5fc063559f8ae9fd4ca34c306",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/051.png",
+          "source_background_sha256": "ce41df219e7bb25104eb90a51e512708d9afa92f00c86088f932777a1eee0f91",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 52,
+          "image": "pose3/image/052.png",
+          "mask": "pose3/mask/052.png",
+          "image_sha256": "ce00c65dcc37f03d2ecc07be17df7e91fa942b071a88f4b96b43434148f928ac",
+          "mask_sha256": "fea00f6aa685dfdf245cf4c38b21297d6f64aea626ffa2625d7cb7213ed67e72",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/052.png",
+          "source_background_sha256": "ce00c65dcc37f03d2ecc07be17df7e91fa942b071a88f4b96b43434148f928ac",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 53,
+          "image": "pose3/image/053.png",
+          "mask": "pose3/mask/053.png",
+          "image_sha256": "5cb9757e7e827e2120d32f54bf31ec14cb127510bff25effb505261dc52a933e",
+          "mask_sha256": "f69cb0bbf8862c4231d97b6ff82c4565e181a07210e5b8ca839382f751f80049",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/053.png",
+          "source_background_sha256": "5cb9757e7e827e2120d32f54bf31ec14cb127510bff25effb505261dc52a933e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 54,
+          "image": "pose3/image/054.png",
+          "mask": "pose3/mask/054.png",
+          "image_sha256": "27bba81c0a6503617b9c7dce5e945e09088e17c2baa24bd8622244e5e9ee7426",
+          "mask_sha256": "d9bc3ac33d0befd24105697c7267d5747dc00a64b5e085b2ae2e5b639e5cd354",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/054.png",
+          "source_background_sha256": "27bba81c0a6503617b9c7dce5e945e09088e17c2baa24bd8622244e5e9ee7426",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 55,
+          "image": "pose3/image/055.png",
+          "mask": "pose3/mask/055.png",
+          "image_sha256": "8e053517daeac31e17de91167ef511b3379bc9dc8b5b5f1fd38556754bc8051d",
+          "mask_sha256": "63013a6f673fa0f16ba16136bbe2aa272d0dffe2bf17906b97f13ce20e838bc7",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/055.png",
+          "source_background_sha256": "8e053517daeac31e17de91167ef511b3379bc9dc8b5b5f1fd38556754bc8051d",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 56,
+          "image": "pose3/image/056.png",
+          "mask": "pose3/mask/056.png",
+          "image_sha256": "8e3cfde833094c93c6b70466e8b2fd46e5fbada8ceca1093345661c01a4f0eea",
+          "mask_sha256": "7a6d965d7e3114a4d19d77014ca08852903400e5f4db7b9266d0b38ac35ddbca",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/056.png",
+          "source_background_sha256": "8e3cfde833094c93c6b70466e8b2fd46e5fbada8ceca1093345661c01a4f0eea",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 57,
+          "image": "pose3/image/057.png",
+          "mask": "pose3/mask/057.png",
+          "image_sha256": "648888f7cb9a69b3b394a1bbe7cd85722a5d267b43b12dd1025a27894504a594",
+          "mask_sha256": "5fa3b0920ceb1b953eb386de289e17e99aecd6d38be5366d582b68af674a9f46",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/057.png",
+          "source_background_sha256": "648888f7cb9a69b3b394a1bbe7cd85722a5d267b43b12dd1025a27894504a594",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 58,
+          "image": "pose3/image/058.png",
+          "mask": "pose3/mask/058.png",
+          "image_sha256": "050da0389ec31b26a7402759075c8c990b850b400ad25078d6597357ab351607",
+          "mask_sha256": "1f0e2165c2e09663894a1ba05a39227dbed3379d3319724a7918c4450e249dc0",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/058.png",
+          "source_background_sha256": "050da0389ec31b26a7402759075c8c990b850b400ad25078d6597357ab351607",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 59,
+          "image": "pose3/image/059.png",
+          "mask": "pose3/mask/059.png",
+          "image_sha256": "2fbfc80713843f6360490459562a72a18ca0f38ebe61c52266d1400e2bac3799",
+          "mask_sha256": "8aac1c0a2806534ef02a8a234140bd58ade95e5303f11de82db957040ee87eba",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/guardian/pose3/image/059.png",
+          "source_background_sha256": "2fbfc80713843f6360490459562a72a18ca0f38ebe61c52266d1400e2bac3799",
+          "retained_copy_matches_pre_move_manifest": true
+        }
+      ],
+      "dimensions": {
+        "1024x1024 RGB": 60
+      }
+    }
+  ],
+  "dataset_version": "background_inputs_20260929",
+  "display_name": "Guardian",
+  "source_prefix": "Gardian",
+  "version_note": "Original Gardian 60/60/60 frames retained. Background images recovered from raw_video/realworld_datasets_2/sliced_images_sliced; camera matrices and foreground pixels verified exactly equal.",
+  "ground_truth": "No independently measured registration RT/mesh GT provided; predictions are not GT.",
+  "source_availability_note": "E:/PoseFusionExp/real_world/background_recovered_20260929 no longer present at final packaging. Retained staged images verified byte-for-byte against manifest recorded before this external source-path change. Recovery provenance retained."
+}

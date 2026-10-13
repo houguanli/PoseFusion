@@ -1,0 +1,1130 @@
+{
+  "case_id": "seal",
+  "paper_label": "OBB ambiguity failure (synthetic)",
+  "domain": "synthetic",
+  "status": "complete_background",
+  "poses": [
+    {
+      "pose": 1,
+      "image_count": 40,
+      "background_image_count": 40,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image",
+      "camera_sha256": "755ed1489439fff62d2b97ad2a9481288e9aec002d6e4119632644d7f7b01d4f",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose1/image/000.png",
+          "mask": "pose1/mask/000.png",
+          "image_sha256": "76e3a9af02adf3f3ae8dade8db007289c4c2aba4d9b1bdf6ba8e90c7cf6084bc",
+          "mask_sha256": "ce76f761871410dec85fb8408248b2b76c8fb751b9a7464c2676b644c833fa5b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\000.png",
+          "source_background_sha256": "76e3a9af02adf3f3ae8dade8db007289c4c2aba4d9b1bdf6ba8e90c7cf6084bc"
+        },
+        {
+          "index": 1,
+          "image": "pose1/image/001.png",
+          "mask": "pose1/mask/001.png",
+          "image_sha256": "a82ff55b165659d6806ce5f2c859b3ad3c18c9ceb5c34be83fbee4f7d7c5edb4",
+          "mask_sha256": "4e8c4822cbddbc900428e6ed2cf32430165bf78ebf2f9676d469be41ff29ffeb",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\001.png",
+          "source_background_sha256": "a82ff55b165659d6806ce5f2c859b3ad3c18c9ceb5c34be83fbee4f7d7c5edb4"
+        },
+        {
+          "index": 2,
+          "image": "pose1/image/002.png",
+          "mask": "pose1/mask/002.png",
+          "image_sha256": "6553d23e8e2ef375b4338cd1e3361a9c71d81108dfb812fb103d4779e7628436",
+          "mask_sha256": "987515fc8bdcef85cc7e69b5fecfa420c337500285a8f5644fd78a3a79b8d318",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\002.png",
+          "source_background_sha256": "6553d23e8e2ef375b4338cd1e3361a9c71d81108dfb812fb103d4779e7628436"
+        },
+        {
+          "index": 3,
+          "image": "pose1/image/003.png",
+          "mask": "pose1/mask/003.png",
+          "image_sha256": "f1eeb3ab2a6371a079f9a0e49ac203f70c21c8e1f7a41e9b7a181ff56c58cdaa",
+          "mask_sha256": "b2b8ef4c8d2e6675f501f4591267b9388b8308a8d2ec144bb208b9df71d2c4cc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\003.png",
+          "source_background_sha256": "f1eeb3ab2a6371a079f9a0e49ac203f70c21c8e1f7a41e9b7a181ff56c58cdaa"
+        },
+        {
+          "index": 4,
+          "image": "pose1/image/004.png",
+          "mask": "pose1/mask/004.png",
+          "image_sha256": "ddcec855dbeaa1038495a6bdcec1f899f0a01c1cebc378ad02d9998ac4f6a26e",
+          "mask_sha256": "d4ce7bfe455740cd7eac83236120685aea37ba9327d93451366dff0dafe668bc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\004.png",
+          "source_background_sha256": "ddcec855dbeaa1038495a6bdcec1f899f0a01c1cebc378ad02d9998ac4f6a26e"
+        },
+        {
+          "index": 5,
+          "image": "pose1/image/005.png",
+          "mask": "pose1/mask/005.png",
+          "image_sha256": "e6da43d67230194427278fd8e1362867663fae1f8597b4c30d185b33447b64af",
+          "mask_sha256": "6d1bf878ce3a93f9cb6edddd1ce3cbe1cf79cf7d43975d010eed9dc060eb12b9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\005.png",
+          "source_background_sha256": "e6da43d67230194427278fd8e1362867663fae1f8597b4c30d185b33447b64af"
+        },
+        {
+          "index": 6,
+          "image": "pose1/image/006.png",
+          "mask": "pose1/mask/006.png",
+          "image_sha256": "18d8aafbb4cfb57d3d4db5469ed8effa1bc5b87f9f4d86554af4fa155b0a491a",
+          "mask_sha256": "f37ce7a07cf49a8853a48db9aba0ffc7b7341bd90c1163c887956ec746fa1656",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\006.png",
+          "source_background_sha256": "18d8aafbb4cfb57d3d4db5469ed8effa1bc5b87f9f4d86554af4fa155b0a491a"
+        },
+        {
+          "index": 7,
+          "image": "pose1/image/007.png",
+          "mask": "pose1/mask/007.png",
+          "image_sha256": "e6ef3c9a0da8e7cb2e1933b6a5c5f7e487e64512b7574ea85cd6051a8c1375ff",
+          "mask_sha256": "8163ab584de8881a0e6c3a5976bad6a5a5dd28195c2217b39812e15e739ee6e8",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\007.png",
+          "source_background_sha256": "e6ef3c9a0da8e7cb2e1933b6a5c5f7e487e64512b7574ea85cd6051a8c1375ff"
+        },
+        {
+          "index": 8,
+          "image": "pose1/image/008.png",
+          "mask": "pose1/mask/008.png",
+          "image_sha256": "16e2ce8ac6d9d8588cfe193eb2172b612a90b9b636ec731453b24d57d07ac0a2",
+          "mask_sha256": "37b40907a0e4fca78d967c327eff418d215252652e9a4313721e06819d8b77ac",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\008.png",
+          "source_background_sha256": "16e2ce8ac6d9d8588cfe193eb2172b612a90b9b636ec731453b24d57d07ac0a2"
+        },
+        {
+          "index": 9,
+          "image": "pose1/image/009.png",
+          "mask": "pose1/mask/009.png",
+          "image_sha256": "34fe68989ab76e0651e7fdfa95a0c31b11c88fd9003e69187d25764753bd7b3f",
+          "mask_sha256": "d8178df20b87bf2faac84b3903b26ce30ac805dc32e7b97fc1a6d1620e490b37",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\009.png",
+          "source_background_sha256": "34fe68989ab76e0651e7fdfa95a0c31b11c88fd9003e69187d25764753bd7b3f"
+        },
+        {
+          "index": 10,
+          "image": "pose1/image/010.png",
+          "mask": "pose1/mask/010.png",
+          "image_sha256": "a3a5006caf6b685327e45576111dfa8a37d401b0a5eb6b99d3ed32ebc5ab17ca",
+          "mask_sha256": "bd55c7f2a4610db779aa93abe286bebf55f3135a27c5f12e8f5961f8cfafe0a6",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\010.png",
+          "source_background_sha256": "a3a5006caf6b685327e45576111dfa8a37d401b0a5eb6b99d3ed32ebc5ab17ca"
+        },
+        {
+          "index": 11,
+          "image": "pose1/image/011.png",
+          "mask": "pose1/mask/011.png",
+          "image_sha256": "aadf834fc55bba2059ac7fe66aa99084eb3b4d80bb535f63e279ee5384a76677",
+          "mask_sha256": "23a0453c71f784c9ce0160db500ec56a74b484cc4ed480519ed83f39e3e352c8",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\011.png",
+          "source_background_sha256": "aadf834fc55bba2059ac7fe66aa99084eb3b4d80bb535f63e279ee5384a76677"
+        },
+        {
+          "index": 12,
+          "image": "pose1/image/012.png",
+          "mask": "pose1/mask/012.png",
+          "image_sha256": "395b256508301aac72b2e2e0be932c96204ff4d868ebb95b468e3c87deb205ec",
+          "mask_sha256": "5b575d57d67620842686eeb3aa9f12dbdfb1221db6b4479a8124fd3f3b52ff53",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\012.png",
+          "source_background_sha256": "395b256508301aac72b2e2e0be932c96204ff4d868ebb95b468e3c87deb205ec"
+        },
+        {
+          "index": 13,
+          "image": "pose1/image/013.png",
+          "mask": "pose1/mask/013.png",
+          "image_sha256": "bc00d8e8701b633ba60165c97af47b6f5c2bff91c5afbabe1939cd6143e36720",
+          "mask_sha256": "f2436f9e8c2e9c2cc2d5424ba4feb4350058d7f7288d7d842651ea53384371a9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\013.png",
+          "source_background_sha256": "bc00d8e8701b633ba60165c97af47b6f5c2bff91c5afbabe1939cd6143e36720"
+        },
+        {
+          "index": 14,
+          "image": "pose1/image/014.png",
+          "mask": "pose1/mask/014.png",
+          "image_sha256": "66394e372012e5832a551882efe9562fc0e3bb1925af129825f74f4637bd9ba3",
+          "mask_sha256": "54d0fc969b51c9cacb7023389952161c6bd9b7578dafd57294104f3764e49e22",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\014.png",
+          "source_background_sha256": "66394e372012e5832a551882efe9562fc0e3bb1925af129825f74f4637bd9ba3"
+        },
+        {
+          "index": 15,
+          "image": "pose1/image/015.png",
+          "mask": "pose1/mask/015.png",
+          "image_sha256": "a66e75894c6dff4cb3eaaec5848dcc49321b812d12cba0c7147e1e087722daf0",
+          "mask_sha256": "58e707eaac9f44477f5d3da5eb1d543825100d4b6718d873557d9fdf4fe06c2d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\015.png",
+          "source_background_sha256": "a66e75894c6dff4cb3eaaec5848dcc49321b812d12cba0c7147e1e087722daf0"
+        },
+        {
+          "index": 16,
+          "image": "pose1/image/016.png",
+          "mask": "pose1/mask/016.png",
+          "image_sha256": "cb8946a3dee50482492d7c08d7e0cadf23178549a46cdb8d3c6ca4d53af34b63",
+          "mask_sha256": "cecda84e4ac251e46fbedf712d20fd48c0a881219acc6320600d919dbf2463f2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\016.png",
+          "source_background_sha256": "cb8946a3dee50482492d7c08d7e0cadf23178549a46cdb8d3c6ca4d53af34b63"
+        },
+        {
+          "index": 17,
+          "image": "pose1/image/017.png",
+          "mask": "pose1/mask/017.png",
+          "image_sha256": "8ec75538e944dd73c17359972827ca42fcd618702324e3dd7f10ae0e162b9682",
+          "mask_sha256": "1d8e2a97f615949f03c5a334a46d8bd44eb153eaf0aec3e6414177cb2075414b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\017.png",
+          "source_background_sha256": "8ec75538e944dd73c17359972827ca42fcd618702324e3dd7f10ae0e162b9682"
+        },
+        {
+          "index": 18,
+          "image": "pose1/image/018.png",
+          "mask": "pose1/mask/018.png",
+          "image_sha256": "70d9308113560782f0152fc07d1c67926357b91729c93a80b7d7ed79db99feab",
+          "mask_sha256": "f64276c811fa9e7ca136297161aa94ae398a033f1cf3ced6ed5ae087b6973ee6",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\018.png",
+          "source_background_sha256": "70d9308113560782f0152fc07d1c67926357b91729c93a80b7d7ed79db99feab"
+        },
+        {
+          "index": 19,
+          "image": "pose1/image/019.png",
+          "mask": "pose1/mask/019.png",
+          "image_sha256": "1de80a900b4e9262ccc51e6464391908d17b59d2a382d8c42cf828ae1d99ee04",
+          "mask_sha256": "30cd8614f104574c15ba7dc623b6897a7130051be766d39b56439c914eb8a403",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\019.png",
+          "source_background_sha256": "1de80a900b4e9262ccc51e6464391908d17b59d2a382d8c42cf828ae1d99ee04"
+        },
+        {
+          "index": 20,
+          "image": "pose1/image/020.png",
+          "mask": "pose1/mask/020.png",
+          "image_sha256": "30de4f4dc7d9f9e3cad85344af5ac345d350ae9a27acfe5ee315878b6764c7c5",
+          "mask_sha256": "bbdb579ef8f75ee929ba0a8ef0d10d38cc9373a497e55494179caa9599f26002",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\020.png",
+          "source_background_sha256": "30de4f4dc7d9f9e3cad85344af5ac345d350ae9a27acfe5ee315878b6764c7c5"
+        },
+        {
+          "index": 21,
+          "image": "pose1/image/021.png",
+          "mask": "pose1/mask/021.png",
+          "image_sha256": "6792d363970938b1d59a1633b096f9a4cadcf99c323b75ae6201756b51aa0634",
+          "mask_sha256": "f990a7c5b85d2a88b9b5f9ff249ccabd7507f74c190d7ac14ab8ee09e706c249",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\021.png",
+          "source_background_sha256": "6792d363970938b1d59a1633b096f9a4cadcf99c323b75ae6201756b51aa0634"
+        },
+        {
+          "index": 22,
+          "image": "pose1/image/022.png",
+          "mask": "pose1/mask/022.png",
+          "image_sha256": "292ce2d0dd3cbdaf6533039d9d51f69cab2289641fee250e0dabf13a03b927a6",
+          "mask_sha256": "53688477bff30545cddebb3ca75dc32afde5877088ee1de89823ed8b2c9156f1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\022.png",
+          "source_background_sha256": "292ce2d0dd3cbdaf6533039d9d51f69cab2289641fee250e0dabf13a03b927a6"
+        },
+        {
+          "index": 23,
+          "image": "pose1/image/023.png",
+          "mask": "pose1/mask/023.png",
+          "image_sha256": "f26319f15c55f31d64d8839123e5c34570ced43c9f33a522c8e36c5debcf1a71",
+          "mask_sha256": "2e18d505225bc1c7e16e86d8d78c91f42cd277ff3bc5a9becaa6b1d79b6520e5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\023.png",
+          "source_background_sha256": "f26319f15c55f31d64d8839123e5c34570ced43c9f33a522c8e36c5debcf1a71"
+        },
+        {
+          "index": 24,
+          "image": "pose1/image/024.png",
+          "mask": "pose1/mask/024.png",
+          "image_sha256": "e2f2f4b56ba531773a22c1a5c1f5d1491bf680082fbde1d03ffe07598c57821b",
+          "mask_sha256": "0879ca0c391ce50c99dce0a2565c99c6f028e0617e36d2048307a413782b38cd",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\024.png",
+          "source_background_sha256": "e2f2f4b56ba531773a22c1a5c1f5d1491bf680082fbde1d03ffe07598c57821b"
+        },
+        {
+          "index": 25,
+          "image": "pose1/image/025.png",
+          "mask": "pose1/mask/025.png",
+          "image_sha256": "0f655091ab84dd33653586373d809b2987f2d84e58d174726eadc6c9803f582f",
+          "mask_sha256": "e87f68e0780ea276ddd0ebdf55e890fa69d431e6caff0d64e56ba724e33c49c2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\025.png",
+          "source_background_sha256": "0f655091ab84dd33653586373d809b2987f2d84e58d174726eadc6c9803f582f"
+        },
+        {
+          "index": 26,
+          "image": "pose1/image/026.png",
+          "mask": "pose1/mask/026.png",
+          "image_sha256": "1da8d231519ff1186986bdca562f7ca05627761f4dbb7e2aef35663c4b00d966",
+          "mask_sha256": "6b1d8f28d42b7f601a667f0cbf96f8e78c4a7bfe2bfe5248684d957b604b8e2f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\026.png",
+          "source_background_sha256": "1da8d231519ff1186986bdca562f7ca05627761f4dbb7e2aef35663c4b00d966"
+        },
+        {
+          "index": 27,
+          "image": "pose1/image/027.png",
+          "mask": "pose1/mask/027.png",
+          "image_sha256": "69be2a7feda697cd01a795d24fddfa1a7a67298320c2374b41cc9fbe11d6a293",
+          "mask_sha256": "abfecfa27fc32d46e466b22cd1b3af87dc4ea6d4dd7c27c12b81c8a1d0e3ed70",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\027.png",
+          "source_background_sha256": "69be2a7feda697cd01a795d24fddfa1a7a67298320c2374b41cc9fbe11d6a293"
+        },
+        {
+          "index": 28,
+          "image": "pose1/image/028.png",
+          "mask": "pose1/mask/028.png",
+          "image_sha256": "f394e9b23e6ebc7826f3d55fbbcc06bfc480b15e9f1e7c7f03bc1426f3c139b1",
+          "mask_sha256": "908989ac854428b6f6d257249d5094831136b5d6b93f783a33659147f7ba9cb2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\028.png",
+          "source_background_sha256": "f394e9b23e6ebc7826f3d55fbbcc06bfc480b15e9f1e7c7f03bc1426f3c139b1"
+        },
+        {
+          "index": 29,
+          "image": "pose1/image/029.png",
+          "mask": "pose1/mask/029.png",
+          "image_sha256": "e8ebc6c5e76fe9c38e4c3ae671ffda9f85c3e551ce540c8a9d686efa1db9bb1a",
+          "mask_sha256": "19ea45a646ed8096ab932e5ad008951af03ac57d4953781932dc814f03d34064",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\029.png",
+          "source_background_sha256": "e8ebc6c5e76fe9c38e4c3ae671ffda9f85c3e551ce540c8a9d686efa1db9bb1a"
+        },
+        {
+          "index": 30,
+          "image": "pose1/image/030.png",
+          "mask": "pose1/mask/030.png",
+          "image_sha256": "5a45e4a9b7a3fe40d3802568b03da2ff6e04a317a72cca324ebd09c60f1acc03",
+          "mask_sha256": "2e3176cf017108cd7f7555380cfd2f20c92775f14bdb4a5d5a51e73c54bd1ef9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\030.png",
+          "source_background_sha256": "5a45e4a9b7a3fe40d3802568b03da2ff6e04a317a72cca324ebd09c60f1acc03"
+        },
+        {
+          "index": 31,
+          "image": "pose1/image/031.png",
+          "mask": "pose1/mask/031.png",
+          "image_sha256": "208a7d5e84d847919fb0f414571c1a86a2f1a0947f248f242372dbae4fd20865",
+          "mask_sha256": "def98457e2ea3387b04d09152f35c87b4acdd065b878cee69d3e2874c8f537b0",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\031.png",
+          "source_background_sha256": "208a7d5e84d847919fb0f414571c1a86a2f1a0947f248f242372dbae4fd20865"
+        },
+        {
+          "index": 32,
+          "image": "pose1/image/032.png",
+          "mask": "pose1/mask/032.png",
+          "image_sha256": "f6cf1bb17c57d047bb3aa97cb60c387fe85314812ae8024f3a313aa5b4ae5139",
+          "mask_sha256": "2000be8602831013f2e0282045ba8d78043aa0e28d86f427eb0c9639d84f1ce6",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\032.png",
+          "source_background_sha256": "f6cf1bb17c57d047bb3aa97cb60c387fe85314812ae8024f3a313aa5b4ae5139"
+        },
+        {
+          "index": 33,
+          "image": "pose1/image/033.png",
+          "mask": "pose1/mask/033.png",
+          "image_sha256": "b493ab70717adad423bf3efdfc52a76551da81826efdfc780b9bc61189d8db3f",
+          "mask_sha256": "8b63d772b65991b8792277d82ec391cb3686fa9e5bc06739f1539085652c462a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\033.png",
+          "source_background_sha256": "b493ab70717adad423bf3efdfc52a76551da81826efdfc780b9bc61189d8db3f"
+        },
+        {
+          "index": 34,
+          "image": "pose1/image/034.png",
+          "mask": "pose1/mask/034.png",
+          "image_sha256": "675e1b9543956e955e06865db580cfc0c28cd5b77f484da077506695198257ca",
+          "mask_sha256": "ee9853c8c611fd97c1b489a98a1c24566f632d3d75c92aaf94f9cff97622f2f0",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\034.png",
+          "source_background_sha256": "675e1b9543956e955e06865db580cfc0c28cd5b77f484da077506695198257ca"
+        },
+        {
+          "index": 35,
+          "image": "pose1/image/035.png",
+          "mask": "pose1/mask/035.png",
+          "image_sha256": "ce050d9e80d40e0920de0f39f0e236a9ff86102bd46935455cec6d18c4ef8d52",
+          "mask_sha256": "5ede24f1733d7e6827603be9ff81d1b4bc1e7ea5dbeda1f5c7ee89965c891cfb",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\035.png",
+          "source_background_sha256": "ce050d9e80d40e0920de0f39f0e236a9ff86102bd46935455cec6d18c4ef8d52"
+        },
+        {
+          "index": 36,
+          "image": "pose1/image/036.png",
+          "mask": "pose1/mask/036.png",
+          "image_sha256": "2bed4f7f6e5e0611fdc516b0f1fe7182ca6feed90026600bef01bdccd667e619",
+          "mask_sha256": "a60c3c8f6565bacbd8725977fc05ea02c35e18b7095ba980948b5b5569fee1bd",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\036.png",
+          "source_background_sha256": "2bed4f7f6e5e0611fdc516b0f1fe7182ca6feed90026600bef01bdccd667e619"
+        },
+        {
+          "index": 37,
+          "image": "pose1/image/037.png",
+          "mask": "pose1/mask/037.png",
+          "image_sha256": "96d42c798f5e262d460625959b8a6b2766caaa32492f2b0bbdcd6e84b2031e3e",
+          "mask_sha256": "b3d3eda08ae427a49d600cfd5e85de6cf765b8e570b204072ee52a8309509ab0",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\037.png",
+          "source_background_sha256": "96d42c798f5e262d460625959b8a6b2766caaa32492f2b0bbdcd6e84b2031e3e"
+        },
+        {
+          "index": 38,
+          "image": "pose1/image/038.png",
+          "mask": "pose1/mask/038.png",
+          "image_sha256": "856e1835f525c4333028663a4ae63c2085f9649d5935febe09740c8d02ddcc03",
+          "mask_sha256": "63f7b6c743a8ba89655eba61a7f450d4a642bd3d419bb0920d3e69d9f2856314",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\038.png",
+          "source_background_sha256": "856e1835f525c4333028663a4ae63c2085f9649d5935febe09740c8d02ddcc03"
+        },
+        {
+          "index": 39,
+          "image": "pose1/image/039.png",
+          "mask": "pose1/mask/039.png",
+          "image_sha256": "66ce0527036d3aa84a22e27ef513c5e9d28bf42470e1df2a4c7c765a6b4f8e24",
+          "mask_sha256": "8f4e2bc8c0533170a41a4df3d240b31c827094a25df986c796f6d5b36c28a3fa",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose1\\image\\039.png",
+          "source_background_sha256": "66ce0527036d3aa84a22e27ef513c5e9d28bf42470e1df2a4c7c765a6b4f8e24"
+        }
+      ],
+      "dimensions": {
+        "800x800 RGB": 40
+      }
+    },
+    {
+      "pose": 2,
+      "image_count": 40,
+      "background_image_count": 40,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image",
+      "camera_sha256": "db09f24228a06102861f6cf5fedeafea2808a11c149b98d7327e31cb4aaf4f28",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose2/image/000.png",
+          "mask": "pose2/mask/000.png",
+          "image_sha256": "594c169e1ee92c988a5e73d2ca399de2e83964ab31d6d79804b079a66eb4561c",
+          "mask_sha256": "6d616c117022a03d6a6a2d089d7bbee7c3f8dcb81bc3d1f7b4e803b8fabae6de",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\000.png",
+          "source_background_sha256": "594c169e1ee92c988a5e73d2ca399de2e83964ab31d6d79804b079a66eb4561c"
+        },
+        {
+          "index": 1,
+          "image": "pose2/image/001.png",
+          "mask": "pose2/mask/001.png",
+          "image_sha256": "053386dfce69907f2d07128485bda3b7f805a59189c84491136fcffe40211261",
+          "mask_sha256": "26c44cb828561f8fd5f8e1c7772ac9f5ed25c46002437de0196f9de7d06aed56",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\001.png",
+          "source_background_sha256": "053386dfce69907f2d07128485bda3b7f805a59189c84491136fcffe40211261"
+        },
+        {
+          "index": 2,
+          "image": "pose2/image/002.png",
+          "mask": "pose2/mask/002.png",
+          "image_sha256": "d5c96b188ac30d41d56c1ca2ac5df73de72b5c81ddcae108d25f9f7da1f6bfab",
+          "mask_sha256": "1cf41890cd6f3ca98e72cc1c55f4b9e571eff48cd3e7a194c10d853fd68b4595",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\002.png",
+          "source_background_sha256": "d5c96b188ac30d41d56c1ca2ac5df73de72b5c81ddcae108d25f9f7da1f6bfab"
+        },
+        {
+          "index": 3,
+          "image": "pose2/image/003.png",
+          "mask": "pose2/mask/003.png",
+          "image_sha256": "a9ca892c0a116eccf0782a2f9f12a1f443f88acd5bd606b411a9c5f84e08000c",
+          "mask_sha256": "0b79e90da4db4c44c563ebb6534f7ca75d3a70d1d6b1ad021c1eb11ac385030b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\003.png",
+          "source_background_sha256": "a9ca892c0a116eccf0782a2f9f12a1f443f88acd5bd606b411a9c5f84e08000c"
+        },
+        {
+          "index": 4,
+          "image": "pose2/image/004.png",
+          "mask": "pose2/mask/004.png",
+          "image_sha256": "098aa1c67002f985562a8bf91e693630332c34146477c8e7f81b03b9faad3691",
+          "mask_sha256": "8bec7a42403bfe6e6630a2f9d58e2c5647ed95c71a4054de1de7425f3735bd15",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\004.png",
+          "source_background_sha256": "098aa1c67002f985562a8bf91e693630332c34146477c8e7f81b03b9faad3691"
+        },
+        {
+          "index": 5,
+          "image": "pose2/image/005.png",
+          "mask": "pose2/mask/005.png",
+          "image_sha256": "51b77fd72a1e9d063be8f386d119d746832b9a0ad4a00ba1265e92ba1cdc7550",
+          "mask_sha256": "2fa6b057c418e10fd4655e7d3a93f3637a894fe82af847fe70c9b606d9dba24e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\005.png",
+          "source_background_sha256": "51b77fd72a1e9d063be8f386d119d746832b9a0ad4a00ba1265e92ba1cdc7550"
+        },
+        {
+          "index": 6,
+          "image": "pose2/image/006.png",
+          "mask": "pose2/mask/006.png",
+          "image_sha256": "b2d6e854d6a27dae09d4804b5e7fdf9fc0eff83bfa747dde940dcd03a38304c8",
+          "mask_sha256": "6b367251680ae421259aa69bd3cb451f444c6893c0d1fa664e76d0d93c26d11b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\006.png",
+          "source_background_sha256": "b2d6e854d6a27dae09d4804b5e7fdf9fc0eff83bfa747dde940dcd03a38304c8"
+        },
+        {
+          "index": 7,
+          "image": "pose2/image/007.png",
+          "mask": "pose2/mask/007.png",
+          "image_sha256": "fd16a150dbc7cc904f89ed2b781fb23e0b2958d53709129075511538b7726287",
+          "mask_sha256": "f2c89b9d4a9debf8903f732d07ec57b343f4f2dc9a78dcb32a822339dad58aeb",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\007.png",
+          "source_background_sha256": "fd16a150dbc7cc904f89ed2b781fb23e0b2958d53709129075511538b7726287"
+        },
+        {
+          "index": 8,
+          "image": "pose2/image/008.png",
+          "mask": "pose2/mask/008.png",
+          "image_sha256": "0b03d329808afce7af2c57b20a79f45134adf6ad58506b7fca56a0302e75317a",
+          "mask_sha256": "064ff1769bc2138f309dfa820342b50a9cc1f9cfa62ad1cf02af7a846185f847",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\008.png",
+          "source_background_sha256": "0b03d329808afce7af2c57b20a79f45134adf6ad58506b7fca56a0302e75317a"
+        },
+        {
+          "index": 9,
+          "image": "pose2/image/009.png",
+          "mask": "pose2/mask/009.png",
+          "image_sha256": "2f4d07354f98e1855961eb3129ab0d83b2d432cda9222ac8dec7ddb6f9c1f5ef",
+          "mask_sha256": "356089ec4c0b5fdd186124fb19642cc249f2089734aea21d33d78f04dc5183e2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\009.png",
+          "source_background_sha256": "2f4d07354f98e1855961eb3129ab0d83b2d432cda9222ac8dec7ddb6f9c1f5ef"
+        },
+        {
+          "index": 10,
+          "image": "pose2/image/010.png",
+          "mask": "pose2/mask/010.png",
+          "image_sha256": "9911a3c15293fad6c7d70c7a166085ed484ff67b41d0ff46522f23f0afcb673d",
+          "mask_sha256": "4c7ddfcf46187e51dea455e99c96833382d4e0cee517b9d1cefb50d17c06b2e1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\010.png",
+          "source_background_sha256": "9911a3c15293fad6c7d70c7a166085ed484ff67b41d0ff46522f23f0afcb673d"
+        },
+        {
+          "index": 11,
+          "image": "pose2/image/011.png",
+          "mask": "pose2/mask/011.png",
+          "image_sha256": "4ebacdc25af0a6eb829b0be2684678f4c2586785030f16cd58d3db6bc235453e",
+          "mask_sha256": "6813d83daaf154a7600e98144353f703f058a155540d7e0bcba73820a7c9cd81",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\011.png",
+          "source_background_sha256": "4ebacdc25af0a6eb829b0be2684678f4c2586785030f16cd58d3db6bc235453e"
+        },
+        {
+          "index": 12,
+          "image": "pose2/image/012.png",
+          "mask": "pose2/mask/012.png",
+          "image_sha256": "09b4309f1b639c61de8c5202b99e8df6945bfc9e75c0fbec0dcf9ffde8488a97",
+          "mask_sha256": "ba032e710d2bb6ebd803e88864fb272b35bcffd5826d068f8755af1467817169",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\012.png",
+          "source_background_sha256": "09b4309f1b639c61de8c5202b99e8df6945bfc9e75c0fbec0dcf9ffde8488a97"
+        },
+        {
+          "index": 13,
+          "image": "pose2/image/013.png",
+          "mask": "pose2/mask/013.png",
+          "image_sha256": "ef58b21a47231d5d24901dbd17a879389d456c1acc7578bf4f01c9bc1abcd48e",
+          "mask_sha256": "311c7c6b8af8ab73eae6457007b04bd8749a80f22561509833bee53cbc977310",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\013.png",
+          "source_background_sha256": "ef58b21a47231d5d24901dbd17a879389d456c1acc7578bf4f01c9bc1abcd48e"
+        },
+        {
+          "index": 14,
+          "image": "pose2/image/014.png",
+          "mask": "pose2/mask/014.png",
+          "image_sha256": "58afa3b939332b15ec86a098b102f5e0348f8d72f338e1694490d7634a43bdc9",
+          "mask_sha256": "1e5c8d22d58edbc7f3eadf8a77387d621fc24ce92d4869c2fe5d484e20ebeb1f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\014.png",
+          "source_background_sha256": "58afa3b939332b15ec86a098b102f5e0348f8d72f338e1694490d7634a43bdc9"
+        },
+        {
+          "index": 15,
+          "image": "pose2/image/015.png",
+          "mask": "pose2/mask/015.png",
+          "image_sha256": "ba099e2d7b41d958f2a1bcbd95c38cfcb04b8e2688d8cd48d5d62fa602274b56",
+          "mask_sha256": "21dc4c3103f5e1ed48761be88774e020b945be178cc3ef1841161a8773d0f31c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\015.png",
+          "source_background_sha256": "ba099e2d7b41d958f2a1bcbd95c38cfcb04b8e2688d8cd48d5d62fa602274b56"
+        },
+        {
+          "index": 16,
+          "image": "pose2/image/016.png",
+          "mask": "pose2/mask/016.png",
+          "image_sha256": "8ac0a5103e3fb1ddeefab6b882296978536ff8c69925663c5ece63af06745975",
+          "mask_sha256": "daa66f14d6bccc79afb4900438bac2a710b4627b8558100dfcfaea6f3b632bb9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\016.png",
+          "source_background_sha256": "8ac0a5103e3fb1ddeefab6b882296978536ff8c69925663c5ece63af06745975"
+        },
+        {
+          "index": 17,
+          "image": "pose2/image/017.png",
+          "mask": "pose2/mask/017.png",
+          "image_sha256": "c19c89966995293289f572cebfe83bd07f1cc5e6d361d0f904692a734be09db6",
+          "mask_sha256": "9df6c46ef8254db187e12a602f965b402ae141bd4e8f9b1bd1d31d409f46dbf8",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\017.png",
+          "source_background_sha256": "c19c89966995293289f572cebfe83bd07f1cc5e6d361d0f904692a734be09db6"
+        },
+        {
+          "index": 18,
+          "image": "pose2/image/018.png",
+          "mask": "pose2/mask/018.png",
+          "image_sha256": "5fc88d4cc268d188e9934b0d100537d5487a0be92128e374bbf371046a88e9b1",
+          "mask_sha256": "9be32f786c6c58aee31488a4daa7d04027751f21042b6329d7cd1d1fe9289df1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\018.png",
+          "source_background_sha256": "5fc88d4cc268d188e9934b0d100537d5487a0be92128e374bbf371046a88e9b1"
+        },
+        {
+          "index": 19,
+          "image": "pose2/image/019.png",
+          "mask": "pose2/mask/019.png",
+          "image_sha256": "36ddc6e5b8d430a49d0e9d5ef3cf4a9c3edebd8d0daad7b60a6734a79ceea431",
+          "mask_sha256": "828e8aaa3669a700f77c1fdf7cd4edd97e3110a86db2109b82e5030f55feb871",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\019.png",
+          "source_background_sha256": "36ddc6e5b8d430a49d0e9d5ef3cf4a9c3edebd8d0daad7b60a6734a79ceea431"
+        },
+        {
+          "index": 20,
+          "image": "pose2/image/020.png",
+          "mask": "pose2/mask/020.png",
+          "image_sha256": "c5005e014fdcde8d3e740506b544739c91fee09da7f7a4488e11435e124b9f27",
+          "mask_sha256": "43ed3b585a47b322c86f03fd0e8a3dd270e04bb94f0078051449aa2533e4d7bf",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\020.png",
+          "source_background_sha256": "c5005e014fdcde8d3e740506b544739c91fee09da7f7a4488e11435e124b9f27"
+        },
+        {
+          "index": 21,
+          "image": "pose2/image/021.png",
+          "mask": "pose2/mask/021.png",
+          "image_sha256": "4e4f5efa68607bfee4e22a50693d2159a02f77ee9e942d9f8725dd872a696ac6",
+          "mask_sha256": "0680a9e5b08d2cd888b122d01a937df7ed573fe770d511a77c5ac549f9dabcd2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\021.png",
+          "source_background_sha256": "4e4f5efa68607bfee4e22a50693d2159a02f77ee9e942d9f8725dd872a696ac6"
+        },
+        {
+          "index": 22,
+          "image": "pose2/image/022.png",
+          "mask": "pose2/mask/022.png",
+          "image_sha256": "0d19b10dbe1a18e318ca82ef1ca5b323fa81d9d96def357ca4b5cc53118b9bd7",
+          "mask_sha256": "b86cb4bbd2d697f12534f1f3fc641d2c311f4a21018fa1c1b8124d8c8a2e1467",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\022.png",
+          "source_background_sha256": "0d19b10dbe1a18e318ca82ef1ca5b323fa81d9d96def357ca4b5cc53118b9bd7"
+        },
+        {
+          "index": 23,
+          "image": "pose2/image/023.png",
+          "mask": "pose2/mask/023.png",
+          "image_sha256": "36924210f7a1a4d1d80a3363625adf114b3e1152843effd66163f2cde7451198",
+          "mask_sha256": "90a742121ea71b262afc6f1e3ef1cc6e5c14079a6887453ce149ad62f2844c62",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\023.png",
+          "source_background_sha256": "36924210f7a1a4d1d80a3363625adf114b3e1152843effd66163f2cde7451198"
+        },
+        {
+          "index": 24,
+          "image": "pose2/image/024.png",
+          "mask": "pose2/mask/024.png",
+          "image_sha256": "cf3ab43dc094308cb8042eba59617cec90a35c563a2033601435574ffcb0eab4",
+          "mask_sha256": "bdddc6f9e00f6de532f6b186b7bf009f3247b60c3185b4dad5a7217127233c62",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\024.png",
+          "source_background_sha256": "cf3ab43dc094308cb8042eba59617cec90a35c563a2033601435574ffcb0eab4"
+        },
+        {
+          "index": 25,
+          "image": "pose2/image/025.png",
+          "mask": "pose2/mask/025.png",
+          "image_sha256": "71d1fb3808190cd1711f7e2b528552747a99331eaa854e95905502c1429a96f7",
+          "mask_sha256": "115c3d0ee91f04c07306549c68de47f471c37762870edcd46f737448adcaf48b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\025.png",
+          "source_background_sha256": "71d1fb3808190cd1711f7e2b528552747a99331eaa854e95905502c1429a96f7"
+        },
+        {
+          "index": 26,
+          "image": "pose2/image/026.png",
+          "mask": "pose2/mask/026.png",
+          "image_sha256": "d819c96a6dbc882079c04ed27b83952225da8850be322c6d10ac245b3c069f92",
+          "mask_sha256": "b5415b749989c9558357d385f92bc9dea6e4c31f0f782b6e65cb6d3d525ffbb5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\026.png",
+          "source_background_sha256": "d819c96a6dbc882079c04ed27b83952225da8850be322c6d10ac245b3c069f92"
+        },
+        {
+          "index": 27,
+          "image": "pose2/image/027.png",
+          "mask": "pose2/mask/027.png",
+          "image_sha256": "81b767f7bc99361c363f14204531683bb603b659fd23b8cda14c0a426163ffca",
+          "mask_sha256": "a674c7fd66eb8050bcdc7699ff5ccd7a4193cfc0904abe20899c4b2cfdc1f352",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\027.png",
+          "source_background_sha256": "81b767f7bc99361c363f14204531683bb603b659fd23b8cda14c0a426163ffca"
+        },
+        {
+          "index": 28,
+          "image": "pose2/image/028.png",
+          "mask": "pose2/mask/028.png",
+          "image_sha256": "b2ce0e86f7942a15f8001f990eab32d290fc728494cf474c9b8c8257d4703922",
+          "mask_sha256": "4d3abe193ffd96f27746ad62b7d43bd69cd681d42267adc4585ef7cecdaab7bc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\028.png",
+          "source_background_sha256": "b2ce0e86f7942a15f8001f990eab32d290fc728494cf474c9b8c8257d4703922"
+        },
+        {
+          "index": 29,
+          "image": "pose2/image/029.png",
+          "mask": "pose2/mask/029.png",
+          "image_sha256": "9a1ddc2ce3be3efdfefdb441f7c66423a6af0e9ac2e362052227139591b6f76a",
+          "mask_sha256": "f6758a7cc18717bf98fc5b52a03fa728bc7b425611b20c2a4929d5866bb3a20a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\029.png",
+          "source_background_sha256": "9a1ddc2ce3be3efdfefdb441f7c66423a6af0e9ac2e362052227139591b6f76a"
+        },
+        {
+          "index": 30,
+          "image": "pose2/image/030.png",
+          "mask": "pose2/mask/030.png",
+          "image_sha256": "4b648c93609277b41a146b3e9f172aeaee74c89ed36c773b4f977d3dcdc4e7e0",
+          "mask_sha256": "bab92a7056707fe19d84e589fe433c6a1da87e33b2855b4f57e2e387633e4b99",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\030.png",
+          "source_background_sha256": "4b648c93609277b41a146b3e9f172aeaee74c89ed36c773b4f977d3dcdc4e7e0"
+        },
+        {
+          "index": 31,
+          "image": "pose2/image/031.png",
+          "mask": "pose2/mask/031.png",
+          "image_sha256": "0a4b02c8c6ee86ef17ee56a905e9791783db55c8dae2e3ba37bae550a88225fd",
+          "mask_sha256": "20f956dccc9292f7e1cbd8b1d45b54978abbcbe943a80ddd9ae7bab79c15cd4b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\031.png",
+          "source_background_sha256": "0a4b02c8c6ee86ef17ee56a905e9791783db55c8dae2e3ba37bae550a88225fd"
+        },
+        {
+          "index": 32,
+          "image": "pose2/image/032.png",
+          "mask": "pose2/mask/032.png",
+          "image_sha256": "72652dadaf2aecc9f5ee1bd4d8c539eb934051c1345486c5be0b60f564980cd7",
+          "mask_sha256": "2a66b37fb010fdedbbeae11cc109276d55567545e5d792966ad3f4bcc58099d9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\032.png",
+          "source_background_sha256": "72652dadaf2aecc9f5ee1bd4d8c539eb934051c1345486c5be0b60f564980cd7"
+        },
+        {
+          "index": 33,
+          "image": "pose2/image/033.png",
+          "mask": "pose2/mask/033.png",
+          "image_sha256": "5d167721989ac4be33793095bb76e14c9011a31d930975ca0639c180838199f7",
+          "mask_sha256": "302b3f1fd02d3bb1da1a1458f609e2d0231b87c7f77c743a31bced450f716319",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\033.png",
+          "source_background_sha256": "5d167721989ac4be33793095bb76e14c9011a31d930975ca0639c180838199f7"
+        },
+        {
+          "index": 34,
+          "image": "pose2/image/034.png",
+          "mask": "pose2/mask/034.png",
+          "image_sha256": "bc857f6f456672926c93c3161387b317d4c1e08647e87244c61a32694dc06870",
+          "mask_sha256": "fcb1a11ecbd2a894e6cd1fbe4330d3b52bbdcaa57b229034e78067ded242550b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\034.png",
+          "source_background_sha256": "bc857f6f456672926c93c3161387b317d4c1e08647e87244c61a32694dc06870"
+        },
+        {
+          "index": 35,
+          "image": "pose2/image/035.png",
+          "mask": "pose2/mask/035.png",
+          "image_sha256": "f69facb7072d3a7abfb8e85c70a402e786893c73331923032a31009499753907",
+          "mask_sha256": "be17e4387b7d2b89d46f01949d8fd9fc356e05a30af87402685dfc48be07cc11",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\035.png",
+          "source_background_sha256": "f69facb7072d3a7abfb8e85c70a402e786893c73331923032a31009499753907"
+        },
+        {
+          "index": 36,
+          "image": "pose2/image/036.png",
+          "mask": "pose2/mask/036.png",
+          "image_sha256": "e7053e7af4b9e84c9b015850df59e600793c2c77c81bcfdd92147e6babbe47e2",
+          "mask_sha256": "cc355096fa46b8b8f356d6b7a9ad86bdad5f0f93e0db198f2721e5311eb94832",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\036.png",
+          "source_background_sha256": "e7053e7af4b9e84c9b015850df59e600793c2c77c81bcfdd92147e6babbe47e2"
+        },
+        {
+          "index": 37,
+          "image": "pose2/image/037.png",
+          "mask": "pose2/mask/037.png",
+          "image_sha256": "d37893f18f60304e1b6e65aacf8ad8ca5999a1cf71aabb09a022b4b98ba31aba",
+          "mask_sha256": "e8ad39e2b83ba0a479638069e523c831a6f36012c9e8f8ace5a280ed3f9d2fea",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\037.png",
+          "source_background_sha256": "d37893f18f60304e1b6e65aacf8ad8ca5999a1cf71aabb09a022b4b98ba31aba"
+        },
+        {
+          "index": 38,
+          "image": "pose2/image/038.png",
+          "mask": "pose2/mask/038.png",
+          "image_sha256": "4b3563842d6ae98d926390f6773b293d9ac985b5d9b987a9d56347e0888e474b",
+          "mask_sha256": "7e9027ab9a74101cc3441d7df6bbb2384460be1f9dc1328634d6c86ae2c2d9d6",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\038.png",
+          "source_background_sha256": "4b3563842d6ae98d926390f6773b293d9ac985b5d9b987a9d56347e0888e474b"
+        },
+        {
+          "index": 39,
+          "image": "pose2/image/039.png",
+          "mask": "pose2/mask/039.png",
+          "image_sha256": "bc058657b21df5cc2d148d717b678767ca14c6d09826f779df527edce5b8f57f",
+          "mask_sha256": "1250b0ef596651e3b4ac1e4ce223a3bac082c245020e0168c64a5a1ab335f8da",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose2\\image\\039.png",
+          "source_background_sha256": "bc058657b21df5cc2d148d717b678767ca14c6d09826f779df527edce5b8f57f"
+        }
+      ],
+      "dimensions": {
+        "800x800 RGB": 40
+      }
+    },
+    {
+      "pose": 3,
+      "image_count": 40,
+      "background_image_count": 40,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image",
+      "camera_sha256": "58a0c9b3922e623b04a9472ced509e06e3fa8f58522c85f70ace7006db2b05ec",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose3/image/000.png",
+          "mask": "pose3/mask/000.png",
+          "image_sha256": "d5e00f463672f37dffd15e2b81e5314641f1b11a3b6cd0f17424ac1c373daeb4",
+          "mask_sha256": "77f68db94345e6677936ea75e644c03b30333bee8b65ae2b7765e555bd95983b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\000.png",
+          "source_background_sha256": "d5e00f463672f37dffd15e2b81e5314641f1b11a3b6cd0f17424ac1c373daeb4"
+        },
+        {
+          "index": 1,
+          "image": "pose3/image/001.png",
+          "mask": "pose3/mask/001.png",
+          "image_sha256": "96e16ab855b72fd7942a31f63fa0d28f36362ab95be22e88b44b67a15e3349dd",
+          "mask_sha256": "52d9d2ba63d7f5c6a8f8f17c7d44c65c1bbbb0223a3e694ab4b78b6494469c5e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\001.png",
+          "source_background_sha256": "96e16ab855b72fd7942a31f63fa0d28f36362ab95be22e88b44b67a15e3349dd"
+        },
+        {
+          "index": 2,
+          "image": "pose3/image/002.png",
+          "mask": "pose3/mask/002.png",
+          "image_sha256": "682963c70b495abd13fb1001d5b8424133fa9f1e7eda8adb1265b8fb87a2eb15",
+          "mask_sha256": "775b1c5643e628710b7b732c28b35460e22f07bd0e5cbe7a7846e45a4c28dc55",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\002.png",
+          "source_background_sha256": "682963c70b495abd13fb1001d5b8424133fa9f1e7eda8adb1265b8fb87a2eb15"
+        },
+        {
+          "index": 3,
+          "image": "pose3/image/003.png",
+          "mask": "pose3/mask/003.png",
+          "image_sha256": "bbc15f2efbf76eb69ecd9fab86f043c002dba496d8b519333e744b12320a0acf",
+          "mask_sha256": "26d814b6cdc427590c6481414dbe890f2d022f3e012b4135945cd74edb9e5d30",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\003.png",
+          "source_background_sha256": "bbc15f2efbf76eb69ecd9fab86f043c002dba496d8b519333e744b12320a0acf"
+        },
+        {
+          "index": 4,
+          "image": "pose3/image/004.png",
+          "mask": "pose3/mask/004.png",
+          "image_sha256": "ba67c960ffd742ee73f6db558858d01bfc2d497dba0847ad512939c3b0d4f1de",
+          "mask_sha256": "a80a4565497e399b66dffc158b12dd4c9feb2dad4319626ee27d71264df0fc04",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\004.png",
+          "source_background_sha256": "ba67c960ffd742ee73f6db558858d01bfc2d497dba0847ad512939c3b0d4f1de"
+        },
+        {
+          "index": 5,
+          "image": "pose3/image/005.png",
+          "mask": "pose3/mask/005.png",
+          "image_sha256": "e458b605aa2afeb880e41295eb379c0e9cad41b8ecfe864d6d199095432fea49",
+          "mask_sha256": "f7cf1e3821034f50b75ed99c8c5905a42ce81558f7442bd034ef2f2030fadfef",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\005.png",
+          "source_background_sha256": "e458b605aa2afeb880e41295eb379c0e9cad41b8ecfe864d6d199095432fea49"
+        },
+        {
+          "index": 6,
+          "image": "pose3/image/006.png",
+          "mask": "pose3/mask/006.png",
+          "image_sha256": "d591d77bf6d2190f6cdc45250f5b29a299e7bd9fb32e76e30ae823d7f38add2a",
+          "mask_sha256": "8d997c2c4cfcba1bbc7c5b49710002396dbad23dd12a1e90dd917ebcc0f88423",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\006.png",
+          "source_background_sha256": "d591d77bf6d2190f6cdc45250f5b29a299e7bd9fb32e76e30ae823d7f38add2a"
+        },
+        {
+          "index": 7,
+          "image": "pose3/image/007.png",
+          "mask": "pose3/mask/007.png",
+          "image_sha256": "c8262385a967c322ed1458102fd24daf9934abed23ee100205690de27d22aceb",
+          "mask_sha256": "26c12838e1e123eacf4d650783a02577d216140a29a5fa29d29ee217ed28d630",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\007.png",
+          "source_background_sha256": "c8262385a967c322ed1458102fd24daf9934abed23ee100205690de27d22aceb"
+        },
+        {
+          "index": 8,
+          "image": "pose3/image/008.png",
+          "mask": "pose3/mask/008.png",
+          "image_sha256": "74b0af365b0a8b32b4b2f6e9e1274755b7356332be297a71f72b26e8046cc552",
+          "mask_sha256": "7fce71048b3437112ce896d33037ed154748f419c396bd40a6a72ad48e88133a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\008.png",
+          "source_background_sha256": "74b0af365b0a8b32b4b2f6e9e1274755b7356332be297a71f72b26e8046cc552"
+        },
+        {
+          "index": 9,
+          "image": "pose3/image/009.png",
+          "mask": "pose3/mask/009.png",
+          "image_sha256": "70d508166bf0df1280958a2512f2d617ba1cac7edaed4fa3d118ecadfc41bc12",
+          "mask_sha256": "1c39a270f97147d4428d4784ca5ecf790d55829ccc7d0ac1efa1fcbf0cc58646",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\009.png",
+          "source_background_sha256": "70d508166bf0df1280958a2512f2d617ba1cac7edaed4fa3d118ecadfc41bc12"
+        },
+        {
+          "index": 10,
+          "image": "pose3/image/010.png",
+          "mask": "pose3/mask/010.png",
+          "image_sha256": "fb41007083618ed9e02239a16db37a14a6e6dd40d31b643a29c8d6b6432a97e5",
+          "mask_sha256": "0f5c58a64647ff349de80163f519e6c9d4f9e70f89042d95cf9aaf9c054d4914",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\010.png",
+          "source_background_sha256": "fb41007083618ed9e02239a16db37a14a6e6dd40d31b643a29c8d6b6432a97e5"
+        },
+        {
+          "index": 11,
+          "image": "pose3/image/011.png",
+          "mask": "pose3/mask/011.png",
+          "image_sha256": "22e5bbf601378faf9d751b0423391f77c79307820d5377174780f67b376cce79",
+          "mask_sha256": "f6cdd9424ff54c69e7548b5b105eb343d14751c28114ec049dae5aa456025c82",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\011.png",
+          "source_background_sha256": "22e5bbf601378faf9d751b0423391f77c79307820d5377174780f67b376cce79"
+        },
+        {
+          "index": 12,
+          "image": "pose3/image/012.png",
+          "mask": "pose3/mask/012.png",
+          "image_sha256": "5d4ff93c1409cabdabf1f1f7eb5495529768b6d22b3ef396b1ab6c8a0751ccdb",
+          "mask_sha256": "6c1dd44dc7e6503a36e1a4142c1b875154f896614a3599933b07fbe81569e307",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\012.png",
+          "source_background_sha256": "5d4ff93c1409cabdabf1f1f7eb5495529768b6d22b3ef396b1ab6c8a0751ccdb"
+        },
+        {
+          "index": 13,
+          "image": "pose3/image/013.png",
+          "mask": "pose3/mask/013.png",
+          "image_sha256": "2fb34b6c08bd08487190de6c75a0d28155619599aecb7921c798325a38f751a6",
+          "mask_sha256": "42516b034126b2e50a48e019310f04ffd910adcc8da4578e54a84ed386db7c3d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\013.png",
+          "source_background_sha256": "2fb34b6c08bd08487190de6c75a0d28155619599aecb7921c798325a38f751a6"
+        },
+        {
+          "index": 14,
+          "image": "pose3/image/014.png",
+          "mask": "pose3/mask/014.png",
+          "image_sha256": "58ea74e46dfc4cc2b6ca2d4ce848176514321a85728302203d65488ef57daaa8",
+          "mask_sha256": "81fe2de5465e917f8a5588116f30b516505c222b88faf7dea784e8a75f1cd033",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\014.png",
+          "source_background_sha256": "58ea74e46dfc4cc2b6ca2d4ce848176514321a85728302203d65488ef57daaa8"
+        },
+        {
+          "index": 15,
+          "image": "pose3/image/015.png",
+          "mask": "pose3/mask/015.png",
+          "image_sha256": "7bd3588d21108fef7eeb9a6a6c29ca937f6b94233dab1913c4bf1351427d1697",
+          "mask_sha256": "3c7971dc787ebb9c1010e06c226d314d7dc260d4f7c2c247f54bafdaa88173bb",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\015.png",
+          "source_background_sha256": "7bd3588d21108fef7eeb9a6a6c29ca937f6b94233dab1913c4bf1351427d1697"
+        },
+        {
+          "index": 16,
+          "image": "pose3/image/016.png",
+          "mask": "pose3/mask/016.png",
+          "image_sha256": "a70b3e80cd3138d5771a71a5c2d1f6d2e5143847658eb8ee1d4de6f74e912eff",
+          "mask_sha256": "9742eb053e73fdc019b9a3cf140201774f420de65ea79c30bfdbe4b5eead12bb",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\016.png",
+          "source_background_sha256": "a70b3e80cd3138d5771a71a5c2d1f6d2e5143847658eb8ee1d4de6f74e912eff"
+        },
+        {
+          "index": 17,
+          "image": "pose3/image/017.png",
+          "mask": "pose3/mask/017.png",
+          "image_sha256": "ff37bca668a9659a3356e1f9c165c4f70d15a5f4a779e73461a1f7b126cfc89f",
+          "mask_sha256": "507dab1257a2d2875a4b27f65f560837de26ed4f124247a61584ee430476265f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\017.png",
+          "source_background_sha256": "ff37bca668a9659a3356e1f9c165c4f70d15a5f4a779e73461a1f7b126cfc89f"
+        },
+        {
+          "index": 18,
+          "image": "pose3/image/018.png",
+          "mask": "pose3/mask/018.png",
+          "image_sha256": "76dca810e02141a7ff7eaf5915fbe1bd9934a1947678b4d306592767d4b1a9ee",
+          "mask_sha256": "75a779610f48cea937192e95c6f0c475f990bb0eb57c14714f303034e23a746e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\018.png",
+          "source_background_sha256": "76dca810e02141a7ff7eaf5915fbe1bd9934a1947678b4d306592767d4b1a9ee"
+        },
+        {
+          "index": 19,
+          "image": "pose3/image/019.png",
+          "mask": "pose3/mask/019.png",
+          "image_sha256": "addef4eb4f8294eafe14067530bf354e1ba97a352b5be949c7a2882f6a67a19f",
+          "mask_sha256": "46c9f5b4a88a8c2d4b1f9f39a91f30c1438c8829dc5bf55f02b595bc12fe8ca8",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\019.png",
+          "source_background_sha256": "addef4eb4f8294eafe14067530bf354e1ba97a352b5be949c7a2882f6a67a19f"
+        },
+        {
+          "index": 20,
+          "image": "pose3/image/020.png",
+          "mask": "pose3/mask/020.png",
+          "image_sha256": "fe51774998fa00e2ab218949342ef09ab3b611f96d7899ce3ad93f018ae50e5a",
+          "mask_sha256": "9b9ca07d12378dd5ca4e70f746161086248d557f106437c5bfc16a4ea39b2ccd",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\020.png",
+          "source_background_sha256": "fe51774998fa00e2ab218949342ef09ab3b611f96d7899ce3ad93f018ae50e5a"
+        },
+        {
+          "index": 21,
+          "image": "pose3/image/021.png",
+          "mask": "pose3/mask/021.png",
+          "image_sha256": "427f48c8221c9b0291398a384886fd20e4c9830d13c569f54d392a2f0e57a686",
+          "mask_sha256": "c64effd75e4cfa2513f9255f4e9cb985ee052b3ab01a238d9768f8ae9c8f873b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\021.png",
+          "source_background_sha256": "427f48c8221c9b0291398a384886fd20e4c9830d13c569f54d392a2f0e57a686"
+        },
+        {
+          "index": 22,
+          "image": "pose3/image/022.png",
+          "mask": "pose3/mask/022.png",
+          "image_sha256": "39355bc89ece1da3adc4b2c6316ae46ef3f789c9fec37741eec52f3c3b4f5eeb",
+          "mask_sha256": "08fb744ba441fe55b6caf9ac8cca12f13a7af68826340c464b41ac345fa2821f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\022.png",
+          "source_background_sha256": "39355bc89ece1da3adc4b2c6316ae46ef3f789c9fec37741eec52f3c3b4f5eeb"
+        },
+        {
+          "index": 23,
+          "image": "pose3/image/023.png",
+          "mask": "pose3/mask/023.png",
+          "image_sha256": "312add449673d9451dab9b22b62b0ef678e13859ea8740ae550f31077f17fb81",
+          "mask_sha256": "62a7e4adc71e8bdeafd2a71cc15645f958145e1094fbbff7b3b3077bf1a816c2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\023.png",
+          "source_background_sha256": "312add449673d9451dab9b22b62b0ef678e13859ea8740ae550f31077f17fb81"
+        },
+        {
+          "index": 24,
+          "image": "pose3/image/024.png",
+          "mask": "pose3/mask/024.png",
+          "image_sha256": "227e9a0f96dee87ffee487ac138f14d9424dcf9f5513df2cb16bad156b4d520b",
+          "mask_sha256": "a7cb3c50ccb7cbb67162a88f8104bb196867f07f7c32dfe63d1bbad1908308a3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\024.png",
+          "source_background_sha256": "227e9a0f96dee87ffee487ac138f14d9424dcf9f5513df2cb16bad156b4d520b"
+        },
+        {
+          "index": 25,
+          "image": "pose3/image/025.png",
+          "mask": "pose3/mask/025.png",
+          "image_sha256": "5812891c4e33fd9b7295221e0f42dca3a4362e2d20b36477c0aaec5654d04833",
+          "mask_sha256": "39b9ed7111e955bd7a02eeb2cc6a95e18b0463dd1355c22401a51df79545e4e7",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\025.png",
+          "source_background_sha256": "5812891c4e33fd9b7295221e0f42dca3a4362e2d20b36477c0aaec5654d04833"
+        },
+        {
+          "index": 26,
+          "image": "pose3/image/026.png",
+          "mask": "pose3/mask/026.png",
+          "image_sha256": "fdbe6ead30e15f59ace2c355f7720042f40535002731780e5356abb1f7052ea8",
+          "mask_sha256": "9181b5ee9c9d6529bb494cd266077207c86327f236e4ae239761521301a0b4a6",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\026.png",
+          "source_background_sha256": "fdbe6ead30e15f59ace2c355f7720042f40535002731780e5356abb1f7052ea8"
+        },
+        {
+          "index": 27,
+          "image": "pose3/image/027.png",
+          "mask": "pose3/mask/027.png",
+          "image_sha256": "de1cd3e4af0e7895977771d084c11aca17d1e286e296dd872ff930a9a1955ce8",
+          "mask_sha256": "c86d7ede4b207a77b213068a34cf55f4567446e3da276628de86a6e34eed46ae",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\027.png",
+          "source_background_sha256": "de1cd3e4af0e7895977771d084c11aca17d1e286e296dd872ff930a9a1955ce8"
+        },
+        {
+          "index": 28,
+          "image": "pose3/image/028.png",
+          "mask": "pose3/mask/028.png",
+          "image_sha256": "db4a001b948806c3a634fb00a8467c9ad6d1701cdd367cec613c28dbdbfcb8a2",
+          "mask_sha256": "81ab00770b8f2a0bee44a787dabd248a54b593db4a03d69c7834604152de7b97",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\028.png",
+          "source_background_sha256": "db4a001b948806c3a634fb00a8467c9ad6d1701cdd367cec613c28dbdbfcb8a2"
+        },
+        {
+          "index": 29,
+          "image": "pose3/image/029.png",
+          "mask": "pose3/mask/029.png",
+          "image_sha256": "471bf3d2b4cff46800b620cace7d72866f3f01a08f6488e8e3728a2e93a87a7a",
+          "mask_sha256": "dce8bd4be9d85b1950e7511952adf7ebb10db24b4e06613e9aae7434f7e48864",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\029.png",
+          "source_background_sha256": "471bf3d2b4cff46800b620cace7d72866f3f01a08f6488e8e3728a2e93a87a7a"
+        },
+        {
+          "index": 30,
+          "image": "pose3/image/030.png",
+          "mask": "pose3/mask/030.png",
+          "image_sha256": "e9ed9bd32975a27e5ae3d468d5ab037302297691661a5f9b98782e2db8046240",
+          "mask_sha256": "b6ee1ddee5999622d53cb865a715492f821fde7f401bc13f7550a781e7cced60",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\030.png",
+          "source_background_sha256": "e9ed9bd32975a27e5ae3d468d5ab037302297691661a5f9b98782e2db8046240"
+        },
+        {
+          "index": 31,
+          "image": "pose3/image/031.png",
+          "mask": "pose3/mask/031.png",
+          "image_sha256": "f9918def79dd23beb901291e48210786767a94538a1591ec92f4dabe757efb74",
+          "mask_sha256": "e5632a1bc8a0cb2d9a84c73da7a52b0d0516ee08d8b501c0fa9a9ef27c9ae38d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\031.png",
+          "source_background_sha256": "f9918def79dd23beb901291e48210786767a94538a1591ec92f4dabe757efb74"
+        },
+        {
+          "index": 32,
+          "image": "pose3/image/032.png",
+          "mask": "pose3/mask/032.png",
+          "image_sha256": "f3ef56e03b414a4176c5296319f5eb6f4dcad75432d3c127c0535bdcaae3f4cf",
+          "mask_sha256": "5a63c7669752b42304f55b5a788790b0b19729789982ccf29a647d9578b62eb5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\032.png",
+          "source_background_sha256": "f3ef56e03b414a4176c5296319f5eb6f4dcad75432d3c127c0535bdcaae3f4cf"
+        },
+        {
+          "index": 33,
+          "image": "pose3/image/033.png",
+          "mask": "pose3/mask/033.png",
+          "image_sha256": "20c8477e8ff59e3f3fe891e3257751708b337513a24461b9fe051c8462552542",
+          "mask_sha256": "1e731a89e9a674bf1508f32178ff61a4fefa7e75426eee6101f5780ce3f0f048",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\033.png",
+          "source_background_sha256": "20c8477e8ff59e3f3fe891e3257751708b337513a24461b9fe051c8462552542"
+        },
+        {
+          "index": 34,
+          "image": "pose3/image/034.png",
+          "mask": "pose3/mask/034.png",
+          "image_sha256": "98ae8d493af2f614dd9f1981ce6faa36910daf8189da66fd280d2b4d2c1a40ea",
+          "mask_sha256": "fdd7491da2ca5ec9e1c22a24dbde8998bdfb46b60b23e9d358dd47448993b3d1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\034.png",
+          "source_background_sha256": "98ae8d493af2f614dd9f1981ce6faa36910daf8189da66fd280d2b4d2c1a40ea"
+        },
+        {
+          "index": 35,
+          "image": "pose3/image/035.png",
+          "mask": "pose3/mask/035.png",
+          "image_sha256": "7f31b7fca497206af52153899959bf9cd18297179811af0d168870b518eae234",
+          "mask_sha256": "225fb5fca7eec19d98906b723f39fb38312723d1dd663a3c29fa2f6c4e2e016b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\035.png",
+          "source_background_sha256": "7f31b7fca497206af52153899959bf9cd18297179811af0d168870b518eae234"
+        },
+        {
+          "index": 36,
+          "image": "pose3/image/036.png",
+          "mask": "pose3/mask/036.png",
+          "image_sha256": "361c54f76fab1ad4484c6e618b717f2a1540c9aa7725395e17276846f46b9cdf",
+          "mask_sha256": "6b929ca63ec74c7b811c866d04af85038b13256d5c4d672e1c46ce08a89a77f6",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\036.png",
+          "source_background_sha256": "361c54f76fab1ad4484c6e618b717f2a1540c9aa7725395e17276846f46b9cdf"
+        },
+        {
+          "index": 37,
+          "image": "pose3/image/037.png",
+          "mask": "pose3/mask/037.png",
+          "image_sha256": "d4bc41ced3037e5b146ba86480db5a1198c4532f720e24a25193e70dcfbf1327",
+          "mask_sha256": "cffb0f4bc5f753a3a43268b87f4ca9c212eda35f71a96c3c677954119a2d22c5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\037.png",
+          "source_background_sha256": "d4bc41ced3037e5b146ba86480db5a1198c4532f720e24a25193e70dcfbf1327"
+        },
+        {
+          "index": 38,
+          "image": "pose3/image/038.png",
+          "mask": "pose3/mask/038.png",
+          "image_sha256": "32ad6fdb8bc1053d209c3716a517c62bc24c28a1c968765a216facb81cb377d6",
+          "mask_sha256": "b70fe1ba283624be599704910464b9554e5ef22145114b6805185795310039c3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\038.png",
+          "source_background_sha256": "32ad6fdb8bc1053d209c3716a517c62bc24c28a1c968765a216facb81cb377d6"
+        },
+        {
+          "index": 39,
+          "image": "pose3/image/039.png",
+          "mask": "pose3/mask/039.png",
+          "image_sha256": "c7c507bc76f82cc3501c7d3ba086bba9a8abf00cdf280166c52b61b14a38cbd6",
+          "mask_sha256": "624702efd67588218158b53e7408305f3402582bd47732326bc319f747a22ac6",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\seal\\pose3\\image\\039.png",
+          "source_background_sha256": "c7c507bc76f82cc3501c7d3ba086bba9a8abf00cdf280166c52b61b14a38cbd6"
+        }
+      ],
+      "dimensions": {
+        "800x800 RGB": 40
+      }
+    }
+  ],
+  "dataset_version": "background_inputs_20260929",
+  "display_name": "Seal",
+  "source_prefix": "_re_seal",
+  "source_blend": "E:\\PoseFusionExp\\synthetic\\seal_re_20260928\\seal_background.blend",
+  "version_note": "New 40 frames/pose textured grounded scene. All geometry, GT and images use this new scene. Raw and canonical-origin RT both retained.",
+  "ground_truth": "gt/meshes/poseN.ply and gt/transforms.json; source geometry coordinates, no estimated alignment"
+}

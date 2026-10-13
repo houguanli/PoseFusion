@@ -1,0 +1,1100 @@
+[
+  {
+    "pose": 1,
+    "camera_exactly_equal": true,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\000.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.74254262001452
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\001.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.74615982884565
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\002.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.59062154228978
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\003.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.31899181797446
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\004.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.25845542175784
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\005.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.29976486679097
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\006.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.20036681244876
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\007.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.31903747803798
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\008.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.32527321753165
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\009.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.22300526228372
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\010.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.30765404999066
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\011.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.12195979142992
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\012.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.13527199909225
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\013.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.24390463381438
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\014.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.35881514094189
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\015.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.64872146935313
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\016.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.63626196808202
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\017.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.67609872714935
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\018.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.54242323766522
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\019.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.49585185380516
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\020.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.34458350145418
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\021.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.26125522750145
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\022.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.253781877794
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\023.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.02897877079755
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\024.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.91447147686763
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\025.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.12747219149585
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\026.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.93097671168242
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\027.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.90139143296167
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\028.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.01567895017212
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\029.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.08198778079007
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\030.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.23393600723617
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\031.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.05388889138273
+      },
+      {
+        "index": 32,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\032.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.0504533457185
+      },
+      {
+        "index": 33,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\033.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.04623966763289
+      },
+      {
+        "index": 34,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\034.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.94261593001885
+      },
+      {
+        "index": 35,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\035.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.81696959066937
+      },
+      {
+        "index": 36,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\036.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.7736948909412
+      },
+      {
+        "index": 37,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\037.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.72547068859801
+      },
+      {
+        "index": 38,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\038.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.81990094728805
+      },
+      {
+        "index": 39,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\039.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.8198053018366
+      },
+      {
+        "index": 40,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\040.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.85446236822062
+      },
+      {
+        "index": 41,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\041.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.80995952391612
+      },
+      {
+        "index": 42,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\042.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.06769053307869
+      },
+      {
+        "index": 43,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\043.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.11877305764231
+      },
+      {
+        "index": 44,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\044.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.4793703365353
+      },
+      {
+        "index": 45,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\045.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.64652719725996
+      },
+      {
+        "index": 46,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\046.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.60160375331986
+      },
+      {
+        "index": 47,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\047.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.45529241263411
+      },
+      {
+        "index": 48,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\048.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.40929644961592
+      },
+      {
+        "index": 49,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\049.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.44089405475572
+      },
+      {
+        "index": 50,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\050.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.72718307235357
+      },
+      {
+        "index": 51,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\051.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.42491315837741
+      },
+      {
+        "index": 52,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\052.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.33933082819661
+      },
+      {
+        "index": 53,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\053.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.31065985733898
+      },
+      {
+        "index": 54,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\054.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.25077659873722
+      },
+      {
+        "index": 55,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\055.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.23997055415472
+      },
+      {
+        "index": 56,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\056.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.24590729757055
+      },
+      {
+        "index": 57,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\057.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.24746946807711
+      },
+      {
+        "index": 58,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\058.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.63219530697023
+      },
+      {
+        "index": 59,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose1\\image\\059.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.56323565424857
+      }
+    ]
+  },
+  {
+    "pose": 2,
+    "camera_exactly_equal": true,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\000.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.37527904384801
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\001.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.1888405719131
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\002.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.01088147409786
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\003.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.1274450535543
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\004.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.17925709455118
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\005.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.1336395809552
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\006.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.32232310015168
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\007.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.9435441491642
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\008.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.988263800613
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\009.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.974812111786
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\010.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.19637690579246
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\011.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.39367962878032
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\012.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.46764068710594
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\013.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.625711936901
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\014.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.84427551288978
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\015.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.16374034916127
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\016.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.93933642059116
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\017.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.74216348158822
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\018.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.70040447891027
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\019.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.6110057222028
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\020.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.37580287162969
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\021.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.16105995864254
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\022.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 70.93119544874736
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\023.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.06966799957269
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\024.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.16415046404794
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\025.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.1890516927859
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\026.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.39948790985278
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\027.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.50063607599068
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\028.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.51512497625104
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\029.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.45813684341091
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\030.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.3801313037442
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\031.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.38979901966805
+      },
+      {
+        "index": 32,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\032.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.32422161079683
+      },
+      {
+        "index": 33,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\033.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.3736445657395
+      },
+      {
+        "index": 34,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\034.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.36933580198966
+      },
+      {
+        "index": 35,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\035.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.303167052878
+      },
+      {
+        "index": 36,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\036.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.34471123762064
+      },
+      {
+        "index": 37,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\037.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.49832776875914
+      },
+      {
+        "index": 38,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\038.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.5951130936165
+      },
+      {
+        "index": 39,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\039.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.3279705093179
+      },
+      {
+        "index": 40,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\040.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.16094531238366
+      },
+      {
+        "index": 41,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\041.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.5204131276389
+      },
+      {
+        "index": 42,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\042.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.76716534528687
+      },
+      {
+        "index": 43,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\043.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.83709777985041
+      },
+      {
+        "index": 44,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\044.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.77254902991673
+      },
+      {
+        "index": 45,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\045.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.51496006989906
+      },
+      {
+        "index": 46,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\046.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.25736378675936
+      },
+      {
+        "index": 47,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\047.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.24004584558139
+      },
+      {
+        "index": 48,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\048.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.27789239567846
+      },
+      {
+        "index": 49,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\049.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.15925436612783
+      },
+      {
+        "index": 50,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\050.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.9199388641304
+      },
+      {
+        "index": 51,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\051.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.79522769270945
+      },
+      {
+        "index": 52,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\052.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.66389715569613
+      },
+      {
+        "index": 53,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\053.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.7407931215399
+      },
+      {
+        "index": 54,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\054.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.90874899400934
+      },
+      {
+        "index": 55,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\055.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.17903667628495
+      },
+      {
+        "index": 56,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\056.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.64790049509007
+      },
+      {
+        "index": 57,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\057.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.57978827567227
+      },
+      {
+        "index": 58,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\058.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.6532577257594
+      },
+      {
+        "index": 59,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose2\\image\\059.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.16619728700616
+      }
+    ]
+  },
+  {
+    "pose": 3,
+    "camera_exactly_equal": true,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\000.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.70904776290531
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\001.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.2331818924655
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\002.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.4708205447572
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\003.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.0110000005672
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\004.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.38699048376304
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\005.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.1608535790063
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\006.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.53404206728722
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\007.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 73.3586085220616
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\008.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.53053083013928
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\009.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.54623320478677
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\010.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.36634725167805
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\011.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.56374049366272
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\012.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.53470673110151
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\013.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.68443260364306
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\014.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.73984595081512
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\015.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.82968661153099
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\016.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.9850817535785
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\017.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.40176917406735
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\018.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.42673687033715
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\019.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.87996507797124
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\020.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.03366961817493
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\021.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.5758489975495
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\022.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.87471227589242
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\023.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.49608115622928
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\024.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.53037978403844
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\025.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.53220391188552
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\026.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.44449943624458
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\027.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.66825784991146
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\028.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.38879321135892
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\029.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.73151908892939
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\030.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.56867963329044
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\031.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.68457085870236
+      },
+      {
+        "index": 32,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\032.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.39119361596089
+      },
+      {
+        "index": 33,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\033.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.3541593949658
+      },
+      {
+        "index": 34,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\034.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.6660455850947
+      },
+      {
+        "index": 35,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\035.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.39234784344022
+      },
+      {
+        "index": 36,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\036.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.87140296437528
+      },
+      {
+        "index": 37,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\037.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.56543588930398
+      },
+      {
+        "index": 38,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\038.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.05055400247996
+      },
+      {
+        "index": 39,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\039.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 71.93305418549434
+      },
+      {
+        "index": 40,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\040.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.44901707164196
+      },
+      {
+        "index": 41,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\041.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.5255679406638
+      },
+      {
+        "index": 42,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\042.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.55017726395444
+      },
+      {
+        "index": 43,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\043.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 73.00482662063584
+      },
+      {
+        "index": 44,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\044.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 73.2116715156671
+      },
+      {
+        "index": 45,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\045.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 73.533105031392
+      },
+      {
+        "index": 46,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\046.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 73.67441052544598
+      },
+      {
+        "index": 47,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\047.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 73.31804076112141
+      },
+      {
+        "index": 48,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\048.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 73.01561619102026
+      },
+      {
+        "index": 49,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\049.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 73.13754148416832
+      },
+      {
+        "index": 50,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\050.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 73.25164842255761
+      },
+      {
+        "index": 51,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\051.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.80796963744149
+      },
+      {
+        "index": 52,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\052.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.82700942000349
+      },
+      {
+        "index": 53,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\053.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.1903959139785
+      },
+      {
+        "index": 54,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\054.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.38939286227603
+      },
+      {
+        "index": 55,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\055.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.04105133461032
+      },
+      {
+        "index": 56,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\056.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.47412785200234
+      },
+      {
+        "index": 57,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\057.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 73.24038911186965
+      },
+      {
+        "index": 58,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\058.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.64841669589917
+      },
+      {
+        "index": 59,
+        "source": "E:\\PoseFusionExp\\real_world\\raw_video\\realworld_datasets_2\\sliced_images_sliced\\Gardian_pose3\\image\\059.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 72.90702323861059
+      }
+    ]
+  }
+]

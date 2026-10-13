@@ -1,0 +1,1129 @@
+{
+  "case_id": "lego",
+  "paper_label": "Lego",
+  "domain": "synthetic",
+  "status": "complete_background",
+  "poses": [
+    {
+      "pose": 1,
+      "image_count": 40,
+      "background_image_count": 40,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image",
+      "camera_sha256": "1b11e0138cb9f4c500f75788e95a0f6a42ddee3e73be1117842e6a08a821b642",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose1/image/000.png",
+          "mask": "pose1/mask/000.png",
+          "image_sha256": "09a2d0636f40aa5be5a74a242ec03a257e65f3c048b95fbc6cbfb37d09d1ed85",
+          "mask_sha256": "9da5bcd92d02e861f4211887e756b53d391063e351b07c8ce37b14dccf282213",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\000.png",
+          "source_background_sha256": "09a2d0636f40aa5be5a74a242ec03a257e65f3c048b95fbc6cbfb37d09d1ed85"
+        },
+        {
+          "index": 1,
+          "image": "pose1/image/001.png",
+          "mask": "pose1/mask/001.png",
+          "image_sha256": "8746b432b2da9653e8e9111352e07fe6f39901b717d5aabf584e302c8f4c62e3",
+          "mask_sha256": "1a4be3306e32fcbf4c2630ea121d7eaffdbbc65efbe902df6acf9d75ae8747e8",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\001.png",
+          "source_background_sha256": "8746b432b2da9653e8e9111352e07fe6f39901b717d5aabf584e302c8f4c62e3"
+        },
+        {
+          "index": 2,
+          "image": "pose1/image/002.png",
+          "mask": "pose1/mask/002.png",
+          "image_sha256": "e883c5c33f527a9a7efa6f3d2c253fd7929908d270ce4d5e7fc69bb803548f5e",
+          "mask_sha256": "813cd8a2ffae360c43245db9c266fd2e157894386f682bf9fb47ecc8d843264f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\002.png",
+          "source_background_sha256": "e883c5c33f527a9a7efa6f3d2c253fd7929908d270ce4d5e7fc69bb803548f5e"
+        },
+        {
+          "index": 3,
+          "image": "pose1/image/003.png",
+          "mask": "pose1/mask/003.png",
+          "image_sha256": "b03dbbf7bdc8b6f3b48454f8e2aadd47f647b38a2e5c40e8d587f0f8c48dba36",
+          "mask_sha256": "8eb49b4bcd6d4a29f576dc587ed18adeb40cdd42dd5128d518a608e1c5096808",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\003.png",
+          "source_background_sha256": "b03dbbf7bdc8b6f3b48454f8e2aadd47f647b38a2e5c40e8d587f0f8c48dba36"
+        },
+        {
+          "index": 4,
+          "image": "pose1/image/004.png",
+          "mask": "pose1/mask/004.png",
+          "image_sha256": "89c1a97cb19a29d6d36a239fe0e89f6c8145e1da1962fd05ca89cbe661261861",
+          "mask_sha256": "a4d90f4bf005f70c51714f8cfa7fdcbabd6ff98cc535b622dc6e7470ab0165b2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\004.png",
+          "source_background_sha256": "89c1a97cb19a29d6d36a239fe0e89f6c8145e1da1962fd05ca89cbe661261861"
+        },
+        {
+          "index": 5,
+          "image": "pose1/image/005.png",
+          "mask": "pose1/mask/005.png",
+          "image_sha256": "295d58a64b3236a8ef1d9aabf8cf11bb4cb731051ec9c34f193467f9db4cb246",
+          "mask_sha256": "4496ef269aaf3d52314c7c482f498126d2e0e7ead2ba06648d71de0c710529fe",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\005.png",
+          "source_background_sha256": "295d58a64b3236a8ef1d9aabf8cf11bb4cb731051ec9c34f193467f9db4cb246"
+        },
+        {
+          "index": 6,
+          "image": "pose1/image/006.png",
+          "mask": "pose1/mask/006.png",
+          "image_sha256": "037767fb6fa1b34c7a83ccecb92360367a4b5614e4c95ac75c357bee34239ec0",
+          "mask_sha256": "4594d7d4c7ea43f44b38fd1991a1872b2b753ed390e86b87566b2bf591580e94",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\006.png",
+          "source_background_sha256": "037767fb6fa1b34c7a83ccecb92360367a4b5614e4c95ac75c357bee34239ec0"
+        },
+        {
+          "index": 7,
+          "image": "pose1/image/007.png",
+          "mask": "pose1/mask/007.png",
+          "image_sha256": "53bf0d827125bde9dde06978452cae57a16711b3df8782c7f6826ecd6f54ea37",
+          "mask_sha256": "fa7255ee4862fb04e6e1cb6f461d42d5ccbd1d1bb8b15aab31a66a2e1b4bd98d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\007.png",
+          "source_background_sha256": "53bf0d827125bde9dde06978452cae57a16711b3df8782c7f6826ecd6f54ea37"
+        },
+        {
+          "index": 8,
+          "image": "pose1/image/008.png",
+          "mask": "pose1/mask/008.png",
+          "image_sha256": "e5c666cae470813fc279379e15a0f1497a3af972731eae7c7d39c1fd30cf2e1b",
+          "mask_sha256": "4b20b3ee3554225da350feb943d617fb83db27d91e18f8a46f571175b27e8508",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\008.png",
+          "source_background_sha256": "e5c666cae470813fc279379e15a0f1497a3af972731eae7c7d39c1fd30cf2e1b"
+        },
+        {
+          "index": 9,
+          "image": "pose1/image/009.png",
+          "mask": "pose1/mask/009.png",
+          "image_sha256": "8b527522e61a60572c7aa5b46be69a565034f6e0547f06f52e06020bbfd31d5b",
+          "mask_sha256": "8b3751422fbaffea9231ba04a6eb3ef86ee3b150663f2fccccf5e3399bf7735d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\009.png",
+          "source_background_sha256": "8b527522e61a60572c7aa5b46be69a565034f6e0547f06f52e06020bbfd31d5b"
+        },
+        {
+          "index": 10,
+          "image": "pose1/image/010.png",
+          "mask": "pose1/mask/010.png",
+          "image_sha256": "6f7d4eaf6fcffa5e4814fc1f329b6712ca7bce172943e6683b00a734fa762f8f",
+          "mask_sha256": "c47bfd576042117e5505d5281f50e02d5b69934b80cc35d016dfd50f3c8a7614",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\010.png",
+          "source_background_sha256": "6f7d4eaf6fcffa5e4814fc1f329b6712ca7bce172943e6683b00a734fa762f8f"
+        },
+        {
+          "index": 11,
+          "image": "pose1/image/011.png",
+          "mask": "pose1/mask/011.png",
+          "image_sha256": "f9d27cc0c6a95d5554eba5480d61a60242a52076c922ed43858312fcafd88307",
+          "mask_sha256": "6dfb5e019c05ce1ff83f56ceee1f6a16dbc46790c7233383c4f31892cc8716ae",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\011.png",
+          "source_background_sha256": "f9d27cc0c6a95d5554eba5480d61a60242a52076c922ed43858312fcafd88307"
+        },
+        {
+          "index": 12,
+          "image": "pose1/image/012.png",
+          "mask": "pose1/mask/012.png",
+          "image_sha256": "c85e5ce9feaa7d7c010a8c17c239f3f8501114aa6adf832ad7f8e81aeb6b2d18",
+          "mask_sha256": "cea6c9e5b2843ece4cef4cc17d9cde08fa5cd6db463b143185847c3b7320502b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\012.png",
+          "source_background_sha256": "c85e5ce9feaa7d7c010a8c17c239f3f8501114aa6adf832ad7f8e81aeb6b2d18"
+        },
+        {
+          "index": 13,
+          "image": "pose1/image/013.png",
+          "mask": "pose1/mask/013.png",
+          "image_sha256": "63ad45b730fb4710373cbed6b4fec9762e6169ce5e5474b5e25800450196502e",
+          "mask_sha256": "533b9dc0b7293ee8a43972703e46c22ef85527487fb320be3b6a3de1ad14d2b9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\013.png",
+          "source_background_sha256": "63ad45b730fb4710373cbed6b4fec9762e6169ce5e5474b5e25800450196502e"
+        },
+        {
+          "index": 14,
+          "image": "pose1/image/014.png",
+          "mask": "pose1/mask/014.png",
+          "image_sha256": "243d9fe1c4f3c7d3474eb247f15a66e667ecaa199089b1710e0ab71d48fc763a",
+          "mask_sha256": "d0b932ce5ce37814f9e9e3a3c414d009594d3f3e6f1e2c519aa505137ab013cc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\014.png",
+          "source_background_sha256": "243d9fe1c4f3c7d3474eb247f15a66e667ecaa199089b1710e0ab71d48fc763a"
+        },
+        {
+          "index": 15,
+          "image": "pose1/image/015.png",
+          "mask": "pose1/mask/015.png",
+          "image_sha256": "7b7bf8010c8ef8d6f8979e5ee4d56636ee819d3d9baa689ad1dfbd8919d8f271",
+          "mask_sha256": "a47a5b2b1d55b2a7ac44c1740aea7ed6f02775b2e81455bdcf7c94ae1ccd99ac",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\015.png",
+          "source_background_sha256": "7b7bf8010c8ef8d6f8979e5ee4d56636ee819d3d9baa689ad1dfbd8919d8f271"
+        },
+        {
+          "index": 16,
+          "image": "pose1/image/016.png",
+          "mask": "pose1/mask/016.png",
+          "image_sha256": "cbbf54b160c431de09f46259b9524d6f4c5b774df316697e2803df5ad1580223",
+          "mask_sha256": "56f2182d08b4c0c7c1830a88d8cf415fa3f0dfcdf0ee7e5d9866f550b663c96f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\016.png",
+          "source_background_sha256": "cbbf54b160c431de09f46259b9524d6f4c5b774df316697e2803df5ad1580223"
+        },
+        {
+          "index": 17,
+          "image": "pose1/image/017.png",
+          "mask": "pose1/mask/017.png",
+          "image_sha256": "c42fba16c0bad3670988ea1f08abb8ba2230216e8c7c0186025ed24c716ff206",
+          "mask_sha256": "fce4259181fb7ad9ca06e271e12bcf4cd242be3038bfb2f5390c10eb0ff57853",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\017.png",
+          "source_background_sha256": "c42fba16c0bad3670988ea1f08abb8ba2230216e8c7c0186025ed24c716ff206"
+        },
+        {
+          "index": 18,
+          "image": "pose1/image/018.png",
+          "mask": "pose1/mask/018.png",
+          "image_sha256": "06954a8aea67fc3489be591434ec54a5659ce687493ca5a03ea618ff2a474ad8",
+          "mask_sha256": "41aff25ac2b68f282a56d9a4a61a31a87cf4d14e955972c3e7b39d6ba70f7dc4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\018.png",
+          "source_background_sha256": "06954a8aea67fc3489be591434ec54a5659ce687493ca5a03ea618ff2a474ad8"
+        },
+        {
+          "index": 19,
+          "image": "pose1/image/019.png",
+          "mask": "pose1/mask/019.png",
+          "image_sha256": "b88bc2bec2e0ac712686bcb8472bd442951aeae6b5284095cd7c92c15c9186c4",
+          "mask_sha256": "174d479a86792237a95947b525a2eac28831d4d976c7704c3fdd1411c96e0350",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\019.png",
+          "source_background_sha256": "b88bc2bec2e0ac712686bcb8472bd442951aeae6b5284095cd7c92c15c9186c4"
+        },
+        {
+          "index": 20,
+          "image": "pose1/image/020.png",
+          "mask": "pose1/mask/020.png",
+          "image_sha256": "86002093d818b476e92612483de2de6d99b8c54f6de17e051f700642241a35fc",
+          "mask_sha256": "e488922587ecc674ca6b65275eb21fa530ebbdba164e12fa6e5f1403b821af4e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\020.png",
+          "source_background_sha256": "86002093d818b476e92612483de2de6d99b8c54f6de17e051f700642241a35fc"
+        },
+        {
+          "index": 21,
+          "image": "pose1/image/021.png",
+          "mask": "pose1/mask/021.png",
+          "image_sha256": "c7df4be11582b8e7556f24fd857af55ff55b4bedb518d8cece7387efea3981d1",
+          "mask_sha256": "ea00ada4d7f43b5b89acb67390795317c2fd01a3ebb5b72511699f41e9b97f84",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\021.png",
+          "source_background_sha256": "c7df4be11582b8e7556f24fd857af55ff55b4bedb518d8cece7387efea3981d1"
+        },
+        {
+          "index": 22,
+          "image": "pose1/image/022.png",
+          "mask": "pose1/mask/022.png",
+          "image_sha256": "b701ad9c5d71295e94964d500649b6954043ea208659738fd7aef4b167f1fb08",
+          "mask_sha256": "16f50918cd86eb5ae72ad45eb7870173cdcd519e9006f6d09633feaca821cfbe",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\022.png",
+          "source_background_sha256": "b701ad9c5d71295e94964d500649b6954043ea208659738fd7aef4b167f1fb08"
+        },
+        {
+          "index": 23,
+          "image": "pose1/image/023.png",
+          "mask": "pose1/mask/023.png",
+          "image_sha256": "992270e83e8bfeec562338eb1f291c19c64a9f807162239d7981f860d8903691",
+          "mask_sha256": "e9b9991447240d17b9e8b1e6a7efd1a142fb27a516108d52745ccf2de30dea15",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\023.png",
+          "source_background_sha256": "992270e83e8bfeec562338eb1f291c19c64a9f807162239d7981f860d8903691"
+        },
+        {
+          "index": 24,
+          "image": "pose1/image/024.png",
+          "mask": "pose1/mask/024.png",
+          "image_sha256": "641691ab4985c5199e52967e5528cb9e1ab3c308de745a16db309e555029790e",
+          "mask_sha256": "86a0e31da1d18f4e9cabc571e14401cf085a650ec2db4bb1804dabd4933e2e17",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\024.png",
+          "source_background_sha256": "641691ab4985c5199e52967e5528cb9e1ab3c308de745a16db309e555029790e"
+        },
+        {
+          "index": 25,
+          "image": "pose1/image/025.png",
+          "mask": "pose1/mask/025.png",
+          "image_sha256": "29f192da23c580f9d84c734df97f114ab0644ed8c504302bf27a493964e5bc71",
+          "mask_sha256": "ddf9fc6d7187b9a416c7d3dbbd3b9c96bc352fefce474e41d474ce4c711695d2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\025.png",
+          "source_background_sha256": "29f192da23c580f9d84c734df97f114ab0644ed8c504302bf27a493964e5bc71"
+        },
+        {
+          "index": 26,
+          "image": "pose1/image/026.png",
+          "mask": "pose1/mask/026.png",
+          "image_sha256": "e1c331f7394043f3ea87b191375ebe7503af4fd52fb15f85872cd1e6d1cb6fba",
+          "mask_sha256": "b70ae051f120af28ae868b318b10a57c69037c408ec5ea4bae0273e28526fd21",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\026.png",
+          "source_background_sha256": "e1c331f7394043f3ea87b191375ebe7503af4fd52fb15f85872cd1e6d1cb6fba"
+        },
+        {
+          "index": 27,
+          "image": "pose1/image/027.png",
+          "mask": "pose1/mask/027.png",
+          "image_sha256": "c70b1253079678913b6f1aa91dd4b6e2268dcc6ecdcaee1a0fcce186ca1bd1f7",
+          "mask_sha256": "d8225613de49751d3213fa39d80f20048cdce1f5899053b88678f73b280f0de3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\027.png",
+          "source_background_sha256": "c70b1253079678913b6f1aa91dd4b6e2268dcc6ecdcaee1a0fcce186ca1bd1f7"
+        },
+        {
+          "index": 28,
+          "image": "pose1/image/028.png",
+          "mask": "pose1/mask/028.png",
+          "image_sha256": "a65c8d66f2a343fd1e5c8875071fa9c5c8fdac517e4a158c183da21be1d19bc1",
+          "mask_sha256": "40691620ff79e938050099ca58253d142206451ff739cfb7d26494c527867140",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\028.png",
+          "source_background_sha256": "a65c8d66f2a343fd1e5c8875071fa9c5c8fdac517e4a158c183da21be1d19bc1"
+        },
+        {
+          "index": 29,
+          "image": "pose1/image/029.png",
+          "mask": "pose1/mask/029.png",
+          "image_sha256": "2e04f3b12fdb0af60d1248a525f9590ca873706f9de62b97f546c6d5bcc211aa",
+          "mask_sha256": "c2167310165d302761bfd594e43fe5063b8695788b9710fddd490dc970a1368e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\029.png",
+          "source_background_sha256": "2e04f3b12fdb0af60d1248a525f9590ca873706f9de62b97f546c6d5bcc211aa"
+        },
+        {
+          "index": 30,
+          "image": "pose1/image/030.png",
+          "mask": "pose1/mask/030.png",
+          "image_sha256": "7466865f46433951ac52291223670a32593803704b8304254bd972b51d6116cf",
+          "mask_sha256": "6e9cd599dcca68f7838762fdc164526cf5456fad8cca0d403dd435839ed503f4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\030.png",
+          "source_background_sha256": "7466865f46433951ac52291223670a32593803704b8304254bd972b51d6116cf"
+        },
+        {
+          "index": 31,
+          "image": "pose1/image/031.png",
+          "mask": "pose1/mask/031.png",
+          "image_sha256": "cdf83fe85973fb644ce97a5e640e160e3566c69e34ae5d56b12bc433c95f277f",
+          "mask_sha256": "4106b414efda32c9f8efa9173d20aeff72d666ea81110f573f2471b2dd5de18e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\031.png",
+          "source_background_sha256": "cdf83fe85973fb644ce97a5e640e160e3566c69e34ae5d56b12bc433c95f277f"
+        },
+        {
+          "index": 32,
+          "image": "pose1/image/032.png",
+          "mask": "pose1/mask/032.png",
+          "image_sha256": "947941d719db3dac0a577741a57d1aad7d5a1e3c6afab374ea212e20c97a6899",
+          "mask_sha256": "eed02ea49fa4014fe8648cb76b5371886250b41fcf748c2e4354c21bdd7b3c86",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\032.png",
+          "source_background_sha256": "947941d719db3dac0a577741a57d1aad7d5a1e3c6afab374ea212e20c97a6899"
+        },
+        {
+          "index": 33,
+          "image": "pose1/image/033.png",
+          "mask": "pose1/mask/033.png",
+          "image_sha256": "caa5e5adeacdc24aa7b5975ca8c2490234db9debb5445db6d6b7a338b5923ab3",
+          "mask_sha256": "d0ceeacf16d35bbb31f544ebda1cb44bc50663f2f0c90234414acf1697ffa03e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\033.png",
+          "source_background_sha256": "caa5e5adeacdc24aa7b5975ca8c2490234db9debb5445db6d6b7a338b5923ab3"
+        },
+        {
+          "index": 34,
+          "image": "pose1/image/034.png",
+          "mask": "pose1/mask/034.png",
+          "image_sha256": "1f43fbb8fb1563e0f961e1aca1ba7037f56f1a35ab8a02c11c6be473d19a7d12",
+          "mask_sha256": "deaf70951e5a067088d83490730354bb385534da4f266a3feb984114eb101a95",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\034.png",
+          "source_background_sha256": "1f43fbb8fb1563e0f961e1aca1ba7037f56f1a35ab8a02c11c6be473d19a7d12"
+        },
+        {
+          "index": 35,
+          "image": "pose1/image/035.png",
+          "mask": "pose1/mask/035.png",
+          "image_sha256": "fe82b4372406a149a970b49484150ef7a105d6a3f37d742c53facb55aba2d907",
+          "mask_sha256": "68aa5480184b81281a4cda08cc023e141b6024ac3167dd74412c605e41824d75",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\035.png",
+          "source_background_sha256": "fe82b4372406a149a970b49484150ef7a105d6a3f37d742c53facb55aba2d907"
+        },
+        {
+          "index": 36,
+          "image": "pose1/image/036.png",
+          "mask": "pose1/mask/036.png",
+          "image_sha256": "b608ef239f62269b388c0cce85923a700acd69ff51b6e91dbdd9e99c2a197aec",
+          "mask_sha256": "9deb13038a4e192d41d17a478c503ce0ce76f90c4fef0baf81dbd922528aa71f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\036.png",
+          "source_background_sha256": "b608ef239f62269b388c0cce85923a700acd69ff51b6e91dbdd9e99c2a197aec"
+        },
+        {
+          "index": 37,
+          "image": "pose1/image/037.png",
+          "mask": "pose1/mask/037.png",
+          "image_sha256": "c3843e1d57d016d1aa4683ae13d29ac93a02d9a697b0b4cad850a13e39246f71",
+          "mask_sha256": "b4f3719adb9e1aa911db48283a11f8c8ad3b8ef2d2fed251a0fafc90e73d4096",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\037.png",
+          "source_background_sha256": "c3843e1d57d016d1aa4683ae13d29ac93a02d9a697b0b4cad850a13e39246f71"
+        },
+        {
+          "index": 38,
+          "image": "pose1/image/038.png",
+          "mask": "pose1/mask/038.png",
+          "image_sha256": "27fb55885eb38b1febb02186702ebc1d41ec0b931d1960210a6256020b5456de",
+          "mask_sha256": "58d30ef3f96a0a0a9f8efa2fd81e270333a4e6ca132e16090e52a4e42bd465d3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\038.png",
+          "source_background_sha256": "27fb55885eb38b1febb02186702ebc1d41ec0b931d1960210a6256020b5456de"
+        },
+        {
+          "index": 39,
+          "image": "pose1/image/039.png",
+          "mask": "pose1/mask/039.png",
+          "image_sha256": "3179586689eaad180b3f4eaf07999e45991d45efd22b192b914597ba0bcb28fa",
+          "mask_sha256": "b7d916e463e69b8d02166535bf40da1b90f6966ea55efc1c4f48912a352cc771",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose1\\image\\039.png",
+          "source_background_sha256": "3179586689eaad180b3f4eaf07999e45991d45efd22b192b914597ba0bcb28fa"
+        }
+      ],
+      "dimensions": {
+        "800x800 RGB": 40
+      }
+    },
+    {
+      "pose": 2,
+      "image_count": 40,
+      "background_image_count": 40,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image",
+      "camera_sha256": "202a0d93dfec97edb14f6e8b005fae5e17f3bdbda1358881d00be10208a96aed",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose2/image/000.png",
+          "mask": "pose2/mask/000.png",
+          "image_sha256": "74cf2732d388caffce97fbf7edc69adf660d5b0ddaf3f27214d2f12b6ec357f8",
+          "mask_sha256": "dd66e3f5859faa7fa55ae5eb21bcd474ce9f3e3d95c0d32ba346c0d0a7c3950a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\000.png",
+          "source_background_sha256": "74cf2732d388caffce97fbf7edc69adf660d5b0ddaf3f27214d2f12b6ec357f8"
+        },
+        {
+          "index": 1,
+          "image": "pose2/image/001.png",
+          "mask": "pose2/mask/001.png",
+          "image_sha256": "87fd8601ac0d443b7db277d3da8de8945b7fa1bd535860ddcfbbc072d39810ee",
+          "mask_sha256": "de5d9137ee9a0a958e4b951e77c6b94939ad205ae32567316df20e2c577a8f07",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\001.png",
+          "source_background_sha256": "87fd8601ac0d443b7db277d3da8de8945b7fa1bd535860ddcfbbc072d39810ee"
+        },
+        {
+          "index": 2,
+          "image": "pose2/image/002.png",
+          "mask": "pose2/mask/002.png",
+          "image_sha256": "deb54cc140b2d8aff98dc6b5e36c300d9e037561f7e09872dfbd1359bcc869a7",
+          "mask_sha256": "70c7cff177e68d51a66ff6ad052653a23f62029f5cb1e485ea5c2100b67724e5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\002.png",
+          "source_background_sha256": "deb54cc140b2d8aff98dc6b5e36c300d9e037561f7e09872dfbd1359bcc869a7"
+        },
+        {
+          "index": 3,
+          "image": "pose2/image/003.png",
+          "mask": "pose2/mask/003.png",
+          "image_sha256": "2490d9751d8f2038e0c6ffe9b302d52042dd23b46391604c75d893bb557a1def",
+          "mask_sha256": "ba589307917488b83551fc196f6036e5c05e89445ac95cecf13d3cf21f5d396a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\003.png",
+          "source_background_sha256": "2490d9751d8f2038e0c6ffe9b302d52042dd23b46391604c75d893bb557a1def"
+        },
+        {
+          "index": 4,
+          "image": "pose2/image/004.png",
+          "mask": "pose2/mask/004.png",
+          "image_sha256": "3e27514cfdac61ec5f0d89c34b7141136897dd4b37a60730aa1bae8eff0970ce",
+          "mask_sha256": "0be29f1f4a020bf7138ea01961be45e2218b8b024730e7c682d12e89566da3a3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\004.png",
+          "source_background_sha256": "3e27514cfdac61ec5f0d89c34b7141136897dd4b37a60730aa1bae8eff0970ce"
+        },
+        {
+          "index": 5,
+          "image": "pose2/image/005.png",
+          "mask": "pose2/mask/005.png",
+          "image_sha256": "bcfe3a0d69aed67e5b5cc5e9f82027538c44cfc885a636e71e19e1125da3a236",
+          "mask_sha256": "82b8c5653535154e1d755ee7f38107e93aa5673fde3b080682690e8389831df9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\005.png",
+          "source_background_sha256": "bcfe3a0d69aed67e5b5cc5e9f82027538c44cfc885a636e71e19e1125da3a236"
+        },
+        {
+          "index": 6,
+          "image": "pose2/image/006.png",
+          "mask": "pose2/mask/006.png",
+          "image_sha256": "30426f3589cc081bc7ba5307316d049713885f78159c98c659c38f426968d2f1",
+          "mask_sha256": "27ad129334ebd1645a9a4bc9f0b2383bd08da6efb9883456ff2337bfb1d69900",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\006.png",
+          "source_background_sha256": "30426f3589cc081bc7ba5307316d049713885f78159c98c659c38f426968d2f1"
+        },
+        {
+          "index": 7,
+          "image": "pose2/image/007.png",
+          "mask": "pose2/mask/007.png",
+          "image_sha256": "607a323c6013fe0664ea2df7ca8040db47ca7dd1fa29ffd28c332a163ba70e90",
+          "mask_sha256": "b243fa6f18f6af6f8198d9549ebfe0d7aac75efa292d4a6f11175f1e8935ff42",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\007.png",
+          "source_background_sha256": "607a323c6013fe0664ea2df7ca8040db47ca7dd1fa29ffd28c332a163ba70e90"
+        },
+        {
+          "index": 8,
+          "image": "pose2/image/008.png",
+          "mask": "pose2/mask/008.png",
+          "image_sha256": "639a7baec144590f3b5f3739b0367119951403e382d480f6c852f9d9f885b526",
+          "mask_sha256": "ed4a48c9176be71989b62822c60f611511c96b0ad5ca8b563f5501a6c3383f3e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\008.png",
+          "source_background_sha256": "639a7baec144590f3b5f3739b0367119951403e382d480f6c852f9d9f885b526"
+        },
+        {
+          "index": 9,
+          "image": "pose2/image/009.png",
+          "mask": "pose2/mask/009.png",
+          "image_sha256": "10cb4ede5c0b1ba2a0c4036a8e77a70c16b3a14c83cae578162f40f2276c783b",
+          "mask_sha256": "f8cbcb17550252afdef9a4ec3c63dad44c01e3de01aa23f484245b7b08459901",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\009.png",
+          "source_background_sha256": "10cb4ede5c0b1ba2a0c4036a8e77a70c16b3a14c83cae578162f40f2276c783b"
+        },
+        {
+          "index": 10,
+          "image": "pose2/image/010.png",
+          "mask": "pose2/mask/010.png",
+          "image_sha256": "78e5f21ae08636b11f0e1f19504bbf9d71f3d96a52f0d0ad93faf695beef5c2c",
+          "mask_sha256": "19de2e88652fe079a66e79e931bef0dc3304a7a75a1a57cb0881e727ed5341a9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\010.png",
+          "source_background_sha256": "78e5f21ae08636b11f0e1f19504bbf9d71f3d96a52f0d0ad93faf695beef5c2c"
+        },
+        {
+          "index": 11,
+          "image": "pose2/image/011.png",
+          "mask": "pose2/mask/011.png",
+          "image_sha256": "12c23923a08fa31fc408345d981ae0f054794e6a851016b5784fe3b7eb8ceb8f",
+          "mask_sha256": "a94474f0e8eb4946adea3f71070e359dcfcb4c6c309c5d62bd17a2d006830101",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\011.png",
+          "source_background_sha256": "12c23923a08fa31fc408345d981ae0f054794e6a851016b5784fe3b7eb8ceb8f"
+        },
+        {
+          "index": 12,
+          "image": "pose2/image/012.png",
+          "mask": "pose2/mask/012.png",
+          "image_sha256": "08f81ce4f8363f2cacd8cfb5580df2f6a84ed714293b7a87b49647a3b25ef8ba",
+          "mask_sha256": "9444627d9698a068a6f8134939f9a6db570caacecf55715806cc9ba8f93bc265",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\012.png",
+          "source_background_sha256": "08f81ce4f8363f2cacd8cfb5580df2f6a84ed714293b7a87b49647a3b25ef8ba"
+        },
+        {
+          "index": 13,
+          "image": "pose2/image/013.png",
+          "mask": "pose2/mask/013.png",
+          "image_sha256": "fdb4f13193081d491f7f67408a85abe46f6802668166ab94c39a4f2bd9878485",
+          "mask_sha256": "901f14fc275e9212262c751b2a5f46b7ce4cd163c185d64fe0557418afe8a8bc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\013.png",
+          "source_background_sha256": "fdb4f13193081d491f7f67408a85abe46f6802668166ab94c39a4f2bd9878485"
+        },
+        {
+          "index": 14,
+          "image": "pose2/image/014.png",
+          "mask": "pose2/mask/014.png",
+          "image_sha256": "6a14897a5e75994751b15292605227ae80952f33f7f12ab62fd95f34d14a8618",
+          "mask_sha256": "72c1fde1005a3d25a1656410ce6cc79b2c0f23cbbd629676ab7c9fc544958fc3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\014.png",
+          "source_background_sha256": "6a14897a5e75994751b15292605227ae80952f33f7f12ab62fd95f34d14a8618"
+        },
+        {
+          "index": 15,
+          "image": "pose2/image/015.png",
+          "mask": "pose2/mask/015.png",
+          "image_sha256": "3205cc124b3c47fc5973a5b75d215a08213f92100b8d0c5fff4f5b4a489f61c6",
+          "mask_sha256": "78c4074800d44fa50c183bfef0dcfc7d9cb60dc124c7d1948f783219825e433b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\015.png",
+          "source_background_sha256": "3205cc124b3c47fc5973a5b75d215a08213f92100b8d0c5fff4f5b4a489f61c6"
+        },
+        {
+          "index": 16,
+          "image": "pose2/image/016.png",
+          "mask": "pose2/mask/016.png",
+          "image_sha256": "0f040124f58f82e8aa4fb988e0cccc65cc66ed4b70f1d68be42aa6674a48e954",
+          "mask_sha256": "a0665d6fc73daa88154613643c327a20a04158396e887cb0310c2a60934803f8",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\016.png",
+          "source_background_sha256": "0f040124f58f82e8aa4fb988e0cccc65cc66ed4b70f1d68be42aa6674a48e954"
+        },
+        {
+          "index": 17,
+          "image": "pose2/image/017.png",
+          "mask": "pose2/mask/017.png",
+          "image_sha256": "68fa2737b7e1ae47bf0d70e2f2e960e3115108c0b206e05dbc98c3159e0b77a5",
+          "mask_sha256": "26bd7d36c01602cdeb278fb5f5ba79e1c05a5fef5fa45473be112c8a4b9fd2bd",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\017.png",
+          "source_background_sha256": "68fa2737b7e1ae47bf0d70e2f2e960e3115108c0b206e05dbc98c3159e0b77a5"
+        },
+        {
+          "index": 18,
+          "image": "pose2/image/018.png",
+          "mask": "pose2/mask/018.png",
+          "image_sha256": "6f7af666fb199428c5f9e3764b052853a0d352d52c2d80632457de41f800da17",
+          "mask_sha256": "993f6b6615fbaa2b7823412b6785c22da3e18d3956bcad87cd26da46588aebd2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\018.png",
+          "source_background_sha256": "6f7af666fb199428c5f9e3764b052853a0d352d52c2d80632457de41f800da17"
+        },
+        {
+          "index": 19,
+          "image": "pose2/image/019.png",
+          "mask": "pose2/mask/019.png",
+          "image_sha256": "e8cbb27d0af02a0d7f08c87d8a53adc29d9d5b6dd3885effe08f12eacfaabcb8",
+          "mask_sha256": "edad6b12cbe924d81972b65dba85c5b793c0bac87c6ea43e36f4f07a27b02904",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\019.png",
+          "source_background_sha256": "e8cbb27d0af02a0d7f08c87d8a53adc29d9d5b6dd3885effe08f12eacfaabcb8"
+        },
+        {
+          "index": 20,
+          "image": "pose2/image/020.png",
+          "mask": "pose2/mask/020.png",
+          "image_sha256": "a277d5f28fd0e69ea5c039caa45f7a61e95a81b0e7e774a52e6d69f48a2d8f47",
+          "mask_sha256": "915c6adbeab1649c0b71307ff472b1f8919544ca38a7aa9b0af09db56ffc3850",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\020.png",
+          "source_background_sha256": "a277d5f28fd0e69ea5c039caa45f7a61e95a81b0e7e774a52e6d69f48a2d8f47"
+        },
+        {
+          "index": 21,
+          "image": "pose2/image/021.png",
+          "mask": "pose2/mask/021.png",
+          "image_sha256": "f49145d49d1223f2f4e8bb9fe36520f6bbabeefc585e20bdd9855d36a4656f34",
+          "mask_sha256": "669b81316ee77ff81f56b6ed8256ae6fc98f0937afdd92caf33db1698414864c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\021.png",
+          "source_background_sha256": "f49145d49d1223f2f4e8bb9fe36520f6bbabeefc585e20bdd9855d36a4656f34"
+        },
+        {
+          "index": 22,
+          "image": "pose2/image/022.png",
+          "mask": "pose2/mask/022.png",
+          "image_sha256": "d00e2ec7b6b9ff25924e9da106c2759043109a6183bd875140d29450a59040eb",
+          "mask_sha256": "8d7a454b88646cafe8c062b44bed59abc92d8de607231208b1e22f7d9523fef4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\022.png",
+          "source_background_sha256": "d00e2ec7b6b9ff25924e9da106c2759043109a6183bd875140d29450a59040eb"
+        },
+        {
+          "index": 23,
+          "image": "pose2/image/023.png",
+          "mask": "pose2/mask/023.png",
+          "image_sha256": "a5cdbfb81ad5335820b07d5fcce4ad4f098dc18dcab27d0a0321f254b0045dde",
+          "mask_sha256": "e240ec8ec9cdb99e1c927514592294e827e38068c2cf7908b5dc21056d0ab8ea",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\023.png",
+          "source_background_sha256": "a5cdbfb81ad5335820b07d5fcce4ad4f098dc18dcab27d0a0321f254b0045dde"
+        },
+        {
+          "index": 24,
+          "image": "pose2/image/024.png",
+          "mask": "pose2/mask/024.png",
+          "image_sha256": "00ecc2bd315110f088e73de5eff0b8fed6f9a4706adcc71f3bbb4c2acd0a7960",
+          "mask_sha256": "8e2be84ac5649c6069c6d1e410a17a7cb82ad9f625f5496732ef5110bbcf33b0",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\024.png",
+          "source_background_sha256": "00ecc2bd315110f088e73de5eff0b8fed6f9a4706adcc71f3bbb4c2acd0a7960"
+        },
+        {
+          "index": 25,
+          "image": "pose2/image/025.png",
+          "mask": "pose2/mask/025.png",
+          "image_sha256": "96caaf94686bfed0db124f1c8900e0c27937fc6c4ed627bbdee00a927f89dadf",
+          "mask_sha256": "f98bbb62e9297227b708eaf66d4aeb471db02c839ae632a40bf949bd0a82713a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\025.png",
+          "source_background_sha256": "96caaf94686bfed0db124f1c8900e0c27937fc6c4ed627bbdee00a927f89dadf"
+        },
+        {
+          "index": 26,
+          "image": "pose2/image/026.png",
+          "mask": "pose2/mask/026.png",
+          "image_sha256": "3ec13080ac2f190c2c8749ab277de90b190dc863504d78f63eeec9ed7bb83541",
+          "mask_sha256": "167b8f8b5a553b91afd92c156e85296d7bd5c528d35d1bce93d5f964afc14f44",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\026.png",
+          "source_background_sha256": "3ec13080ac2f190c2c8749ab277de90b190dc863504d78f63eeec9ed7bb83541"
+        },
+        {
+          "index": 27,
+          "image": "pose2/image/027.png",
+          "mask": "pose2/mask/027.png",
+          "image_sha256": "f3216b4b500ed9a135f2e5dc78038181cb720490d29c3ed63df99bea8e8adb42",
+          "mask_sha256": "e0311cd00a7a0f3be9dd7139a74c3dde78f99e6d7052dd0fcaa0d6b7a83224c4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\027.png",
+          "source_background_sha256": "f3216b4b500ed9a135f2e5dc78038181cb720490d29c3ed63df99bea8e8adb42"
+        },
+        {
+          "index": 28,
+          "image": "pose2/image/028.png",
+          "mask": "pose2/mask/028.png",
+          "image_sha256": "933435c94c02e226a2a4fa5bc3c6bc31353e0429ec2b388781b04e157a507b39",
+          "mask_sha256": "ad231d532d1ffd3ad1b3ca233870e36d78bbb04a0fa122ffa7d788f7cdfd0a35",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\028.png",
+          "source_background_sha256": "933435c94c02e226a2a4fa5bc3c6bc31353e0429ec2b388781b04e157a507b39"
+        },
+        {
+          "index": 29,
+          "image": "pose2/image/029.png",
+          "mask": "pose2/mask/029.png",
+          "image_sha256": "951508c8b5fb62be58c94725d26fb17251369e6bb49eb3c3363b262d3f40eca4",
+          "mask_sha256": "4676cb0aca5e774cbfda4138bb9b17524e834ab181a14aa1d0152732e961601d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\029.png",
+          "source_background_sha256": "951508c8b5fb62be58c94725d26fb17251369e6bb49eb3c3363b262d3f40eca4"
+        },
+        {
+          "index": 30,
+          "image": "pose2/image/030.png",
+          "mask": "pose2/mask/030.png",
+          "image_sha256": "b40a326d69c0a44e367f1d7a04cabb1ababb584d1c97aab5cce0c80abcc59449",
+          "mask_sha256": "053f3f105405806cc0646c57a5d0f83ed88e9155e2d3e25ddf29946e5a7e017d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\030.png",
+          "source_background_sha256": "b40a326d69c0a44e367f1d7a04cabb1ababb584d1c97aab5cce0c80abcc59449"
+        },
+        {
+          "index": 31,
+          "image": "pose2/image/031.png",
+          "mask": "pose2/mask/031.png",
+          "image_sha256": "6da6ab92eda9531d7c6635ff0666a279f08a69d78488055797e3e8a746241e79",
+          "mask_sha256": "1c7e361ed6dd29e10afbc3e10f17c38d4ac66646f41b121f2bdb4ee83ffb366b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\031.png",
+          "source_background_sha256": "6da6ab92eda9531d7c6635ff0666a279f08a69d78488055797e3e8a746241e79"
+        },
+        {
+          "index": 32,
+          "image": "pose2/image/032.png",
+          "mask": "pose2/mask/032.png",
+          "image_sha256": "534c1b9c0905dd50e57f48aa0e8d94d6f3b08d3695d794d36857b87dd197ae98",
+          "mask_sha256": "f480335bf249b8e4c2796b3e1f5a49bb1d0ccf943b9057d00930a3c5d925bcb5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\032.png",
+          "source_background_sha256": "534c1b9c0905dd50e57f48aa0e8d94d6f3b08d3695d794d36857b87dd197ae98"
+        },
+        {
+          "index": 33,
+          "image": "pose2/image/033.png",
+          "mask": "pose2/mask/033.png",
+          "image_sha256": "ec4d0af04a8d00cfa06405f25fa2b802c04c5403fa2ce69f4e77ac13219c7974",
+          "mask_sha256": "f25185a302f0f0b86cdea777d06fca39f7897f1cc57cf08b56952fcec1a8e1fc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\033.png",
+          "source_background_sha256": "ec4d0af04a8d00cfa06405f25fa2b802c04c5403fa2ce69f4e77ac13219c7974"
+        },
+        {
+          "index": 34,
+          "image": "pose2/image/034.png",
+          "mask": "pose2/mask/034.png",
+          "image_sha256": "d5f54ae27a3b7b43f50cff23e7ff0f5b5a1eb2465ffde1f48dfeb0f2c962d7fa",
+          "mask_sha256": "6f7610113cde686733378c55c689a4a12589948606759fdcdee57c1fe45f04c8",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\034.png",
+          "source_background_sha256": "d5f54ae27a3b7b43f50cff23e7ff0f5b5a1eb2465ffde1f48dfeb0f2c962d7fa"
+        },
+        {
+          "index": 35,
+          "image": "pose2/image/035.png",
+          "mask": "pose2/mask/035.png",
+          "image_sha256": "13fba94cd11c1133480b3ebb6ce7a77638c6e41c64f2b7a1dea2a0036fd02e76",
+          "mask_sha256": "01650bdad8e90df3617613accd5dd2595395e5995cc7aa9e92ef0bd5909c5c12",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\035.png",
+          "source_background_sha256": "13fba94cd11c1133480b3ebb6ce7a77638c6e41c64f2b7a1dea2a0036fd02e76"
+        },
+        {
+          "index": 36,
+          "image": "pose2/image/036.png",
+          "mask": "pose2/mask/036.png",
+          "image_sha256": "4fda5d0dc69ee7b8d0fe5e46ecb07fe0ea2920d1b891ebfa7aa5ba2244092c4b",
+          "mask_sha256": "9e400198c2b746cc8458d0ea6f5fb1c9c93874ab1eae46ae046d37fb83a95eca",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\036.png",
+          "source_background_sha256": "4fda5d0dc69ee7b8d0fe5e46ecb07fe0ea2920d1b891ebfa7aa5ba2244092c4b"
+        },
+        {
+          "index": 37,
+          "image": "pose2/image/037.png",
+          "mask": "pose2/mask/037.png",
+          "image_sha256": "cfa1866c32d90e2a27138acc398c3ef3d6c23f32ee6d16071f5154d4f635704a",
+          "mask_sha256": "2cc665b0ceaebed66c28249ede119f8d6ae6270e4c81412e93dda05d30f05a05",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\037.png",
+          "source_background_sha256": "cfa1866c32d90e2a27138acc398c3ef3d6c23f32ee6d16071f5154d4f635704a"
+        },
+        {
+          "index": 38,
+          "image": "pose2/image/038.png",
+          "mask": "pose2/mask/038.png",
+          "image_sha256": "fa828c6e2fadef3e432992ba11da32622e09662713ec80be25d6704b8ebdaaba",
+          "mask_sha256": "020c3384f877e9c6882632ebc872d11cd5035c61dc1d3342847b25860f8d04f2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\038.png",
+          "source_background_sha256": "fa828c6e2fadef3e432992ba11da32622e09662713ec80be25d6704b8ebdaaba"
+        },
+        {
+          "index": 39,
+          "image": "pose2/image/039.png",
+          "mask": "pose2/mask/039.png",
+          "image_sha256": "ad6757bfc09feeaae6f1e17d50308d86eee0bda2006c42e0d9f6a56e7714d5ff",
+          "mask_sha256": "912ac5ff95c7dbd584c950a1dcc53d44f6e037f44b8a834723492799f0f26d25",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose2\\image\\039.png",
+          "source_background_sha256": "ad6757bfc09feeaae6f1e17d50308d86eee0bda2006c42e0d9f6a56e7714d5ff"
+        }
+      ],
+      "dimensions": {
+        "800x800 RGB": 40
+      }
+    },
+    {
+      "pose": 3,
+      "image_count": 40,
+      "background_image_count": 40,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image",
+      "camera_sha256": "b68c8961fd7574c4906192270b437ae1bd61dab545b8e96f2ef99f93878ba9e3",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose3/image/000.png",
+          "mask": "pose3/mask/000.png",
+          "image_sha256": "20d4b2fa06fac52d4da98d54943a13195993494eb5f5f2e696d6b19ae04a4b5e",
+          "mask_sha256": "8211689065a664e5d9edaf4697eca2d01a07ef95fae07817d391e359c4806b37",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\000.png",
+          "source_background_sha256": "20d4b2fa06fac52d4da98d54943a13195993494eb5f5f2e696d6b19ae04a4b5e"
+        },
+        {
+          "index": 1,
+          "image": "pose3/image/001.png",
+          "mask": "pose3/mask/001.png",
+          "image_sha256": "616af761fc35d6f6be92c249bd76c22306a351d12fab7435b8443bf91cb2b6b2",
+          "mask_sha256": "da30bc36a3cba83df1a740b313a3ef106cf0666911f8790bfc2618bfec44b542",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\001.png",
+          "source_background_sha256": "616af761fc35d6f6be92c249bd76c22306a351d12fab7435b8443bf91cb2b6b2"
+        },
+        {
+          "index": 2,
+          "image": "pose3/image/002.png",
+          "mask": "pose3/mask/002.png",
+          "image_sha256": "bf3c4535904678b57c8f571303b1efdd22ca73198f7d44f52edba7268ef2e271",
+          "mask_sha256": "8cb31ed8a77a6e839f6196c2c53b85e82225928b0d223baf19f0c7f320c542ab",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\002.png",
+          "source_background_sha256": "bf3c4535904678b57c8f571303b1efdd22ca73198f7d44f52edba7268ef2e271"
+        },
+        {
+          "index": 3,
+          "image": "pose3/image/003.png",
+          "mask": "pose3/mask/003.png",
+          "image_sha256": "d4592b63e667484e0267ee2f57da0060aee88f6f15c420cc0a015fdb9b43fa16",
+          "mask_sha256": "beffb82bad13ae3fcb0625813484515fd21cf7a6ada3564651cd585bd32e35f6",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\003.png",
+          "source_background_sha256": "d4592b63e667484e0267ee2f57da0060aee88f6f15c420cc0a015fdb9b43fa16"
+        },
+        {
+          "index": 4,
+          "image": "pose3/image/004.png",
+          "mask": "pose3/mask/004.png",
+          "image_sha256": "0f948421803e20bb51e15cbc992c739f50783b615a024fc94b5d9b4be549a528",
+          "mask_sha256": "a67b6f4c3218285b451a4b24c3f14be54cabbf4e816c492ea7ff6574071ecaaa",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\004.png",
+          "source_background_sha256": "0f948421803e20bb51e15cbc992c739f50783b615a024fc94b5d9b4be549a528"
+        },
+        {
+          "index": 5,
+          "image": "pose3/image/005.png",
+          "mask": "pose3/mask/005.png",
+          "image_sha256": "3973aad4339de29a30d8ac230f053df454a589e5e6bccfddfa2c2ed247c4cc74",
+          "mask_sha256": "c17b7b8d459db5486710de798228512ca401d81d02381c5017b807568e3990a1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\005.png",
+          "source_background_sha256": "3973aad4339de29a30d8ac230f053df454a589e5e6bccfddfa2c2ed247c4cc74"
+        },
+        {
+          "index": 6,
+          "image": "pose3/image/006.png",
+          "mask": "pose3/mask/006.png",
+          "image_sha256": "8638f146c569f6a20fdc74ca0934b439299023a2b99ef12ce737bb2c9c8cbf63",
+          "mask_sha256": "51d85cf5fe06bd4562b658ae97a3710d183c54c9b8d6f05ba6d6e02571f75145",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\006.png",
+          "source_background_sha256": "8638f146c569f6a20fdc74ca0934b439299023a2b99ef12ce737bb2c9c8cbf63"
+        },
+        {
+          "index": 7,
+          "image": "pose3/image/007.png",
+          "mask": "pose3/mask/007.png",
+          "image_sha256": "47505653b2f8111301b3752e61e642b2f511a1819fd5c0c61d08663319f2ea46",
+          "mask_sha256": "00af88fc411827077498a8a91d82fbe40867a940bda324cf88f959c720559176",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\007.png",
+          "source_background_sha256": "47505653b2f8111301b3752e61e642b2f511a1819fd5c0c61d08663319f2ea46"
+        },
+        {
+          "index": 8,
+          "image": "pose3/image/008.png",
+          "mask": "pose3/mask/008.png",
+          "image_sha256": "5cdf50ed979c616dd2fdd0ce9c2e8fe75833ab9b6a1a2b85c2aef682b63f5597",
+          "mask_sha256": "466b8e6c09542ad600d2ee20b62e44ae028d7d58a193d676bb0fc69f0e7f2b66",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\008.png",
+          "source_background_sha256": "5cdf50ed979c616dd2fdd0ce9c2e8fe75833ab9b6a1a2b85c2aef682b63f5597"
+        },
+        {
+          "index": 9,
+          "image": "pose3/image/009.png",
+          "mask": "pose3/mask/009.png",
+          "image_sha256": "d61c17a5cb3f458c451b22594f72094c96c8c9df12a17b877c2551c1c75c903d",
+          "mask_sha256": "5f910cc6f416ec717078d1424828ae43f628ed6ca6cc66c5d9b0c87d835eddbf",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\009.png",
+          "source_background_sha256": "d61c17a5cb3f458c451b22594f72094c96c8c9df12a17b877c2551c1c75c903d"
+        },
+        {
+          "index": 10,
+          "image": "pose3/image/010.png",
+          "mask": "pose3/mask/010.png",
+          "image_sha256": "cd366d6c7874df714dc65cde9c874d2abc963e4340af529a0f070ece132fdde6",
+          "mask_sha256": "29cf9126d9aa3c08a6fdaea2dbd87a97422efb4f331d7ddd2dbbb0a3c34ec78d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\010.png",
+          "source_background_sha256": "cd366d6c7874df714dc65cde9c874d2abc963e4340af529a0f070ece132fdde6"
+        },
+        {
+          "index": 11,
+          "image": "pose3/image/011.png",
+          "mask": "pose3/mask/011.png",
+          "image_sha256": "f5d96d8ac6c2e0d5553d6b266f98027afe2b930aea6691d55e95bfab1088dbad",
+          "mask_sha256": "c4dcc1c690ea9ab611ca893a6c5b41ac412791ba1b09db336e0f2c7e522f9594",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\011.png",
+          "source_background_sha256": "f5d96d8ac6c2e0d5553d6b266f98027afe2b930aea6691d55e95bfab1088dbad"
+        },
+        {
+          "index": 12,
+          "image": "pose3/image/012.png",
+          "mask": "pose3/mask/012.png",
+          "image_sha256": "8ef2c5e0cedef9873dbd93bcbc6c615acfa4050c31eff17ab7534309a9f3cf4e",
+          "mask_sha256": "63ab17c2639eaedf04565089a210cc02b685d17a620db9baaf062e3bfee8f056",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\012.png",
+          "source_background_sha256": "8ef2c5e0cedef9873dbd93bcbc6c615acfa4050c31eff17ab7534309a9f3cf4e"
+        },
+        {
+          "index": 13,
+          "image": "pose3/image/013.png",
+          "mask": "pose3/mask/013.png",
+          "image_sha256": "1612029d53b825b7169a127961d0f221e2db9138617a71add3dd3bf8ae73c754",
+          "mask_sha256": "f8a3f79747ab59f11bfd600d7a5bab031c07180333274fe4944d97f2497ad0f5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\013.png",
+          "source_background_sha256": "1612029d53b825b7169a127961d0f221e2db9138617a71add3dd3bf8ae73c754"
+        },
+        {
+          "index": 14,
+          "image": "pose3/image/014.png",
+          "mask": "pose3/mask/014.png",
+          "image_sha256": "3b7f34a0d2e5c84051e725ad1ae9d87d8809b3e39a48feb703f9abbac719805b",
+          "mask_sha256": "5fe3d3009ef20b0a9ed5c82796dcacf2f56caf0aee391fa98ad802c7f3d2f544",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\014.png",
+          "source_background_sha256": "3b7f34a0d2e5c84051e725ad1ae9d87d8809b3e39a48feb703f9abbac719805b"
+        },
+        {
+          "index": 15,
+          "image": "pose3/image/015.png",
+          "mask": "pose3/mask/015.png",
+          "image_sha256": "e54f429886e56a495c8c0a511dfa3ebbed664c1c90cf20df1dbf8afa50be3ef4",
+          "mask_sha256": "aef013919f64a541644933ffc48441d613345ed4ff644005ddb4c4eaa6d9d872",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\015.png",
+          "source_background_sha256": "e54f429886e56a495c8c0a511dfa3ebbed664c1c90cf20df1dbf8afa50be3ef4"
+        },
+        {
+          "index": 16,
+          "image": "pose3/image/016.png",
+          "mask": "pose3/mask/016.png",
+          "image_sha256": "35e9994e3a7911b78dcbc93d9ae7de725fdf3a04dc1e61a64f8c02a3b7e2f719",
+          "mask_sha256": "51e82810fe68b23179eb9577c2a2023933ce41504c896eb236138bffe139ac71",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\016.png",
+          "source_background_sha256": "35e9994e3a7911b78dcbc93d9ae7de725fdf3a04dc1e61a64f8c02a3b7e2f719"
+        },
+        {
+          "index": 17,
+          "image": "pose3/image/017.png",
+          "mask": "pose3/mask/017.png",
+          "image_sha256": "3dd841e0000f505c1496d5a285bb88c491965358f2b8194ec1bc9edf25cd6d15",
+          "mask_sha256": "325b12f9d5a1a65fcac7addb2b8724e99982d2871ba3209b4591b69b1bd64159",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\017.png",
+          "source_background_sha256": "3dd841e0000f505c1496d5a285bb88c491965358f2b8194ec1bc9edf25cd6d15"
+        },
+        {
+          "index": 18,
+          "image": "pose3/image/018.png",
+          "mask": "pose3/mask/018.png",
+          "image_sha256": "d0f69b7bf40f5d66f12f4dd31b99725776cb509cee91a07cf36d852d5b9c4ea0",
+          "mask_sha256": "7e6a9c3718c9594cd933b63bcddb2e7243676c5a36d33a8a3ee40208e231c0fb",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\018.png",
+          "source_background_sha256": "d0f69b7bf40f5d66f12f4dd31b99725776cb509cee91a07cf36d852d5b9c4ea0"
+        },
+        {
+          "index": 19,
+          "image": "pose3/image/019.png",
+          "mask": "pose3/mask/019.png",
+          "image_sha256": "364f1db4a162b454018330ab3d73e22eab78c50e86b1835af75f91919f4890f4",
+          "mask_sha256": "e8eafcca432c09d0167b11024bc1888fed640c7e7a6d31ca39861abd8ec3bffb",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\019.png",
+          "source_background_sha256": "364f1db4a162b454018330ab3d73e22eab78c50e86b1835af75f91919f4890f4"
+        },
+        {
+          "index": 20,
+          "image": "pose3/image/020.png",
+          "mask": "pose3/mask/020.png",
+          "image_sha256": "6ce2cd73f78bbdcb40ebb466a9484896a6bc62bc802e4f4e2275a47859ebc968",
+          "mask_sha256": "f3c905f5ed70dae030d9494c336840c36245c96bc63594f4af4bd74284b17be4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\020.png",
+          "source_background_sha256": "6ce2cd73f78bbdcb40ebb466a9484896a6bc62bc802e4f4e2275a47859ebc968"
+        },
+        {
+          "index": 21,
+          "image": "pose3/image/021.png",
+          "mask": "pose3/mask/021.png",
+          "image_sha256": "e4bb7d8ffb820104bd4c1c776116d4fc61c72f84e640a2a142aac6e129b24337",
+          "mask_sha256": "ebe0dda46a97826f8d836c11f29af69b5a302a4719f2476411a6ff4a14a0cb86",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\021.png",
+          "source_background_sha256": "e4bb7d8ffb820104bd4c1c776116d4fc61c72f84e640a2a142aac6e129b24337"
+        },
+        {
+          "index": 22,
+          "image": "pose3/image/022.png",
+          "mask": "pose3/mask/022.png",
+          "image_sha256": "46d292c89745160a624aa9930c1624dfde95aaeb03937bdcd304976476b9db39",
+          "mask_sha256": "a08e07cc13a853dc3ada17698d542392f5ec7bf36c326cbf0a1367df81da74c9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\022.png",
+          "source_background_sha256": "46d292c89745160a624aa9930c1624dfde95aaeb03937bdcd304976476b9db39"
+        },
+        {
+          "index": 23,
+          "image": "pose3/image/023.png",
+          "mask": "pose3/mask/023.png",
+          "image_sha256": "09e4c0103c9fcb44becf5f0002e7f4c80d35d412a142d98e26399066cb5bd7c3",
+          "mask_sha256": "87a29227743ec8cd5568b7b28e35ac0cc3fd2b87eacdf74498a321af0a333fd9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\023.png",
+          "source_background_sha256": "09e4c0103c9fcb44becf5f0002e7f4c80d35d412a142d98e26399066cb5bd7c3"
+        },
+        {
+          "index": 24,
+          "image": "pose3/image/024.png",
+          "mask": "pose3/mask/024.png",
+          "image_sha256": "1b3068efe9e3f3e2ddd8f4f0bef65dab67fa6071dd61b0971ba032eba8c90867",
+          "mask_sha256": "68207c8457248de97265d77e73de73ea5d060cedf989c5cc025a4e2777b209b1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\024.png",
+          "source_background_sha256": "1b3068efe9e3f3e2ddd8f4f0bef65dab67fa6071dd61b0971ba032eba8c90867"
+        },
+        {
+          "index": 25,
+          "image": "pose3/image/025.png",
+          "mask": "pose3/mask/025.png",
+          "image_sha256": "6d5df874ec98df28fa85ef0142025ba240413002df16c5fc7b8ff4f0b815e2b5",
+          "mask_sha256": "a6f5d28b2f231f3cad4019e60d3b8a43ff19ccb4d6deda33afdd5996ba3c2e8e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\025.png",
+          "source_background_sha256": "6d5df874ec98df28fa85ef0142025ba240413002df16c5fc7b8ff4f0b815e2b5"
+        },
+        {
+          "index": 26,
+          "image": "pose3/image/026.png",
+          "mask": "pose3/mask/026.png",
+          "image_sha256": "ed3f408ac2daf0832d0c1c41ac7483d681ec57b8c78ec4d7d04e196e33afa0df",
+          "mask_sha256": "f8f5c079a6a3d4358e80f0c6eac49b43522e130912b78ca60ff219dc370eaa38",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\026.png",
+          "source_background_sha256": "ed3f408ac2daf0832d0c1c41ac7483d681ec57b8c78ec4d7d04e196e33afa0df"
+        },
+        {
+          "index": 27,
+          "image": "pose3/image/027.png",
+          "mask": "pose3/mask/027.png",
+          "image_sha256": "9cd7f3c70177bc4a9553e2a4723da964e136e9a293706e8c838005eae84e3267",
+          "mask_sha256": "7932a07f7c6e8d1d442ccddc0a0fbc5215711ff4433bae5cf00fc5eb3ec0a44a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\027.png",
+          "source_background_sha256": "9cd7f3c70177bc4a9553e2a4723da964e136e9a293706e8c838005eae84e3267"
+        },
+        {
+          "index": 28,
+          "image": "pose3/image/028.png",
+          "mask": "pose3/mask/028.png",
+          "image_sha256": "3d2a39fd1f4748de2eb7a142461a1c337996e78dbe9e7249be013c28e2bfbcc7",
+          "mask_sha256": "6c2abf05d78882ac65aa53a574120d2678d04e75aa92c648a9be781438f22fae",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\028.png",
+          "source_background_sha256": "3d2a39fd1f4748de2eb7a142461a1c337996e78dbe9e7249be013c28e2bfbcc7"
+        },
+        {
+          "index": 29,
+          "image": "pose3/image/029.png",
+          "mask": "pose3/mask/029.png",
+          "image_sha256": "9ec7647378d9f7e12999d43de3d3a08f1ea45f9f60ce74832d3f1e5122fb1389",
+          "mask_sha256": "7a713b32c9290c49c3c52a283026be51476959ff7eda68e1cd81c12bc06b5bde",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\029.png",
+          "source_background_sha256": "9ec7647378d9f7e12999d43de3d3a08f1ea45f9f60ce74832d3f1e5122fb1389"
+        },
+        {
+          "index": 30,
+          "image": "pose3/image/030.png",
+          "mask": "pose3/mask/030.png",
+          "image_sha256": "870b0eceb6112c04f29541dc8842a244bb644313b90df7bf252582e32aa0e74d",
+          "mask_sha256": "3a941eeb6d1def604bbeb3dcde259d41d030bddf54816b914e8ab921c69ee70c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\030.png",
+          "source_background_sha256": "870b0eceb6112c04f29541dc8842a244bb644313b90df7bf252582e32aa0e74d"
+        },
+        {
+          "index": 31,
+          "image": "pose3/image/031.png",
+          "mask": "pose3/mask/031.png",
+          "image_sha256": "58d878fd4a6a297ee03bbc65517ed1f5d5c80f6ba0b0da0401d1066442fdbfce",
+          "mask_sha256": "cb60795dbc3b36a3ce394edff1e98e0639dec363c15251ebc42358ba56421b87",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\031.png",
+          "source_background_sha256": "58d878fd4a6a297ee03bbc65517ed1f5d5c80f6ba0b0da0401d1066442fdbfce"
+        },
+        {
+          "index": 32,
+          "image": "pose3/image/032.png",
+          "mask": "pose3/mask/032.png",
+          "image_sha256": "2dfca2e4e2aa038b8116112e177bbc27002d5e7923b12e9227440a7ee91cad1f",
+          "mask_sha256": "fba854ef03f7d381f649913ebaf5f7bebbdb82a70c46011b0a0b99b9ad747637",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\032.png",
+          "source_background_sha256": "2dfca2e4e2aa038b8116112e177bbc27002d5e7923b12e9227440a7ee91cad1f"
+        },
+        {
+          "index": 33,
+          "image": "pose3/image/033.png",
+          "mask": "pose3/mask/033.png",
+          "image_sha256": "471f2e96d72b8ce820fe1abd65ce97bee28e6c48f80fa216773b681019c99028",
+          "mask_sha256": "ca1220abeb966a9656cc0ee06c96cc380702ed5460e7fa8b8b8e32f63ed1350a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\033.png",
+          "source_background_sha256": "471f2e96d72b8ce820fe1abd65ce97bee28e6c48f80fa216773b681019c99028"
+        },
+        {
+          "index": 34,
+          "image": "pose3/image/034.png",
+          "mask": "pose3/mask/034.png",
+          "image_sha256": "21b069e5dfdce0b6cdcc873c4e6357a1025b3424fd3fb813a25710a74f22407a",
+          "mask_sha256": "026b3574d4b3a26f9f2986825da2d6d579af5e15f9e0ee63091f0068f0b67f40",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\034.png",
+          "source_background_sha256": "21b069e5dfdce0b6cdcc873c4e6357a1025b3424fd3fb813a25710a74f22407a"
+        },
+        {
+          "index": 35,
+          "image": "pose3/image/035.png",
+          "mask": "pose3/mask/035.png",
+          "image_sha256": "35c56b1481f5342693c8b45e8b7412139f8ca9f8d0e60e2182945daa8dc0b23e",
+          "mask_sha256": "b91a7586566254dd570668626c74382adeb41dd4d57243f7fc560524abcfc56d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\035.png",
+          "source_background_sha256": "35c56b1481f5342693c8b45e8b7412139f8ca9f8d0e60e2182945daa8dc0b23e"
+        },
+        {
+          "index": 36,
+          "image": "pose3/image/036.png",
+          "mask": "pose3/mask/036.png",
+          "image_sha256": "f227b273f1b21cdf9b73035b957b966c686193e5b7baaeb1d0f140e398fd49d0",
+          "mask_sha256": "011907c119d0d156c0034755532dc544f39e5819a09370a8f543d162b8e471d8",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\036.png",
+          "source_background_sha256": "f227b273f1b21cdf9b73035b957b966c686193e5b7baaeb1d0f140e398fd49d0"
+        },
+        {
+          "index": 37,
+          "image": "pose3/image/037.png",
+          "mask": "pose3/mask/037.png",
+          "image_sha256": "47aad7bcb9fc4f104c017e9314e0e5c45fe29694a30934b2dbfb529de3ce70a2",
+          "mask_sha256": "cffa930c6fd8fe9a8264208abb8d53dbc9f7007aff97fc0225797ffb0015b262",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\037.png",
+          "source_background_sha256": "47aad7bcb9fc4f104c017e9314e0e5c45fe29694a30934b2dbfb529de3ce70a2"
+        },
+        {
+          "index": 38,
+          "image": "pose3/image/038.png",
+          "mask": "pose3/mask/038.png",
+          "image_sha256": "cbfae10af385ed926249f6ede0ad1f04c98411c135e40a186b70e63cb2e88ac4",
+          "mask_sha256": "d8b25ba60923f9cf002c1558560421b14870b3fbfd68ccd5f15748a0fda520d8",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\038.png",
+          "source_background_sha256": "cbfae10af385ed926249f6ede0ad1f04c98411c135e40a186b70e63cb2e88ac4"
+        },
+        {
+          "index": 39,
+          "image": "pose3/image/039.png",
+          "mask": "pose3/mask/039.png",
+          "image_sha256": "5a697ad238825ccfff449dfcf1ace6560bbb8e9afb73877a21dbb07546078357",
+          "mask_sha256": "8cfaeeefd6b75513b72ec3f512717cd1e216aab84e5e32b67611f24dbe858524",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\lego\\pose3\\image\\039.png",
+          "source_background_sha256": "5a697ad238825ccfff449dfcf1ace6560bbb8e9afb73877a21dbb07546078357"
+        }
+      ],
+      "dimensions": {
+        "800x800 RGB": 40
+      }
+    }
+  ],
+  "dataset_version": "background_inputs_20260929",
+  "display_name": "Lego",
+  "source_blend": "E:\\PoseFusionExp\\synthetic\\lego\\xiaomai.blend",
+  "source_prefix": "_re_lego",
+  "ground_truth": "gt/meshes/poseN.ply and gt/transforms.json; source geometry coordinates, no estimated alignment"
+}

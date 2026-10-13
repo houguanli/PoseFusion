@@ -1,0 +1,194 @@
+[
+  {
+    "case_id": "nikon",
+    "source_blend": "E:\\PoseFusionExp\\synthetic\\nikon\\nikon.blend",
+    "poses": [
+      {
+        "pose": 1,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\nikon\\pose1\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 2,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\nikon\\pose2\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 3,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\nikon\\pose3\\camera_data.json",
+        "source_GT_unchanged": true
+      }
+    ]
+  },
+  {
+    "case_id": "heel_slipper",
+    "source_blend": "E:\\PoseFusionExp\\synthetic\\shoes\\tank.blend",
+    "poses": [
+      {
+        "pose": 1,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\heel_slipper\\pose1\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 2,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\heel_slipper\\pose2\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 3,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\heel_slipper\\pose3\\camera_data.json",
+        "source_GT_unchanged": true
+      }
+    ]
+  },
+  {
+    "case_id": "figurine_a",
+    "source_blend": "E:\\PoseFusionExp\\synthetic\\fufu\\fufu.blend",
+    "poses": [
+      {
+        "pose": 1,
+        "frames_requested": 45,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\figurine_a\\pose1\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 2,
+        "frames_requested": 45,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\figurine_a\\pose2\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 3,
+        "frames_requested": 45,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\figurine_a\\pose3\\camera_data.json",
+        "source_GT_unchanged": true
+      }
+    ]
+  },
+  {
+    "case_id": "tank",
+    "source_blend": "E:\\PoseFusionExp\\synthetic\\tank\\tank.blend",
+    "poses": [
+      {
+        "pose": 1,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\tank\\pose1\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 2,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\tank\\pose2\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 3,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\tank\\pose3\\camera_data.json",
+        "source_GT_unchanged": true
+      }
+    ]
+  },
+  {
+    "case_id": "monster",
+    "source_blend": "E:\\PoseFusionExp\\synthetic\\monster\\tank.blend",
+    "poses": [
+      {
+        "pose": 1,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\monster\\pose1\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 2,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\monster\\pose2\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 3,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\monster\\pose3\\camera_data.json",
+        "source_GT_unchanged": true
+      }
+    ]
+  },
+  {
+    "case_id": "figurine_b",
+    "source_blend": "E:\\PoseFusionExp\\synthetic\\xiaomai\\xiaomai.blend",
+    "poses": [
+      {
+        "pose": 1,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\figurine_b\\pose1\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 2,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\figurine_b\\pose2\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 3,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\figurine_b\\pose3\\camera_data.json",
+        "source_GT_unchanged": true
+      }
+    ]
+  },
+  {
+    "case_id": "rubik",
+    "source_blend": "E:\\PoseFusionExp\\synthetic\\rubik\\rubic_wb.blend",
+    "poses": [
+      {
+        "pose": 1,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\rubik\\pose1\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 2,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\rubik\\pose2\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 3,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\rubik\\pose3\\camera_data.json",
+        "source_GT_unchanged": true
+      }
+    ]
+  },
+  {
+    "case_id": "lego",
+    "source_blend": "E:\\PoseFusionExp\\synthetic\\lego\\xiaomai.blend",
+    "poses": [
+      {
+        "pose": 1,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\lego\\pose1\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 2,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\lego\\pose2\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 3,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\lego\\pose3\\camera_data.json",
+        "source_GT_unchanged": true
+      }
+    ]
+  }
+]

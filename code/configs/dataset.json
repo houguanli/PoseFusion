@@ -1,0 +1,1089 @@
+{
+  "dataset_version": "background_inputs_20260929",
+  "dataset_root": "../dataset",
+  "camera_format": "NeuS/IDR",
+  "transform_convention": "x_target = T @ x_source",
+  "registration_coordinate_space": "normalized NeuS field; current scale matrices are identity",
+  "cases": [
+    {
+      "case_id": "bunny",
+      "domain": "synthetic",
+      "paper_label": "Bunny",
+      "legacy_source_prefix": "_re_bunny",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/bunny/pose1",
+          "camera": "../dataset/bunny/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/bunny/pose1/coarse.py",
+          "fine_config": "configs/cases/bunny/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/bunny/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/bunny/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/bunny/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/bunny/pose2",
+          "camera": "../dataset/bunny/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/bunny/pose2/coarse.py",
+          "fine_config": "configs/cases/bunny/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/bunny/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/bunny/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/bunny/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/bunny/pose3",
+          "camera": "../dataset/bunny/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/bunny/pose3/coarse.py",
+          "fine_config": "configs/cases/bunny/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/bunny/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/bunny/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/bunny/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/bunny/pose1_to_pose2.json",
+        "configs/reg/bunny/pose3_to_pose2.json",
+        "configs/reg/bunny/pose1_to_pose3.json"
+      ],
+      "gt_transforms": "../dataset/bunny/gt/transforms.json",
+      "fusion_configs": [
+        "configs/reg/bunny/pose1_to_pose2.json",
+        "configs/reg/bunny/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "book",
+      "domain": "synthetic",
+      "paper_label": "Book",
+      "legacy_source_prefix": "_re_book",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 45,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/book/pose1",
+          "camera": "../dataset/book/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/book/pose1/coarse.py",
+          "fine_config": "configs/cases/book/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/book/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/book/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/book/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 45,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/book/pose2",
+          "camera": "../dataset/book/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/book/pose2/coarse.py",
+          "fine_config": "configs/cases/book/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/book/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/book/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/book/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 45,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/book/pose3",
+          "camera": "../dataset/book/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/book/pose3/coarse.py",
+          "fine_config": "configs/cases/book/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/book/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/book/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/book/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/book/pose1_to_pose2.json",
+        "configs/reg/book/pose3_to_pose2.json",
+        "configs/reg/book/pose1_to_pose3.json"
+      ],
+      "gt_transforms": "../dataset/book/gt/transforms.json",
+      "fusion_configs": [
+        "configs/reg/book/pose1_to_pose2.json",
+        "configs/reg/book/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "nikon",
+      "domain": "synthetic",
+      "paper_label": "Nikon",
+      "legacy_source_prefix": "_re_nikon",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/nikon/pose1",
+          "camera": "../dataset/nikon/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/nikon/pose1/coarse.py",
+          "fine_config": "configs/cases/nikon/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/nikon/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/nikon/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/nikon/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/nikon/pose2",
+          "camera": "../dataset/nikon/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/nikon/pose2/coarse.py",
+          "fine_config": "configs/cases/nikon/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/nikon/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/nikon/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/nikon/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/nikon/pose3",
+          "camera": "../dataset/nikon/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/nikon/pose3/coarse.py",
+          "fine_config": "configs/cases/nikon/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/nikon/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/nikon/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/nikon/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/nikon/pose1_to_pose2.json",
+        "configs/reg/nikon/pose3_to_pose2.json",
+        "configs/reg/nikon/pose1_to_pose3.json"
+      ],
+      "gt_transforms": "../dataset/nikon/gt/transforms.json",
+      "fusion_configs": [
+        "configs/reg/nikon/pose1_to_pose2.json",
+        "configs/reg/nikon/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "heel_slipper",
+      "domain": "synthetic",
+      "paper_label": "Heel Slipper",
+      "legacy_source_prefix": "_re_shoe",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/heel_slipper/pose1",
+          "camera": "../dataset/heel_slipper/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/heel_slipper/pose1/coarse.py",
+          "fine_config": "configs/cases/heel_slipper/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/heel_slipper/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/heel_slipper/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/heel_slipper/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/heel_slipper/pose2",
+          "camera": "../dataset/heel_slipper/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/heel_slipper/pose2/coarse.py",
+          "fine_config": "configs/cases/heel_slipper/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/heel_slipper/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/heel_slipper/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/heel_slipper/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/heel_slipper/pose3",
+          "camera": "../dataset/heel_slipper/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/heel_slipper/pose3/coarse.py",
+          "fine_config": "configs/cases/heel_slipper/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/heel_slipper/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/heel_slipper/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/heel_slipper/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/heel_slipper/pose1_to_pose2.json",
+        "configs/reg/heel_slipper/pose3_to_pose2.json",
+        "configs/reg/heel_slipper/pose1_to_pose3.json"
+      ],
+      "gt_transforms": "../dataset/heel_slipper/gt/transforms.json",
+      "fusion_configs": [
+        "configs/reg/heel_slipper/pose1_to_pose2.json",
+        "configs/reg/heel_slipper/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "figurine_a",
+      "domain": "synthetic",
+      "paper_label": "Figurine A",
+      "legacy_source_prefix": "_re_fufu",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 45,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/figurine_a/pose1",
+          "camera": "../dataset/figurine_a/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_a/pose1/coarse.py",
+          "fine_config": "configs/cases/figurine_a/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_a/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_a/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_a/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 45,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/figurine_a/pose2",
+          "camera": "../dataset/figurine_a/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_a/pose2/coarse.py",
+          "fine_config": "configs/cases/figurine_a/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_a/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_a/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_a/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 45,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/figurine_a/pose3",
+          "camera": "../dataset/figurine_a/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_a/pose3/coarse.py",
+          "fine_config": "configs/cases/figurine_a/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_a/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_a/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_a/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/figurine_a/pose1_to_pose2.json",
+        "configs/reg/figurine_a/pose3_to_pose2.json",
+        "configs/reg/figurine_a/pose1_to_pose3.json"
+      ],
+      "gt_transforms": "../dataset/figurine_a/gt/transforms.json",
+      "fusion_configs": [
+        "configs/reg/figurine_a/pose1_to_pose2.json",
+        "configs/reg/figurine_a/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "tank",
+      "domain": "synthetic",
+      "paper_label": "Tank",
+      "legacy_source_prefix": "_re_tank",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/tank/pose1",
+          "camera": "../dataset/tank/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/tank/pose1/coarse.py",
+          "fine_config": "configs/cases/tank/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/tank/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/tank/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/tank/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/tank/pose2",
+          "camera": "../dataset/tank/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/tank/pose2/coarse.py",
+          "fine_config": "configs/cases/tank/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/tank/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/tank/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/tank/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/tank/pose3",
+          "camera": "../dataset/tank/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/tank/pose3/coarse.py",
+          "fine_config": "configs/cases/tank/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/tank/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/tank/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/tank/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/tank/pose1_to_pose2.json",
+        "configs/reg/tank/pose3_to_pose2.json",
+        "configs/reg/tank/pose1_to_pose3.json"
+      ],
+      "gt_transforms": "../dataset/tank/gt/transforms.json",
+      "fusion_configs": [
+        "configs/reg/tank/pose1_to_pose2.json",
+        "configs/reg/tank/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "monster",
+      "domain": "synthetic",
+      "paper_label": "Monster",
+      "legacy_source_prefix": "_re_monster",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 40,
+          "width": 1200,
+          "height": 800,
+          "datadir": "../dataset/monster/pose1",
+          "camera": "../dataset/monster/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/monster/pose1/coarse.py",
+          "fine_config": "configs/cases/monster/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/monster/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/monster/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/monster/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 40,
+          "width": 1200,
+          "height": 800,
+          "datadir": "../dataset/monster/pose2",
+          "camera": "../dataset/monster/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/monster/pose2/coarse.py",
+          "fine_config": "configs/cases/monster/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/monster/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/monster/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/monster/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 40,
+          "width": 1200,
+          "height": 800,
+          "datadir": "../dataset/monster/pose3",
+          "camera": "../dataset/monster/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/monster/pose3/coarse.py",
+          "fine_config": "configs/cases/monster/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/monster/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/monster/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/monster/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/monster/pose1_to_pose2.json",
+        "configs/reg/monster/pose3_to_pose2.json",
+        "configs/reg/monster/pose1_to_pose3.json"
+      ],
+      "gt_transforms": "../dataset/monster/gt/transforms.json",
+      "fusion_configs": [
+        "configs/reg/monster/pose1_to_pose2.json",
+        "configs/reg/monster/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "figurine_b",
+      "domain": "synthetic",
+      "paper_label": "Figurine B",
+      "legacy_source_prefix": "_re_xiaomai",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/figurine_b/pose1",
+          "camera": "../dataset/figurine_b/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_b/pose1/coarse.py",
+          "fine_config": "configs/cases/figurine_b/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_b/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_b/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_b/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/figurine_b/pose2",
+          "camera": "../dataset/figurine_b/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_b/pose2/coarse.py",
+          "fine_config": "configs/cases/figurine_b/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_b/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_b/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_b/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/figurine_b/pose3",
+          "camera": "../dataset/figurine_b/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_b/pose3/coarse.py",
+          "fine_config": "configs/cases/figurine_b/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_b/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_b/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_b/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/figurine_b/pose1_to_pose2.json",
+        "configs/reg/figurine_b/pose3_to_pose2.json",
+        "configs/reg/figurine_b/pose1_to_pose3.json"
+      ],
+      "gt_transforms": "../dataset/figurine_b/gt/transforms.json",
+      "fusion_configs": [
+        "configs/reg/figurine_b/pose1_to_pose2.json",
+        "configs/reg/figurine_b/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "rubik",
+      "domain": "synthetic",
+      "paper_label": "Rubik’s Cube",
+      "legacy_source_prefix": "_re_rubic",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/rubik/pose1",
+          "camera": "../dataset/rubik/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/rubik/pose1/coarse.py",
+          "fine_config": "configs/cases/rubik/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/rubik/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/rubik/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/rubik/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/rubik/pose2",
+          "camera": "../dataset/rubik/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/rubik/pose2/coarse.py",
+          "fine_config": "configs/cases/rubik/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/rubik/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/rubik/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/rubik/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/rubik/pose3",
+          "camera": "../dataset/rubik/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/rubik/pose3/coarse.py",
+          "fine_config": "configs/cases/rubik/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/rubik/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/rubik/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/rubik/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/rubik/pose1_to_pose2.json",
+        "configs/reg/rubik/pose3_to_pose2.json",
+        "configs/reg/rubik/pose1_to_pose3.json"
+      ],
+      "gt_transforms": "../dataset/rubik/gt/transforms.json",
+      "fusion_configs": [
+        "configs/reg/rubik/pose1_to_pose2.json",
+        "configs/reg/rubik/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "lego",
+      "domain": "synthetic",
+      "paper_label": "Lego",
+      "legacy_source_prefix": "_re_lego",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/lego/pose1",
+          "camera": "../dataset/lego/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/lego/pose1/coarse.py",
+          "fine_config": "configs/cases/lego/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/lego/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/lego/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/lego/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/lego/pose2",
+          "camera": "../dataset/lego/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/lego/pose2/coarse.py",
+          "fine_config": "configs/cases/lego/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/lego/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/lego/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/lego/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/lego/pose3",
+          "camera": "../dataset/lego/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/lego/pose3/coarse.py",
+          "fine_config": "configs/cases/lego/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/lego/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/lego/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/lego/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/lego/pose1_to_pose2.json",
+        "configs/reg/lego/pose3_to_pose2.json",
+        "configs/reg/lego/pose1_to_pose3.json"
+      ],
+      "gt_transforms": "../dataset/lego/gt/transforms.json",
+      "fusion_configs": [
+        "configs/reg/lego/pose1_to_pose2.json",
+        "configs/reg/lego/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "seal",
+      "domain": "synthetic",
+      "paper_label": "OBB ambiguity failure (synthetic)",
+      "legacy_source_prefix": "_re_seal",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/seal/pose1",
+          "camera": "../dataset/seal/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/seal/pose1/coarse.py",
+          "fine_config": "configs/cases/seal/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/seal/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/seal/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/seal/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/seal/pose2",
+          "camera": "../dataset/seal/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/seal/pose2/coarse.py",
+          "fine_config": "configs/cases/seal/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/seal/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/seal/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/seal/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 40,
+          "width": 800,
+          "height": 800,
+          "datadir": "../dataset/seal/pose3",
+          "camera": "../dataset/seal/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/seal/pose3/coarse.py",
+          "fine_config": "configs/cases/seal/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/seal/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/seal/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/seal/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/seal/pose1_to_pose2.json",
+        "configs/reg/seal/pose3_to_pose2.json",
+        "configs/reg/seal/pose1_to_pose3.json"
+      ],
+      "gt_transforms": "../dataset/seal/gt/transforms.json",
+      "fusion_configs": [
+        "configs/reg/seal/pose1_to_pose2.json",
+        "configs/reg/seal/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "figurine_c",
+      "domain": "real",
+      "paper_label": "Figurine C",
+      "legacy_source_prefix": "CaiWenji",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 32,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/figurine_c/pose1",
+          "camera": "../dataset/figurine_c/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_c/pose1/coarse.py",
+          "fine_config": "configs/cases/figurine_c/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_c/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_c/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_c/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 32,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/figurine_c/pose2",
+          "camera": "../dataset/figurine_c/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_c/pose2/coarse.py",
+          "fine_config": "configs/cases/figurine_c/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_c/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_c/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_c/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 32,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/figurine_c/pose3",
+          "camera": "../dataset/figurine_c/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_c/pose3/coarse.py",
+          "fine_config": "configs/cases/figurine_c/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_c/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_c/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_c/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/figurine_c/pose1_to_pose2.json",
+        "configs/reg/figurine_c/pose3_to_pose2.json",
+        "configs/reg/figurine_c/pose1_to_pose3.json"
+      ],
+      "gt_transforms": null,
+      "fusion_configs": [
+        "configs/reg/figurine_c/pose1_to_pose2.json",
+        "configs/reg/figurine_c/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "figurine_d",
+      "domain": "real",
+      "paper_label": "Figurine D",
+      "legacy_source_prefix": "Miku",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 33,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/figurine_d/pose1",
+          "camera": "../dataset/figurine_d/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_d/pose1/coarse.py",
+          "fine_config": "configs/cases/figurine_d/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_d/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_d/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_d/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 32,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/figurine_d/pose2",
+          "camera": "../dataset/figurine_d/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_d/pose2/coarse.py",
+          "fine_config": "configs/cases/figurine_d/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_d/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_d/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_d/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 33,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/figurine_d/pose3",
+          "camera": "../dataset/figurine_d/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_d/pose3/coarse.py",
+          "fine_config": "configs/cases/figurine_d/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_d/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_d/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_d/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/figurine_d/pose1_to_pose2.json",
+        "configs/reg/figurine_d/pose3_to_pose2.json",
+        "configs/reg/figurine_d/pose1_to_pose3.json"
+      ],
+      "gt_transforms": null,
+      "fusion_configs": [
+        "configs/reg/figurine_d/pose1_to_pose2.json",
+        "configs/reg/figurine_d/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "figurine_e",
+      "domain": "real",
+      "paper_label": "Figurine E",
+      "legacy_source_prefix": "Yamada",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 32,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/figurine_e/pose1",
+          "camera": "../dataset/figurine_e/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_e/pose1/coarse.py",
+          "fine_config": "configs/cases/figurine_e/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_e/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_e/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_e/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 33,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/figurine_e/pose2",
+          "camera": "../dataset/figurine_e/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_e/pose2/coarse.py",
+          "fine_config": "configs/cases/figurine_e/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_e/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_e/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_e/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 32,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/figurine_e/pose3",
+          "camera": "../dataset/figurine_e/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_e/pose3/coarse.py",
+          "fine_config": "configs/cases/figurine_e/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_e/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_e/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_e/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/figurine_e/pose1_to_pose2.json",
+        "configs/reg/figurine_e/pose3_to_pose2.json",
+        "configs/reg/figurine_e/pose1_to_pose3.json"
+      ],
+      "gt_transforms": null,
+      "fusion_configs": [
+        "configs/reg/figurine_e/pose1_to_pose2.json",
+        "configs/reg/figurine_e/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "figurine_f",
+      "domain": "real",
+      "paper_label": "Figurine F",
+      "legacy_source_prefix": "keli_iphone",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 55,
+          "width": 1920,
+          "height": 1080,
+          "datadir": "../dataset/figurine_f/pose1",
+          "camera": "../dataset/figurine_f/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_f/pose1/coarse.py",
+          "fine_config": "configs/cases/figurine_f/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_f/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_f/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_f/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 36,
+          "width": 1920,
+          "height": 1080,
+          "datadir": "../dataset/figurine_f/pose2",
+          "camera": "../dataset/figurine_f/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_f/pose2/coarse.py",
+          "fine_config": "configs/cases/figurine_f/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_f/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_f/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_f/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 35,
+          "width": 1920,
+          "height": 1080,
+          "datadir": "../dataset/figurine_f/pose3",
+          "camera": "../dataset/figurine_f/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/figurine_f/pose3/coarse.py",
+          "fine_config": "configs/cases/figurine_f/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/figurine_f/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/figurine_f/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/figurine_f/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/figurine_f/pose1_to_pose2.json",
+        "configs/reg/figurine_f/pose3_to_pose2.json",
+        "configs/reg/figurine_f/pose1_to_pose3.json"
+      ],
+      "gt_transforms": null,
+      "fusion_configs": [
+        "configs/reg/figurine_f/pose1_to_pose2.json",
+        "configs/reg/figurine_f/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "joystick",
+      "domain": "real",
+      "paper_label": "Joystick",
+      "legacy_source_prefix": "Joystick",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 32,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/joystick/pose1",
+          "camera": "../dataset/joystick/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/joystick/pose1/coarse.py",
+          "fine_config": "configs/cases/joystick/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/joystick/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/joystick/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/joystick/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 32,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/joystick/pose2",
+          "camera": "../dataset/joystick/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/joystick/pose2/coarse.py",
+          "fine_config": "configs/cases/joystick/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/joystick/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/joystick/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/joystick/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 32,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/joystick/pose3",
+          "camera": "../dataset/joystick/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/joystick/pose3/coarse.py",
+          "fine_config": "configs/cases/joystick/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/joystick/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/joystick/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/joystick/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/joystick/pose1_to_pose2.json",
+        "configs/reg/joystick/pose3_to_pose2.json",
+        "configs/reg/joystick/pose1_to_pose3.json"
+      ],
+      "gt_transforms": null,
+      "fusion_configs": [
+        "configs/reg/joystick/pose1_to_pose2.json",
+        "configs/reg/joystick/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "airplane",
+      "domain": "real",
+      "paper_label": "Airplane",
+      "legacy_source_prefix": "Plane",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 32,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/airplane/pose1",
+          "camera": "../dataset/airplane/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/airplane/pose1/coarse.py",
+          "fine_config": "configs/cases/airplane/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/airplane/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/airplane/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/airplane/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 32,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/airplane/pose2",
+          "camera": "../dataset/airplane/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/airplane/pose2/coarse.py",
+          "fine_config": "configs/cases/airplane/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/airplane/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/airplane/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/airplane/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 32,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/airplane/pose3",
+          "camera": "../dataset/airplane/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/airplane/pose3/coarse.py",
+          "fine_config": "configs/cases/airplane/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/airplane/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/airplane/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/airplane/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/airplane/pose1_to_pose2.json",
+        "configs/reg/airplane/pose3_to_pose2.json",
+        "configs/reg/airplane/pose1_to_pose3.json"
+      ],
+      "gt_transforms": null,
+      "fusion_configs": [
+        "configs/reg/airplane/pose1_to_pose2.json",
+        "configs/reg/airplane/pose3_to_pose2.json"
+      ]
+    },
+    {
+      "case_id": "guardian",
+      "domain": "real",
+      "paper_label": "OBB ambiguity failure (real)",
+      "legacy_source_prefix": "Gardian",
+      "poses": [
+        {
+          "pose": 1,
+          "name": "pose1",
+          "image_count": 60,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/guardian/pose1",
+          "camera": "../dataset/guardian/pose1/cameras_sphere.npz",
+          "coarse_config": "configs/cases/guardian/pose1/coarse.py",
+          "fine_config": "configs/cases/guardian/pose1/fine.py",
+          "checkpoint": "outputs/reconstruction/guardian/pose1/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/guardian/pose1/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/guardian/pose1/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 2,
+          "name": "pose2",
+          "image_count": 60,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/guardian/pose2",
+          "camera": "../dataset/guardian/pose2/cameras_sphere.npz",
+          "coarse_config": "configs/cases/guardian/pose2/coarse.py",
+          "fine_config": "configs/cases/guardian/pose2/fine.py",
+          "checkpoint": "outputs/reconstruction/guardian/pose2/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/guardian/pose2/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/guardian/pose2/fine/meshes/surface_world.ply"
+        },
+        {
+          "pose": 3,
+          "name": "pose3",
+          "image_count": 60,
+          "width": 1024,
+          "height": 1024,
+          "datadir": "../dataset/guardian/pose3",
+          "camera": "../dataset/guardian/pose3/cameras_sphere.npz",
+          "coarse_config": "configs/cases/guardian/pose3/coarse.py",
+          "fine_config": "configs/cases/guardian/pose3/fine.py",
+          "checkpoint": "outputs/reconstruction/guardian/pose3/fine/surf_last.tar",
+          "mesh": "outputs/reconstruction/guardian/pose3/fine/meshes/surface_normalized.ply",
+          "world_mesh": "outputs/reconstruction/guardian/pose3/fine/meshes/surface_world.ply"
+        }
+      ],
+      "registration_configs": [
+        "configs/reg/guardian/pose1_to_pose2.json",
+        "configs/reg/guardian/pose3_to_pose2.json",
+        "configs/reg/guardian/pose1_to_pose3.json"
+      ],
+      "gt_transforms": null,
+      "fusion_configs": [
+        "configs/reg/guardian/pose1_to_pose2.json",
+        "configs/reg/guardian/pose3_to_pose2.json"
+      ]
+    }
+  ]
+}

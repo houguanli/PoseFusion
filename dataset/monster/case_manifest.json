@@ -1,0 +1,1129 @@
+{
+  "case_id": "monster",
+  "paper_label": "Monster",
+  "domain": "synthetic",
+  "status": "complete_background",
+  "poses": [
+    {
+      "pose": 1,
+      "image_count": 40,
+      "background_image_count": 40,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image",
+      "camera_sha256": "44e2ecf5f82b8e806515085d5a76fe57b23f57b306f63ecc14986f1046d455ea",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose1/image/000.png",
+          "mask": "pose1/mask/000.png",
+          "image_sha256": "83ff474183bf0fa9153d3342783bcc5b305075c484dcc4be62470e6523bff41b",
+          "mask_sha256": "29fc3a1bb897c67593cf1c379168f4ecab67bdc8a6fab61db604e2eecbfa21e9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\000.png",
+          "source_background_sha256": "83ff474183bf0fa9153d3342783bcc5b305075c484dcc4be62470e6523bff41b"
+        },
+        {
+          "index": 1,
+          "image": "pose1/image/001.png",
+          "mask": "pose1/mask/001.png",
+          "image_sha256": "304d3c8d5c2d955e1434593ff171329ebce4ad5fc5ec1e6a66827d4703d856d3",
+          "mask_sha256": "87c02ca104ff569a68a1ce47687dbd90076bed6465b521272df1c1e2021df8b2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\001.png",
+          "source_background_sha256": "304d3c8d5c2d955e1434593ff171329ebce4ad5fc5ec1e6a66827d4703d856d3"
+        },
+        {
+          "index": 2,
+          "image": "pose1/image/002.png",
+          "mask": "pose1/mask/002.png",
+          "image_sha256": "ecb14bbdbf86c6b08c7883489bc51ab63f58c81316227ba0b2bf78109433b7bf",
+          "mask_sha256": "dd987990c7c0eb6c69e895d61f96b773751ffdaad823746228336fb07cad11bc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\002.png",
+          "source_background_sha256": "ecb14bbdbf86c6b08c7883489bc51ab63f58c81316227ba0b2bf78109433b7bf"
+        },
+        {
+          "index": 3,
+          "image": "pose1/image/003.png",
+          "mask": "pose1/mask/003.png",
+          "image_sha256": "ce17fcff99c53e64cb9c2a123e8abcb1dfb7fb4dfb55e3686cebcb0fd5f6ddbd",
+          "mask_sha256": "a02b64de7e7a068d77bcb647ab4214831b12f9f42b80fae12eba91bd144b0e79",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\003.png",
+          "source_background_sha256": "ce17fcff99c53e64cb9c2a123e8abcb1dfb7fb4dfb55e3686cebcb0fd5f6ddbd"
+        },
+        {
+          "index": 4,
+          "image": "pose1/image/004.png",
+          "mask": "pose1/mask/004.png",
+          "image_sha256": "6b609f9fe8a1073759b5db05b284f4570883520efcf3c7c575235fa0cd0bc894",
+          "mask_sha256": "4136f43b9b3624287b3f43363bc4ad5a34ee44288db86a63f5418fc8e402c15f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\004.png",
+          "source_background_sha256": "6b609f9fe8a1073759b5db05b284f4570883520efcf3c7c575235fa0cd0bc894"
+        },
+        {
+          "index": 5,
+          "image": "pose1/image/005.png",
+          "mask": "pose1/mask/005.png",
+          "image_sha256": "af71fdffcf85782e381c77f1363f9240533c8b6b151f3a4812637d2ba99828b0",
+          "mask_sha256": "d7033548b84dc1cb2bb61e636cbe3b9edce630959b1634b85cc8d87e9a2fc1ea",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\005.png",
+          "source_background_sha256": "af71fdffcf85782e381c77f1363f9240533c8b6b151f3a4812637d2ba99828b0"
+        },
+        {
+          "index": 6,
+          "image": "pose1/image/006.png",
+          "mask": "pose1/mask/006.png",
+          "image_sha256": "896cd38522f6fa6c136e77ecb71f085bb3633d429f61107d4d0d2aeef07ae22f",
+          "mask_sha256": "6722f1dcb0a20d0ae1ab4c4353fc69fe346884fedde0c5613707a1978250c6b8",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\006.png",
+          "source_background_sha256": "896cd38522f6fa6c136e77ecb71f085bb3633d429f61107d4d0d2aeef07ae22f"
+        },
+        {
+          "index": 7,
+          "image": "pose1/image/007.png",
+          "mask": "pose1/mask/007.png",
+          "image_sha256": "4cc65a4e1585d3f098176b1fba09a17d5bb0b3136be3172ffc16d6b8d8eba222",
+          "mask_sha256": "af94c41c2d5f8cba09f252c7c33a3b260f5813cfeaa0f3349ed110bc03dc2f44",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\007.png",
+          "source_background_sha256": "4cc65a4e1585d3f098176b1fba09a17d5bb0b3136be3172ffc16d6b8d8eba222"
+        },
+        {
+          "index": 8,
+          "image": "pose1/image/008.png",
+          "mask": "pose1/mask/008.png",
+          "image_sha256": "f7020dddc19e98ae1f690a8429ede9f9dcb92336aab3f18ee0dd25f13cd043df",
+          "mask_sha256": "26c1e4abab156caa0110a495eb325d5badf321595e6bdafbdc654430711bb819",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\008.png",
+          "source_background_sha256": "f7020dddc19e98ae1f690a8429ede9f9dcb92336aab3f18ee0dd25f13cd043df"
+        },
+        {
+          "index": 9,
+          "image": "pose1/image/009.png",
+          "mask": "pose1/mask/009.png",
+          "image_sha256": "315f76c7f47bacc82fe81bb5a083744bb30027c526dad363d8ab8f76dd3e3f5c",
+          "mask_sha256": "7767753c78b2b0b0d2c89df0700cb46196247c9985190dd39b2b546d890caec8",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\009.png",
+          "source_background_sha256": "315f76c7f47bacc82fe81bb5a083744bb30027c526dad363d8ab8f76dd3e3f5c"
+        },
+        {
+          "index": 10,
+          "image": "pose1/image/010.png",
+          "mask": "pose1/mask/010.png",
+          "image_sha256": "5971f8b504472adba5489ca5909aae9f26638eeecc577e65ec37d4ab7197858a",
+          "mask_sha256": "c8e7c4bebc1123b0253f07c720d9e0b3c07ee77bb789aa894a7c6e27503f257f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\010.png",
+          "source_background_sha256": "5971f8b504472adba5489ca5909aae9f26638eeecc577e65ec37d4ab7197858a"
+        },
+        {
+          "index": 11,
+          "image": "pose1/image/011.png",
+          "mask": "pose1/mask/011.png",
+          "image_sha256": "244e2e93f76c506d78250e69da6965d164570ca16eb9a0c9c26f14e7d6f6cf4d",
+          "mask_sha256": "ace27a5d325b2d7975866ec43ffe292d756a5fc14ade9060d820e5ccacc35bb3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\011.png",
+          "source_background_sha256": "244e2e93f76c506d78250e69da6965d164570ca16eb9a0c9c26f14e7d6f6cf4d"
+        },
+        {
+          "index": 12,
+          "image": "pose1/image/012.png",
+          "mask": "pose1/mask/012.png",
+          "image_sha256": "d7cbda8ed141fc16ac0fcd07a2e08ed57b97a3fb1b2810c6607a821a990319e5",
+          "mask_sha256": "0cf618ad49779d97b886e995e027a7ab70a1f891d4b1a079b48fe6dcee865528",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\012.png",
+          "source_background_sha256": "d7cbda8ed141fc16ac0fcd07a2e08ed57b97a3fb1b2810c6607a821a990319e5"
+        },
+        {
+          "index": 13,
+          "image": "pose1/image/013.png",
+          "mask": "pose1/mask/013.png",
+          "image_sha256": "c81ac2aa5c3ccbf77a43388240b92da05e52f53ec0555c6c1fe1890cf4fcf12d",
+          "mask_sha256": "72f6188699879dd617e66c70946e8203d2f811d5f7a85c2b6e63b512a6a06c62",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\013.png",
+          "source_background_sha256": "c81ac2aa5c3ccbf77a43388240b92da05e52f53ec0555c6c1fe1890cf4fcf12d"
+        },
+        {
+          "index": 14,
+          "image": "pose1/image/014.png",
+          "mask": "pose1/mask/014.png",
+          "image_sha256": "81e9f42b27a10544f134ed84434485aeffa0f99a04324ead035e2e046d879284",
+          "mask_sha256": "31b9bb23f8472d72f0fbed446c4b22d726ad6ee180fc8af7e0ad626f5b693654",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\014.png",
+          "source_background_sha256": "81e9f42b27a10544f134ed84434485aeffa0f99a04324ead035e2e046d879284"
+        },
+        {
+          "index": 15,
+          "image": "pose1/image/015.png",
+          "mask": "pose1/mask/015.png",
+          "image_sha256": "3d2a97426ef34707e6bb2525ab1f66dd7dcbeb8f9d823e71b40c0f3e77aeadab",
+          "mask_sha256": "e170ed07b164e72ba7429421c6a940cbaea8b798ac7a7554eaa8767fc378dd47",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\015.png",
+          "source_background_sha256": "3d2a97426ef34707e6bb2525ab1f66dd7dcbeb8f9d823e71b40c0f3e77aeadab"
+        },
+        {
+          "index": 16,
+          "image": "pose1/image/016.png",
+          "mask": "pose1/mask/016.png",
+          "image_sha256": "d4f6ed9012bb2bd1c4614e08365c47cdd1110e4ed7b9fa012763a2985b7f3836",
+          "mask_sha256": "af2649bbfdca3788d7125810695e8e6e31f4ac2eb2c5ca12d29507be8fc3c2c5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\016.png",
+          "source_background_sha256": "d4f6ed9012bb2bd1c4614e08365c47cdd1110e4ed7b9fa012763a2985b7f3836"
+        },
+        {
+          "index": 17,
+          "image": "pose1/image/017.png",
+          "mask": "pose1/mask/017.png",
+          "image_sha256": "cd832012189fe544637a53c9cd692f4659bd62da27b2fa99ad67b6787040a253",
+          "mask_sha256": "728126b59331d7392a37c174ed1aaccfede24d01fcf5b7c8aebc2c75406da303",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\017.png",
+          "source_background_sha256": "cd832012189fe544637a53c9cd692f4659bd62da27b2fa99ad67b6787040a253"
+        },
+        {
+          "index": 18,
+          "image": "pose1/image/018.png",
+          "mask": "pose1/mask/018.png",
+          "image_sha256": "2fc143dd5ae72ce64d337b99a714eb16d93de4997abf5f3f05ad7e53e434426f",
+          "mask_sha256": "654ed6ea61a71529f4086fc474a8b424f69677e4f5fc5bf820a741f826c05a2c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\018.png",
+          "source_background_sha256": "2fc143dd5ae72ce64d337b99a714eb16d93de4997abf5f3f05ad7e53e434426f"
+        },
+        {
+          "index": 19,
+          "image": "pose1/image/019.png",
+          "mask": "pose1/mask/019.png",
+          "image_sha256": "ae4eb2f649f78475c1c5ed52322fd63cfb0c55bd40727a025b170a30f380ce3b",
+          "mask_sha256": "5bc59535d0879d711648fd00b67771810dd6bec4ef58d5feb99e7b905b2f6a63",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\019.png",
+          "source_background_sha256": "ae4eb2f649f78475c1c5ed52322fd63cfb0c55bd40727a025b170a30f380ce3b"
+        },
+        {
+          "index": 20,
+          "image": "pose1/image/020.png",
+          "mask": "pose1/mask/020.png",
+          "image_sha256": "5bef38722729928088e5a4977a89d778d7ffbf1580c7f2ee26ce9ee9a099e2dc",
+          "mask_sha256": "36b582b8c1183f7137a8584df1ff1f4b4b19ce9935b7bac8b777b4022a21a841",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\020.png",
+          "source_background_sha256": "5bef38722729928088e5a4977a89d778d7ffbf1580c7f2ee26ce9ee9a099e2dc"
+        },
+        {
+          "index": 21,
+          "image": "pose1/image/021.png",
+          "mask": "pose1/mask/021.png",
+          "image_sha256": "d571ad0bc7754b26b4e42f9628bad46c14a92e6e4d35514103ace060a692a10e",
+          "mask_sha256": "642a39fdbe9eaf9a1453ee8c6c04dd1381f205cd7e7a699b136d404bbfaef583",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\021.png",
+          "source_background_sha256": "d571ad0bc7754b26b4e42f9628bad46c14a92e6e4d35514103ace060a692a10e"
+        },
+        {
+          "index": 22,
+          "image": "pose1/image/022.png",
+          "mask": "pose1/mask/022.png",
+          "image_sha256": "96987adfb6fb6cad65b9cce92ad36551ea2d6127ee72588548b69876c926d1bb",
+          "mask_sha256": "b1c8d9890686557a9651017ec8de7ba521ae00e1c493033f559a452be04c8c62",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\022.png",
+          "source_background_sha256": "96987adfb6fb6cad65b9cce92ad36551ea2d6127ee72588548b69876c926d1bb"
+        },
+        {
+          "index": 23,
+          "image": "pose1/image/023.png",
+          "mask": "pose1/mask/023.png",
+          "image_sha256": "0115f27f4d94efa80cb784d68d073d716a9311f0ef00bc679b1dacef0bc83c5a",
+          "mask_sha256": "2a71f31edf442d9a896c7030b2e53c5cd647ef80493eac76902189384f3d257f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\023.png",
+          "source_background_sha256": "0115f27f4d94efa80cb784d68d073d716a9311f0ef00bc679b1dacef0bc83c5a"
+        },
+        {
+          "index": 24,
+          "image": "pose1/image/024.png",
+          "mask": "pose1/mask/024.png",
+          "image_sha256": "f3b7e0fe0c9d236395849ecc68552600032b3082c7ec1fdfc7fcf174e17f03b4",
+          "mask_sha256": "0860cda55377221cfd7cf9cc6a716f5091798cb93b28a9f6519703eee90a026a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\024.png",
+          "source_background_sha256": "f3b7e0fe0c9d236395849ecc68552600032b3082c7ec1fdfc7fcf174e17f03b4"
+        },
+        {
+          "index": 25,
+          "image": "pose1/image/025.png",
+          "mask": "pose1/mask/025.png",
+          "image_sha256": "8c57ced654dab21d6e493aa78ebb367f2c9d0d8671a3dcbefe79fd04a2986207",
+          "mask_sha256": "e5d89b1a2d7d76c1e16595bc21e5699ce175a7d4e94daa1f8fd38532225fc05d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\025.png",
+          "source_background_sha256": "8c57ced654dab21d6e493aa78ebb367f2c9d0d8671a3dcbefe79fd04a2986207"
+        },
+        {
+          "index": 26,
+          "image": "pose1/image/026.png",
+          "mask": "pose1/mask/026.png",
+          "image_sha256": "6ad45e9535973f3d4e4d6f671cb3410bf6906a16e7f21e2569d57fbd9227ba1f",
+          "mask_sha256": "9dce19ef993ebc0a00b9e0c269d21969b921e040395774d71cbd9bd731ca87c3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\026.png",
+          "source_background_sha256": "6ad45e9535973f3d4e4d6f671cb3410bf6906a16e7f21e2569d57fbd9227ba1f"
+        },
+        {
+          "index": 27,
+          "image": "pose1/image/027.png",
+          "mask": "pose1/mask/027.png",
+          "image_sha256": "188d0824a7841474a9d889be5eede9fc310c20941a55bc76525c5d867f1622d6",
+          "mask_sha256": "17d1b0c7f1175680942ce1ec86998e514e2feb45f35d2580e383fd9d40bd080b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\027.png",
+          "source_background_sha256": "188d0824a7841474a9d889be5eede9fc310c20941a55bc76525c5d867f1622d6"
+        },
+        {
+          "index": 28,
+          "image": "pose1/image/028.png",
+          "mask": "pose1/mask/028.png",
+          "image_sha256": "dd89ab5223a72ff669287840750286932740e570511a1792d4a1c6cb7ce0cee8",
+          "mask_sha256": "bff1751c1046187ed52a18283add22fc7d24f8a6b8189952e0c52084dadc4c02",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\028.png",
+          "source_background_sha256": "dd89ab5223a72ff669287840750286932740e570511a1792d4a1c6cb7ce0cee8"
+        },
+        {
+          "index": 29,
+          "image": "pose1/image/029.png",
+          "mask": "pose1/mask/029.png",
+          "image_sha256": "191c31bf62877a85edabadbf62f422fa9bc16258a015aaff37bcc2e45ea57579",
+          "mask_sha256": "d9613ea0e2cb2252c6123636ce3b40388a9a9b0d93796d173f2c31a1bf5f3d81",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\029.png",
+          "source_background_sha256": "191c31bf62877a85edabadbf62f422fa9bc16258a015aaff37bcc2e45ea57579"
+        },
+        {
+          "index": 30,
+          "image": "pose1/image/030.png",
+          "mask": "pose1/mask/030.png",
+          "image_sha256": "488715c96b80910cdcfc96ddeccaa945c3586ade78f42a4a9864db5f8f7d0b71",
+          "mask_sha256": "16d75b99b0513bf9b4e7dc835ece491f442054d97e8f2a4b9220155e2154753c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\030.png",
+          "source_background_sha256": "488715c96b80910cdcfc96ddeccaa945c3586ade78f42a4a9864db5f8f7d0b71"
+        },
+        {
+          "index": 31,
+          "image": "pose1/image/031.png",
+          "mask": "pose1/mask/031.png",
+          "image_sha256": "cd9c933878f807ab8756067079cdf2770d47b59fb6a6ef1e7674a8eef06699a2",
+          "mask_sha256": "2344c21a3f8c0184af92cf677d63b114c76341cafec23d553b26d9de11c8559c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\031.png",
+          "source_background_sha256": "cd9c933878f807ab8756067079cdf2770d47b59fb6a6ef1e7674a8eef06699a2"
+        },
+        {
+          "index": 32,
+          "image": "pose1/image/032.png",
+          "mask": "pose1/mask/032.png",
+          "image_sha256": "2d1666ca94b1513243e2e89087b3d8f27e5251dd134a0da2202f291d7de4098b",
+          "mask_sha256": "536538183a93169fdc5d1e0d0d779aec8e984fcfd78d836439bfbde91efc6591",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\032.png",
+          "source_background_sha256": "2d1666ca94b1513243e2e89087b3d8f27e5251dd134a0da2202f291d7de4098b"
+        },
+        {
+          "index": 33,
+          "image": "pose1/image/033.png",
+          "mask": "pose1/mask/033.png",
+          "image_sha256": "d0e6a299668299f9e914b9efa014b99c6ed00d97304baa860839d3e459ef4ca3",
+          "mask_sha256": "fee483d2e92e3cce617e1422db33da83ccab733781d87121d627c7c9944ae90d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\033.png",
+          "source_background_sha256": "d0e6a299668299f9e914b9efa014b99c6ed00d97304baa860839d3e459ef4ca3"
+        },
+        {
+          "index": 34,
+          "image": "pose1/image/034.png",
+          "mask": "pose1/mask/034.png",
+          "image_sha256": "f88ae4ae4b29f72b931e5f5cecf4333550b91ab2684bfbd9e8bf8c854bb35d37",
+          "mask_sha256": "a29db1b7231bfff04e424efeb5b94c08fa21ddba3c646c8cc0218a149f0799a1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\034.png",
+          "source_background_sha256": "f88ae4ae4b29f72b931e5f5cecf4333550b91ab2684bfbd9e8bf8c854bb35d37"
+        },
+        {
+          "index": 35,
+          "image": "pose1/image/035.png",
+          "mask": "pose1/mask/035.png",
+          "image_sha256": "a1ba0cc5717319381651afc3033531e68e1a87010506ecfb0b516e92946bda45",
+          "mask_sha256": "114d5e6f81e1a40aeebbbf934d719dd8ac264e3beefbd5fb0f7be8dcff93997b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\035.png",
+          "source_background_sha256": "a1ba0cc5717319381651afc3033531e68e1a87010506ecfb0b516e92946bda45"
+        },
+        {
+          "index": 36,
+          "image": "pose1/image/036.png",
+          "mask": "pose1/mask/036.png",
+          "image_sha256": "81e9e05a639d955652e3b06710c340b23f0b19a4da6a395df4a1e275f5bc8760",
+          "mask_sha256": "21d2e8ea3a113f00e5fbba04104b6c3871b5bd221872385143c96fcd26d1e3ce",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\036.png",
+          "source_background_sha256": "81e9e05a639d955652e3b06710c340b23f0b19a4da6a395df4a1e275f5bc8760"
+        },
+        {
+          "index": 37,
+          "image": "pose1/image/037.png",
+          "mask": "pose1/mask/037.png",
+          "image_sha256": "352af7f664d1f326a6ad94271672c6708e3f8e2309c0ef5f466af0e959224384",
+          "mask_sha256": "c8d235dbfbd0f032eb56d7a41348caeb289fa0e6b9dede36c7caa5faa1e5bccf",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\037.png",
+          "source_background_sha256": "352af7f664d1f326a6ad94271672c6708e3f8e2309c0ef5f466af0e959224384"
+        },
+        {
+          "index": 38,
+          "image": "pose1/image/038.png",
+          "mask": "pose1/mask/038.png",
+          "image_sha256": "556738186e37e5d0122547f0c0f5b50ea666f4c00eb146066fae5281eaec8e3e",
+          "mask_sha256": "3d5c60dced6ff07e22c189bb1a647836648ca553528bc40c42d5847a35eaf42d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\038.png",
+          "source_background_sha256": "556738186e37e5d0122547f0c0f5b50ea666f4c00eb146066fae5281eaec8e3e"
+        },
+        {
+          "index": 39,
+          "image": "pose1/image/039.png",
+          "mask": "pose1/mask/039.png",
+          "image_sha256": "f882462e5f5fc6cf7b87006e1a5bf7b08af10709b37e3977a0574b18955285ba",
+          "mask_sha256": "761c63faf0419c77ccff6fff6ed595e335dd9449483070dca8e157a4fea8a8b9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose1\\image\\039.png",
+          "source_background_sha256": "f882462e5f5fc6cf7b87006e1a5bf7b08af10709b37e3977a0574b18955285ba"
+        }
+      ],
+      "dimensions": {
+        "1200x800 RGB": 40
+      }
+    },
+    {
+      "pose": 2,
+      "image_count": 40,
+      "background_image_count": 40,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image",
+      "camera_sha256": "24a4e083f67d9d1b16281d090ca99c28795fa2845761b13346f94f5ad47becda",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose2/image/000.png",
+          "mask": "pose2/mask/000.png",
+          "image_sha256": "9f92cb6f2485b5683ac99b82f689b9911a1f2d747bffaf584b4770e7e9fbbbc5",
+          "mask_sha256": "3bf2090ee3e1f030a6313e1893645dd931ed604b97a24140292a34b9bc8b0f45",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\000.png",
+          "source_background_sha256": "9f92cb6f2485b5683ac99b82f689b9911a1f2d747bffaf584b4770e7e9fbbbc5"
+        },
+        {
+          "index": 1,
+          "image": "pose2/image/001.png",
+          "mask": "pose2/mask/001.png",
+          "image_sha256": "3abefb68ad094ad9fc2721bd91e1ec399af89f1ef0ae3b2a008037b047b00b45",
+          "mask_sha256": "12487444722519c6455a6d106ab85051f7442d25e24b8cda843c3a2d1bc1385c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\001.png",
+          "source_background_sha256": "3abefb68ad094ad9fc2721bd91e1ec399af89f1ef0ae3b2a008037b047b00b45"
+        },
+        {
+          "index": 2,
+          "image": "pose2/image/002.png",
+          "mask": "pose2/mask/002.png",
+          "image_sha256": "0f6b106cf943335ad6c20da78a106dc5126414e8e9a3b003d3b77cd7eb6a39c4",
+          "mask_sha256": "0000cab88a6116eb7bc04d22d00ccf85ca0404325f01cb2e846967d1e4645601",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\002.png",
+          "source_background_sha256": "0f6b106cf943335ad6c20da78a106dc5126414e8e9a3b003d3b77cd7eb6a39c4"
+        },
+        {
+          "index": 3,
+          "image": "pose2/image/003.png",
+          "mask": "pose2/mask/003.png",
+          "image_sha256": "f00306682e657e39a4a96bc5c30aa702beccc76bea279eaa99d12192f53e4f41",
+          "mask_sha256": "2ad5f5ba6af343acd818b57ba47f3b05c76e0e5080bf21c256777d9bb62991c9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\003.png",
+          "source_background_sha256": "f00306682e657e39a4a96bc5c30aa702beccc76bea279eaa99d12192f53e4f41"
+        },
+        {
+          "index": 4,
+          "image": "pose2/image/004.png",
+          "mask": "pose2/mask/004.png",
+          "image_sha256": "c13cff3c42fb0fe1ef394e4217fbea0423e5f986fee1a473b372e365d3ac78d9",
+          "mask_sha256": "d19c614619485e05ae32129ce66608b5dca7a84882b8c966a7b58b8e5c880ce5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\004.png",
+          "source_background_sha256": "c13cff3c42fb0fe1ef394e4217fbea0423e5f986fee1a473b372e365d3ac78d9"
+        },
+        {
+          "index": 5,
+          "image": "pose2/image/005.png",
+          "mask": "pose2/mask/005.png",
+          "image_sha256": "cce373c7fa431dad8c35dd2725671e4882ee080cd1a44e319a0a3f2fc8253ebd",
+          "mask_sha256": "b5a99086856a32bd38c4483df5f3cdc561a5d5130bc450417119a17a9c9c17d4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\005.png",
+          "source_background_sha256": "cce373c7fa431dad8c35dd2725671e4882ee080cd1a44e319a0a3f2fc8253ebd"
+        },
+        {
+          "index": 6,
+          "image": "pose2/image/006.png",
+          "mask": "pose2/mask/006.png",
+          "image_sha256": "ee6eee176d307c14b2fc70e9d83ce3fef7368916bd8e2c632ddcfccfe6b29902",
+          "mask_sha256": "e36e69759306967bed39d84024c47465bf66f9c5f193c98dcec541ad95b086fb",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\006.png",
+          "source_background_sha256": "ee6eee176d307c14b2fc70e9d83ce3fef7368916bd8e2c632ddcfccfe6b29902"
+        },
+        {
+          "index": 7,
+          "image": "pose2/image/007.png",
+          "mask": "pose2/mask/007.png",
+          "image_sha256": "2a47ec94ab1a349838d8bff725548ae72e4099b8f705c60989d16325462b2786",
+          "mask_sha256": "12879df4355a36d339527d7d056486b5fc3339b9b6d54e6701996c96352aafb4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\007.png",
+          "source_background_sha256": "2a47ec94ab1a349838d8bff725548ae72e4099b8f705c60989d16325462b2786"
+        },
+        {
+          "index": 8,
+          "image": "pose2/image/008.png",
+          "mask": "pose2/mask/008.png",
+          "image_sha256": "89d4545c59c86457fa51c4906894ccac517b22f224f02966fe8c55fa93d8d84c",
+          "mask_sha256": "70d69ac580db7a14f2e774c09ad58e009d652ba686b4aa9dce5fe34575a6df6c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\008.png",
+          "source_background_sha256": "89d4545c59c86457fa51c4906894ccac517b22f224f02966fe8c55fa93d8d84c"
+        },
+        {
+          "index": 9,
+          "image": "pose2/image/009.png",
+          "mask": "pose2/mask/009.png",
+          "image_sha256": "10daf99747eca4f491a908c5be3a07fc612e311298f5adae553bbb345ef38015",
+          "mask_sha256": "9f4739788c902961c7cabbe3f5c44f83c0af45a9bfe45cab96d5c49ed25fc8e5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\009.png",
+          "source_background_sha256": "10daf99747eca4f491a908c5be3a07fc612e311298f5adae553bbb345ef38015"
+        },
+        {
+          "index": 10,
+          "image": "pose2/image/010.png",
+          "mask": "pose2/mask/010.png",
+          "image_sha256": "c15bbe52863cb2c39539c33b8eb5bcae03feb96f4816a933636e981b6561b84b",
+          "mask_sha256": "cb6a7d9881f95c351159f7663aef29d9bece67b15b2c57a6e653f80f02cf4299",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\010.png",
+          "source_background_sha256": "c15bbe52863cb2c39539c33b8eb5bcae03feb96f4816a933636e981b6561b84b"
+        },
+        {
+          "index": 11,
+          "image": "pose2/image/011.png",
+          "mask": "pose2/mask/011.png",
+          "image_sha256": "ac5ad67962bc6bc1d1fb5be37edd38ed79a114fc4551c1ca24a2e85bf37a09cc",
+          "mask_sha256": "21f68dcc43c2618f09b4fbfb118538745edf0ca3d26e8256acb924bad2f1e840",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\011.png",
+          "source_background_sha256": "ac5ad67962bc6bc1d1fb5be37edd38ed79a114fc4551c1ca24a2e85bf37a09cc"
+        },
+        {
+          "index": 12,
+          "image": "pose2/image/012.png",
+          "mask": "pose2/mask/012.png",
+          "image_sha256": "2ee1c6527eaadfb8b6de1a34a7a8649c538f6ed3f8d0f0a290cd88be33389eb9",
+          "mask_sha256": "eec16b4d8eec02749ced40c1a53e40bef9c9c43107628d098663d3900794d533",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\012.png",
+          "source_background_sha256": "2ee1c6527eaadfb8b6de1a34a7a8649c538f6ed3f8d0f0a290cd88be33389eb9"
+        },
+        {
+          "index": 13,
+          "image": "pose2/image/013.png",
+          "mask": "pose2/mask/013.png",
+          "image_sha256": "cffc9ca550045f1da83efe3a134a885b05a63759e6a1b78fca61701295c8818e",
+          "mask_sha256": "c3b133c5020bb090b4cc728612262291cb1c750945be29e53442d1204d8a7cd7",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\013.png",
+          "source_background_sha256": "cffc9ca550045f1da83efe3a134a885b05a63759e6a1b78fca61701295c8818e"
+        },
+        {
+          "index": 14,
+          "image": "pose2/image/014.png",
+          "mask": "pose2/mask/014.png",
+          "image_sha256": "5566e833bfd43208b2b85866afb2d47b7f294bf4b06aed6ab708ed9810412cc1",
+          "mask_sha256": "1b6f3f6bcd7a8225491b8947e95d02b8c2ff05d9ba4ef7d420e9c11a6822f867",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\014.png",
+          "source_background_sha256": "5566e833bfd43208b2b85866afb2d47b7f294bf4b06aed6ab708ed9810412cc1"
+        },
+        {
+          "index": 15,
+          "image": "pose2/image/015.png",
+          "mask": "pose2/mask/015.png",
+          "image_sha256": "769035049e16443d4fc6e6f6c1cacc1315d57bdf8a5f1a2a41fba954adaab3a3",
+          "mask_sha256": "6bf876707c8a2e31b3f2095958a418acde80f8c6bd35e601119c19d443f05742",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\015.png",
+          "source_background_sha256": "769035049e16443d4fc6e6f6c1cacc1315d57bdf8a5f1a2a41fba954adaab3a3"
+        },
+        {
+          "index": 16,
+          "image": "pose2/image/016.png",
+          "mask": "pose2/mask/016.png",
+          "image_sha256": "4012623d6e8fee846262843a1e824b10d9b9872f4c2f0d115ddd5c5f3b7c0565",
+          "mask_sha256": "a3ccd453841b97961f5adc93df2219d92cf3ec85afbdceab599a487ac8c54fda",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\016.png",
+          "source_background_sha256": "4012623d6e8fee846262843a1e824b10d9b9872f4c2f0d115ddd5c5f3b7c0565"
+        },
+        {
+          "index": 17,
+          "image": "pose2/image/017.png",
+          "mask": "pose2/mask/017.png",
+          "image_sha256": "c28e14f3dea75dde2dffd931bf309c3846efb26caf48aa7c6a274295fee2335f",
+          "mask_sha256": "fda159130fd9b9b817ce1621a49e675d403a7b87573df995d65b00391b347948",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\017.png",
+          "source_background_sha256": "c28e14f3dea75dde2dffd931bf309c3846efb26caf48aa7c6a274295fee2335f"
+        },
+        {
+          "index": 18,
+          "image": "pose2/image/018.png",
+          "mask": "pose2/mask/018.png",
+          "image_sha256": "55bd5a4286a42b43a8ee7447dddc22f69b0fb88724cbcec948d9f20bbec45f0e",
+          "mask_sha256": "e2dbe0b8ec9879c01d88deea4ba6b84b66e5be28a5f7f28671a39503973be4c6",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\018.png",
+          "source_background_sha256": "55bd5a4286a42b43a8ee7447dddc22f69b0fb88724cbcec948d9f20bbec45f0e"
+        },
+        {
+          "index": 19,
+          "image": "pose2/image/019.png",
+          "mask": "pose2/mask/019.png",
+          "image_sha256": "894f4420bf35b82254ea00246184b62e519d74d6d9f853b9436b1f1f2a9912e9",
+          "mask_sha256": "d14938640784f4e5b442f9402d1301213310c6e77fe40d5e229487a7d3365825",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\019.png",
+          "source_background_sha256": "894f4420bf35b82254ea00246184b62e519d74d6d9f853b9436b1f1f2a9912e9"
+        },
+        {
+          "index": 20,
+          "image": "pose2/image/020.png",
+          "mask": "pose2/mask/020.png",
+          "image_sha256": "03bfc7e7b32d40da25864fe999d9b66efcc8926c8ea9e2968767d026b93c6eb7",
+          "mask_sha256": "19a821330db267f6ae167b8ec7531e2b70ddd40b6f47e3db63383484019b8c8c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\020.png",
+          "source_background_sha256": "03bfc7e7b32d40da25864fe999d9b66efcc8926c8ea9e2968767d026b93c6eb7"
+        },
+        {
+          "index": 21,
+          "image": "pose2/image/021.png",
+          "mask": "pose2/mask/021.png",
+          "image_sha256": "021cfcd609ddb643c942c8c4a0bdef8a98c81a0b27240cda918e137cbd752129",
+          "mask_sha256": "0d9ad94838dc422391e4eb7f510f0ae4a7f67ebc67b10b64e0ec56e597685f9d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\021.png",
+          "source_background_sha256": "021cfcd609ddb643c942c8c4a0bdef8a98c81a0b27240cda918e137cbd752129"
+        },
+        {
+          "index": 22,
+          "image": "pose2/image/022.png",
+          "mask": "pose2/mask/022.png",
+          "image_sha256": "53c5b01cd3c890171632486850bf00cfa1826d4c7b0d8ebf608404ac670f9c95",
+          "mask_sha256": "46b406a1e5d67d9b98f4698ee7081ee61a3165f370584bc50600499c69a1a0f7",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\022.png",
+          "source_background_sha256": "53c5b01cd3c890171632486850bf00cfa1826d4c7b0d8ebf608404ac670f9c95"
+        },
+        {
+          "index": 23,
+          "image": "pose2/image/023.png",
+          "mask": "pose2/mask/023.png",
+          "image_sha256": "74e3d04a95656c8c587ddaaaa3b72ef3f0505cb8dcca2bd67f9a47e907f24c7a",
+          "mask_sha256": "d8cd7e313e712cafba90e737b3b316a9c2b10f2ccd101a3b3670701d2e88cefa",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\023.png",
+          "source_background_sha256": "74e3d04a95656c8c587ddaaaa3b72ef3f0505cb8dcca2bd67f9a47e907f24c7a"
+        },
+        {
+          "index": 24,
+          "image": "pose2/image/024.png",
+          "mask": "pose2/mask/024.png",
+          "image_sha256": "671ce0b4c9e1505a407a32e5ee75f508de32d1867045d1672c7cbb1277ffd240",
+          "mask_sha256": "c6d5160c6e3ca23851f45e74ba67de8e6dd2954bc83791b4b9fe2202f278444c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\024.png",
+          "source_background_sha256": "671ce0b4c9e1505a407a32e5ee75f508de32d1867045d1672c7cbb1277ffd240"
+        },
+        {
+          "index": 25,
+          "image": "pose2/image/025.png",
+          "mask": "pose2/mask/025.png",
+          "image_sha256": "ac91ea906c1b9a34339859f869666ed02b3b936dc7beef1cefb38a1990d9d0f3",
+          "mask_sha256": "5d6af21e2320d323785291238f1076b11a5f9007cd6ae3df0ac37af64444ebfa",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\025.png",
+          "source_background_sha256": "ac91ea906c1b9a34339859f869666ed02b3b936dc7beef1cefb38a1990d9d0f3"
+        },
+        {
+          "index": 26,
+          "image": "pose2/image/026.png",
+          "mask": "pose2/mask/026.png",
+          "image_sha256": "45d20c44ef5a6758aecd4ecc329c88b9dc9296e59fd477cdd62cb1dea57dcb5e",
+          "mask_sha256": "92fcc2e950acc2afcac92c20607cf636b722c2a6cf8a2d81b41386175b0e2f62",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\026.png",
+          "source_background_sha256": "45d20c44ef5a6758aecd4ecc329c88b9dc9296e59fd477cdd62cb1dea57dcb5e"
+        },
+        {
+          "index": 27,
+          "image": "pose2/image/027.png",
+          "mask": "pose2/mask/027.png",
+          "image_sha256": "5df6abc4199d3dc52c670898eb2f584eab0e08e9677beb2dc536440dbf08ed6e",
+          "mask_sha256": "bf0e7cbe81baead496a1a8c31a35481af584c327a2feed0e354751eac4a460af",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\027.png",
+          "source_background_sha256": "5df6abc4199d3dc52c670898eb2f584eab0e08e9677beb2dc536440dbf08ed6e"
+        },
+        {
+          "index": 28,
+          "image": "pose2/image/028.png",
+          "mask": "pose2/mask/028.png",
+          "image_sha256": "18800b44b0b76fbf432c446b3bc06468474bd28fbb65dea35bbf2984155cbf2c",
+          "mask_sha256": "f740859538015f035cca045d067ac92fb284869a85934ad506d0fcc7bace0e62",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\028.png",
+          "source_background_sha256": "18800b44b0b76fbf432c446b3bc06468474bd28fbb65dea35bbf2984155cbf2c"
+        },
+        {
+          "index": 29,
+          "image": "pose2/image/029.png",
+          "mask": "pose2/mask/029.png",
+          "image_sha256": "78429493dd7630d26064ab63dd795cb5c70574ef0bae90a28d1e5a17cfaaf772",
+          "mask_sha256": "129ee9ec439bab5e4023f4205a072e10d4243773c0734a8be89ef4c5c8d03227",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\029.png",
+          "source_background_sha256": "78429493dd7630d26064ab63dd795cb5c70574ef0bae90a28d1e5a17cfaaf772"
+        },
+        {
+          "index": 30,
+          "image": "pose2/image/030.png",
+          "mask": "pose2/mask/030.png",
+          "image_sha256": "eeb98919c300f7c5f49753b7b46ebcc27f54fe52abdbcfb750e800e5660af0eb",
+          "mask_sha256": "25147d1a356cf9953d20a612928fada33f836e52f2317dc57a6cf08e0e5efd9e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\030.png",
+          "source_background_sha256": "eeb98919c300f7c5f49753b7b46ebcc27f54fe52abdbcfb750e800e5660af0eb"
+        },
+        {
+          "index": 31,
+          "image": "pose2/image/031.png",
+          "mask": "pose2/mask/031.png",
+          "image_sha256": "c5fd63901240f8684ebadbd11eb27dd079b76e4fc6744527477c352ee0cc4080",
+          "mask_sha256": "e0b450379daa47b0525ff217eb1510e626fbc652985af99bd6245ff576970bbc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\031.png",
+          "source_background_sha256": "c5fd63901240f8684ebadbd11eb27dd079b76e4fc6744527477c352ee0cc4080"
+        },
+        {
+          "index": 32,
+          "image": "pose2/image/032.png",
+          "mask": "pose2/mask/032.png",
+          "image_sha256": "f78f7032b825039314dbf3799a4c8113ad2414dd359693f23bfe5ab9afb2804b",
+          "mask_sha256": "7c36adde9fff44a056031a48d0fa9a85311f94ccee4796a79c83d4ceb6142bc7",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\032.png",
+          "source_background_sha256": "f78f7032b825039314dbf3799a4c8113ad2414dd359693f23bfe5ab9afb2804b"
+        },
+        {
+          "index": 33,
+          "image": "pose2/image/033.png",
+          "mask": "pose2/mask/033.png",
+          "image_sha256": "4fb924e0d98882a544b5bda3c7b4f3399b5b932415fba557aed422192c4a6a83",
+          "mask_sha256": "f9f946be40658bea4d4709a1405e30f47b519d042253d4ebfb323dbc350e7402",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\033.png",
+          "source_background_sha256": "4fb924e0d98882a544b5bda3c7b4f3399b5b932415fba557aed422192c4a6a83"
+        },
+        {
+          "index": 34,
+          "image": "pose2/image/034.png",
+          "mask": "pose2/mask/034.png",
+          "image_sha256": "7191267d67471701ab1e158d64c49d6fdbcbe46378fa961d141cdc2277310ad7",
+          "mask_sha256": "510be6e3d96d4fdeaf0a12bc606804a1f0c9eb26b7dda5872d4b2b0f0d0ad8db",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\034.png",
+          "source_background_sha256": "7191267d67471701ab1e158d64c49d6fdbcbe46378fa961d141cdc2277310ad7"
+        },
+        {
+          "index": 35,
+          "image": "pose2/image/035.png",
+          "mask": "pose2/mask/035.png",
+          "image_sha256": "bdd4833acf3459c5d9f351610b0b6c4c63af1640213a9f2f2d7e4c186382e948",
+          "mask_sha256": "7dc6053319c28544677f8851f4a991facf4a58660b42ec05779293500a02331f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\035.png",
+          "source_background_sha256": "bdd4833acf3459c5d9f351610b0b6c4c63af1640213a9f2f2d7e4c186382e948"
+        },
+        {
+          "index": 36,
+          "image": "pose2/image/036.png",
+          "mask": "pose2/mask/036.png",
+          "image_sha256": "7cf50881a0388f67eb1232c85a2fe3be9e3ac56a5f50bb8c391e5271184fef2e",
+          "mask_sha256": "5c4d79703ea9411daafb0896b12bb7351fc784083bb3d1752f9e151d16df6fed",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\036.png",
+          "source_background_sha256": "7cf50881a0388f67eb1232c85a2fe3be9e3ac56a5f50bb8c391e5271184fef2e"
+        },
+        {
+          "index": 37,
+          "image": "pose2/image/037.png",
+          "mask": "pose2/mask/037.png",
+          "image_sha256": "c0956faf40b340ac29e9af4abe590ae60acb77a9b4fb2ef0b7835837906f106e",
+          "mask_sha256": "3734a3e187a056cd62f43a6a9025a5826b86524ca201d4e2a5d8280fdc181d21",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\037.png",
+          "source_background_sha256": "c0956faf40b340ac29e9af4abe590ae60acb77a9b4fb2ef0b7835837906f106e"
+        },
+        {
+          "index": 38,
+          "image": "pose2/image/038.png",
+          "mask": "pose2/mask/038.png",
+          "image_sha256": "ad5dfe5bacfad0802d0dff889c89b4f1ad441385193190714ea8ff45ee421f52",
+          "mask_sha256": "12e81141a95a84b4d676cf8f56b3dd63d2e5c0881c24a6cb1fdc6055a2216b77",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\038.png",
+          "source_background_sha256": "ad5dfe5bacfad0802d0dff889c89b4f1ad441385193190714ea8ff45ee421f52"
+        },
+        {
+          "index": 39,
+          "image": "pose2/image/039.png",
+          "mask": "pose2/mask/039.png",
+          "image_sha256": "06714862f7bbcad501b5c2cb303b0908e3dfcd0bdc0f954f3a56248d725fde03",
+          "mask_sha256": "514645f03a336f7310302481cb734af874c7bac63096f2777e6fa0466e07c692",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose2\\image\\039.png",
+          "source_background_sha256": "06714862f7bbcad501b5c2cb303b0908e3dfcd0bdc0f954f3a56248d725fde03"
+        }
+      ],
+      "dimensions": {
+        "1200x800 RGB": 40
+      }
+    },
+    {
+      "pose": 3,
+      "image_count": 40,
+      "background_image_count": 40,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image",
+      "camera_sha256": "07c1e91702c1b99d972a1ca5facfd2597bafbdc2461f510b7f0f0c9f0367d93e",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose3/image/000.png",
+          "mask": "pose3/mask/000.png",
+          "image_sha256": "7bf0cfb767f2fbc8c6f8912bc7de19989d5347f735e691ae32091c14adda712b",
+          "mask_sha256": "552e0f2197d579afb1709089fd45572fe00e5f9e0afd53111dc8761206c4fadb",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\000.png",
+          "source_background_sha256": "7bf0cfb767f2fbc8c6f8912bc7de19989d5347f735e691ae32091c14adda712b"
+        },
+        {
+          "index": 1,
+          "image": "pose3/image/001.png",
+          "mask": "pose3/mask/001.png",
+          "image_sha256": "5d799463c19f120dac7f45dbc1eb0810a7bc9380a60981ceea4dad59c340206b",
+          "mask_sha256": "82c30da46a4fb667dcf372568bd1c1db1adc4848d3f6a983af26245f43b0d7b9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\001.png",
+          "source_background_sha256": "5d799463c19f120dac7f45dbc1eb0810a7bc9380a60981ceea4dad59c340206b"
+        },
+        {
+          "index": 2,
+          "image": "pose3/image/002.png",
+          "mask": "pose3/mask/002.png",
+          "image_sha256": "d663c3c8878b156971ebddd642e439e3c8b72605cf852c84cf7b8981f53da04e",
+          "mask_sha256": "ed96760829e2e920873839aa75ed0f28fbd2ec79fde633ca7ace368f19168262",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\002.png",
+          "source_background_sha256": "d663c3c8878b156971ebddd642e439e3c8b72605cf852c84cf7b8981f53da04e"
+        },
+        {
+          "index": 3,
+          "image": "pose3/image/003.png",
+          "mask": "pose3/mask/003.png",
+          "image_sha256": "d6eceba1f5fc1784a2ebb6dc43a199a04a36ddefb4f02c4725b3bebbfd5a3655",
+          "mask_sha256": "201a72e587cb362ed13d7890b5e398d1b35ee1d7f14004fa252d1f09f1c1435a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\003.png",
+          "source_background_sha256": "d6eceba1f5fc1784a2ebb6dc43a199a04a36ddefb4f02c4725b3bebbfd5a3655"
+        },
+        {
+          "index": 4,
+          "image": "pose3/image/004.png",
+          "mask": "pose3/mask/004.png",
+          "image_sha256": "58c94224c18f87813448b8d1b5d1840f10c8ad44fd035c65a8d083887a9eca20",
+          "mask_sha256": "06bb192b026f39a1aa444582e4a4e80fc070c3470c1eb8c119e80d633618adb1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\004.png",
+          "source_background_sha256": "58c94224c18f87813448b8d1b5d1840f10c8ad44fd035c65a8d083887a9eca20"
+        },
+        {
+          "index": 5,
+          "image": "pose3/image/005.png",
+          "mask": "pose3/mask/005.png",
+          "image_sha256": "6d71b189e74ba7b515bfa741181142c9f5e6cfeb7b8eae5fbbd2c56255dcece8",
+          "mask_sha256": "ad2c532a9c99e2a855a9cf54c2e26ba6ba4b158fa64d4c340fbd6aef1a3ff543",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\005.png",
+          "source_background_sha256": "6d71b189e74ba7b515bfa741181142c9f5e6cfeb7b8eae5fbbd2c56255dcece8"
+        },
+        {
+          "index": 6,
+          "image": "pose3/image/006.png",
+          "mask": "pose3/mask/006.png",
+          "image_sha256": "025cfb64a205b680f922bdaa714fa811a5931369412b13255be98886581f4eaf",
+          "mask_sha256": "a993be8d4bee047ce23d8a2e669aea5293ebf37365c4ed2f6a13f1881354d034",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\006.png",
+          "source_background_sha256": "025cfb64a205b680f922bdaa714fa811a5931369412b13255be98886581f4eaf"
+        },
+        {
+          "index": 7,
+          "image": "pose3/image/007.png",
+          "mask": "pose3/mask/007.png",
+          "image_sha256": "95b2cbed401369f12e12520e701671a02a4cc3cb11d5075badd2a1d643f6ffc3",
+          "mask_sha256": "83a53c9968b9b42ac7156a62decf470d461e336787165e8d1d320c6d2dcd3c1a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\007.png",
+          "source_background_sha256": "95b2cbed401369f12e12520e701671a02a4cc3cb11d5075badd2a1d643f6ffc3"
+        },
+        {
+          "index": 8,
+          "image": "pose3/image/008.png",
+          "mask": "pose3/mask/008.png",
+          "image_sha256": "f3f4202283becd2fcb397d8d6a5ca59bce8daaea8c0ec8719542381997c71f8a",
+          "mask_sha256": "85ecc3d32db11cd68574830ac3e10046503d3afdf8d4e9536aef1cf55c84ab47",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\008.png",
+          "source_background_sha256": "f3f4202283becd2fcb397d8d6a5ca59bce8daaea8c0ec8719542381997c71f8a"
+        },
+        {
+          "index": 9,
+          "image": "pose3/image/009.png",
+          "mask": "pose3/mask/009.png",
+          "image_sha256": "e4921fe6af8b1d1756405fff8f007ce47a9473217e89ae396baf5b45d10c145b",
+          "mask_sha256": "ff6233498e0dd830e40ff742d0ac266c831d590d6169192d74a1cc6fccf2954b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\009.png",
+          "source_background_sha256": "e4921fe6af8b1d1756405fff8f007ce47a9473217e89ae396baf5b45d10c145b"
+        },
+        {
+          "index": 10,
+          "image": "pose3/image/010.png",
+          "mask": "pose3/mask/010.png",
+          "image_sha256": "b4a9e253a5534488273c24b497f8eca52c39166284d0c7963ae30d8469c55923",
+          "mask_sha256": "ca3682184bb647b1187ec13f2404a6d325643e92512cd2891dd990f1f0c09d8d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\010.png",
+          "source_background_sha256": "b4a9e253a5534488273c24b497f8eca52c39166284d0c7963ae30d8469c55923"
+        },
+        {
+          "index": 11,
+          "image": "pose3/image/011.png",
+          "mask": "pose3/mask/011.png",
+          "image_sha256": "07167f3630802d0802fa1de9be8081fcf7d6c1af0ffe3db4617ce9affdcb83a0",
+          "mask_sha256": "6591f54069d74863569e3783734871ec25a61fe9da6f31aab9b74aa7871171a1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\011.png",
+          "source_background_sha256": "07167f3630802d0802fa1de9be8081fcf7d6c1af0ffe3db4617ce9affdcb83a0"
+        },
+        {
+          "index": 12,
+          "image": "pose3/image/012.png",
+          "mask": "pose3/mask/012.png",
+          "image_sha256": "7e26cf2a475561627d7fd5a1053ccb34588948c4af289948092fcc5f7a69d7c0",
+          "mask_sha256": "093cd6f89f959d7e2e6a6fd0c38e14f49a8b374fd5c0c9473e208ebc2758391d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\012.png",
+          "source_background_sha256": "7e26cf2a475561627d7fd5a1053ccb34588948c4af289948092fcc5f7a69d7c0"
+        },
+        {
+          "index": 13,
+          "image": "pose3/image/013.png",
+          "mask": "pose3/mask/013.png",
+          "image_sha256": "9f243e74625eb8e28f80367d14c05ef7ec55a99f358ac5252f3cf8dff95dfa8e",
+          "mask_sha256": "4f3d6c6da173dc9838fc72d1c4bbc2b051d7518fa47d5b49e7f5dae26d01f3ed",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\013.png",
+          "source_background_sha256": "9f243e74625eb8e28f80367d14c05ef7ec55a99f358ac5252f3cf8dff95dfa8e"
+        },
+        {
+          "index": 14,
+          "image": "pose3/image/014.png",
+          "mask": "pose3/mask/014.png",
+          "image_sha256": "a986cf4d9d62b45eebf5bd458707cd996fa6c2ce6c05852dc6b0b885ceb31c10",
+          "mask_sha256": "1deba40c15327c641726f40c2670eba20f405cdd208129af46aaed0faffd64a5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\014.png",
+          "source_background_sha256": "a986cf4d9d62b45eebf5bd458707cd996fa6c2ce6c05852dc6b0b885ceb31c10"
+        },
+        {
+          "index": 15,
+          "image": "pose3/image/015.png",
+          "mask": "pose3/mask/015.png",
+          "image_sha256": "076b008612180638b1c5f7833f8bf037985f5c016713b465a0cacb59473c5225",
+          "mask_sha256": "ef6448b07518af8a99548efdfe329b0dc30660ebf0280204cd88ac587fef00f7",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\015.png",
+          "source_background_sha256": "076b008612180638b1c5f7833f8bf037985f5c016713b465a0cacb59473c5225"
+        },
+        {
+          "index": 16,
+          "image": "pose3/image/016.png",
+          "mask": "pose3/mask/016.png",
+          "image_sha256": "09a465b9d72143590ab0e3890d28a5e2a9a9c1f7d56f88e2675c762c802287d5",
+          "mask_sha256": "e39c9b7d19906b3ade90e89976428720923355e00bac6bb40fde7bfffb6dcc08",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\016.png",
+          "source_background_sha256": "09a465b9d72143590ab0e3890d28a5e2a9a9c1f7d56f88e2675c762c802287d5"
+        },
+        {
+          "index": 17,
+          "image": "pose3/image/017.png",
+          "mask": "pose3/mask/017.png",
+          "image_sha256": "b2025cd1fbbe6228dba59266908d888695e5814c5892dabdae116bb97dc3bdcf",
+          "mask_sha256": "5a3ac11d355ca8f8afc8129e71524e103e6568f0048f0eaee6b5811cc6faf98e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\017.png",
+          "source_background_sha256": "b2025cd1fbbe6228dba59266908d888695e5814c5892dabdae116bb97dc3bdcf"
+        },
+        {
+          "index": 18,
+          "image": "pose3/image/018.png",
+          "mask": "pose3/mask/018.png",
+          "image_sha256": "254802a3dde122970219c3f63ef43e9a0cd590ac1c937c385416cd53b22ddfa8",
+          "mask_sha256": "ed4f0f8c2cdf9f0e5086ff9031159b096ac143c316a97f6575bf8370416e5d7b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\018.png",
+          "source_background_sha256": "254802a3dde122970219c3f63ef43e9a0cd590ac1c937c385416cd53b22ddfa8"
+        },
+        {
+          "index": 19,
+          "image": "pose3/image/019.png",
+          "mask": "pose3/mask/019.png",
+          "image_sha256": "aa2529dcd3526cdfe77083b8422d39688c5f67b89d429ff7cd3728378aca2525",
+          "mask_sha256": "cbfd4479a9b067dd91ab63a6a4e8477562d5dcd6ec0ea7d6cbcd3539f303ce56",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\019.png",
+          "source_background_sha256": "aa2529dcd3526cdfe77083b8422d39688c5f67b89d429ff7cd3728378aca2525"
+        },
+        {
+          "index": 20,
+          "image": "pose3/image/020.png",
+          "mask": "pose3/mask/020.png",
+          "image_sha256": "af2343417bb16615d2cd9e3735f46003d41e2bf28d25ef06f0c3f706d66fc9ae",
+          "mask_sha256": "f63de63b36af3411e0abd46b56f8917b66a3fc9dd2814c16440d43499fd7738b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\020.png",
+          "source_background_sha256": "af2343417bb16615d2cd9e3735f46003d41e2bf28d25ef06f0c3f706d66fc9ae"
+        },
+        {
+          "index": 21,
+          "image": "pose3/image/021.png",
+          "mask": "pose3/mask/021.png",
+          "image_sha256": "a2959b06193a508150d8615c251e0e97a3c8c7edde66dbbfe6029f0277424c05",
+          "mask_sha256": "f492da57e9de47aab0327df6888cd2d5cac5dc280e3b0337b43406d13d9a3bec",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\021.png",
+          "source_background_sha256": "a2959b06193a508150d8615c251e0e97a3c8c7edde66dbbfe6029f0277424c05"
+        },
+        {
+          "index": 22,
+          "image": "pose3/image/022.png",
+          "mask": "pose3/mask/022.png",
+          "image_sha256": "55fadad091c441817edc9fa54a370e00261548add41452bbb3b1c71a3a239b78",
+          "mask_sha256": "5b00838124f5474c7cd1c7f43e36cfc4bc161ffc6d7af26e5f876339e86cabcf",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\022.png",
+          "source_background_sha256": "55fadad091c441817edc9fa54a370e00261548add41452bbb3b1c71a3a239b78"
+        },
+        {
+          "index": 23,
+          "image": "pose3/image/023.png",
+          "mask": "pose3/mask/023.png",
+          "image_sha256": "ccac8d2ef0c325b6b41f603354fa684129aed05f6fc55006c1aadda34d1c94b0",
+          "mask_sha256": "08fc022c8a790a1a635de11e2b5350532800f9a802cf7d80230efb562102e2b1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\023.png",
+          "source_background_sha256": "ccac8d2ef0c325b6b41f603354fa684129aed05f6fc55006c1aadda34d1c94b0"
+        },
+        {
+          "index": 24,
+          "image": "pose3/image/024.png",
+          "mask": "pose3/mask/024.png",
+          "image_sha256": "cd579e392efe67b19bca96dd121e1cc42242d9c0fe22e5527faa8f2e4a27d675",
+          "mask_sha256": "4c6890bc97f228f563de592730340e4a2ebc68a9ea240d6475c038170164b7c0",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\024.png",
+          "source_background_sha256": "cd579e392efe67b19bca96dd121e1cc42242d9c0fe22e5527faa8f2e4a27d675"
+        },
+        {
+          "index": 25,
+          "image": "pose3/image/025.png",
+          "mask": "pose3/mask/025.png",
+          "image_sha256": "b103be9e4ba18f9bda9ee6184e390bebb64f82e1f0ed123462e84a271761da5e",
+          "mask_sha256": "3fcde617f62feb5c072aeef4c0c9b2f3bf59b73d0237d9d153b96d8a6ffe1912",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\025.png",
+          "source_background_sha256": "b103be9e4ba18f9bda9ee6184e390bebb64f82e1f0ed123462e84a271761da5e"
+        },
+        {
+          "index": 26,
+          "image": "pose3/image/026.png",
+          "mask": "pose3/mask/026.png",
+          "image_sha256": "1131209adc41c1836c10777d77b9125d70819ac0b50c1194c56be274189c7f11",
+          "mask_sha256": "f2509fda23e269bae4f4389479f992b3fa8a2b0aa31e79504ff7955fde61bbee",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\026.png",
+          "source_background_sha256": "1131209adc41c1836c10777d77b9125d70819ac0b50c1194c56be274189c7f11"
+        },
+        {
+          "index": 27,
+          "image": "pose3/image/027.png",
+          "mask": "pose3/mask/027.png",
+          "image_sha256": "02dc2ec25dba39666f984e54c3872e778a739f7d2a82cba08dee8850b6f44c46",
+          "mask_sha256": "74a60f5ba13d6578ebb590df3c7fcd92f5f9d14048b27aa25b5db3d2f6ca2dcd",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\027.png",
+          "source_background_sha256": "02dc2ec25dba39666f984e54c3872e778a739f7d2a82cba08dee8850b6f44c46"
+        },
+        {
+          "index": 28,
+          "image": "pose3/image/028.png",
+          "mask": "pose3/mask/028.png",
+          "image_sha256": "24c0f33cb543eb0414f1d9ef0190dc73509a6ffa343695bfe6ee0a09149a5806",
+          "mask_sha256": "a1c4f286602b877db953f28df11bc552fa36a298bf2f09d14ab4e7c04a17291c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\028.png",
+          "source_background_sha256": "24c0f33cb543eb0414f1d9ef0190dc73509a6ffa343695bfe6ee0a09149a5806"
+        },
+        {
+          "index": 29,
+          "image": "pose3/image/029.png",
+          "mask": "pose3/mask/029.png",
+          "image_sha256": "080198381252c8976add1da98b730bfa8388b97b08d58f68f440b05666d7c72e",
+          "mask_sha256": "b4943d0709a57758d7c3d8ce31cfc65a5bb2fb7e7f471d1a5a8be46e6674cba1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\029.png",
+          "source_background_sha256": "080198381252c8976add1da98b730bfa8388b97b08d58f68f440b05666d7c72e"
+        },
+        {
+          "index": 30,
+          "image": "pose3/image/030.png",
+          "mask": "pose3/mask/030.png",
+          "image_sha256": "23748615d9d225f1dbfa281210081dc83eef6f3ebf924f6c574ded6fbd746043",
+          "mask_sha256": "1bd9bfb585ea48121da75a1201699a0228ae9ff32f4c096e068a5f6e223a265b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\030.png",
+          "source_background_sha256": "23748615d9d225f1dbfa281210081dc83eef6f3ebf924f6c574ded6fbd746043"
+        },
+        {
+          "index": 31,
+          "image": "pose3/image/031.png",
+          "mask": "pose3/mask/031.png",
+          "image_sha256": "fae90e6f0e8c3ed718388a996e05aa2d63e76ddf9b834bd8460e37c825b90156",
+          "mask_sha256": "8bdc36b2622cd4e39888cdd9d972bb2221737c0c92ecf577e0ec1ede65bd6799",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\031.png",
+          "source_background_sha256": "fae90e6f0e8c3ed718388a996e05aa2d63e76ddf9b834bd8460e37c825b90156"
+        },
+        {
+          "index": 32,
+          "image": "pose3/image/032.png",
+          "mask": "pose3/mask/032.png",
+          "image_sha256": "1492a53ae347b25e0ca753e7b9a4b1341fe79084ee1dd2cf91c3f16949d68c91",
+          "mask_sha256": "e388b63b52b8cd7f771c16209a0a274b460f88f974d7b2788ad011ba513dd49c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\032.png",
+          "source_background_sha256": "1492a53ae347b25e0ca753e7b9a4b1341fe79084ee1dd2cf91c3f16949d68c91"
+        },
+        {
+          "index": 33,
+          "image": "pose3/image/033.png",
+          "mask": "pose3/mask/033.png",
+          "image_sha256": "27d0e615826d0fb4cb92a26c1198fa3b1b0503abdcbaebb826571b3efa350d5f",
+          "mask_sha256": "6ada58d60b1ff56db06cd2f3c66cf86a4a326fe719c2181fa0059a6786af53c3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\033.png",
+          "source_background_sha256": "27d0e615826d0fb4cb92a26c1198fa3b1b0503abdcbaebb826571b3efa350d5f"
+        },
+        {
+          "index": 34,
+          "image": "pose3/image/034.png",
+          "mask": "pose3/mask/034.png",
+          "image_sha256": "c2045b7a406d7efefc692bbfb83f913e8953ee0f12fa8bbcc9c7bee2b6de2e4f",
+          "mask_sha256": "e51eac92db9ea617eb9d74b8a40e3a755ce7400c3848568bcaad87eea85defc9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\034.png",
+          "source_background_sha256": "c2045b7a406d7efefc692bbfb83f913e8953ee0f12fa8bbcc9c7bee2b6de2e4f"
+        },
+        {
+          "index": 35,
+          "image": "pose3/image/035.png",
+          "mask": "pose3/mask/035.png",
+          "image_sha256": "6fe84699d6042971c9f11b88aabb5e7be1b132ed7e73c8e1f800cd4212b00e16",
+          "mask_sha256": "f476f930b44be87fb78faabb2c3cf8eeed66c744d73ef89ce9c9bab77e5fa17f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\035.png",
+          "source_background_sha256": "6fe84699d6042971c9f11b88aabb5e7be1b132ed7e73c8e1f800cd4212b00e16"
+        },
+        {
+          "index": 36,
+          "image": "pose3/image/036.png",
+          "mask": "pose3/mask/036.png",
+          "image_sha256": "fcb2c7158aae8d4f01a9d3672378b926527b954de3597d33f4fd54a1c59c8f06",
+          "mask_sha256": "5d1c8ac0c80f99ddaa9db64f0e1618f308e5c76c150285f0f49b7421438d209b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\036.png",
+          "source_background_sha256": "fcb2c7158aae8d4f01a9d3672378b926527b954de3597d33f4fd54a1c59c8f06"
+        },
+        {
+          "index": 37,
+          "image": "pose3/image/037.png",
+          "mask": "pose3/mask/037.png",
+          "image_sha256": "aea7940208bfa0e2518f881074d58e2597752b66811f599f658b866b5d295c0e",
+          "mask_sha256": "ad1a344400565eb76c4ada62c5c185af1013f5156be04962c4270139205f8b8c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\037.png",
+          "source_background_sha256": "aea7940208bfa0e2518f881074d58e2597752b66811f599f658b866b5d295c0e"
+        },
+        {
+          "index": 38,
+          "image": "pose3/image/038.png",
+          "mask": "pose3/mask/038.png",
+          "image_sha256": "e9183764cf78bb8e67117fe5b0409e6ab1f9aef1629dd7ddd049012bcbaad6ee",
+          "mask_sha256": "a6b4bd3bf3cfe3cf5b75941d12468617643473fa71e1c088d27d3622883515ed",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\038.png",
+          "source_background_sha256": "e9183764cf78bb8e67117fe5b0409e6ab1f9aef1629dd7ddd049012bcbaad6ee"
+        },
+        {
+          "index": 39,
+          "image": "pose3/image/039.png",
+          "mask": "pose3/mask/039.png",
+          "image_sha256": "02977ed30ea2fb473f060f7e6c85df93d673ff9a26ea6c4816e380710764c72f",
+          "mask_sha256": "776f36ea033e1839a924ded3fdf0c6c305664ff73ed40df150a7dc3541913610",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\monster\\pose3\\image\\039.png",
+          "source_background_sha256": "02977ed30ea2fb473f060f7e6c85df93d673ff9a26ea6c4816e380710764c72f"
+        }
+      ],
+      "dimensions": {
+        "1200x800 RGB": 40
+      }
+    }
+  ],
+  "dataset_version": "background_inputs_20260929",
+  "display_name": "Monster",
+  "source_blend": "E:\\PoseFusionExp\\synthetic\\monster\\tank.blend",
+  "source_prefix": "_re_monster",
+  "ground_truth": "gt/meshes/poseN.ply and gt/transforms.json; source geometry coordinates, no estimated alignment"
+}

@@ -1,0 +1,25 @@
+{
+    "device": "cuda",
+    "train_iters": 5000,
+    "objects_cnt": 2,
+    "batch_size": 512,
+    "obj_confs": {
+        "0_conf": "./confs/thin_structure_white_bkgd.conf",
+        "0_name": "nikon_pose3",
+        "1_conf": "./confs/womask.conf",
+        "1_name": "nikon_pose2"
+    },
+    "raw_translation": [
+      -0.0771961612636582,
+      -0.07064803929032283,
+      0.06910350568845755
+    ],
+    "raw_quaternion": [
+      0.10902933265612763,
+      -0.05841242504053745,
+      0.11909706037364295,
+      0.9851479500216198
+    ],
+    "standard_index" : 0,
+    "to_aligin_index": 1
+}

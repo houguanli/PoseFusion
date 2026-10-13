@@ -1,0 +1,50 @@
+[
+  {
+    "case_id": "bunny",
+    "source_blend": "E:\\PoseFusionExp\\synthetic\\bunny\\bunny_pose2.blend",
+    "poses": [
+      {
+        "pose": 1,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\bunny\\pose1\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 2,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\bunny\\pose2\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 3,
+        "frames_requested": 40,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\bunny\\pose3\\camera_data.json",
+        "source_GT_unchanged": true
+      }
+    ]
+  },
+  {
+    "case_id": "book",
+    "source_blend": "E:\\PoseFusionExp\\synthetic\\dadian\\dadian.blend",
+    "poses": [
+      {
+        "pose": 1,
+        "frames_requested": 45,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\book\\pose1\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 2,
+        "frames_requested": 45,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\book\\pose2\\camera_data.json",
+        "source_GT_unchanged": true
+      },
+      {
+        "pose": 3,
+        "frames_requested": 45,
+        "source_cameras": "F:\\HGL_WORK_PASSED\\posefusion\\2public\\dataset\\book\\pose3\\camera_data.json",
+        "source_GT_unchanged": true
+      }
+    ]
+  }
+]

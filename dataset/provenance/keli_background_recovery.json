@@ -1,0 +1,776 @@
+[
+  {
+    "pose": 1,
+    "camera_exactly_equal": true,
+    "frames": [
+      {
+        "index": 0,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\000.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.682140548212104
+      },
+      {
+        "index": 1,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\001.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.339780699483214
+      },
+      {
+        "index": 2,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\002.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.3986958646369
+      },
+      {
+        "index": 3,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\003.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.45824137366889
+      },
+      {
+        "index": 4,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\004.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.19010149170624
+      },
+      {
+        "index": 5,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\005.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.992042156606324
+      },
+      {
+        "index": 6,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\006.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.91125198381139
+      },
+      {
+        "index": 7,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\007.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.307650550043824
+      },
+      {
+        "index": 8,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\008.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.481153885856024
+      },
+      {
+        "index": 9,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\009.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.14913615205435
+      },
+      {
+        "index": 10,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\010.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.7116644787058
+      },
+      {
+        "index": 11,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\011.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.717942374892814
+      },
+      {
+        "index": 12,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\012.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.45637550399068
+      },
+      {
+        "index": 13,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\013.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.9748194793842
+      },
+      {
+        "index": 14,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\014.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.79803460910762
+      },
+      {
+        "index": 15,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\015.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.2026423821451
+      },
+      {
+        "index": 16,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\016.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.10925196904353
+      },
+      {
+        "index": 17,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\017.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.00006974401095
+      },
+      {
+        "index": 18,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\018.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.84633915457217
+      },
+      {
+        "index": 19,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\019.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.90832139157823
+      },
+      {
+        "index": 20,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\020.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.8645379231665
+      },
+      {
+        "index": 21,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\021.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.16972589712138
+      },
+      {
+        "index": 22,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\022.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.495565670701275
+      },
+      {
+        "index": 23,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\023.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.84541145283188
+      },
+      {
+        "index": 24,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\024.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.59557295378553
+      },
+      {
+        "index": 25,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\025.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.52659245960392
+      },
+      {
+        "index": 26,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\026.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.44259127438084
+      },
+      {
+        "index": 27,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\027.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.90658365986092
+      },
+      {
+        "index": 28,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\028.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.55243677087426
+      },
+      {
+        "index": 29,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\029.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.73574608689639
+      },
+      {
+        "index": 30,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\030.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.179144160757005
+      },
+      {
+        "index": 31,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\031.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.324531251768725
+      },
+      {
+        "index": 32,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\032.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.262998196253896
+      },
+      {
+        "index": 33,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\033.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.22079617246908
+      },
+      {
+        "index": 34,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\034.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.417429894186064
+      },
+      {
+        "index": 35,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\035.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.20057789664378
+      },
+      {
+        "index": 36,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\036.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.58962650337184
+      },
+      {
+        "index": 37,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\037.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.98321794423123
+      },
+      {
+        "index": 38,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\038.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.397479710359534
+      },
+      {
+        "index": 39,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\039.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.80040253378153
+      },
+      {
+        "index": 40,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\040.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.76573905693709
+      },
+      {
+        "index": 41,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\041.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.143137212584854
+      },
+      {
+        "index": 42,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\042.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.81665061594451
+      },
+      {
+        "index": 43,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\043.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.34703955635634
+      },
+      {
+        "index": 44,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\044.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.54871791361201
+      },
+      {
+        "index": 45,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\045.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.20554968121581
+      },
+      {
+        "index": 46,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\046.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.854787682793614
+      },
+      {
+        "index": 47,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\047.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.80053781543386
+      },
+      {
+        "index": 48,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\048.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.96791383528652
+      },
+      {
+        "index": 49,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\049.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.81351016288895
+      },
+      {
+        "index": 50,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\050.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.53312672179842
+      },
+      {
+        "index": 51,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\051.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.94542509290621
+      },
+      {
+        "index": 52,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\052.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.686001401002095
+      },
+      {
+        "index": 53,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\053.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.01452261985847
+      },
+      {
+        "index": 54,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose1\\images\\054.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.369126133000435
+      }
+    ]
+  },
+  {
+    "pose": 2,
+    "camera_exactly_equal": true,
+    "frames": [
+      {
+        "index": 0,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\000.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.658653667406696
+      },
+      {
+        "index": 1,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\001.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.89381438049071
+      },
+      {
+        "index": 2,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\002.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.47939228479066
+      },
+      {
+        "index": 3,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\003.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.70010628563971
+      },
+      {
+        "index": 4,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\004.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.22206815699709
+      },
+      {
+        "index": 5,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\005.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.86170533062091
+      },
+      {
+        "index": 6,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\006.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.83719592528693
+      },
+      {
+        "index": 7,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\007.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.0932343584907
+      },
+      {
+        "index": 8,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\008.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.16048085782758
+      },
+      {
+        "index": 9,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\009.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.351552394969055
+      },
+      {
+        "index": 10,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\010.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.857064970515744
+      },
+      {
+        "index": 11,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\011.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.00951203249223
+      },
+      {
+        "index": 12,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\012.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.00829351979818
+      },
+      {
+        "index": 13,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\013.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.95772716887801
+      },
+      {
+        "index": 14,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\014.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.92726533340149
+      },
+      {
+        "index": 15,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\015.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.85435631876761
+      },
+      {
+        "index": 16,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\016.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.403864866782804
+      },
+      {
+        "index": 17,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\017.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.04000771467124
+      },
+      {
+        "index": 18,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\018.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.07575531383798
+      },
+      {
+        "index": 19,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\019.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.54639664931039
+      },
+      {
+        "index": 20,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\020.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 49.34736008071038
+      },
+      {
+        "index": 21,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\021.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 50.71545679988431
+      },
+      {
+        "index": 22,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\022.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.661417597175394
+      },
+      {
+        "index": 23,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\023.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.099328176201396
+      },
+      {
+        "index": 24,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\024.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.63384182529451
+      },
+      {
+        "index": 25,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\025.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.7106600418792
+      },
+      {
+        "index": 26,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\026.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.749499070386136
+      },
+      {
+        "index": 27,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\027.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 50.202077636827696
+      },
+      {
+        "index": 28,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\028.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 49.20453925349687
+      },
+      {
+        "index": 29,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\029.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 48.827797445722645
+      },
+      {
+        "index": 30,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\030.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 50.53717502944929
+      },
+      {
+        "index": 31,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\031.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.90572117909973
+      },
+      {
+        "index": 32,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\032.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.212913207882096
+      },
+      {
+        "index": 33,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\033.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.80561258599111
+      },
+      {
+        "index": 34,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\034.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.29492738858831
+      },
+      {
+        "index": 35,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose2\\images\\035.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.64909184006038
+      }
+    ]
+  },
+  {
+    "pose": 3,
+    "camera_exactly_equal": true,
+    "frames": [
+      {
+        "index": 0,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\000.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.59749197546423
+      },
+      {
+        "index": 1,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\001.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.737006745699006
+      },
+      {
+        "index": 2,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\002.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.438464464075075
+      },
+      {
+        "index": 3,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\003.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.77282048100368
+      },
+      {
+        "index": 4,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\004.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.585820064031694
+      },
+      {
+        "index": 5,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\005.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.625155189531235
+      },
+      {
+        "index": 6,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\006.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.163774545904445
+      },
+      {
+        "index": 7,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\007.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.85200003558323
+      },
+      {
+        "index": 8,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\008.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.80107592169221
+      },
+      {
+        "index": 9,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\009.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.56490744851665
+      },
+      {
+        "index": 10,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\010.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.059828110892
+      },
+      {
+        "index": 11,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\011.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.47862141795305
+      },
+      {
+        "index": 12,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\012.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.32796827688737
+      },
+      {
+        "index": 13,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\013.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.54085373567657
+      },
+      {
+        "index": 14,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\014.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.57589021827456
+      },
+      {
+        "index": 15,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\015.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 50.05483695895981
+      },
+      {
+        "index": 16,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\016.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 49.812331321437796
+      },
+      {
+        "index": 17,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\017.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 49.579432557646165
+      },
+      {
+        "index": 18,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\018.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 49.29518564277732
+      },
+      {
+        "index": 19,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\019.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 50.26453075129741
+      },
+      {
+        "index": 20,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\020.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 50.18916314795945
+      },
+      {
+        "index": 21,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\021.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.6842434528264
+      },
+      {
+        "index": 22,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\022.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.332413541803255
+      },
+      {
+        "index": 23,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\023.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.06940633018224
+      },
+      {
+        "index": 24,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\024.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.743600109840884
+      },
+      {
+        "index": 25,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\025.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 50.48128572859804
+      },
+      {
+        "index": 26,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\026.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 49.37516137638233
+      },
+      {
+        "index": 27,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\027.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.76084683531208
+      },
+      {
+        "index": 28,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\028.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.89396471104647
+      },
+      {
+        "index": 29,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\029.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.77995139651671
+      },
+      {
+        "index": 30,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\030.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.3841830686232
+      },
+      {
+        "index": 31,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\031.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.233973215181024
+      },
+      {
+        "index": 32,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\032.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.32859463185636
+      },
+      {
+        "index": 33,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\033.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.17739529729339
+      },
+      {
+        "index": 34,
+        "source": "F:\\HGL_WORK_PASSED\\posefusion\\reg\\keli_full_wm\\keli_iphone_pose3\\images\\034.png",
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.59741168464737
+      }
+    ]
+  }
+]

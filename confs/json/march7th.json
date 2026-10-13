@@ -1,0 +1,25 @@
+{
+    "device": "cuda",
+    "train_iters": 2000,
+    "objects_cnt": 2,
+    "batch_size": 512,
+    "obj_confs": {
+        "0_conf": "./confs/thin_structure_white_bkgd.conf",
+        "0_name": "bunny_pose1",
+        "1_conf": "./confs/womask.conf",
+        "1_name": "bunny_pose2"
+    },
+    "raw_translation": [
+      0.2416590098834332,
+      -0.02324493170884405,
+      0.023850916562664706
+    ],
+    "raw_quaternion": [
+      -0.0653460813545661,
+      0.45081298895578814,
+      0.8902041676824001,
+      -0.005837677726290521
+    ],
+    "standard_index" : 0,
+    "to_aligin_index": 1
+}

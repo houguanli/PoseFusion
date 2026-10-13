@@ -1,0 +1,233 @@
+[
+  {
+    "case_id": "bunny",
+    "pose": 1,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\bunny\\_re_bunny_pose1_gt.ply",
+    "dataset_mesh": "bunny/gt/meshes/pose1.ply",
+    "sha256": "ca0fec38e3c2881f82921bbf1254b8c96978c98f55ce365458cc727f174bab66"
+  },
+  {
+    "case_id": "bunny",
+    "pose": 2,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\bunny\\_re_bunny_pose2_gt.ply",
+    "dataset_mesh": "bunny/gt/meshes/pose2.ply",
+    "sha256": "cd09e233ad9107d68b473fade67320f6f352701e502b66a88e3e991ebba2d03f"
+  },
+  {
+    "case_id": "bunny",
+    "pose": 3,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\bunny\\_re_bunny_pose3_gt.ply",
+    "dataset_mesh": "bunny/gt/meshes/pose3.ply",
+    "sha256": "5c33c7314463cec40bab51d0daa0d249411af2b1246f4380adc7b1e24e2f8090"
+  },
+  {
+    "case_id": "book",
+    "pose": 1,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\dadian\\_re_book_pose1_gt.ply",
+    "dataset_mesh": "book/gt/meshes/pose1.ply",
+    "sha256": "668ba49186b00efa25f59a98a668099b32691dee4bc7fe45b075383a53203b3e"
+  },
+  {
+    "case_id": "book",
+    "pose": 2,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\dadian\\_re_book_pose2_gt.ply",
+    "dataset_mesh": "book/gt/meshes/pose2.ply",
+    "sha256": "568362aea6c2e73e90510ad249b9c401c807e03f4b0089194f2f05c6b0fe1d0b"
+  },
+  {
+    "case_id": "book",
+    "pose": 3,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\dadian\\_re_book_pose3_gt.ply",
+    "dataset_mesh": "book/gt/meshes/pose3.ply",
+    "sha256": "faa9cac2fb0ceae9876c7b545f9069b08db7aaeca4593c17a04b826cd9fa208e"
+  },
+  {
+    "case_id": "nikon",
+    "pose": 1,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\nikon\\_re_nikon_pose1_gt.ply",
+    "dataset_mesh": "nikon/gt/meshes/pose1.ply",
+    "sha256": "82429ad61f2db2088dcfb7bf3c0507742b51593ec96015d30c0050f853f321a4"
+  },
+  {
+    "case_id": "nikon",
+    "pose": 2,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\nikon\\_re_nikon_pose2_gt.ply",
+    "dataset_mesh": "nikon/gt/meshes/pose2.ply",
+    "sha256": "cf122ffecb965eec2cde79e3aad376177969c045a0d2cc63460c9332ccd6d9fe"
+  },
+  {
+    "case_id": "nikon",
+    "pose": 3,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\nikon\\_re_nikon_pose3_gt.ply",
+    "dataset_mesh": "nikon/gt/meshes/pose3.ply",
+    "sha256": "aeeb1fdafe06cac9df3880e3a17e052285aadf8536684c1f4f4865602e96bcf5"
+  },
+  {
+    "case_id": "heel_slipper",
+    "pose": 1,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\shoes\\_re_shoe_pose1_gt.ply",
+    "dataset_mesh": "heel_slipper/gt/meshes/pose1.ply",
+    "sha256": "59ec48f64f36ae446750736d0ea7481351c605214fda3f73f5c42b78f3119151"
+  },
+  {
+    "case_id": "heel_slipper",
+    "pose": 2,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\shoes\\_re_shoe_pose2_gt.ply",
+    "dataset_mesh": "heel_slipper/gt/meshes/pose2.ply",
+    "sha256": "066837bcb3a18c8ed254c4357a0b695d52fe58c95759848f02fe474580e8e5f5"
+  },
+  {
+    "case_id": "heel_slipper",
+    "pose": 3,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\shoes\\_re_shoe_pose3_gt.ply",
+    "dataset_mesh": "heel_slipper/gt/meshes/pose3.ply",
+    "sha256": "7e78bb7367fecd4583c4f9d3286a00744c496eb3e1a597ccd6fbaee16c7854ef"
+  },
+  {
+    "case_id": "figurine_a",
+    "pose": 1,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\fufu\\_re_fufu_pose1_gt.ply",
+    "dataset_mesh": "figurine_a/gt/meshes/pose1.ply",
+    "sha256": "d98024e5d1598833b2dfc7fbff35824504d92b24d5b27a3d41de112431cd78ae"
+  },
+  {
+    "case_id": "figurine_a",
+    "pose": 2,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\fufu\\_re_fufu_pose2_gt.ply",
+    "dataset_mesh": "figurine_a/gt/meshes/pose2.ply",
+    "sha256": "f98bf2824e8b609fe33c7f221d3ed00ca02e5e876d10f60584d3620843324b52"
+  },
+  {
+    "case_id": "figurine_a",
+    "pose": 3,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\fufu\\_re_fufu_pose3_gt.ply",
+    "dataset_mesh": "figurine_a/gt/meshes/pose3.ply",
+    "sha256": "64e6ecf508cfa4ae146f5540d1a35d08735e4b5d2535e28cebbcba51719fa2e4"
+  },
+  {
+    "case_id": "tank",
+    "pose": 1,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\tank\\_re_tank_pose1_gt.ply",
+    "dataset_mesh": "tank/gt/meshes/pose1.ply",
+    "sha256": "ebf98e65d109a3754267e381bced086c704e9d6d9906abbaee405c72372cacb4"
+  },
+  {
+    "case_id": "tank",
+    "pose": 2,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\tank\\_re_tank_pose2_gt.ply",
+    "dataset_mesh": "tank/gt/meshes/pose2.ply",
+    "sha256": "00aeb165adc91ad54202142702bf7611ff874b4571580084d9d9fa85f2a09ec8"
+  },
+  {
+    "case_id": "tank",
+    "pose": 3,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\tank\\_re_tank_pose3_gt.ply",
+    "dataset_mesh": "tank/gt/meshes/pose3.ply",
+    "sha256": "942bcbbe19676a1555e06f937c8cb2ee7fde51e19d02e9a5a012dd5fa38c1c74"
+  },
+  {
+    "case_id": "monster",
+    "pose": 1,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\monster\\_re_monster_pose1_gt.ply",
+    "dataset_mesh": "monster/gt/meshes/pose1.ply",
+    "sha256": "78bb1f0e57a4172852d0613943fb3a6f4ceeaf93cc51986d9f4363107da2dafc"
+  },
+  {
+    "case_id": "monster",
+    "pose": 2,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\monster\\_re_monster_pose2_gt.ply",
+    "dataset_mesh": "monster/gt/meshes/pose2.ply",
+    "sha256": "18760547f7ca5704a748167d5e5710314856e1b3c2b3633526a93988d3aa5523"
+  },
+  {
+    "case_id": "monster",
+    "pose": 3,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\monster\\_re_monster_pose3_gt.ply",
+    "dataset_mesh": "monster/gt/meshes/pose3.ply",
+    "sha256": "80f1268e1981ebbde18351b3c248ac8909fc01efc7ef9b00afbc41365b6fb505"
+  },
+  {
+    "case_id": "figurine_b",
+    "pose": 1,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\xiaomai\\_re_xiaomai_pose1_gt.ply",
+    "dataset_mesh": "figurine_b/gt/meshes/pose1.ply",
+    "sha256": "809d4f1465b2c8b9c3f2d26aee3658fcdbe5420e3602b9fadb61b7f8eaf98489"
+  },
+  {
+    "case_id": "figurine_b",
+    "pose": 2,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\xiaomai\\_re_xiaomai_pose2_gt.ply",
+    "dataset_mesh": "figurine_b/gt/meshes/pose2.ply",
+    "sha256": "2dd7f32634c9f68abc24c28ded1559aae79abbb2730c94461578ba5b91fded41"
+  },
+  {
+    "case_id": "figurine_b",
+    "pose": 3,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\xiaomai\\_re_xiaomai_pose3_gt.ply",
+    "dataset_mesh": "figurine_b/gt/meshes/pose3.ply",
+    "sha256": "1e3881c7edfad8f2f23b886b55a93a06fce987ec2baeeeceb54ffd84f43b7145"
+  },
+  {
+    "case_id": "rubik",
+    "pose": 1,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\rubik\\_re_rubic_pose1_gt.ply",
+    "dataset_mesh": "rubik/gt/meshes/pose1.ply",
+    "sha256": "2e271192cf7c0035ed113cc7e6fa2161a597247ff029e7e3fda7df5d212f74c9"
+  },
+  {
+    "case_id": "rubik",
+    "pose": 2,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\rubik\\_re_rubic_pose2_gt.ply",
+    "dataset_mesh": "rubik/gt/meshes/pose2.ply",
+    "sha256": "2cd2bd5807cbb7edc469a3bf26ae97fc1e0bc7123bb4b544bf3de416702bfec0"
+  },
+  {
+    "case_id": "rubik",
+    "pose": 3,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\rubik\\_re_rubic_pose3_gt.ply",
+    "dataset_mesh": "rubik/gt/meshes/pose3.ply",
+    "sha256": "3d0b878db76e61cd04ceb96913c6defe82a5a83c9e5797ac1ed97c21710fdff5"
+  },
+  {
+    "case_id": "lego",
+    "pose": 1,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\lego\\_re_lego_pose1_gt.ply",
+    "dataset_mesh": "lego/gt/meshes/pose1.ply",
+    "sha256": "a39fe1b6cbaadc758fe4453bd09b7baa811136e1d363ed8d117e90b8d1d78136"
+  },
+  {
+    "case_id": "lego",
+    "pose": 2,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\lego\\_re_lego_pose2_gt.ply",
+    "dataset_mesh": "lego/gt/meshes/pose2.ply",
+    "sha256": "3b3355ad524de8cab37cffb7aa702590f3e327bfabe5dac193d0a1992faebb88"
+  },
+  {
+    "case_id": "lego",
+    "pose": 3,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\lego\\_re_lego_pose3_gt.ply",
+    "dataset_mesh": "lego/gt/meshes/pose3.ply",
+    "sha256": "3746e3fd338fe27a8548433a34dc6bdc400771f0b268d0b6f5f297ca3a85e22f"
+  },
+  {
+    "case_id": "seal",
+    "pose": 1,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\seal_re_20260928\\_re_seal_pose1_gt.ply",
+    "dataset_mesh": "seal/gt/meshes/pose1.ply",
+    "sha256": "e0a7d886818361a7c0232ff9bb46b193c1ff802abaf9db139dc061f2ec6aa28f"
+  },
+  {
+    "case_id": "seal",
+    "pose": 2,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\seal_re_20260928\\_re_seal_pose2_gt.ply",
+    "dataset_mesh": "seal/gt/meshes/pose2.ply",
+    "sha256": "99ae8a8fe463b5f7ac04ae88543a0a924fca1656e941036e00cf7f4a8d8c3078"
+  },
+  {
+    "case_id": "seal",
+    "pose": 3,
+    "source_GT_mesh": "E:\\PoseFusionExp\\synthetic\\seal_re_20260928\\_re_seal_pose3_gt.ply",
+    "dataset_mesh": "seal/gt/meshes/pose3.ply",
+    "sha256": "50ebf4462f8a39ec7b7d65aa3b809ecc8b7d77040607be734f934b613df6d74e"
+  }
+]

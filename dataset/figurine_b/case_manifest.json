@@ -1,0 +1,1129 @@
+{
+  "case_id": "figurine_b",
+  "paper_label": "Figurine B",
+  "domain": "synthetic",
+  "status": "complete_background",
+  "poses": [
+    {
+      "pose": 1,
+      "image_count": 40,
+      "background_image_count": 40,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image",
+      "camera_sha256": "d28e748d139e55cfccba390283a694f88c6383b8d179a7c53173e6a0050a9a9e",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose1/image/000.png",
+          "mask": "pose1/mask/000.png",
+          "image_sha256": "03fe6a7cc38ccbe1be99bb9909de259766981e589897913fffd4dd600976780b",
+          "mask_sha256": "eb4d631139bea00fcc66f6362032ae1852c5d7d6c21e993fc6c55f826a3b1dd7",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\000.png",
+          "source_background_sha256": "03fe6a7cc38ccbe1be99bb9909de259766981e589897913fffd4dd600976780b"
+        },
+        {
+          "index": 1,
+          "image": "pose1/image/001.png",
+          "mask": "pose1/mask/001.png",
+          "image_sha256": "0b842d5ec4102f69160713758c1fd29223a06a1fac455731c386d678d29eac35",
+          "mask_sha256": "6272c1748b1a01314fb0746c4d71d592cf89d1810d4e660912726bcbbb2753ef",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\001.png",
+          "source_background_sha256": "0b842d5ec4102f69160713758c1fd29223a06a1fac455731c386d678d29eac35"
+        },
+        {
+          "index": 2,
+          "image": "pose1/image/002.png",
+          "mask": "pose1/mask/002.png",
+          "image_sha256": "0f44e476af510a9ca26c184206eac4d669a6e67dc5b08c4faa34a9261e250550",
+          "mask_sha256": "ed50364123d15095447d5f666730313ba0c2a6f359072054596d03e88f7e17fc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\002.png",
+          "source_background_sha256": "0f44e476af510a9ca26c184206eac4d669a6e67dc5b08c4faa34a9261e250550"
+        },
+        {
+          "index": 3,
+          "image": "pose1/image/003.png",
+          "mask": "pose1/mask/003.png",
+          "image_sha256": "3e584075036d7a2f83a3da823895d0a7b7bdc5e36effcc70e70638fe06e9ac60",
+          "mask_sha256": "dfb5975d6a9deba84c81d4f19256a29b6c1df86d89da09b969be5ae195e032bd",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\003.png",
+          "source_background_sha256": "3e584075036d7a2f83a3da823895d0a7b7bdc5e36effcc70e70638fe06e9ac60"
+        },
+        {
+          "index": 4,
+          "image": "pose1/image/004.png",
+          "mask": "pose1/mask/004.png",
+          "image_sha256": "309f941e381f03076863ee5fc374752cc80d72c8cd873900da36f62fe6f5d5b8",
+          "mask_sha256": "a7582b05d37e5e69f124dda3455c820ebeb013435be0518ff92ca5d08c6e1776",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\004.png",
+          "source_background_sha256": "309f941e381f03076863ee5fc374752cc80d72c8cd873900da36f62fe6f5d5b8"
+        },
+        {
+          "index": 5,
+          "image": "pose1/image/005.png",
+          "mask": "pose1/mask/005.png",
+          "image_sha256": "877d9a082e6fd9b3df75cd5bddabb91eb881bfc27917641bf4e39bf6936fda91",
+          "mask_sha256": "956b7676a2178b2ee020abeb45ca34716e6f70d6805d4b5c6f61f5d42094a748",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\005.png",
+          "source_background_sha256": "877d9a082e6fd9b3df75cd5bddabb91eb881bfc27917641bf4e39bf6936fda91"
+        },
+        {
+          "index": 6,
+          "image": "pose1/image/006.png",
+          "mask": "pose1/mask/006.png",
+          "image_sha256": "117b6c1266f2403304ab19b179edae6962c0c5d4b3b158c5e35e871b1d07be2c",
+          "mask_sha256": "7bfb2f7785b6db81f4b642780ff35040b635e0c217221fcda518bf1ee84d81f4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\006.png",
+          "source_background_sha256": "117b6c1266f2403304ab19b179edae6962c0c5d4b3b158c5e35e871b1d07be2c"
+        },
+        {
+          "index": 7,
+          "image": "pose1/image/007.png",
+          "mask": "pose1/mask/007.png",
+          "image_sha256": "70160b32cb02b2ae4e1ba9b4cb8ca2d8ea25d6369be7c6aa6759dcda80dbca43",
+          "mask_sha256": "ff1e879a09eacb33d6956f1611414dfc0a92900042699c635074356cdf5211f1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\007.png",
+          "source_background_sha256": "70160b32cb02b2ae4e1ba9b4cb8ca2d8ea25d6369be7c6aa6759dcda80dbca43"
+        },
+        {
+          "index": 8,
+          "image": "pose1/image/008.png",
+          "mask": "pose1/mask/008.png",
+          "image_sha256": "3d5e82a8c0ef3eb08b9c15840eb8bee6350ad4fa9fa782ee262e8d932e6b4b94",
+          "mask_sha256": "ac9a598497587a8b016014eb4e3dab8ed73fae1a4e3a203d4c01036b0997e21a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\008.png",
+          "source_background_sha256": "3d5e82a8c0ef3eb08b9c15840eb8bee6350ad4fa9fa782ee262e8d932e6b4b94"
+        },
+        {
+          "index": 9,
+          "image": "pose1/image/009.png",
+          "mask": "pose1/mask/009.png",
+          "image_sha256": "cfe7d6b9ef83d154f4e9c15f7c86d91e1491d01e613cdb8505b6264aba3c7d01",
+          "mask_sha256": "1ec4f1d92a377fbbfc8b119d7d585cddd7c8a284a2afae952542b377607c3323",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\009.png",
+          "source_background_sha256": "cfe7d6b9ef83d154f4e9c15f7c86d91e1491d01e613cdb8505b6264aba3c7d01"
+        },
+        {
+          "index": 10,
+          "image": "pose1/image/010.png",
+          "mask": "pose1/mask/010.png",
+          "image_sha256": "55d02f2ea2034c95579fdb33836c2279b39aa16aaccd759609992d605ad1bcc4",
+          "mask_sha256": "cf597c16ac42a076a962701dc84ed173c45c925d2e2e4f694e197735fd2743b9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\010.png",
+          "source_background_sha256": "55d02f2ea2034c95579fdb33836c2279b39aa16aaccd759609992d605ad1bcc4"
+        },
+        {
+          "index": 11,
+          "image": "pose1/image/011.png",
+          "mask": "pose1/mask/011.png",
+          "image_sha256": "11d3636c70ca17930872cf1228264ddbb594058a3c28ce1e42010a495f193218",
+          "mask_sha256": "1c00c3eb7d7b445bc5cfda99888e35b5c3da47875d8e7b99611b6878c20a8f75",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\011.png",
+          "source_background_sha256": "11d3636c70ca17930872cf1228264ddbb594058a3c28ce1e42010a495f193218"
+        },
+        {
+          "index": 12,
+          "image": "pose1/image/012.png",
+          "mask": "pose1/mask/012.png",
+          "image_sha256": "e71faad476ee4b3780052fba4c886378e77a4fb450cf92a22e91219f9ed253ce",
+          "mask_sha256": "ae99670d3825c939c28962232a5b4dca8f548a3f02a2a18ef3db8600d59161e7",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\012.png",
+          "source_background_sha256": "e71faad476ee4b3780052fba4c886378e77a4fb450cf92a22e91219f9ed253ce"
+        },
+        {
+          "index": 13,
+          "image": "pose1/image/013.png",
+          "mask": "pose1/mask/013.png",
+          "image_sha256": "8ac936e041b3a1f8a92d3a410e958c534c92febd9361ea82ca5792c14d3c116b",
+          "mask_sha256": "61041c284abe282485164efa01f8dce30c0cc75d7f359fa23280bca12ceb0b0c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\013.png",
+          "source_background_sha256": "8ac936e041b3a1f8a92d3a410e958c534c92febd9361ea82ca5792c14d3c116b"
+        },
+        {
+          "index": 14,
+          "image": "pose1/image/014.png",
+          "mask": "pose1/mask/014.png",
+          "image_sha256": "64467ab0eba9bfb2abbff373292294057066b7fd852b7d8aebe81560a13d1c23",
+          "mask_sha256": "0a82537398793e9bebc04fee679efe4eedc7728da3e3e5611904abdfe8c46827",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\014.png",
+          "source_background_sha256": "64467ab0eba9bfb2abbff373292294057066b7fd852b7d8aebe81560a13d1c23"
+        },
+        {
+          "index": 15,
+          "image": "pose1/image/015.png",
+          "mask": "pose1/mask/015.png",
+          "image_sha256": "feffcf7902e4a93e98f3a8fd55669a53a822a41d972de9962404037388cf8e07",
+          "mask_sha256": "b47d05b104771f684eafdfec32cb103e5076005c4259789ee86e6559e3846ffb",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\015.png",
+          "source_background_sha256": "feffcf7902e4a93e98f3a8fd55669a53a822a41d972de9962404037388cf8e07"
+        },
+        {
+          "index": 16,
+          "image": "pose1/image/016.png",
+          "mask": "pose1/mask/016.png",
+          "image_sha256": "b85c0c91e76d3a352c5a79facedbd549c2d41ac1362e2ca520d64dd9dde9da88",
+          "mask_sha256": "f44930fef26a41cf49b8122232235bc88d24147e3ec21789ff9574288d4a561e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\016.png",
+          "source_background_sha256": "b85c0c91e76d3a352c5a79facedbd549c2d41ac1362e2ca520d64dd9dde9da88"
+        },
+        {
+          "index": 17,
+          "image": "pose1/image/017.png",
+          "mask": "pose1/mask/017.png",
+          "image_sha256": "83254bcfc1f359e65f8dec87351d8d7027c0ecb4e895db8d8971fb0faf788183",
+          "mask_sha256": "a159a396e9737ed229421fa2eef2975e5ac19e6b9d8dd7b10b7168dc0455da2c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\017.png",
+          "source_background_sha256": "83254bcfc1f359e65f8dec87351d8d7027c0ecb4e895db8d8971fb0faf788183"
+        },
+        {
+          "index": 18,
+          "image": "pose1/image/018.png",
+          "mask": "pose1/mask/018.png",
+          "image_sha256": "e1107a8484723d9d2379f88c397eb25aebd29d7247375920b762425b11eded4b",
+          "mask_sha256": "38c23fa9cf9220b48792b0364d2e1eaeec4de66c1f3035ceb8144a01b7310f8f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\018.png",
+          "source_background_sha256": "e1107a8484723d9d2379f88c397eb25aebd29d7247375920b762425b11eded4b"
+        },
+        {
+          "index": 19,
+          "image": "pose1/image/019.png",
+          "mask": "pose1/mask/019.png",
+          "image_sha256": "e37cf30d0e20141c98f5900117feb384b8b956fff50fab54b7d7abc2310f0efe",
+          "mask_sha256": "222da211afaa54c65f4c8e1ef94cc30d7309af1b31adb2b0b4f1e2a2a912aa84",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\019.png",
+          "source_background_sha256": "e37cf30d0e20141c98f5900117feb384b8b956fff50fab54b7d7abc2310f0efe"
+        },
+        {
+          "index": 20,
+          "image": "pose1/image/020.png",
+          "mask": "pose1/mask/020.png",
+          "image_sha256": "482ffea73005d5a2c06d3f77e1776fe4213dd383bffb5451c97a70ae7cf4b868",
+          "mask_sha256": "bc67dccedc3b335d4e5ff7a1542dd421f407141782185bc4d7b4558160a0eda1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\020.png",
+          "source_background_sha256": "482ffea73005d5a2c06d3f77e1776fe4213dd383bffb5451c97a70ae7cf4b868"
+        },
+        {
+          "index": 21,
+          "image": "pose1/image/021.png",
+          "mask": "pose1/mask/021.png",
+          "image_sha256": "60196ee53fb6ec03b21b26400d35de2a83b95eaf566f043b40d68784f4a02995",
+          "mask_sha256": "adfba136a3ab459ef99ceb833495f983d38758c7d103932f70f7c220cc7852b4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\021.png",
+          "source_background_sha256": "60196ee53fb6ec03b21b26400d35de2a83b95eaf566f043b40d68784f4a02995"
+        },
+        {
+          "index": 22,
+          "image": "pose1/image/022.png",
+          "mask": "pose1/mask/022.png",
+          "image_sha256": "85270a82c2dc5c6142f77f4cb0d75f5b1a54250f9c06b333d7a23968ed3d3024",
+          "mask_sha256": "e5392b6fb70741da7c8ad21d4578bddcfe92cf00013946f88862a007fe47c04b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\022.png",
+          "source_background_sha256": "85270a82c2dc5c6142f77f4cb0d75f5b1a54250f9c06b333d7a23968ed3d3024"
+        },
+        {
+          "index": 23,
+          "image": "pose1/image/023.png",
+          "mask": "pose1/mask/023.png",
+          "image_sha256": "5fdb99913647758769bc06a647faa2502e5ac8069e8d88e602799a57e9e8cc68",
+          "mask_sha256": "e3e19a7209bcfe01cfcbadd62bb8595278cc54d15f8976feff94a46041885716",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\023.png",
+          "source_background_sha256": "5fdb99913647758769bc06a647faa2502e5ac8069e8d88e602799a57e9e8cc68"
+        },
+        {
+          "index": 24,
+          "image": "pose1/image/024.png",
+          "mask": "pose1/mask/024.png",
+          "image_sha256": "d1e95b58756c0d16b1e96f5bde6875a36d3e6240773907a361712e25672fa791",
+          "mask_sha256": "4ba0272a09d33df41cedd5916d24aeaa988b212a296a4d54239977f86321c0ab",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\024.png",
+          "source_background_sha256": "d1e95b58756c0d16b1e96f5bde6875a36d3e6240773907a361712e25672fa791"
+        },
+        {
+          "index": 25,
+          "image": "pose1/image/025.png",
+          "mask": "pose1/mask/025.png",
+          "image_sha256": "56cf0c3e1192d2d7cb62499632afac53d981e9efc9f2e4c17986319da30ff75e",
+          "mask_sha256": "8a9dc2d330102537734c1de193765564bb01162e64cd3f541506ad44e218841f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\025.png",
+          "source_background_sha256": "56cf0c3e1192d2d7cb62499632afac53d981e9efc9f2e4c17986319da30ff75e"
+        },
+        {
+          "index": 26,
+          "image": "pose1/image/026.png",
+          "mask": "pose1/mask/026.png",
+          "image_sha256": "8e05057a1a8ae0cdf75e03666265456f51c4b6f0abde938becbb447ef8f5ea11",
+          "mask_sha256": "eb8de97c00e4563da7f87dd336232d3edff2e031989be2e3017495cc91e6a93d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\026.png",
+          "source_background_sha256": "8e05057a1a8ae0cdf75e03666265456f51c4b6f0abde938becbb447ef8f5ea11"
+        },
+        {
+          "index": 27,
+          "image": "pose1/image/027.png",
+          "mask": "pose1/mask/027.png",
+          "image_sha256": "57c340172d699fd477e338d4db7c6ce4cfa396e705417d57e0de8086e5827ed5",
+          "mask_sha256": "342c1c2296fd2e67bc677b6089e97bdb75068f6155ba937d30c6d9335352c715",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\027.png",
+          "source_background_sha256": "57c340172d699fd477e338d4db7c6ce4cfa396e705417d57e0de8086e5827ed5"
+        },
+        {
+          "index": 28,
+          "image": "pose1/image/028.png",
+          "mask": "pose1/mask/028.png",
+          "image_sha256": "d33fe81c2c62f906c4784fda822f7f2b7a5fc86c17dfbf828959734b382ffdbc",
+          "mask_sha256": "da4223ab52c5648cd4a0f6a7d5d9a1acf02d72cdf92edd2de2259d0f490eb013",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\028.png",
+          "source_background_sha256": "d33fe81c2c62f906c4784fda822f7f2b7a5fc86c17dfbf828959734b382ffdbc"
+        },
+        {
+          "index": 29,
+          "image": "pose1/image/029.png",
+          "mask": "pose1/mask/029.png",
+          "image_sha256": "a0f90605b0abf3ffa6cc4054133df5da63f36d0149b5372951c09b56b7067e93",
+          "mask_sha256": "652578abf7625ad66d6a47c1344da15660bf60e0faffc157712c65a28407cd1d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\029.png",
+          "source_background_sha256": "a0f90605b0abf3ffa6cc4054133df5da63f36d0149b5372951c09b56b7067e93"
+        },
+        {
+          "index": 30,
+          "image": "pose1/image/030.png",
+          "mask": "pose1/mask/030.png",
+          "image_sha256": "52792cb88883815011687ffa10c03afcbfff74a29902d5a600f90b5bb98da7d8",
+          "mask_sha256": "d00d9f3f3b2c71e7ba0c08d0ef27694380899a7be084805e14823fada0514b90",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\030.png",
+          "source_background_sha256": "52792cb88883815011687ffa10c03afcbfff74a29902d5a600f90b5bb98da7d8"
+        },
+        {
+          "index": 31,
+          "image": "pose1/image/031.png",
+          "mask": "pose1/mask/031.png",
+          "image_sha256": "eab2a24456ed6a524effebbf62d2c5e173332abd1ab55a1cf04481f98b158f4c",
+          "mask_sha256": "2067eb7211136db13203ea194e763f56f0a193ef168cf305cd546f2677dde635",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\031.png",
+          "source_background_sha256": "eab2a24456ed6a524effebbf62d2c5e173332abd1ab55a1cf04481f98b158f4c"
+        },
+        {
+          "index": 32,
+          "image": "pose1/image/032.png",
+          "mask": "pose1/mask/032.png",
+          "image_sha256": "ac87f5c710afee80e3fcd78bb54c7e5689a1a3a9fd027780d725f795e01e3a0b",
+          "mask_sha256": "a7db3e51372221896aa1f302095c6578fd5e7e793c8c248637f0b4922b6242f7",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\032.png",
+          "source_background_sha256": "ac87f5c710afee80e3fcd78bb54c7e5689a1a3a9fd027780d725f795e01e3a0b"
+        },
+        {
+          "index": 33,
+          "image": "pose1/image/033.png",
+          "mask": "pose1/mask/033.png",
+          "image_sha256": "7c39840a30e1ab76997e6614c3d9a3c0eeafc96409008e58d85bf921fec5002d",
+          "mask_sha256": "354920dc537a9bfa6d468ffb038917d002732fed413617f37d8d799939b63266",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\033.png",
+          "source_background_sha256": "7c39840a30e1ab76997e6614c3d9a3c0eeafc96409008e58d85bf921fec5002d"
+        },
+        {
+          "index": 34,
+          "image": "pose1/image/034.png",
+          "mask": "pose1/mask/034.png",
+          "image_sha256": "09ebc950f763503b2256d9cae497ff6c4d204f57ddfe73a9b0c3eebf0da0ee45",
+          "mask_sha256": "b6408ae8d6b33ab3553696bffd116d3f9692aa3a44e85c9322d054ae219b5782",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\034.png",
+          "source_background_sha256": "09ebc950f763503b2256d9cae497ff6c4d204f57ddfe73a9b0c3eebf0da0ee45"
+        },
+        {
+          "index": 35,
+          "image": "pose1/image/035.png",
+          "mask": "pose1/mask/035.png",
+          "image_sha256": "3d0314f7bc41b3975061339ae789df84c1c0cd781375911cc8e5de2f30cb44dd",
+          "mask_sha256": "d3af815fb4170e7b336e5842588fb62e575594952eb5fe54a0dbb3b93cc5640b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\035.png",
+          "source_background_sha256": "3d0314f7bc41b3975061339ae789df84c1c0cd781375911cc8e5de2f30cb44dd"
+        },
+        {
+          "index": 36,
+          "image": "pose1/image/036.png",
+          "mask": "pose1/mask/036.png",
+          "image_sha256": "a6970c52443edfdbc9d7df4db6cfc29a89738516b93fbd38ee3490ba498b855d",
+          "mask_sha256": "f9cef3294735feabc214e42507389a445038ff43c778438f0aefc2ed0e058763",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\036.png",
+          "source_background_sha256": "a6970c52443edfdbc9d7df4db6cfc29a89738516b93fbd38ee3490ba498b855d"
+        },
+        {
+          "index": 37,
+          "image": "pose1/image/037.png",
+          "mask": "pose1/mask/037.png",
+          "image_sha256": "dc9f72e6e2906ab0aa60861a325f3b5c05a37779caec80581cbed0038738bf8d",
+          "mask_sha256": "f1a16798ff4c2b5bc2632c598045832c745e0d7731333b5cfc61f2386c0e0a98",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\037.png",
+          "source_background_sha256": "dc9f72e6e2906ab0aa60861a325f3b5c05a37779caec80581cbed0038738bf8d"
+        },
+        {
+          "index": 38,
+          "image": "pose1/image/038.png",
+          "mask": "pose1/mask/038.png",
+          "image_sha256": "987312666da565ca9e0085bf6b9fb864cf4d8c53fd8c21a1be59477f1caac62b",
+          "mask_sha256": "f4dc23da7902016af556d28cd5c8ddb399c7f96302a2c798899ccd1fcf9ee8ac",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\038.png",
+          "source_background_sha256": "987312666da565ca9e0085bf6b9fb864cf4d8c53fd8c21a1be59477f1caac62b"
+        },
+        {
+          "index": 39,
+          "image": "pose1/image/039.png",
+          "mask": "pose1/mask/039.png",
+          "image_sha256": "1c844105720cf58faae9f55d3ccd87d60f9612efd2a60935178732ca9ea31291",
+          "mask_sha256": "b1356348c2cc38809154baa622b53ff38d0af6b932334f1e1429f24a43794760",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose1\\image\\039.png",
+          "source_background_sha256": "1c844105720cf58faae9f55d3ccd87d60f9612efd2a60935178732ca9ea31291"
+        }
+      ],
+      "dimensions": {
+        "800x800 RGB": 40
+      }
+    },
+    {
+      "pose": 2,
+      "image_count": 40,
+      "background_image_count": 40,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image",
+      "camera_sha256": "876f79d41506c840b6f802117b65e18211b036ed0dd1db10d5195e1923893f2b",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose2/image/000.png",
+          "mask": "pose2/mask/000.png",
+          "image_sha256": "6eda0d3069ba1d44e73b56d512d4e407633dd051c7ad07069bbd62bf124b0879",
+          "mask_sha256": "357655f9b4299415f375bbae89ea4c583ee5c72e50babd0f5adb407fe52d56d5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\000.png",
+          "source_background_sha256": "6eda0d3069ba1d44e73b56d512d4e407633dd051c7ad07069bbd62bf124b0879"
+        },
+        {
+          "index": 1,
+          "image": "pose2/image/001.png",
+          "mask": "pose2/mask/001.png",
+          "image_sha256": "fca99d2ff159f2aca5220cd720b10559626192086d4252fd563b1ffcd5c5f05a",
+          "mask_sha256": "5ef6f919c08346458b42d6cee6781d26d30984f613fdb5f454a7b4d7b0a74672",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\001.png",
+          "source_background_sha256": "fca99d2ff159f2aca5220cd720b10559626192086d4252fd563b1ffcd5c5f05a"
+        },
+        {
+          "index": 2,
+          "image": "pose2/image/002.png",
+          "mask": "pose2/mask/002.png",
+          "image_sha256": "a7875f00d85801f4b6a86fb661d26bb0111baf4e039f157c447159899eb31ee4",
+          "mask_sha256": "6e2f6892620837f49057e60298d449ff808d8a2a66b4e8017588c6f7292ddd63",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\002.png",
+          "source_background_sha256": "a7875f00d85801f4b6a86fb661d26bb0111baf4e039f157c447159899eb31ee4"
+        },
+        {
+          "index": 3,
+          "image": "pose2/image/003.png",
+          "mask": "pose2/mask/003.png",
+          "image_sha256": "d6ba762f26bb238ff5a85d0dac4e640f8eabe83dd9540447652d85b670a56492",
+          "mask_sha256": "ecdb838f174796a12f7a02af9ff920c937a462cf39f6ea00825de9567adc780f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\003.png",
+          "source_background_sha256": "d6ba762f26bb238ff5a85d0dac4e640f8eabe83dd9540447652d85b670a56492"
+        },
+        {
+          "index": 4,
+          "image": "pose2/image/004.png",
+          "mask": "pose2/mask/004.png",
+          "image_sha256": "4f11121432f794ce1a6b1a3fde43c9471b87aab787f4edafa3f6876436675892",
+          "mask_sha256": "f71da7b69e21a7c0acfb1418dfbbd0e2b1ff4660558de5af71207605f77f0a26",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\004.png",
+          "source_background_sha256": "4f11121432f794ce1a6b1a3fde43c9471b87aab787f4edafa3f6876436675892"
+        },
+        {
+          "index": 5,
+          "image": "pose2/image/005.png",
+          "mask": "pose2/mask/005.png",
+          "image_sha256": "7eade024cc55b93112c18042402ebc6364b57748386fa5940336871fab530aac",
+          "mask_sha256": "dbc34d9c77dca0d7bf9edab36c40a3835f0d171e52daf9529b1083d349000416",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\005.png",
+          "source_background_sha256": "7eade024cc55b93112c18042402ebc6364b57748386fa5940336871fab530aac"
+        },
+        {
+          "index": 6,
+          "image": "pose2/image/006.png",
+          "mask": "pose2/mask/006.png",
+          "image_sha256": "56592fdac31bccba30b7af275d41a094748502324a938c5c3e50eef2396be55b",
+          "mask_sha256": "9217ba86976728a9fcd60900ddd7fddae222447f8bea138b424244ae321a6f51",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\006.png",
+          "source_background_sha256": "56592fdac31bccba30b7af275d41a094748502324a938c5c3e50eef2396be55b"
+        },
+        {
+          "index": 7,
+          "image": "pose2/image/007.png",
+          "mask": "pose2/mask/007.png",
+          "image_sha256": "04a6be3ac1649495229808b9855a7267ca06a728dd0cc4d8a5a7581b66c718ec",
+          "mask_sha256": "7fdc993a9685369c1eac2e18d73a3ac99e3bc2213d39dd03d4081dbdd053d274",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\007.png",
+          "source_background_sha256": "04a6be3ac1649495229808b9855a7267ca06a728dd0cc4d8a5a7581b66c718ec"
+        },
+        {
+          "index": 8,
+          "image": "pose2/image/008.png",
+          "mask": "pose2/mask/008.png",
+          "image_sha256": "e80f9511ee0c12b2ac2867cce9bd83247d1316438a05dbf4dd7192b78fe1272e",
+          "mask_sha256": "6fa4ab0cc1dfafcb28d8553402dc4e62701269c1afc30fc5e03a77339dc2b780",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\008.png",
+          "source_background_sha256": "e80f9511ee0c12b2ac2867cce9bd83247d1316438a05dbf4dd7192b78fe1272e"
+        },
+        {
+          "index": 9,
+          "image": "pose2/image/009.png",
+          "mask": "pose2/mask/009.png",
+          "image_sha256": "b0c8f32808d05db92bbf05894ff5a348456345bae3b4ced81550d7ce1a480272",
+          "mask_sha256": "1d5f4d23a9627c33fca79fe6d70e1483cefa03e5062837a26eb8ea3d1b8aaf10",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\009.png",
+          "source_background_sha256": "b0c8f32808d05db92bbf05894ff5a348456345bae3b4ced81550d7ce1a480272"
+        },
+        {
+          "index": 10,
+          "image": "pose2/image/010.png",
+          "mask": "pose2/mask/010.png",
+          "image_sha256": "8a78f4df72215d6ef38723220d219c482b2742151c100e5c085aef12a0cb8962",
+          "mask_sha256": "9176fea3a2a2b5b19d42bb9f5fd8308af2e691c11f49e741412ae5513d7535ef",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\010.png",
+          "source_background_sha256": "8a78f4df72215d6ef38723220d219c482b2742151c100e5c085aef12a0cb8962"
+        },
+        {
+          "index": 11,
+          "image": "pose2/image/011.png",
+          "mask": "pose2/mask/011.png",
+          "image_sha256": "7fa66207c1c4fb36a86b8038997c02b1d0d49730b6603638522705c7a1f36b5d",
+          "mask_sha256": "5078f41e3bcb6c0481d22de4642a1e21f6ea5b685973dad7562764adfdb805f4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\011.png",
+          "source_background_sha256": "7fa66207c1c4fb36a86b8038997c02b1d0d49730b6603638522705c7a1f36b5d"
+        },
+        {
+          "index": 12,
+          "image": "pose2/image/012.png",
+          "mask": "pose2/mask/012.png",
+          "image_sha256": "ab4eca9ce95a1fef11b7bb7e2007dc3c97dbe331fd08995621e0af7b4e864f87",
+          "mask_sha256": "8d8f233d12cf3f5a1ba464c90a2677e1f5a232ea16a3159931ad83048a02aa0d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\012.png",
+          "source_background_sha256": "ab4eca9ce95a1fef11b7bb7e2007dc3c97dbe331fd08995621e0af7b4e864f87"
+        },
+        {
+          "index": 13,
+          "image": "pose2/image/013.png",
+          "mask": "pose2/mask/013.png",
+          "image_sha256": "62e3beca68c05231250bc182dd7e1e894c14828a64f46f963e85f5371b6abaae",
+          "mask_sha256": "38dc1430a2104f40f0843d65808d47ddaaa17e2be6e4eb122d7496bdd85cd689",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\013.png",
+          "source_background_sha256": "62e3beca68c05231250bc182dd7e1e894c14828a64f46f963e85f5371b6abaae"
+        },
+        {
+          "index": 14,
+          "image": "pose2/image/014.png",
+          "mask": "pose2/mask/014.png",
+          "image_sha256": "448e41e1448bd8cbcd779e1f9a5ecd3235b2042a806fe4b17609849817dbf0e5",
+          "mask_sha256": "7bd0bc89db3febfb1f3b6d11c2d0ab10bd3e0786c986350f2cb7204438feb3db",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\014.png",
+          "source_background_sha256": "448e41e1448bd8cbcd779e1f9a5ecd3235b2042a806fe4b17609849817dbf0e5"
+        },
+        {
+          "index": 15,
+          "image": "pose2/image/015.png",
+          "mask": "pose2/mask/015.png",
+          "image_sha256": "e6dd3907b0f9e66652364d10540b4058726305b98bb680ef2ff67f436a77a346",
+          "mask_sha256": "8f2894c58f57281cff1e4c0407acf653c9eed87bbed4b62871bc4c12f558a86f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\015.png",
+          "source_background_sha256": "e6dd3907b0f9e66652364d10540b4058726305b98bb680ef2ff67f436a77a346"
+        },
+        {
+          "index": 16,
+          "image": "pose2/image/016.png",
+          "mask": "pose2/mask/016.png",
+          "image_sha256": "ba21319c01006543d597849d66d68f90be8755be37d1869aeb93ef5d32d0ceab",
+          "mask_sha256": "da29a84462fab7c15286b667e0e9abfd3274997a0793b8b347bcee7f08d6431c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\016.png",
+          "source_background_sha256": "ba21319c01006543d597849d66d68f90be8755be37d1869aeb93ef5d32d0ceab"
+        },
+        {
+          "index": 17,
+          "image": "pose2/image/017.png",
+          "mask": "pose2/mask/017.png",
+          "image_sha256": "e95385bcf53cb0e5942655a2ffd001a42b2448ec1403a691134a5c90a3089ed7",
+          "mask_sha256": "c09126752a648d85c924386d58f0d51f30e4298aa50d2ea7175b82a49fd99745",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\017.png",
+          "source_background_sha256": "e95385bcf53cb0e5942655a2ffd001a42b2448ec1403a691134a5c90a3089ed7"
+        },
+        {
+          "index": 18,
+          "image": "pose2/image/018.png",
+          "mask": "pose2/mask/018.png",
+          "image_sha256": "a811b500c19b6d37648a4f6adb421fabb66d6c8ed0a73bf3292ca4fb2023a94c",
+          "mask_sha256": "841ca949e83e829334cc6ae8f73109e3a91e042d6ccb4f7be6c807ee6cce1378",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\018.png",
+          "source_background_sha256": "a811b500c19b6d37648a4f6adb421fabb66d6c8ed0a73bf3292ca4fb2023a94c"
+        },
+        {
+          "index": 19,
+          "image": "pose2/image/019.png",
+          "mask": "pose2/mask/019.png",
+          "image_sha256": "594a23188b035ea498928b6c238c0fd74b8514c80fc1b54b44ae1195f054414a",
+          "mask_sha256": "93ea5f5a18ba5969a52c2233095fa682c62eb07c1bd75edffd483653ffa3be87",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\019.png",
+          "source_background_sha256": "594a23188b035ea498928b6c238c0fd74b8514c80fc1b54b44ae1195f054414a"
+        },
+        {
+          "index": 20,
+          "image": "pose2/image/020.png",
+          "mask": "pose2/mask/020.png",
+          "image_sha256": "12556723d1f59666b3b8e4b26aa25ce8d654435dd769dd43557d880a964148e1",
+          "mask_sha256": "7cf48e01aa609f2d8724ffb4b6dfff9ae2fce2e3816dda1cf2d10e9209433ecb",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\020.png",
+          "source_background_sha256": "12556723d1f59666b3b8e4b26aa25ce8d654435dd769dd43557d880a964148e1"
+        },
+        {
+          "index": 21,
+          "image": "pose2/image/021.png",
+          "mask": "pose2/mask/021.png",
+          "image_sha256": "8753dfc6047d2ba316f557d701197a76324fbd77e8929959bd8f90712ad78ee9",
+          "mask_sha256": "db78b63cb6161d04ee039c803ce56c1e9f5437b585bb1d061042734b3366574b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\021.png",
+          "source_background_sha256": "8753dfc6047d2ba316f557d701197a76324fbd77e8929959bd8f90712ad78ee9"
+        },
+        {
+          "index": 22,
+          "image": "pose2/image/022.png",
+          "mask": "pose2/mask/022.png",
+          "image_sha256": "e94c544078c771b6953f92b3cfafaa0c7716d7887a86b7ad98d573f0759a3007",
+          "mask_sha256": "8b2bcade7fe303962a50a2a6158c69ac5dcb7b4df1160446496c8f11414f0d9c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\022.png",
+          "source_background_sha256": "e94c544078c771b6953f92b3cfafaa0c7716d7887a86b7ad98d573f0759a3007"
+        },
+        {
+          "index": 23,
+          "image": "pose2/image/023.png",
+          "mask": "pose2/mask/023.png",
+          "image_sha256": "bc4164c28c36b1c084298ec015f78f37acc2082d5a3e0a353d5f7e8e064fa379",
+          "mask_sha256": "fa4a096d9640138fd95a3a8086cf437ab814f69715bebbc0cf83f593a106b684",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\023.png",
+          "source_background_sha256": "bc4164c28c36b1c084298ec015f78f37acc2082d5a3e0a353d5f7e8e064fa379"
+        },
+        {
+          "index": 24,
+          "image": "pose2/image/024.png",
+          "mask": "pose2/mask/024.png",
+          "image_sha256": "dd4b7d7614ef0c127ede5798172b2be8a7dda5d8b3995f3f2b0d22e182ccac45",
+          "mask_sha256": "ded14e6b683ea2a6fe889e2099e8dc358306faff0c87dc8b33a0e6686be6bfd3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\024.png",
+          "source_background_sha256": "dd4b7d7614ef0c127ede5798172b2be8a7dda5d8b3995f3f2b0d22e182ccac45"
+        },
+        {
+          "index": 25,
+          "image": "pose2/image/025.png",
+          "mask": "pose2/mask/025.png",
+          "image_sha256": "74bc52e094aa1cfebc266d15dcf722b752e6738e5773a64a86b44a85ebbf9e52",
+          "mask_sha256": "c025772fce177e22c515de96e463d05451231c6f6fa6f67997fbb5f201c1bee2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\025.png",
+          "source_background_sha256": "74bc52e094aa1cfebc266d15dcf722b752e6738e5773a64a86b44a85ebbf9e52"
+        },
+        {
+          "index": 26,
+          "image": "pose2/image/026.png",
+          "mask": "pose2/mask/026.png",
+          "image_sha256": "06c39e3f02d0327c381452843f89e06f03b673f078be166fcb43b4cf3419a485",
+          "mask_sha256": "51c481d5ec7dc2b65fac967da281b788b1702cc4b08449a3cfd3a3d608a38466",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\026.png",
+          "source_background_sha256": "06c39e3f02d0327c381452843f89e06f03b673f078be166fcb43b4cf3419a485"
+        },
+        {
+          "index": 27,
+          "image": "pose2/image/027.png",
+          "mask": "pose2/mask/027.png",
+          "image_sha256": "f35e5b9fb54e5f78d764e2ed19802532a9d40ab6b881ae9de046af3405aad1af",
+          "mask_sha256": "559b86d21981e2cc6b27c5bfab05cdffa56f8af367d48765668d82d070ba5dab",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\027.png",
+          "source_background_sha256": "f35e5b9fb54e5f78d764e2ed19802532a9d40ab6b881ae9de046af3405aad1af"
+        },
+        {
+          "index": 28,
+          "image": "pose2/image/028.png",
+          "mask": "pose2/mask/028.png",
+          "image_sha256": "9e84d8f318be34e3753848f3bdeef96aa0c200960db4dfdccf29f3c9a1436fa5",
+          "mask_sha256": "2ab27a11b7b3cf305825193f60b7c60475e020852030f791332624bed2165103",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\028.png",
+          "source_background_sha256": "9e84d8f318be34e3753848f3bdeef96aa0c200960db4dfdccf29f3c9a1436fa5"
+        },
+        {
+          "index": 29,
+          "image": "pose2/image/029.png",
+          "mask": "pose2/mask/029.png",
+          "image_sha256": "08c4eb2778e083491eac0736596cdc208081ef3a999994bc785c3156892472d6",
+          "mask_sha256": "614a08c95af495046e9aaafb955e769ba42273160ada8026feb1d3899f3b37d1",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\029.png",
+          "source_background_sha256": "08c4eb2778e083491eac0736596cdc208081ef3a999994bc785c3156892472d6"
+        },
+        {
+          "index": 30,
+          "image": "pose2/image/030.png",
+          "mask": "pose2/mask/030.png",
+          "image_sha256": "d31b13c6fc34b2081e5dfd2e98efe66473ddacd97265aa8249c7fc6af8f63f6b",
+          "mask_sha256": "17ae74dde2d7f097c1fb5a28e708918e7a0fc2e821a3c2c2f5eb0779a014e5c3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\030.png",
+          "source_background_sha256": "d31b13c6fc34b2081e5dfd2e98efe66473ddacd97265aa8249c7fc6af8f63f6b"
+        },
+        {
+          "index": 31,
+          "image": "pose2/image/031.png",
+          "mask": "pose2/mask/031.png",
+          "image_sha256": "151b2bcd762aa7964da5d31ec3e09ce9426d76a14ffe1f424f3d2ceca7ab446e",
+          "mask_sha256": "1c69cb38772de851d182846f08e49c23ba9663669fb5ee7c55aba55c46917df5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\031.png",
+          "source_background_sha256": "151b2bcd762aa7964da5d31ec3e09ce9426d76a14ffe1f424f3d2ceca7ab446e"
+        },
+        {
+          "index": 32,
+          "image": "pose2/image/032.png",
+          "mask": "pose2/mask/032.png",
+          "image_sha256": "b04a8f39aec86737eb64394573873abffc5cb7ad87cf1a5858c72ee390c49959",
+          "mask_sha256": "62f8790090e51c0537bc08e01fe84ddf0e7993b8a5185c849516625ab3225f2a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\032.png",
+          "source_background_sha256": "b04a8f39aec86737eb64394573873abffc5cb7ad87cf1a5858c72ee390c49959"
+        },
+        {
+          "index": 33,
+          "image": "pose2/image/033.png",
+          "mask": "pose2/mask/033.png",
+          "image_sha256": "249d3005da97370944a443bf6a714438b4e3168564b355c74d6de4365aee54cc",
+          "mask_sha256": "b2e54a66399ce01e2b0190d016a6cf8f448d4847c00c73c8a827644f91e6c4db",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\033.png",
+          "source_background_sha256": "249d3005da97370944a443bf6a714438b4e3168564b355c74d6de4365aee54cc"
+        },
+        {
+          "index": 34,
+          "image": "pose2/image/034.png",
+          "mask": "pose2/mask/034.png",
+          "image_sha256": "2ced47ea35db98e8b405783c72ff41480d8db349081f0d3aa0584a8cb8082cc4",
+          "mask_sha256": "e9c564c9ee2ae85a80dc2933e0a7f1d4992106d0c3ae5a43d8c6e17c164bf783",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\034.png",
+          "source_background_sha256": "2ced47ea35db98e8b405783c72ff41480d8db349081f0d3aa0584a8cb8082cc4"
+        },
+        {
+          "index": 35,
+          "image": "pose2/image/035.png",
+          "mask": "pose2/mask/035.png",
+          "image_sha256": "caf589731f262ec3accada7eb14a45bbafdcc37f4fdeddf952d5a943cf54d5ca",
+          "mask_sha256": "4f3957179ec15b110929ff6fb66c5fba9765a0df79d8f5e05c9dfdc36f6a6f02",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\035.png",
+          "source_background_sha256": "caf589731f262ec3accada7eb14a45bbafdcc37f4fdeddf952d5a943cf54d5ca"
+        },
+        {
+          "index": 36,
+          "image": "pose2/image/036.png",
+          "mask": "pose2/mask/036.png",
+          "image_sha256": "64a79a95b275b98cb061022c3973b08187abc3c87754ad31acf3e2aa56fad1c7",
+          "mask_sha256": "0dd74443a7be42a58383abbdaf5e4891a7cc5c45cbc3a0c3b4fc6a464f5719a5",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\036.png",
+          "source_background_sha256": "64a79a95b275b98cb061022c3973b08187abc3c87754ad31acf3e2aa56fad1c7"
+        },
+        {
+          "index": 37,
+          "image": "pose2/image/037.png",
+          "mask": "pose2/mask/037.png",
+          "image_sha256": "fcd7ebf6e3b690e0560d77ced04dc70fc30e6e894d8310b478f2cf7ff7647804",
+          "mask_sha256": "84bb935ed347cce35c34ce26b9bb90e5ccc4ff73ef55c274304414117808c273",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\037.png",
+          "source_background_sha256": "fcd7ebf6e3b690e0560d77ced04dc70fc30e6e894d8310b478f2cf7ff7647804"
+        },
+        {
+          "index": 38,
+          "image": "pose2/image/038.png",
+          "mask": "pose2/mask/038.png",
+          "image_sha256": "f406b09bdefea08f6f10c258061748255f656cee417a71c2cf0e340db8342fe0",
+          "mask_sha256": "9443a2ad69ad879159aa2d72c21e75980a0e019cad7386632e80568a741173e9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\038.png",
+          "source_background_sha256": "f406b09bdefea08f6f10c258061748255f656cee417a71c2cf0e340db8342fe0"
+        },
+        {
+          "index": 39,
+          "image": "pose2/image/039.png",
+          "mask": "pose2/mask/039.png",
+          "image_sha256": "991adc9d154478545fdb7593c471e4ed1ff28b127893be9f08fb364f17a9e278",
+          "mask_sha256": "ed0b18546502698adee0fd0730fb2841ef040e8f02a0701f2546711f069c3419",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose2\\image\\039.png",
+          "source_background_sha256": "991adc9d154478545fdb7593c471e4ed1ff28b127893be9f08fb364f17a9e278"
+        }
+      ],
+      "dimensions": {
+        "800x800 RGB": 40
+      }
+    },
+    {
+      "pose": 3,
+      "image_count": 40,
+      "background_image_count": 40,
+      "source_background_directory": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image",
+      "camera_sha256": "657d1c36ff92169242e85d29a689c7ecb0e223018218d52529422f0cd4fcf5c9",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose3/image/000.png",
+          "mask": "pose3/mask/000.png",
+          "image_sha256": "b208eeec9a815987de6f14ba7fcdb1c7088fae333975234c0ed7644908d559df",
+          "mask_sha256": "4edef9897bcbf18b6d78fc7b805c18cf20894daee6e9e8367b433cc563887c60",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\000.png",
+          "source_background_sha256": "b208eeec9a815987de6f14ba7fcdb1c7088fae333975234c0ed7644908d559df"
+        },
+        {
+          "index": 1,
+          "image": "pose3/image/001.png",
+          "mask": "pose3/mask/001.png",
+          "image_sha256": "ca7815bc7158106bc8db73d79764a94ea1d992d4e926adbc269faf1f52334f22",
+          "mask_sha256": "1bd13c8eeca18957f4f1175a1706cef04277f2526945b0b8edeb39136f72ca3a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\001.png",
+          "source_background_sha256": "ca7815bc7158106bc8db73d79764a94ea1d992d4e926adbc269faf1f52334f22"
+        },
+        {
+          "index": 2,
+          "image": "pose3/image/002.png",
+          "mask": "pose3/mask/002.png",
+          "image_sha256": "3525a72cbfbf6dc913039ecf9a6a9f25a3bf45878956f7720d581adc370c5927",
+          "mask_sha256": "4e38ae93b296f0568a269f75cda9d12ce7a3a42354738107fb0ec249bd91d7d9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\002.png",
+          "source_background_sha256": "3525a72cbfbf6dc913039ecf9a6a9f25a3bf45878956f7720d581adc370c5927"
+        },
+        {
+          "index": 3,
+          "image": "pose3/image/003.png",
+          "mask": "pose3/mask/003.png",
+          "image_sha256": "45014386cb831d4ca728e710abff32cc86587d23c8796c081a7109ffc2c07297",
+          "mask_sha256": "c4b2f761df1d4debc716c7e4a5b4c0ae6dde1de3c065101ba989857f51888224",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\003.png",
+          "source_background_sha256": "45014386cb831d4ca728e710abff32cc86587d23c8796c081a7109ffc2c07297"
+        },
+        {
+          "index": 4,
+          "image": "pose3/image/004.png",
+          "mask": "pose3/mask/004.png",
+          "image_sha256": "f790b0a2f1484e9172bcf2dced7678fabf7bc200be266001ea8f6f386c803605",
+          "mask_sha256": "7b292f2a1f6bd83accf7130561f61bc2764f94b48cba35b1a134ebfbbfedd081",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\004.png",
+          "source_background_sha256": "f790b0a2f1484e9172bcf2dced7678fabf7bc200be266001ea8f6f386c803605"
+        },
+        {
+          "index": 5,
+          "image": "pose3/image/005.png",
+          "mask": "pose3/mask/005.png",
+          "image_sha256": "fac7f75a5adfd6c5c1c454d33a80b10d833321b4ef3fa0f18a25218509ef311c",
+          "mask_sha256": "dff896b61a593f589b7ba973b8fef886af0ae01bcd1efa26770ddf51aa66b449",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\005.png",
+          "source_background_sha256": "fac7f75a5adfd6c5c1c454d33a80b10d833321b4ef3fa0f18a25218509ef311c"
+        },
+        {
+          "index": 6,
+          "image": "pose3/image/006.png",
+          "mask": "pose3/mask/006.png",
+          "image_sha256": "5c1e626c71bb6d933867ae719db014084f47bc3aa51b03f5a395af8b7855b992",
+          "mask_sha256": "9c43db0325c55efb49a79a8744ca4920a921588b56b20507c1aa0ccbf4d3f3f4",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\006.png",
+          "source_background_sha256": "5c1e626c71bb6d933867ae719db014084f47bc3aa51b03f5a395af8b7855b992"
+        },
+        {
+          "index": 7,
+          "image": "pose3/image/007.png",
+          "mask": "pose3/mask/007.png",
+          "image_sha256": "82f32b4c369acaad7e1279e8448df23b900a74464b736901583ff5de7b1f2052",
+          "mask_sha256": "8e2554914ea88186a1f32252d8efa6a5f835a7872ac29c3303532da1a80bff0e",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\007.png",
+          "source_background_sha256": "82f32b4c369acaad7e1279e8448df23b900a74464b736901583ff5de7b1f2052"
+        },
+        {
+          "index": 8,
+          "image": "pose3/image/008.png",
+          "mask": "pose3/mask/008.png",
+          "image_sha256": "b35d98219b323274ee3894b98951faf6be7ca6e8bead71eef5d8bfee06a3f8af",
+          "mask_sha256": "75fda8a6a7313d67ae6fa1f2491d72a766b5b0efbf68963e0f7c904ffa50cf9a",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\008.png",
+          "source_background_sha256": "b35d98219b323274ee3894b98951faf6be7ca6e8bead71eef5d8bfee06a3f8af"
+        },
+        {
+          "index": 9,
+          "image": "pose3/image/009.png",
+          "mask": "pose3/mask/009.png",
+          "image_sha256": "e3eb3f43ab8adefb6c65d40292dee36ba9af0745bd99938c1883be4de5743b19",
+          "mask_sha256": "b49e45a8f9c98f862f970f24d7baccf96dac62887abc161a791b1e8267f0cd08",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\009.png",
+          "source_background_sha256": "e3eb3f43ab8adefb6c65d40292dee36ba9af0745bd99938c1883be4de5743b19"
+        },
+        {
+          "index": 10,
+          "image": "pose3/image/010.png",
+          "mask": "pose3/mask/010.png",
+          "image_sha256": "1a4ce438aa9dadee6b9a6989e6f5cfb99157b92e07528d87450160b059ed984a",
+          "mask_sha256": "88974b60745ebb9026c30a5ddcedccb7ff90bd1f1d4d3d2e4c0b19bf6427cac9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\010.png",
+          "source_background_sha256": "1a4ce438aa9dadee6b9a6989e6f5cfb99157b92e07528d87450160b059ed984a"
+        },
+        {
+          "index": 11,
+          "image": "pose3/image/011.png",
+          "mask": "pose3/mask/011.png",
+          "image_sha256": "6bba69ba8a4f74fa8606578d81ff134c55ee4201a1955533d67d42021acf28a4",
+          "mask_sha256": "1f5abae44f643f6de398a3cc31b4065d81871be0176b20672c5eac463a9c0515",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\011.png",
+          "source_background_sha256": "6bba69ba8a4f74fa8606578d81ff134c55ee4201a1955533d67d42021acf28a4"
+        },
+        {
+          "index": 12,
+          "image": "pose3/image/012.png",
+          "mask": "pose3/mask/012.png",
+          "image_sha256": "dafd8dd6f2911076af7e3599a94786f516e075bd1ce0f27badddee6240da55c0",
+          "mask_sha256": "05cb17379779e03dd005231019497ef0cc2f09ede017f6ebd712d54c5b8e45e3",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\012.png",
+          "source_background_sha256": "dafd8dd6f2911076af7e3599a94786f516e075bd1ce0f27badddee6240da55c0"
+        },
+        {
+          "index": 13,
+          "image": "pose3/image/013.png",
+          "mask": "pose3/mask/013.png",
+          "image_sha256": "64def736ff15142458b74efd6b45d7f77bfa2955e245955acabe664f8729003e",
+          "mask_sha256": "e85638328fc99168c6a4284390329746b4d19635ead1ff1d82429154cd83b50d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\013.png",
+          "source_background_sha256": "64def736ff15142458b74efd6b45d7f77bfa2955e245955acabe664f8729003e"
+        },
+        {
+          "index": 14,
+          "image": "pose3/image/014.png",
+          "mask": "pose3/mask/014.png",
+          "image_sha256": "4e355c428952ec377bc9805bda9ba5f1218d4007befc4b203f2b9fa0c86a253c",
+          "mask_sha256": "bdea6484af6f16f23ca822b101330d5495c084d1aa7deab4b4f7435e07e1f491",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\014.png",
+          "source_background_sha256": "4e355c428952ec377bc9805bda9ba5f1218d4007befc4b203f2b9fa0c86a253c"
+        },
+        {
+          "index": 15,
+          "image": "pose3/image/015.png",
+          "mask": "pose3/mask/015.png",
+          "image_sha256": "5ddf7e4723835939c18da3113b07a6e3bd31b1266ea86473251dbeae8523a985",
+          "mask_sha256": "1e3ed032c4b5621dddd9e43a2f99a2a72912611163cad67c86fba4127c1bbf7c",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\015.png",
+          "source_background_sha256": "5ddf7e4723835939c18da3113b07a6e3bd31b1266ea86473251dbeae8523a985"
+        },
+        {
+          "index": 16,
+          "image": "pose3/image/016.png",
+          "mask": "pose3/mask/016.png",
+          "image_sha256": "d53c95eb5fc27130b73f81ba196cb90cfa8759bf743a28805b18d3b5207e284c",
+          "mask_sha256": "6aed7025cfc79140790016c65ca64fe3f812a2963f031109b8eff795c6419cbe",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\016.png",
+          "source_background_sha256": "d53c95eb5fc27130b73f81ba196cb90cfa8759bf743a28805b18d3b5207e284c"
+        },
+        {
+          "index": 17,
+          "image": "pose3/image/017.png",
+          "mask": "pose3/mask/017.png",
+          "image_sha256": "de62ad2f211259b5b8e6599ba9eb839572e0d2f84aa2baa842a1510c938d5fb2",
+          "mask_sha256": "ced90a7268d2bab5fb6af41b42985b2d34dbb4c52abc33dbc5c5141a860826d9",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\017.png",
+          "source_background_sha256": "de62ad2f211259b5b8e6599ba9eb839572e0d2f84aa2baa842a1510c938d5fb2"
+        },
+        {
+          "index": 18,
+          "image": "pose3/image/018.png",
+          "mask": "pose3/mask/018.png",
+          "image_sha256": "88335ebefc402813377ee7580e074355ba29c8b9ff417ef9b2aa361f375c7cb8",
+          "mask_sha256": "88c23eeba4f7a6331f3a21795f3000165f484df3b621d7e83349708d3f0ab74b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\018.png",
+          "source_background_sha256": "88335ebefc402813377ee7580e074355ba29c8b9ff417ef9b2aa361f375c7cb8"
+        },
+        {
+          "index": 19,
+          "image": "pose3/image/019.png",
+          "mask": "pose3/mask/019.png",
+          "image_sha256": "dfeabeff4ca53237402314cb3966e027f9339922f09344443616ae8dfe730acb",
+          "mask_sha256": "823a8fd7605ab336e5f2db170f0a7f773f298799538bf3c778f8f021d6fe09cc",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\019.png",
+          "source_background_sha256": "dfeabeff4ca53237402314cb3966e027f9339922f09344443616ae8dfe730acb"
+        },
+        {
+          "index": 20,
+          "image": "pose3/image/020.png",
+          "mask": "pose3/mask/020.png",
+          "image_sha256": "f3edd43fd99d74c6dab583ea4e4270c4cd1dafea02f7d035f4ce37caafa81053",
+          "mask_sha256": "7e866b44d5c69dfbed94047628f7e0db493eefd90825a131b99583dc724890c7",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\020.png",
+          "source_background_sha256": "f3edd43fd99d74c6dab583ea4e4270c4cd1dafea02f7d035f4ce37caafa81053"
+        },
+        {
+          "index": 21,
+          "image": "pose3/image/021.png",
+          "mask": "pose3/mask/021.png",
+          "image_sha256": "8564aeba8ac4ded4d67df62de2633bc9ff86cbab2106e65c72c45a75b0a17548",
+          "mask_sha256": "3f49136f76354e01cd12d5a015960bd299786d0710edfc4390cce50810d2733b",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\021.png",
+          "source_background_sha256": "8564aeba8ac4ded4d67df62de2633bc9ff86cbab2106e65c72c45a75b0a17548"
+        },
+        {
+          "index": 22,
+          "image": "pose3/image/022.png",
+          "mask": "pose3/mask/022.png",
+          "image_sha256": "87f829c625001626a6949937d87758d6a3892f2c8bfe8da7d7c31723523f8791",
+          "mask_sha256": "a585c96751a51a25d7e54b25a705cd14b8ecec3f41eba89cb9579bf5f18dcee2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\022.png",
+          "source_background_sha256": "87f829c625001626a6949937d87758d6a3892f2c8bfe8da7d7c31723523f8791"
+        },
+        {
+          "index": 23,
+          "image": "pose3/image/023.png",
+          "mask": "pose3/mask/023.png",
+          "image_sha256": "fe51fab56cb875354da08f24ed6df9dd90211ca9ba4d9b76163774a15aceeae6",
+          "mask_sha256": "9d9c92f3905bac3aba21723f8e59279dbc6f9c399287dfc824a5de71ba9ded83",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\023.png",
+          "source_background_sha256": "fe51fab56cb875354da08f24ed6df9dd90211ca9ba4d9b76163774a15aceeae6"
+        },
+        {
+          "index": 24,
+          "image": "pose3/image/024.png",
+          "mask": "pose3/mask/024.png",
+          "image_sha256": "d72bd41cbab40f19339e35f30d66a4f89e46fb5091402516b24947712d945e6c",
+          "mask_sha256": "617e0e3f375942697d10a4b9d9602a76050fc81b081d52f9f76dbe15399ae26f",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\024.png",
+          "source_background_sha256": "d72bd41cbab40f19339e35f30d66a4f89e46fb5091402516b24947712d945e6c"
+        },
+        {
+          "index": 25,
+          "image": "pose3/image/025.png",
+          "mask": "pose3/mask/025.png",
+          "image_sha256": "978f41376e5ab6292acee29e1bad247cd610770c6e47cf7c8f3ba5783ad3a42a",
+          "mask_sha256": "6c205c690387f659269e56e20cd3763672b112b594de84cd846e2ba5937f81c2",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\025.png",
+          "source_background_sha256": "978f41376e5ab6292acee29e1bad247cd610770c6e47cf7c8f3ba5783ad3a42a"
+        },
+        {
+          "index": 26,
+          "image": "pose3/image/026.png",
+          "mask": "pose3/mask/026.png",
+          "image_sha256": "9745cb5f76de19ad7c18784a7cf97b1cd61df526668a8c0a1ce3864df061409b",
+          "mask_sha256": "66c0b2aef207e9f9aab826edd8ae923de41791615d668f42a41b6308c42ce363",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\026.png",
+          "source_background_sha256": "9745cb5f76de19ad7c18784a7cf97b1cd61df526668a8c0a1ce3864df061409b"
+        },
+        {
+          "index": 27,
+          "image": "pose3/image/027.png",
+          "mask": "pose3/mask/027.png",
+          "image_sha256": "e36d4c02b24d843b9b9315f54bcfc4649043aa17be7699947b59871820882cfe",
+          "mask_sha256": "8c761c8ed0977177820fcb70fa881dc1e475431b49aeac88acc18a3465c9239d",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\027.png",
+          "source_background_sha256": "e36d4c02b24d843b9b9315f54bcfc4649043aa17be7699947b59871820882cfe"
+        },
+        {
+          "index": 28,
+          "image": "pose3/image/028.png",
+          "mask": "pose3/mask/028.png",
+          "image_sha256": "2113c732ba4702d21e572924c39f8d25b8226c08dae4e3edcc6b50b5a2e0b3e2",
+          "mask_sha256": "57011f086d1b963dc6fc31f372ae5f1a343c6d9562ce4428fc12afb857454962",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\028.png",
+          "source_background_sha256": "2113c732ba4702d21e572924c39f8d25b8226c08dae4e3edcc6b50b5a2e0b3e2"
+        },
+        {
+          "index": 29,
+          "image": "pose3/image/029.png",
+          "mask": "pose3/mask/029.png",
+          "image_sha256": "0484370604077adad253452dffcee8daa80323954707570674036977581e53c7",
+          "mask_sha256": "a025cd07135ab62817a548b2e6a968ccd9e1abe5a7c1121735af102921bd2cbe",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\029.png",
+          "source_background_sha256": "0484370604077adad253452dffcee8daa80323954707570674036977581e53c7"
+        },
+        {
+          "index": 30,
+          "image": "pose3/image/030.png",
+          "mask": "pose3/mask/030.png",
+          "image_sha256": "a6f3d1ccdc20071cd60d99957acb6e606efb261edad0e187a49ac7415408384f",
+          "mask_sha256": "b599fc533c083128356ae7f7e4d4a5dfc207f0ebf909ecf694877a94d0002598",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\030.png",
+          "source_background_sha256": "a6f3d1ccdc20071cd60d99957acb6e606efb261edad0e187a49ac7415408384f"
+        },
+        {
+          "index": 31,
+          "image": "pose3/image/031.png",
+          "mask": "pose3/mask/031.png",
+          "image_sha256": "a6d9e3e7323c6867c5a3c2b20d7e3cd9108f4b80f1629f39b8f7ef812e99b38a",
+          "mask_sha256": "31907f755ee4b34d8130f42d01c37dd82f93481fa4d9bc1b1e495db6bde153ff",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\031.png",
+          "source_background_sha256": "a6d9e3e7323c6867c5a3c2b20d7e3cd9108f4b80f1629f39b8f7ef812e99b38a"
+        },
+        {
+          "index": 32,
+          "image": "pose3/image/032.png",
+          "mask": "pose3/mask/032.png",
+          "image_sha256": "242e43ee9c5c5b784f66cdfa4ae14d23db0df9fecc04f3d628e7137c4ab35dfa",
+          "mask_sha256": "deec9fb547a43edbb3e0e4d9465fd1d254cf8614c071055918f954d21514d110",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\032.png",
+          "source_background_sha256": "242e43ee9c5c5b784f66cdfa4ae14d23db0df9fecc04f3d628e7137c4ab35dfa"
+        },
+        {
+          "index": 33,
+          "image": "pose3/image/033.png",
+          "mask": "pose3/mask/033.png",
+          "image_sha256": "2d0a07775bd056264d70d67431e19c3887d14a707e9b879709f617fe8f7575f4",
+          "mask_sha256": "31a348f537dad68d49ff1da7b3cb8a923452ef4a77654adbdf3a4449db224cae",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\033.png",
+          "source_background_sha256": "2d0a07775bd056264d70d67431e19c3887d14a707e9b879709f617fe8f7575f4"
+        },
+        {
+          "index": 34,
+          "image": "pose3/image/034.png",
+          "mask": "pose3/mask/034.png",
+          "image_sha256": "ae846118d416ef0317b39a8887137cd7e0c75814f0338389cbff23d812556410",
+          "mask_sha256": "aaa0a2d95f845b1582cd8801db9a5d5c2b739414c86cf5abb779eeaa655d4349",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\034.png",
+          "source_background_sha256": "ae846118d416ef0317b39a8887137cd7e0c75814f0338389cbff23d812556410"
+        },
+        {
+          "index": 35,
+          "image": "pose3/image/035.png",
+          "mask": "pose3/mask/035.png",
+          "image_sha256": "6f1a09d5a48efdbbf86befd0b899cb18a6a34c6de091eb640510a7dfe3e3dc96",
+          "mask_sha256": "27111973885d7f74ef1411c02aed05964aacf312e50d092bb63b417e7d93d078",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\035.png",
+          "source_background_sha256": "6f1a09d5a48efdbbf86befd0b899cb18a6a34c6de091eb640510a7dfe3e3dc96"
+        },
+        {
+          "index": 36,
+          "image": "pose3/image/036.png",
+          "mask": "pose3/mask/036.png",
+          "image_sha256": "7b1a4e0d46e2c3e8eefdf0a10dc4efd74c2ab539b33ab4eeaa5c8d36af577c2a",
+          "mask_sha256": "bc17eea9854ae0865e2a4a6c98e4b3853fa21c7d20f8f5363b791cf1c2460f57",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\036.png",
+          "source_background_sha256": "7b1a4e0d46e2c3e8eefdf0a10dc4efd74c2ab539b33ab4eeaa5c8d36af577c2a"
+        },
+        {
+          "index": 37,
+          "image": "pose3/image/037.png",
+          "mask": "pose3/mask/037.png",
+          "image_sha256": "caea6889221da3318f4538ccacf62f6f7a1a7b0171c8be9a646a789eaa9782f4",
+          "mask_sha256": "cc5a7eb54a29ae14a611ea7dd9863ea9e5b7d786fd802ea45d0818d6be28d601",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\037.png",
+          "source_background_sha256": "caea6889221da3318f4538ccacf62f6f7a1a7b0171c8be9a646a789eaa9782f4"
+        },
+        {
+          "index": 38,
+          "image": "pose3/image/038.png",
+          "mask": "pose3/mask/038.png",
+          "image_sha256": "96690527ca2bef517f0a77c042c57fff896dc60b132db5cdf5ee3479ec6851bd",
+          "mask_sha256": "26d3cfa9476c05eac5074582c3e85a256c12b63784bee3dd357fbeb5efb48a43",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\038.png",
+          "source_background_sha256": "96690527ca2bef517f0a77c042c57fff896dc60b132db5cdf5ee3479ec6851bd"
+        },
+        {
+          "index": 39,
+          "image": "pose3/image/039.png",
+          "mask": "pose3/mask/039.png",
+          "image_sha256": "1932ffb7f8b92c8b5ff53626857748c37adca51545fb5b46e9cfe4f3536c5244",
+          "mask_sha256": "a04e111afb9a79977221053c300e88001f8237f904cf4c384f49c882c96df6e8",
+          "source_background": "E:\\PoseFusionExp\\synthetic\\background_completion_20260929\\figurine_b\\pose3\\image\\039.png",
+          "source_background_sha256": "1932ffb7f8b92c8b5ff53626857748c37adca51545fb5b46e9cfe4f3536c5244"
+        }
+      ],
+      "dimensions": {
+        "800x800 RGB": 40
+      }
+    }
+  ],
+  "dataset_version": "background_inputs_20260929",
+  "display_name": "Figurine B",
+  "source_blend": "E:\\PoseFusionExp\\synthetic\\xiaomai\\xiaomai.blend",
+  "source_prefix": "_re_xiaomai",
+  "ground_truth": "gt/meshes/poseN.ply and gt/transforms.json; source geometry coordinates, no estimated alignment"
+}

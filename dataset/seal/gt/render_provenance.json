@@ -1,0 +1,678 @@
+{
+  "background_source": "E:\\PoseFusionExp\\synthetic\\dadian\\dadian.blend",
+  "ground_object": "Obj3d66-734029-1-584",
+  "floor_z": 0.0,
+  "case_name": "_re_seal",
+  "pose_count": 3,
+  "views_per_pose": 40,
+  "resolution": [
+    800,
+    800
+  ],
+  "engine": "CYCLES",
+  "samples": 32,
+  "pose_adjustments": [
+    {
+      "pose": 1,
+      "source_blend": "E:\\PoseFusionExp\\synthetic\\extra_data_from_yuanmu\\海豹_blender\\海豹_pose1.blend",
+      "object": "_re_seal_pose1",
+      "original_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -2.821299744937278e-07,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          -2.821299744937278e-07,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "adjusted_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          -2.821299744937278e-07,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          -1.0,
+          -2.821299744937278e-07,
+          0.5027482509613037
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translation_delta": [
+        0,
+        0,
+        0.5027482509613037
+      ],
+      "rotation_unchanged": true,
+      "ground_z": 0.0,
+      "mesh_min_z": -3.908586787559898e-10,
+      "bounds": [
+        [
+          -0.5519952774047852,
+          -0.5725070834159851,
+          -3.908586787559898e-10
+        ],
+        [
+          0.5519570112228394,
+          0.5562699437141418,
+          1.4464020729064941
+        ]
+      ],
+      "camera_center": [
+        -1.913309097290039e-05,
+        -0.00811856985092163,
+        0.7232010362578177
+      ],
+      "camera_radius": 2.7779458497545098
+    },
+    {
+      "pose": 2,
+      "source_blend": "E:\\PoseFusionExp\\synthetic\\extra_data_from_yuanmu\\海豹_blender\\海豹_pose2.blend",
+      "object": "_re_seal_pose2",
+      "original_matrix": [
+        [
+          -0.08682408928871155,
+          -0.866025447845459,
+          0.49240386486053467,
+          1.1200000047683716
+        ],
+        [
+          -0.15038374066352844,
+          0.4999999701976776,
+          0.8528685569763184,
+          1.2799999713897705
+        ],
+        [
+          -0.9848077297210693,
+          0.0,
+          -0.1736481934785843,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "adjusted_matrix": [
+        [
+          -0.08682408928871155,
+          -0.866025447845459,
+          0.49240386486053467,
+          1.1200000047683716
+        ],
+        [
+          -0.15038374066352844,
+          0.4999999701976776,
+          0.8528685569763184,
+          1.2799999713897705
+        ],
+        [
+          -0.9848077297210693,
+          0.0,
+          -0.1736481934785843,
+          0.5555931925773621
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translation_delta": [
+        0,
+        0,
+        0.5555931925773621
+      ],
+      "rotation_unchanged": true,
+      "ground_z": 0.0,
+      "mesh_min_z": -1.4901161193847656e-08,
+      "bounds": [
+        [
+          0.35304325819015503,
+          0.707823634147644,
+          -1.4901161193847656e-08
+        ],
+        [
+          1.8439090251922607,
+          1.9324289560317993,
+          1.1056543588638306
+        ]
+      ],
+      "camera_center": [
+        1.0984761416912079,
+        1.3201262950897217,
+        0.5528271719813347
+      ],
+      "camera_radius": 2.6231843217701827
+    },
+    {
+      "pose": 3,
+      "source_blend": "E:\\PoseFusionExp\\synthetic\\extra_data_from_yuanmu\\海豹_blender\\海豹_pose3.blend",
+      "object": "_re_seal_pose3",
+      "original_matrix": [
+        [
+          -0.7660444378852844,
+          -0.506523609161377,
+          0.39573952555656433,
+          -0.7200000286102295
+        ],
+        [
+          -0.6427876353263855,
+          0.603651225566864,
+          -0.47162407636642456,
+          0.6100000143051147
+        ],
+        [
+          8.742277657347586e-08,
+          -0.6156615018844604,
+          -0.7880107760429382,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "adjusted_matrix": [
+        [
+          -0.7660444378852844,
+          -0.506523609161377,
+          0.39573952555656433,
+          -0.7200000286102295
+        ],
+        [
+          -0.6427876353263855,
+          0.603651225566864,
+          -0.47162407636642456,
+          0.6100000143051147
+        ],
+        [
+          8.742277657347586e-08,
+          -0.6156615018844604,
+          -0.7880107760429382,
+          0.6810541749000549
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "translation_delta": [
+        0,
+        0,
+        0.6810541749000549
+      ],
+      "rotation_unchanged": true,
+      "ground_z": 0.0,
+      "mesh_min_z": 2.612613458907731e-10,
+      "bounds": [
+        [
+          -1.393540382385254,
+          0.012408450245857239,
+          2.612613458907731e-10
+        ],
+        [
+          -0.21723489463329315,
+          1.3006319999694824,
+          1.2832998037338257
+        ]
+      ],
+      "camera_center": [
+        -0.8053876385092735,
+        0.6565202251076698,
+        0.6416499019975435
+      ],
+      "camera_radius": 2.8302812559565638
+    }
+  ],
+  "disabled_unused_cache_objects": [
+    "camera_xform"
+  ],
+  "texture_materials": [
+    {
+      "pose": 1,
+      "material": "Material.001",
+      "nodes": [
+        {
+          "name": "原理化 BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null,
+          "image_path": null,
+          "outputs_linked": [
+            [
+              "BSDF",
+              true
+            ]
+          ]
+        },
+        {
+          "name": "材质输出",
+          "type": "OUTPUT_MATERIAL",
+          "image": null,
+          "image_path": null,
+          "outputs_linked": []
+        },
+        {
+          "name": "法线贴图",
+          "type": "NORMAL_MAP",
+          "image": null,
+          "image_path": null,
+          "outputs_linked": [
+            [
+              "Normal",
+              true
+            ]
+          ]
+        },
+        {
+          "name": "图像纹理",
+          "type": "TEX_IMAGE",
+          "image": "bao.png",
+          "image_path": "//..\\extra_data_from_yuanmu\\bao\\bao.png",
+          "outputs_linked": [
+            [
+              "Color",
+              true
+            ],
+            [
+              "Alpha",
+              false
+            ]
+          ]
+        },
+        {
+          "name": "图像纹理.001",
+          "type": "TEX_IMAGE",
+          "image": "bao.png.001",
+          "image_path": "//..\\extra_data_from_yuanmu\\bao\\bao.png",
+          "outputs_linked": [
+            [
+              "Color",
+              false
+            ],
+            [
+              "Alpha",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pose": 2,
+      "material": "Material.002",
+      "nodes": [
+        {
+          "name": "原理化 BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null,
+          "image_path": null,
+          "outputs_linked": [
+            [
+              "BSDF",
+              true
+            ]
+          ]
+        },
+        {
+          "name": "材质输出",
+          "type": "OUTPUT_MATERIAL",
+          "image": null,
+          "image_path": null,
+          "outputs_linked": []
+        },
+        {
+          "name": "法线贴图",
+          "type": "NORMAL_MAP",
+          "image": null,
+          "image_path": null,
+          "outputs_linked": [
+            [
+              "Normal",
+              true
+            ]
+          ]
+        },
+        {
+          "name": "图像纹理",
+          "type": "TEX_IMAGE",
+          "image": "bao.png.002",
+          "image_path": "//..\\extra_data_from_yuanmu\\bao\\bao.png",
+          "outputs_linked": [
+            [
+              "Color",
+              true
+            ],
+            [
+              "Alpha",
+              false
+            ]
+          ]
+        },
+        {
+          "name": "图像纹理.001",
+          "type": "TEX_IMAGE",
+          "image": "bao.png.003",
+          "image_path": "//..\\extra_data_from_yuanmu\\bao\\bao.png",
+          "outputs_linked": [
+            [
+              "Color",
+              false
+            ],
+            [
+              "Alpha",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "pose": 3,
+      "material": "Material.003",
+      "nodes": [
+        {
+          "name": "原理化 BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null,
+          "image_path": null,
+          "outputs_linked": [
+            [
+              "BSDF",
+              true
+            ]
+          ]
+        },
+        {
+          "name": "材质输出",
+          "type": "OUTPUT_MATERIAL",
+          "image": null,
+          "image_path": null,
+          "outputs_linked": []
+        },
+        {
+          "name": "法线贴图",
+          "type": "NORMAL_MAP",
+          "image": null,
+          "image_path": null,
+          "outputs_linked": [
+            [
+              "Normal",
+              true
+            ]
+          ]
+        },
+        {
+          "name": "图像纹理",
+          "type": "TEX_IMAGE",
+          "image": "bao.png.004",
+          "image_path": "//..\\extra_data_from_yuanmu\\bao\\bao.png",
+          "outputs_linked": [
+            [
+              "Color",
+              true
+            ],
+            [
+              "Alpha",
+              false
+            ]
+          ]
+        },
+        {
+          "name": "图像纹理.001",
+          "type": "TEX_IMAGE",
+          "image": "bao.png.005",
+          "image_path": "//..\\extra_data_from_yuanmu\\bao\\bao.png",
+          "outputs_linked": [
+            [
+              "Color",
+              false
+            ],
+            [
+              "Alpha",
+              true
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "status": "full_render_validated",
+  "geometry_camera_checks": [
+    {
+      "pose": 1,
+      "contact_gap": -3.908586787559898e-10,
+      "maximum_numerical_penetration": 3.908586787559898e-10,
+      "vertices_below_ground_tolerance": 0,
+      "ground_tolerance": 1e-06,
+      "inside_ground_footprint": true,
+      "rotation_unchanged": true,
+      "views_checked": 40,
+      "minimum_frame_margin_fraction": 0.07635664939880371
+    },
+    {
+      "pose": 2,
+      "contact_gap": -1.4901161193847656e-08,
+      "maximum_numerical_penetration": 1.4901161193847656e-08,
+      "vertices_below_ground_tolerance": 0,
+      "ground_tolerance": 1e-06,
+      "inside_ground_footprint": true,
+      "rotation_unchanged": true,
+      "views_checked": 40,
+      "minimum_frame_margin_fraction": 0.07739239931106567
+    },
+    {
+      "pose": 3,
+      "contact_gap": 2.612613458907731e-10,
+      "maximum_numerical_penetration": 0,
+      "vertices_below_ground_tolerance": 0,
+      "ground_tolerance": 1e-06,
+      "inside_ground_footprint": true,
+      "rotation_unchanged": true,
+      "views_checked": 40,
+      "minimum_frame_margin_fraction": 0.07613545656204224
+    }
+  ],
+  "missing_texture_paths": [],
+  "seal_texture": {
+    "path": "E:\\PoseFusionExp\\synthetic\\seal_re_20260928\\assets\\aplaybox_bao\\bao\\bao.png",
+    "sha256": "7387c6d671cb6b5adb8734007a3e5c6fa0a326c51ff2d51fb0237213e44126e6",
+    "source_url": "https://www.aplaybox.com/details/model/duuEYDHuPX3I",
+    "archive_name": "bao_by_案伏_514395d06b3e41ebc164dd80f26fc092.zip",
+    "packed_in_output_blend": true,
+    "repaired_images": [
+      {
+        "object": "_re_seal_pose1",
+        "image": "bao.png",
+        "size": [
+          1024,
+          1024
+        ],
+        "packed": true
+      },
+      {
+        "object": "_re_seal_pose1",
+        "image": "bao.png.001",
+        "size": [
+          1024,
+          1024
+        ],
+        "packed": true
+      },
+      {
+        "object": "_re_seal_pose2",
+        "image": "bao.png.002",
+        "size": [
+          1024,
+          1024
+        ],
+        "packed": true
+      },
+      {
+        "object": "_re_seal_pose2",
+        "image": "bao.png.003",
+        "size": [
+          1024,
+          1024
+        ],
+        "packed": true
+      },
+      {
+        "object": "_re_seal_pose3",
+        "image": "bao.png.004",
+        "size": [
+          1024,
+          1024
+        ],
+        "packed": true
+      },
+      {
+        "object": "_re_seal_pose3",
+        "image": "bao.png.005",
+        "size": [
+          1024,
+          1024
+        ],
+        "packed": true
+      }
+    ]
+  },
+  "review_previews": [
+    {
+      "pose": 1,
+      "image": "previews_textured/pose1.png",
+      "contact_gap": -3.908586787559898e-10,
+      "camera_to_world_blender": [
+        [
+          0.7071088552474976,
+          -0.2761710584163666,
+          0.6509423851966858,
+          1.8082695007324219
+        ],
+        [
+          0.7071088552474976,
+          0.2761710584163666,
+          -0.6509423851966858,
+          -1.8164072036743164
+        ],
+        [
+          0.0,
+          0.9205702543258667,
+          0.3905653953552246,
+          1.8081741333007812
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "pose": 2,
+      "image": "previews_textured/pose2.png",
+      "contact_gap": -1.4901161193847656e-08,
+      "camera_to_world_blender": [
+        [
+          0.7071088552474976,
+          -0.27617108821868896,
+          0.6509423851966858,
+          2.806023597717285
+        ],
+        [
+          0.7071088552474976,
+          0.27617108821868896,
+          -0.6509423851966858,
+          -0.3874211311340332
+        ],
+        [
+          0.0,
+          0.9205702543258667,
+          0.390565425157547,
+          1.5773556232452393
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "pose": 3,
+      "image": "previews_textured/pose3.png",
+      "contact_gap": 2.612613458907731e-10,
+      "camera_to_world_blender": [
+        [
+          0.7071088552474976,
+          -0.27617108821868896,
+          0.6509423851966858,
+          1.036968469619751
+        ],
+        [
+          0.7071088552474976,
+          0.27617108821868896,
+          -0.6509423851966858,
+          -1.185835838317871
+        ],
+        [
+          0.0,
+          0.9205702543258667,
+          0.390565425157547,
+          1.7470636367797852
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    }
+  ],
+  "full_render_started": true,
+  "user_approved_previews": true,
+  "frames_rendered": 120,
+  "background_frames_rendered": 120,
+  "validation": "render_validation.json",
+  "full_render_complete": true
+}

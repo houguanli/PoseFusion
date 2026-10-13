@@ -1,0 +1,4922 @@
+[
+  {
+    "case_id": "figurine_c",
+    "pose": 1,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\000.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.27800445363245
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\001.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.9411935603261
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\002.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.69027947379085
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\003.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.54009065807107
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\004.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.5911602643579
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\005.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.58316057485249
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\006.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.837525779581505
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\007.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.491737621715004
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\008.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.49607551477303
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\009.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.82035677682773
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\010.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.10809863588949
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\011.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.70118533175479
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\012.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.80872606188224
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\013.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.95049782203291
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\014.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.01372932754306
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\015.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.19919584751667
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\016.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.05060915062385
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\017.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.40627353084398
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\018.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.23475657118618
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\019.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.17509660023946
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\020.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.65058776056222
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\021.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.49167866665741
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\022.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.62106610730855
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\023.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.10957841541974
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\024.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.76750296896873
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\025.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 50.788395595597024
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\026.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 50.63971644211506
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\027.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.54602524078887
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\028.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.96962191936795
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\029.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.9581011575699
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\030.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.718146745785745
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose1\\image\\031.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.569925407077825
+      }
+    ]
+  },
+  {
+    "case_id": "figurine_c",
+    "pose": 2,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\000.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.45261584652013
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\001.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.03416678455726
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\002.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 50.7250633038586
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\003.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 49.888830853715135
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\004.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 48.86004577686241
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\005.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 48.42927062751854
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\006.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 48.459525150359774
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\007.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 48.437339868727065
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\008.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 48.34852459703737
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\009.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 48.49439810505251
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\010.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 49.59105659578994
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\011.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 49.49743752299495
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\012.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 49.93013207684765
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\013.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.108443599010435
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\014.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.61130750925287
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\015.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.613852412189914
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\016.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.9686514505425
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\017.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.30217456068691
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\018.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.57525452282418
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\019.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.61825079806266
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\020.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.18596620138483
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\021.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.053494049830334
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\022.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.648595248954265
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\023.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.52357260120261
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\024.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.68542924832721
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\025.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.614997072920616
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\026.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.6422355663702
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\027.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.781321137530476
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\028.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.26730949935768
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\029.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.09274646815364
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\030.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.7348210201296
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose2\\image\\031.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.390933681894744
+      }
+    ]
+  },
+  {
+    "case_id": "figurine_c",
+    "pose": 3,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\000.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.14073765020958
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\001.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 50.65595991283167
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\002.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 50.16164501861972
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\003.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 48.76126988895441
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\004.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 47.701737463442505
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\005.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 47.024096303446065
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\006.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 47.40669598117806
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\007.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 46.87573473228913
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\008.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 48.27266779981496
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\009.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 47.36265676011635
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\010.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 46.74579029642575
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\011.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 46.45133336912885
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\012.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 46.04842355914878
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\013.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 47.05317815101921
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\014.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 49.07007532998691
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\015.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 50.10901035551179
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\016.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.77586848598501
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\017.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.04157102520866
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\018.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.62258097179042
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\019.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.37209518557571
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\020.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.55907661788923
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\021.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.26862285299261
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\022.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.949824631395344
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\023.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.687490739070725
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\024.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.57993066582482
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\025.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.189595223468984
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\026.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.289563104963925
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\027.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.449624548456946
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\028.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.46692935211899
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\029.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.339825467930325
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\030.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.527760324226605
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\CaiWenji_pose3\\image\\031.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.32631728309207
+      }
+    ]
+  },
+  {
+    "case_id": "figurine_d",
+    "pose": 1,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\000.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.465933955128655
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\001.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.133207586302866
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\002.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.68759683137718
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\003.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.04862422420219
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\004.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.962528584890265
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\005.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.05839712809159
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\006.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.756438886945645
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\007.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.31814210572045
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\008.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.38520371969762
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\009.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.03780967322717
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\010.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.25086900212324
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\011.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.07417436717999
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\012.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.35992949302437
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\013.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.7932692074497
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\014.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.702568812398596
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\015.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.98755978263887
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\016.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.962916687312166
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\017.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.55318467514298
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\018.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.56655700623716
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\019.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.353145677426845
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\020.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.54596401565767
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\021.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.291663882643505
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\022.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.89690316202296
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\023.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.22561565864321
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\024.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.7021800910885
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\025.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.13256813722071
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\026.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.72113628245102
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\027.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.0163418781803
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\028.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.5378590794382
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\029.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.994510484804984
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\030.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.067106393035274
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\031.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.293980518535854
+      },
+      {
+        "index": 32,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose1\\image\\032.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.72434514525743
+      }
+    ]
+  },
+  {
+    "case_id": "figurine_d",
+    "pose": 2,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\000.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.443701566454884
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\001.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.9246592389088
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\002.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.500319698120634
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\003.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.020581681441
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\004.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.76776334726723
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\005.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.398429294274365
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\006.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.337691205881704
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\007.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.378648924052264
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\008.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.54932251629038
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\009.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.875829884683554
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\010.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.80808276569276
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\011.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.592318161220014
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\012.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.67109546127409
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\013.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.08631153685665
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\014.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.59853019481522
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\015.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.93729247240835
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\016.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.42762773095496
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\017.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.0355041769369
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\018.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.50439923052578
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\019.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.11182856577077
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\020.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.00245986649489
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\021.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.875073047015135
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\022.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.99251520141575
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\023.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.529804269293955
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\024.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.38659339100053
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\025.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.21711083193773
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\026.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.54967211133632
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\027.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.8268850816351
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\028.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.931506024466096
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\029.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.77704520217971
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\030.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.6326790781583
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose2\\image\\031.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.96765087735882
+      }
+    ]
+  },
+  {
+    "case_id": "figurine_d",
+    "pose": 3,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\000.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.47702323699997
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\001.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.94588116973795
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\002.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.728155997347216
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\003.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.958931239026256
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\004.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.52390535345251
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\005.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.39087096728153
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\006.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.726472890994636
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\007.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.45588868977081
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\008.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.148736418182764
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\009.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.46300781631917
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\010.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.622306939670224
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\011.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.85519732302516
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\012.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.61413855003452
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\013.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.936596605052785
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\014.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.48403065739561
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\015.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.0732320225044
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\016.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.78780252024826
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\017.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.49468625795495
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\018.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.92498119667966
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\019.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.172854230315075
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\020.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.909246916535146
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\021.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.35930754881984
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\022.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.937426837340595
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\023.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.81894665496874
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\024.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.29309944115667
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\025.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.55216775063569
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\026.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.80858013055551
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\027.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.108044941313615
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\028.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.258102478785766
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\029.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.8497011168621
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\030.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.10310146358664
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\031.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.153399680962345
+      },
+      {
+        "index": 32,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Miku_pose3\\image\\032.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.83716805181556
+      }
+    ]
+  },
+  {
+    "case_id": "figurine_e",
+    "pose": 1,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\000.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.87585643981004
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\001.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.36911566858863
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\002.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.608593272242636
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\003.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.34452719736632
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\004.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.94384516995513
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\005.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.52216685350647
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\006.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.15704473575778
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\007.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.608449598231594
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\008.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.50365805597714
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\009.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.29340335205743
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\010.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.412708564973904
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\011.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.65545361684931
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\012.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.30554315895418
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\013.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.733892156736
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\014.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.823093090193666
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\015.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.21580519994567
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\016.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.302609362220494
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\017.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.304819967138506
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\018.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.85358566012365
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\019.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.00834420888366
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\020.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.51525660889365
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\021.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.24034442870559
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\022.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.261176485585366
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\023.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.1531613846223
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\024.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.79099924148981
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\025.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.259424866839254
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\026.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.781011351921535
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\027.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.58495097937081
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\028.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.14721188512904
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\029.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.714693273264764
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\030.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.46046567006341
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose1\\image\\031.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.974952855098515
+      }
+    ]
+  },
+  {
+    "case_id": "figurine_e",
+    "pose": 2,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\000.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.11756744057537
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\001.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.61582436820375
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\002.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.662176093312986
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\003.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.42121494426405
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\004.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.09259735724809
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\005.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.25949637318067
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\006.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.18507915993072
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\007.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.84117834947185
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\008.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.00090041238468
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\009.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.200972696479795
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\010.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.31533503679724
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\011.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.52160068482088
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\012.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.72615803808298
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\013.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.79663880747984
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\014.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.4053900053798
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\015.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.494931615678034
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\016.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.826503789960235
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\017.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.705430745344
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\018.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.49286570088844
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\019.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.42196250148432
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\020.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.57414983662216
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\021.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.76721532392731
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\022.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.699536841270564
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\023.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.47962350247104
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\024.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.15885862867026
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\025.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.79536770310808
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\026.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.38171289222449
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\027.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.872893573842504
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\028.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.25495297301002
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\029.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.900758989455746
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\030.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.357127642576366
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\031.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.30364452426215
+      },
+      {
+        "index": 32,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose2\\image\\032.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.0488726712006
+      }
+    ]
+  },
+  {
+    "case_id": "figurine_e",
+    "pose": 3,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\000.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.46919044157639
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\001.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.04968513088036
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\002.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.799563315094076
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\003.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.10205893738827
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\004.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.29196571537138
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\005.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.2464064581045
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\006.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.173536793094684
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\007.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.27540460131469
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\008.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.76898421923772
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\009.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.443173110151
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\010.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.8589034497008
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\011.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.525260594251186
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\012.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.01136932780753
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\013.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.41811499877372
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\014.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.59845969602325
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\015.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.36047741771415
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\016.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.39326723041342
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\017.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.44833019577844
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\018.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.777870103879145
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\019.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.16050885611627
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\020.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.89898756552589
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\021.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.92033295598317
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\022.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.83854553682273
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\023.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.19951940352214
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\024.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.759613496331006
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\025.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.05524194364894
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\026.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.165927372911106
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\027.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.77245628818477
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\028.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.78027385734911
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\029.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.32147428205836
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\030.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.95995193054295
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Yamada_pose3\\image\\031.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.751035356871
+      }
+    ]
+  },
+  {
+    "case_id": "joystick",
+    "pose": 1,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\000.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 65.95150042614698
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\001.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 64.56555197352021
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\002.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.63958915683313
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\003.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.084265801665865
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\004.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.59386221353003
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\005.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.115407580974136
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\006.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.83205303993332
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\007.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.75192025348215
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\008.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.819054514895726
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\009.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.61258315590306
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\010.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.934229345108704
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\011.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.51466935059345
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\012.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.72665149905575
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\013.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.629792786135916
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\014.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.56842437530565
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\015.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 64.62506759418874
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\016.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.17932818671427
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\017.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.089463905416665
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\018.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.062538661773814
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\019.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.7408024564715
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\020.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.50314230064788
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\021.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.70244524173643
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\022.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.62037329968267
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\023.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.696099176333746
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\024.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.327540557877875
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\025.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.87613972307451
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\026.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.337251084940995
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\027.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.846089814044674
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\028.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.68653231569413
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\029.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.872094736571476
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\030.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.564293140691646
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose1\\image\\031.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.40238375394384
+      }
+    ]
+  },
+  {
+    "case_id": "joystick",
+    "pose": 2,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\000.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 64.33831428693628
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\001.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.62085812335848
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\002.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.308487015934816
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\003.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.539138406724106
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\004.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.65809971958285
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\005.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.86514955286419
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\006.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.45564379821042
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\007.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.02988966151185
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\008.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.37069000902658
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\009.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.78811648583673
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\010.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.695406716568534
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\011.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.511057127523905
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\012.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.91696820247884
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\013.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.44523428603711
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\014.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.34057775255646
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\015.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 63.673224461338705
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\016.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.81148198573404
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\017.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.43733585678313
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\018.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.217065735981585
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\019.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.87895755050645
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\020.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.165285827471976
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\021.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.2447393928285
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\022.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.04541377681541
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\023.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.3275337460469
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\024.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.35748901247366
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\025.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.902363720837144
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\026.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.779271867590694
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\027.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.405378994099706
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\028.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.25240414002454
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\029.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.792252182794506
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\030.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.17125493482459
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose2\\image\\031.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.20534943235605
+      }
+    ]
+  },
+  {
+    "case_id": "joystick",
+    "pose": 3,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\000.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.84343517308715
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\001.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.84285169241202
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\002.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.99058738333754
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\003.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.70617459091809
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\004.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.30976990421143
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\005.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.17430491772398
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\006.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.3245301897937
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\007.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.90139058837232
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\008.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 62.03015367584936
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\009.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 61.21127027444674
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\010.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.466389279336504
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\011.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.54787374912297
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\012.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.72729052660276
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\013.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.9152944438632
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\014.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.16674229517214
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\015.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.029370021858725
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\016.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.97827002560837
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\017.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.869857548333115
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\018.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.631576789826994
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\019.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.99469411755905
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\020.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.44977393167905
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\021.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.52611095953449
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\022.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.89318227247296
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\023.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.863305351924375
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\024.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.96415143830491
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\025.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.123491936142145
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\026.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.579063473966166
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\027.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.26729721688539
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\028.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.67452911854609
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\029.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.94497608713663
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\030.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.39742949689387
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Joystick_pose3\\image\\031.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.678380465783015
+      }
+    ]
+  },
+  {
+    "case_id": "airplane",
+    "pose": 1,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\000.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.08659771240242
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\001.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.83631664868276
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\002.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.08042608140983
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\003.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.044903426346
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\004.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.41512081204922
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\005.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.92821633222546
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\006.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.5837354868302
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\007.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.06056105375545
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\008.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.1915450297461
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\009.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.866505597869896
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\010.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.91425176780534
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\011.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.22933704043027
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\012.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.30707183579837
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\013.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.376393051016116
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\014.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.26096284696037
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\015.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.67892973542497
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\016.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.795224968625696
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\017.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.992103279277266
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\018.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.32025616077899
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\019.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.877755991516445
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\020.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.7191804227956
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\021.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.114580654506376
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\022.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.058651629662634
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\023.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.75389472261337
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\024.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.93599094536369
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\025.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.98405610394555
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\026.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.02746496803869
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\027.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.98517668570876
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\028.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.131842132197974
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\029.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.217340656585826
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\030.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.34216699632706
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose1\\image\\031.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.715467049075116
+      }
+    ]
+  },
+  {
+    "case_id": "airplane",
+    "pose": 2,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\000.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.62096556555661
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\001.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.36345456592465
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\002.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.63304621227772
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\003.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.20880035486154
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\004.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.25737579795721
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\005.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.0606909125075
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\006.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 55.321100924513
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\007.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.69942297499719
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\008.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.6424992171716
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\009.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.57618584797659
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\010.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.90441652130119
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\011.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.84729039161118
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\012.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.64797970019141
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\013.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.35633059411327
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\014.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.73294619954925
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\015.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.830923604589216
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\016.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.988032556561976
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\017.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.86538477599773
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\018.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.252651506918326
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\019.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.458516187095015
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\020.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.273239936416665
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\021.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.56989967752836
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\022.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.60160676590052
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\023.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.11671732991772
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\024.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.13825825058263
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\025.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.3875659868035
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\026.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.4767788692783
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\027.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.751960572237984
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\028.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.50386942430681
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\029.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.20977638249386
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\030.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.54294627205254
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose2\\image\\031.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.66270616075319
+      }
+    ]
+  },
+  {
+    "case_id": "airplane",
+    "pose": 3,
+    "frames": [
+      {
+        "index": 0,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\000.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.16482973995787
+      },
+      {
+        "index": 1,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\001.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.98101636484803
+      },
+      {
+        "index": 2,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\002.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.41673598834877
+      },
+      {
+        "index": 3,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\003.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.86588072432093
+      },
+      {
+        "index": 4,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\004.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.51348603206964
+      },
+      {
+        "index": 5,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\005.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.49596843170761
+      },
+      {
+        "index": 6,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\006.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.32353527421088
+      },
+      {
+        "index": 7,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\007.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.78788771189156
+      },
+      {
+        "index": 8,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\008.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.322411277216425
+      },
+      {
+        "index": 9,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\009.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.180191279313625
+      },
+      {
+        "index": 10,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\010.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.315868663607205
+      },
+      {
+        "index": 11,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\011.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 57.59857356565535
+      },
+      {
+        "index": 12,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\012.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 53.94370455797774
+      },
+      {
+        "index": 13,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\013.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 51.56938327090695
+      },
+      {
+        "index": 14,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\014.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 52.2424328617594
+      },
+      {
+        "index": 15,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\015.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 54.25288701839013
+      },
+      {
+        "index": 16,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\016.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 56.82693482369524
+      },
+      {
+        "index": 17,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\017.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.02374355354282
+      },
+      {
+        "index": 18,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\018.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.65820575116831
+      },
+      {
+        "index": 19,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\019.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.5687729279094
+      },
+      {
+        "index": 20,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\020.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.02439217150352
+      },
+      {
+        "index": 21,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\021.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.27447253755292
+      },
+      {
+        "index": 22,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\022.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.341446383191105
+      },
+      {
+        "index": 23,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\023.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.09499594355811
+      },
+      {
+        "index": 24,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\024.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 58.93739670676688
+      },
+      {
+        "index": 25,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\025.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.64460065760284
+      },
+      {
+        "index": 26,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\026.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.679167542932205
+      },
+      {
+        "index": 27,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\027.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.11418642414662
+      },
+      {
+        "index": 28,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\028.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.50787436751561
+      },
+      {
+        "index": 29,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\029.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 60.033433633911585
+      },
+      {
+        "index": 30,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\030.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.63380113264313
+      },
+      {
+        "index": 31,
+        "source": "E:\\PoseFusionExp\\real_world\\All_dataset_calibrated\\Plane_pose3\\image\\031.png",
+        "crop_xy": [
+          18,
+          438
+        ],
+        "foreground_mean_abs_error": 0.0,
+        "background_std": 59.00310814701843
+      }
+    ]
+  }
+]

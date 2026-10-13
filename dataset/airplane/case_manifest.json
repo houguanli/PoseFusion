@@ -1,0 +1,1009 @@
+{
+  "case_id": "airplane",
+  "paper_label": "Airplane",
+  "domain": "real",
+  "status": "complete_background",
+  "poses": [
+    {
+      "pose": 1,
+      "image_count": 32,
+      "background_image_count": 32,
+      "source_background_directory": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image",
+      "camera_sha256": "0d087a6f7da2036f3905b6a89ac2914a4a49f0a9a917101be8b577af789ff4d0",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose1/image/000.png",
+          "mask": "pose1/mask/000.png",
+          "image_sha256": "f686680321cc0abc8af180aa1636163fa3991281039915fc53c62cd184769c30",
+          "mask_sha256": "dfd4fd538117a86eb59784b68e51fd88f72b8b02a78b144ac9ed3e4bafda27ff",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/000.png",
+          "source_background_sha256": "f686680321cc0abc8af180aa1636163fa3991281039915fc53c62cd184769c30",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 1,
+          "image": "pose1/image/001.png",
+          "mask": "pose1/mask/001.png",
+          "image_sha256": "2bceebc666d006384a35413d63832fb2bd423158ace9a8f2746e6595facc8b49",
+          "mask_sha256": "d0e719acb478d70c7832b40ad53f9ee420227fbe93c0a7296189feca7c8e5b39",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/001.png",
+          "source_background_sha256": "2bceebc666d006384a35413d63832fb2bd423158ace9a8f2746e6595facc8b49",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 2,
+          "image": "pose1/image/002.png",
+          "mask": "pose1/mask/002.png",
+          "image_sha256": "aa022e116146b56f727520ad43c4c922c2fbc5ae160fbee94ffb452e93fcc372",
+          "mask_sha256": "ac4f7ba87d185adcb5ab8bba1814bc44c6fa2530bb35caf51aacd2d1fb772a2e",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/002.png",
+          "source_background_sha256": "aa022e116146b56f727520ad43c4c922c2fbc5ae160fbee94ffb452e93fcc372",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 3,
+          "image": "pose1/image/003.png",
+          "mask": "pose1/mask/003.png",
+          "image_sha256": "6daa3c2339e2a2e7555c249237e7f0bc04577bc9b545133499f60a7bbb0baa6d",
+          "mask_sha256": "391381591143b2e041bee4879aba3829273143466534ac9100982e75716d2af0",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/003.png",
+          "source_background_sha256": "6daa3c2339e2a2e7555c249237e7f0bc04577bc9b545133499f60a7bbb0baa6d",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 4,
+          "image": "pose1/image/004.png",
+          "mask": "pose1/mask/004.png",
+          "image_sha256": "6ec9ef052f21b2716c7c83a3abbfa43a7dd3e18bde1d8c770bfe120b33184e65",
+          "mask_sha256": "34db70f420d000abacfbdc3a01ee2a6593cb6595e5de4837c4e81204fb37a9a3",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/004.png",
+          "source_background_sha256": "6ec9ef052f21b2716c7c83a3abbfa43a7dd3e18bde1d8c770bfe120b33184e65",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 5,
+          "image": "pose1/image/005.png",
+          "mask": "pose1/mask/005.png",
+          "image_sha256": "f98761f0b354ff69ac6a4190b6f00fa6c09fe9269c6a7326007995425b8743bf",
+          "mask_sha256": "7761ace8beed8abd2ca187fab56d70ed6b2808f494c6690e55792fc3bdd59ad1",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/005.png",
+          "source_background_sha256": "f98761f0b354ff69ac6a4190b6f00fa6c09fe9269c6a7326007995425b8743bf",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 6,
+          "image": "pose1/image/006.png",
+          "mask": "pose1/mask/006.png",
+          "image_sha256": "e329766555d8a75a797b51417d12357780ac3473d5c528abdd0bf8e1137512c4",
+          "mask_sha256": "f3c40c49286def0e7e62264d810da0c7776526b46671f5c23a1a5664af8e089b",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/006.png",
+          "source_background_sha256": "e329766555d8a75a797b51417d12357780ac3473d5c528abdd0bf8e1137512c4",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 7,
+          "image": "pose1/image/007.png",
+          "mask": "pose1/mask/007.png",
+          "image_sha256": "e3089d34eb96b4173b91d6d1cdb5727cbf6d20b76d1715841c347a90f5cd16da",
+          "mask_sha256": "a67f06ba0f49fb16c37679fcb69a2072c728d1e6274f1bb1b365b47f93adce84",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/007.png",
+          "source_background_sha256": "e3089d34eb96b4173b91d6d1cdb5727cbf6d20b76d1715841c347a90f5cd16da",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 8,
+          "image": "pose1/image/008.png",
+          "mask": "pose1/mask/008.png",
+          "image_sha256": "c0223b6347d9de000f7d4a2f3217eabe5fb5c39d6398908b43ce99171e53f61e",
+          "mask_sha256": "d8dcdabf4e9d9067f8c79d1adfde668a93cb84a167b9c740a94e29fc818e5af6",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/008.png",
+          "source_background_sha256": "c0223b6347d9de000f7d4a2f3217eabe5fb5c39d6398908b43ce99171e53f61e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 9,
+          "image": "pose1/image/009.png",
+          "mask": "pose1/mask/009.png",
+          "image_sha256": "269b46f35a8edd04a7a568018011c0c73c4e653310ef0204dc5d37c0356bb259",
+          "mask_sha256": "eee48e96b091fc533aec89db6ad0da3ec06655d332535bae818fd6273f18461a",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/009.png",
+          "source_background_sha256": "269b46f35a8edd04a7a568018011c0c73c4e653310ef0204dc5d37c0356bb259",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 10,
+          "image": "pose1/image/010.png",
+          "mask": "pose1/mask/010.png",
+          "image_sha256": "37d08854e62b85749634cbda5c4b8027f2f0a0df379f112deee19dcd88743450",
+          "mask_sha256": "904e338e381f99d178daae6bebc05734106a5c798c19c9f8806d09e780a05daa",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/010.png",
+          "source_background_sha256": "37d08854e62b85749634cbda5c4b8027f2f0a0df379f112deee19dcd88743450",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 11,
+          "image": "pose1/image/011.png",
+          "mask": "pose1/mask/011.png",
+          "image_sha256": "65ea550757d30941bb7037bd7e03606dd6016624ac7274c85803eab748d64731",
+          "mask_sha256": "ea24aaf84c0f811847aa698c8b108d641f416e1275d62b0feb5e30aeb5ce669b",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/011.png",
+          "source_background_sha256": "65ea550757d30941bb7037bd7e03606dd6016624ac7274c85803eab748d64731",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 12,
+          "image": "pose1/image/012.png",
+          "mask": "pose1/mask/012.png",
+          "image_sha256": "bc8e5fdef40130fcf3e97ab9887cacd0f6f14bad4526ac3774ea064532ee77bb",
+          "mask_sha256": "06cfba392237f3d851e119eaa9f366c473800548e21fbad08e82b5d3eee6b478",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/012.png",
+          "source_background_sha256": "bc8e5fdef40130fcf3e97ab9887cacd0f6f14bad4526ac3774ea064532ee77bb",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 13,
+          "image": "pose1/image/013.png",
+          "mask": "pose1/mask/013.png",
+          "image_sha256": "660a00eef9aea17fcbc85d5907f98e533acedea9c2947bcf51306da6dc4ebbac",
+          "mask_sha256": "2b25dc0971691da60281747164f4aec50afd3facd8fb9c56973c97f812cdea9b",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/013.png",
+          "source_background_sha256": "660a00eef9aea17fcbc85d5907f98e533acedea9c2947bcf51306da6dc4ebbac",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 14,
+          "image": "pose1/image/014.png",
+          "mask": "pose1/mask/014.png",
+          "image_sha256": "2222f353a2d7a618da35d0baa5e810f2f8d08dcec23c9a44aa4e27226d1e0b4b",
+          "mask_sha256": "ff92955be91accc0cbcde1b23ae5f1fc8843430c18e78c8adda77e3b0120fe27",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/014.png",
+          "source_background_sha256": "2222f353a2d7a618da35d0baa5e810f2f8d08dcec23c9a44aa4e27226d1e0b4b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 15,
+          "image": "pose1/image/015.png",
+          "mask": "pose1/mask/015.png",
+          "image_sha256": "5041641c585e103520dfc015fd3e2405bdc4dd6505005ba1e3d3d676ffd24a3f",
+          "mask_sha256": "c95acaeaae680ab95801cf035c50dbf0eb812b6fc8172e64f28876c8d7fd2846",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/015.png",
+          "source_background_sha256": "5041641c585e103520dfc015fd3e2405bdc4dd6505005ba1e3d3d676ffd24a3f",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 16,
+          "image": "pose1/image/016.png",
+          "mask": "pose1/mask/016.png",
+          "image_sha256": "d125352a230388d67a48ce20727b7e0506aa234ada7698648ce468a2415af74f",
+          "mask_sha256": "8366279616c215d4864b14686c14f573af36a9eb87af7ea7d18d8db26fd46355",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/016.png",
+          "source_background_sha256": "d125352a230388d67a48ce20727b7e0506aa234ada7698648ce468a2415af74f",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 17,
+          "image": "pose1/image/017.png",
+          "mask": "pose1/mask/017.png",
+          "image_sha256": "7b20ea324d71e4c38982571548a29b26982f09fb8023d3f0ce39bc8a7bf426d3",
+          "mask_sha256": "b79928b4c0b03c76f11b14e64d70ba3d72df089cf5aa76bd3d03a8aebe658564",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/017.png",
+          "source_background_sha256": "7b20ea324d71e4c38982571548a29b26982f09fb8023d3f0ce39bc8a7bf426d3",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 18,
+          "image": "pose1/image/018.png",
+          "mask": "pose1/mask/018.png",
+          "image_sha256": "ad1a8bbd92df7c811715d95ec4f34510837c270f3f2af1a1c95ad5c2511655fe",
+          "mask_sha256": "479be9c391e15574f511cb86f2f6dc13999d8c625ab62f4d5b765837cd58d6e3",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/018.png",
+          "source_background_sha256": "ad1a8bbd92df7c811715d95ec4f34510837c270f3f2af1a1c95ad5c2511655fe",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 19,
+          "image": "pose1/image/019.png",
+          "mask": "pose1/mask/019.png",
+          "image_sha256": "22bb4b3ac370606a854fcf03ed04015eac317f9fade30f4104c0d7fe31d8ca25",
+          "mask_sha256": "4aa375c04d0114e37b83d8bc5ccad6a418032433d185582b09cc629d238e5461",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/019.png",
+          "source_background_sha256": "22bb4b3ac370606a854fcf03ed04015eac317f9fade30f4104c0d7fe31d8ca25",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 20,
+          "image": "pose1/image/020.png",
+          "mask": "pose1/mask/020.png",
+          "image_sha256": "7e73995b44312aa000f64a18e546fb5331fedb9be882b0230b043dda95f03182",
+          "mask_sha256": "031cb3afd95d64921d8917ac599db4bd9508eecd8fdabce2282b306e0ee7c776",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/020.png",
+          "source_background_sha256": "7e73995b44312aa000f64a18e546fb5331fedb9be882b0230b043dda95f03182",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 21,
+          "image": "pose1/image/021.png",
+          "mask": "pose1/mask/021.png",
+          "image_sha256": "fafe9dc2acac7afad9705cc0cb0cda73076c809ebc1daa3e99bbdc37b21308a9",
+          "mask_sha256": "a34e21f41c2da85612255df542d56fb77f287f8e7064c380394ab28bdccfb86a",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/021.png",
+          "source_background_sha256": "fafe9dc2acac7afad9705cc0cb0cda73076c809ebc1daa3e99bbdc37b21308a9",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 22,
+          "image": "pose1/image/022.png",
+          "mask": "pose1/mask/022.png",
+          "image_sha256": "4772bfd5cb4d8c5046b6823d4664f70821d8f40818d0a6828ebca89bbe93b02c",
+          "mask_sha256": "3302c167e5d8e4ba569df4f06f15201d15c774fc47b45d1c064a24c29626a1c1",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/022.png",
+          "source_background_sha256": "4772bfd5cb4d8c5046b6823d4664f70821d8f40818d0a6828ebca89bbe93b02c",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 23,
+          "image": "pose1/image/023.png",
+          "mask": "pose1/mask/023.png",
+          "image_sha256": "19fd148e97c30fe17f4e2b3371e2117ea2984c8d11c409e822b24fb1e7996429",
+          "mask_sha256": "39db33c4321ce850ee37610cf20cf50b717d883de093ab561bffd3de5f1c69fe",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/023.png",
+          "source_background_sha256": "19fd148e97c30fe17f4e2b3371e2117ea2984c8d11c409e822b24fb1e7996429",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 24,
+          "image": "pose1/image/024.png",
+          "mask": "pose1/mask/024.png",
+          "image_sha256": "00d365572a4019bee083a65fd9221f5b4adeec6e82f9e74496c08abea4e1b9e4",
+          "mask_sha256": "c2fabe999fa4fce2c0d537efa12888297f2f5c731b5e6c3e5e33255dd89971da",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/024.png",
+          "source_background_sha256": "00d365572a4019bee083a65fd9221f5b4adeec6e82f9e74496c08abea4e1b9e4",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 25,
+          "image": "pose1/image/025.png",
+          "mask": "pose1/mask/025.png",
+          "image_sha256": "52ac9e1c827e8660779eb8287bfdb6c0c692306e203bac43fedee62f01ea645e",
+          "mask_sha256": "9361cf49ab8f0938be29655ea4e41e6d1c484060b5546f7413945477813d7254",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/025.png",
+          "source_background_sha256": "52ac9e1c827e8660779eb8287bfdb6c0c692306e203bac43fedee62f01ea645e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 26,
+          "image": "pose1/image/026.png",
+          "mask": "pose1/mask/026.png",
+          "image_sha256": "8792ed58956a0933d05e616a9a4396b146de84bd656946400d7ba41c44b21469",
+          "mask_sha256": "5e0c9f24492179bfbfc74fb5c5c49eaf3b44d79d4dc2164521ef15c335e5448e",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/026.png",
+          "source_background_sha256": "8792ed58956a0933d05e616a9a4396b146de84bd656946400d7ba41c44b21469",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 27,
+          "image": "pose1/image/027.png",
+          "mask": "pose1/mask/027.png",
+          "image_sha256": "f4cc8cc087848ef475b973ce93b599e98fbbd615481c46b2bb42db6e3fe3bd8a",
+          "mask_sha256": "5ab91277f5e4fe3e3a34b25c86d746aa54825c38b828d4b92a35964dbb5f0cfb",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/027.png",
+          "source_background_sha256": "f4cc8cc087848ef475b973ce93b599e98fbbd615481c46b2bb42db6e3fe3bd8a",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 28,
+          "image": "pose1/image/028.png",
+          "mask": "pose1/mask/028.png",
+          "image_sha256": "4c35df10a6b0e53e0f0664ec2030ac262f4005a24e4f61f0f84dff18a81fab98",
+          "mask_sha256": "6b2202aa4271ea411436769367d6c94d168fd303246ac39f93756c1a2d8c8eb5",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/028.png",
+          "source_background_sha256": "4c35df10a6b0e53e0f0664ec2030ac262f4005a24e4f61f0f84dff18a81fab98",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 29,
+          "image": "pose1/image/029.png",
+          "mask": "pose1/mask/029.png",
+          "image_sha256": "88622d54ab13a098f0e2878ec81a1fe9556fb5476a857b1ff5291e17f7d933e3",
+          "mask_sha256": "4ab488eb0366b018db1d9db5d7d5db322df3bb5f35d092027f3e5d36004dec87",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/029.png",
+          "source_background_sha256": "88622d54ab13a098f0e2878ec81a1fe9556fb5476a857b1ff5291e17f7d933e3",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 30,
+          "image": "pose1/image/030.png",
+          "mask": "pose1/mask/030.png",
+          "image_sha256": "c569471f58893846922b5fe0e084b2cadb896c5d45fe66f3f986d244b5d35039",
+          "mask_sha256": "89e0c09274a551adff3f56906ca6ccf82b2da37f075bbc4802e9bae5f06b5928",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/030.png",
+          "source_background_sha256": "c569471f58893846922b5fe0e084b2cadb896c5d45fe66f3f986d244b5d35039",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 31,
+          "image": "pose1/image/031.png",
+          "mask": "pose1/mask/031.png",
+          "image_sha256": "c913909a3125c911a5a61da6e4ff2254188a691c87df669e26f09df424a2c56b",
+          "mask_sha256": "73fc422735d5ec9c40dc188e80011ca2c814d3131ca0812ed8d719936490f25e",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose1/image/031.png",
+          "source_background_sha256": "c913909a3125c911a5a61da6e4ff2254188a691c87df669e26f09df424a2c56b",
+          "retained_copy_matches_pre_move_manifest": true
+        }
+      ],
+      "dimensions": {
+        "1024x1024 RGB": 32
+      }
+    },
+    {
+      "pose": 2,
+      "image_count": 32,
+      "background_image_count": 32,
+      "source_background_directory": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image",
+      "camera_sha256": "21a47582bb5715568c9a759989e8556191846928599e9069f42067152ef96e6b",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose2/image/000.png",
+          "mask": "pose2/mask/000.png",
+          "image_sha256": "7ef922426c59cc4f29be4f4a99fb483ed0e453e07c71b12c2c11d48146c5a425",
+          "mask_sha256": "58b315ff1efbbb9aede74eeb43d5ec2d69460c947d32a72795cbff4a81750890",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/000.png",
+          "source_background_sha256": "7ef922426c59cc4f29be4f4a99fb483ed0e453e07c71b12c2c11d48146c5a425",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 1,
+          "image": "pose2/image/001.png",
+          "mask": "pose2/mask/001.png",
+          "image_sha256": "08edd227c4d1cc3cc7ebdbd2b8921a8beaccdf8fca60d294287b1d4f1c1f2082",
+          "mask_sha256": "4d9542e07a149aea70cc66ad0dba4ea7987377718a940624d8621233ca5defb8",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/001.png",
+          "source_background_sha256": "08edd227c4d1cc3cc7ebdbd2b8921a8beaccdf8fca60d294287b1d4f1c1f2082",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 2,
+          "image": "pose2/image/002.png",
+          "mask": "pose2/mask/002.png",
+          "image_sha256": "693c42a15b1b619574cbd0f7da540216f897b9f8a01a30b0c5aff672dd97d151",
+          "mask_sha256": "48d5adfe1a6f2c13509ed3bceb73ff9d9ea035927ee8ef48f96bde1056a73f68",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/002.png",
+          "source_background_sha256": "693c42a15b1b619574cbd0f7da540216f897b9f8a01a30b0c5aff672dd97d151",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 3,
+          "image": "pose2/image/003.png",
+          "mask": "pose2/mask/003.png",
+          "image_sha256": "b188e3a47a11dc048f09151662433c944519b4292a8e19ee842abe3b3a833fa0",
+          "mask_sha256": "5c10cdb57df2a716f75b1ec6ed71e756e75b6db6852907137d5ef51c0c470779",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/003.png",
+          "source_background_sha256": "b188e3a47a11dc048f09151662433c944519b4292a8e19ee842abe3b3a833fa0",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 4,
+          "image": "pose2/image/004.png",
+          "mask": "pose2/mask/004.png",
+          "image_sha256": "f0f5701244f941c0bd40109beaeace71728b24ae75b8d45731d4f7487790a926",
+          "mask_sha256": "81ce7f43003e9e5205dcfbbb9d49599f0bae60173d5ea8376c3ed0d282c91f54",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/004.png",
+          "source_background_sha256": "f0f5701244f941c0bd40109beaeace71728b24ae75b8d45731d4f7487790a926",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 5,
+          "image": "pose2/image/005.png",
+          "mask": "pose2/mask/005.png",
+          "image_sha256": "2fed9dbb77fe77db75c6df3019f4f7b2d53af16679e3e0d0d619a6125a2986d5",
+          "mask_sha256": "4b6705fb6a84d38313e3d89d742c39baf4f0ce8b96f4a9c14d451bb29ec2a1e5",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/005.png",
+          "source_background_sha256": "2fed9dbb77fe77db75c6df3019f4f7b2d53af16679e3e0d0d619a6125a2986d5",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 6,
+          "image": "pose2/image/006.png",
+          "mask": "pose2/mask/006.png",
+          "image_sha256": "d02adc83d8f54a51e875565084794bfed8124e4d552def4a2be1bde6607e6795",
+          "mask_sha256": "b9003e84d81b9fc4aa15e8be66893b38600e797c737f992946227d5edbf0cb86",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/006.png",
+          "source_background_sha256": "d02adc83d8f54a51e875565084794bfed8124e4d552def4a2be1bde6607e6795",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 7,
+          "image": "pose2/image/007.png",
+          "mask": "pose2/mask/007.png",
+          "image_sha256": "1d01b811a530e7710e75c7f46be8244166cc5c578c6914a3b4fc26b9e7417ae7",
+          "mask_sha256": "b12c83515710d3d799a6e4d9fd2ad3a07c1bb1b41159395f2bc6842b9929fc66",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/007.png",
+          "source_background_sha256": "1d01b811a530e7710e75c7f46be8244166cc5c578c6914a3b4fc26b9e7417ae7",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 8,
+          "image": "pose2/image/008.png",
+          "mask": "pose2/mask/008.png",
+          "image_sha256": "9b3a9cc727dc8d2dca8ed95fa8f6117509a5f457b2699aef935f11b83701dd2d",
+          "mask_sha256": "fef943941a8504f46bbe0a69f8adac3543c693d620b4c481b074b3898bc292f2",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/008.png",
+          "source_background_sha256": "9b3a9cc727dc8d2dca8ed95fa8f6117509a5f457b2699aef935f11b83701dd2d",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 9,
+          "image": "pose2/image/009.png",
+          "mask": "pose2/mask/009.png",
+          "image_sha256": "3e7913bff0d51f1a9f35d66565a7ff3d3476353c474e7a802c0c26e08cf3fa5d",
+          "mask_sha256": "823455c0cab8b0c7402ee8efa3128a9c1c50811e817ad0d0b4423ad66ef2de60",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/009.png",
+          "source_background_sha256": "3e7913bff0d51f1a9f35d66565a7ff3d3476353c474e7a802c0c26e08cf3fa5d",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 10,
+          "image": "pose2/image/010.png",
+          "mask": "pose2/mask/010.png",
+          "image_sha256": "16923dc7fd9d3f7bda23dfe74a7de74e3414da99c500ea514858089b18829fce",
+          "mask_sha256": "da9891435ab819450f5985c5874bc22ce03d0189880a5fdad043ee900630c2a9",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/010.png",
+          "source_background_sha256": "16923dc7fd9d3f7bda23dfe74a7de74e3414da99c500ea514858089b18829fce",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 11,
+          "image": "pose2/image/011.png",
+          "mask": "pose2/mask/011.png",
+          "image_sha256": "0b2d1788e5f23e40e4197ba83bf458a93a03925c725b9d664c75c306102531dc",
+          "mask_sha256": "ca70f55f0ee53442705b73efb80fee1ad39fd77163a65819f39e7c138ba8eb5f",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/011.png",
+          "source_background_sha256": "0b2d1788e5f23e40e4197ba83bf458a93a03925c725b9d664c75c306102531dc",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 12,
+          "image": "pose2/image/012.png",
+          "mask": "pose2/mask/012.png",
+          "image_sha256": "95391a3e20fbac72face5e6e4f607c0532457c8703b1334e3f1c03593aaf0221",
+          "mask_sha256": "108ebe108b83a3f9572b287b51e0f2f44837415682301959e93f61d985f488a6",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/012.png",
+          "source_background_sha256": "95391a3e20fbac72face5e6e4f607c0532457c8703b1334e3f1c03593aaf0221",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 13,
+          "image": "pose2/image/013.png",
+          "mask": "pose2/mask/013.png",
+          "image_sha256": "21d74c61efc83eceb2b88d6dd80dea8c83a4c19df03d2b4da238c1f77e7ee539",
+          "mask_sha256": "12e24fe982e960aad14aaef72b8e9be8b538ab58a4ec1b8fe04aad0c3064b138",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/013.png",
+          "source_background_sha256": "21d74c61efc83eceb2b88d6dd80dea8c83a4c19df03d2b4da238c1f77e7ee539",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 14,
+          "image": "pose2/image/014.png",
+          "mask": "pose2/mask/014.png",
+          "image_sha256": "cba39a7823de9893d06124b309fb3efa9119b0307d490264d67fad7783438e88",
+          "mask_sha256": "01085ac8b0847fd55b8ea5ac2fc7f66398b3c4d1240a75c74588fcb113383863",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/014.png",
+          "source_background_sha256": "cba39a7823de9893d06124b309fb3efa9119b0307d490264d67fad7783438e88",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 15,
+          "image": "pose2/image/015.png",
+          "mask": "pose2/mask/015.png",
+          "image_sha256": "4ba832f4bd491c52ab2db8fb0707ec812b48e48c7a0a0ba250d23750e913ef7a",
+          "mask_sha256": "f42a2ec6ccecd70fc2d8706010ca572fd814a3947b92ac1132ce1a2198323a30",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/015.png",
+          "source_background_sha256": "4ba832f4bd491c52ab2db8fb0707ec812b48e48c7a0a0ba250d23750e913ef7a",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 16,
+          "image": "pose2/image/016.png",
+          "mask": "pose2/mask/016.png",
+          "image_sha256": "d100b7ed8210326b0ea6fd12b934fdfb44469fa63700edfce7416f3464757622",
+          "mask_sha256": "6c8430aa36c5aecefc8b9736cb97df11ca007724175c66c1e75936bb63e2a95e",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/016.png",
+          "source_background_sha256": "d100b7ed8210326b0ea6fd12b934fdfb44469fa63700edfce7416f3464757622",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 17,
+          "image": "pose2/image/017.png",
+          "mask": "pose2/mask/017.png",
+          "image_sha256": "2336743df7a3865e03d414bb6bcde075b9871bcf79b92d4f47a8aadfd54fc51c",
+          "mask_sha256": "a78240140c176dbbf06724fd9838f77d2c229e77bd68296a6b4f7734c6b1616d",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/017.png",
+          "source_background_sha256": "2336743df7a3865e03d414bb6bcde075b9871bcf79b92d4f47a8aadfd54fc51c",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 18,
+          "image": "pose2/image/018.png",
+          "mask": "pose2/mask/018.png",
+          "image_sha256": "c6cdc31cafa103c0724bae9a1167d2471b229701f81e036eebd0d235d03e6133",
+          "mask_sha256": "e8b0150931e2b8bacd33830712ccf803bdc906c77207fbceba2fa26d012e0a9f",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/018.png",
+          "source_background_sha256": "c6cdc31cafa103c0724bae9a1167d2471b229701f81e036eebd0d235d03e6133",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 19,
+          "image": "pose2/image/019.png",
+          "mask": "pose2/mask/019.png",
+          "image_sha256": "c45785ce8a6c36dd350902d1f51863f7228569579cb69ad1485046968c845913",
+          "mask_sha256": "39dbcdfe59563ddd9348f2fc41f01b626cbc7d4b7eea5c10a91bd3aafbf50f1d",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/019.png",
+          "source_background_sha256": "c45785ce8a6c36dd350902d1f51863f7228569579cb69ad1485046968c845913",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 20,
+          "image": "pose2/image/020.png",
+          "mask": "pose2/mask/020.png",
+          "image_sha256": "8e22520c0a9ec1bb7d43964baf8459deee74a3cbcd386d96567b1d9714ef8cad",
+          "mask_sha256": "40e753b9b1f4bba99b41c787e5396d54ddb260d36218d5a93795fa84b2e1eb28",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/020.png",
+          "source_background_sha256": "8e22520c0a9ec1bb7d43964baf8459deee74a3cbcd386d96567b1d9714ef8cad",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 21,
+          "image": "pose2/image/021.png",
+          "mask": "pose2/mask/021.png",
+          "image_sha256": "6a3aa7c431f2c56968fa1d1e9a47fbd9ad8a0d3fb75cca324fe1730b2c275786",
+          "mask_sha256": "d4bc2046b0773b8b574de3ed83c71938b6daf0dadf453c27f587e9d5b00ea1b6",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/021.png",
+          "source_background_sha256": "6a3aa7c431f2c56968fa1d1e9a47fbd9ad8a0d3fb75cca324fe1730b2c275786",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 22,
+          "image": "pose2/image/022.png",
+          "mask": "pose2/mask/022.png",
+          "image_sha256": "6b31b77c52282e4353ce04ee645931d5bbc56a47899f9172d11d62753a034f38",
+          "mask_sha256": "eaa728a3629a76be65cc995f097faae7d9b2fcfdb0fd4e19c218afa4f05b39b8",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/022.png",
+          "source_background_sha256": "6b31b77c52282e4353ce04ee645931d5bbc56a47899f9172d11d62753a034f38",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 23,
+          "image": "pose2/image/023.png",
+          "mask": "pose2/mask/023.png",
+          "image_sha256": "04340237d47e4d56b9bf8fe13c73fc78935ad45287bd3d3df0a4d99f444bbb50",
+          "mask_sha256": "5c57d5259ece79ed2a6abf5cd19cb691fff9be91c79e75b1b2e460ba518843f2",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/023.png",
+          "source_background_sha256": "04340237d47e4d56b9bf8fe13c73fc78935ad45287bd3d3df0a4d99f444bbb50",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 24,
+          "image": "pose2/image/024.png",
+          "mask": "pose2/mask/024.png",
+          "image_sha256": "f617b843c4e6a8b56fa5c3050c9fa9fa1e100e088b916452e568c8cd56907ebf",
+          "mask_sha256": "b7f30cd9d37904432a53c81fc189325a53624ebb6bbe4bf0778d013774832359",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/024.png",
+          "source_background_sha256": "f617b843c4e6a8b56fa5c3050c9fa9fa1e100e088b916452e568c8cd56907ebf",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 25,
+          "image": "pose2/image/025.png",
+          "mask": "pose2/mask/025.png",
+          "image_sha256": "2edfb1194dc57d2163771655a27379d6b93a13c62fab000b4227bcb8e5b658c4",
+          "mask_sha256": "4ced5ccb47531a957465b23a31b687bf5275f4fdfa6dd1e07deffcafce4429ff",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/025.png",
+          "source_background_sha256": "2edfb1194dc57d2163771655a27379d6b93a13c62fab000b4227bcb8e5b658c4",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 26,
+          "image": "pose2/image/026.png",
+          "mask": "pose2/mask/026.png",
+          "image_sha256": "a487d4e65c897d1dffcb54a62fc2072ae0610e67f3883e8b76d927ab050db012",
+          "mask_sha256": "38335d76360e7b043205ca618f32be23518496c9c6e162cd8aa37d8cb71117a2",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/026.png",
+          "source_background_sha256": "a487d4e65c897d1dffcb54a62fc2072ae0610e67f3883e8b76d927ab050db012",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 27,
+          "image": "pose2/image/027.png",
+          "mask": "pose2/mask/027.png",
+          "image_sha256": "ab79b19456d8a8cdcac254257c51f5298603f9957a4d989be56c19880093b842",
+          "mask_sha256": "45e37964a987b8275e9f35e7703bb72cafe0e5bf3f1679258f8fc8e4eb5bd49e",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/027.png",
+          "source_background_sha256": "ab79b19456d8a8cdcac254257c51f5298603f9957a4d989be56c19880093b842",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 28,
+          "image": "pose2/image/028.png",
+          "mask": "pose2/mask/028.png",
+          "image_sha256": "963fbd1d34f8ae44a43c4e69d6462ebb827335d7930174c174721a1267d8d49f",
+          "mask_sha256": "8b15e908116498e004b321c0e487360e04825e17e2b67b60ff6e1d28217bd581",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/028.png",
+          "source_background_sha256": "963fbd1d34f8ae44a43c4e69d6462ebb827335d7930174c174721a1267d8d49f",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 29,
+          "image": "pose2/image/029.png",
+          "mask": "pose2/mask/029.png",
+          "image_sha256": "28fa75d2466e7847f13dcd839625cf2a083a22f5bc80f3230acb14956f372f29",
+          "mask_sha256": "8877aa4c8712474310400aceee92ae2bcbd3baa13f2c71b11d7009852976f4cc",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/029.png",
+          "source_background_sha256": "28fa75d2466e7847f13dcd839625cf2a083a22f5bc80f3230acb14956f372f29",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 30,
+          "image": "pose2/image/030.png",
+          "mask": "pose2/mask/030.png",
+          "image_sha256": "ab22eb38e5f13d0bd272ff1a26556717f44e534733d6e3a3995a4a54c5306bd1",
+          "mask_sha256": "2c278a33d0e3cc285a7390e933032059f908172d6b200274660afffe1312b222",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/030.png",
+          "source_background_sha256": "ab22eb38e5f13d0bd272ff1a26556717f44e534733d6e3a3995a4a54c5306bd1",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 31,
+          "image": "pose2/image/031.png",
+          "mask": "pose2/mask/031.png",
+          "image_sha256": "4984702f1f6a8f78417c91bc196759d0193a0d24deef6797d2a67865546443d0",
+          "mask_sha256": "cc337a3993e914c879a8754d38c232ca312d21fbbd47a3132fa5d4a5ae756f7c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose2/image/031.png",
+          "source_background_sha256": "4984702f1f6a8f78417c91bc196759d0193a0d24deef6797d2a67865546443d0",
+          "retained_copy_matches_pre_move_manifest": true
+        }
+      ],
+      "dimensions": {
+        "1024x1024 RGB": 32
+      }
+    },
+    {
+      "pose": 3,
+      "image_count": 32,
+      "background_image_count": 32,
+      "source_background_directory": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image",
+      "camera_sha256": "3ef5c5d2e81e8e7f01fbc4410cc4104ca06a47437f9b85847880da5c07b5522a",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose3/image/000.png",
+          "mask": "pose3/mask/000.png",
+          "image_sha256": "ae69ceba0e9c502d222cb359bc5b24ea1904c998454a62219051737b2bef2b54",
+          "mask_sha256": "270819f36aa4f8fb5221c433276f695ee2f3cdb92e7afcb27383113ed8f8cc5c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/000.png",
+          "source_background_sha256": "ae69ceba0e9c502d222cb359bc5b24ea1904c998454a62219051737b2bef2b54",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 1,
+          "image": "pose3/image/001.png",
+          "mask": "pose3/mask/001.png",
+          "image_sha256": "dd40ebf9e6818ec0d3d0bdf80f13d2b8a4ed5de65d331a3e7fba255ec9069b68",
+          "mask_sha256": "4449f449f0d1f3b5577581d90cce4a6ea7f04cd44e29a4ff411aa4a6ccefbf43",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/001.png",
+          "source_background_sha256": "dd40ebf9e6818ec0d3d0bdf80f13d2b8a4ed5de65d331a3e7fba255ec9069b68",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 2,
+          "image": "pose3/image/002.png",
+          "mask": "pose3/mask/002.png",
+          "image_sha256": "e8cc5f2b77bb1cf3ac05cc24aec910d231d9dbbba57040a313fa49a436a06f6e",
+          "mask_sha256": "78df44571d99407e39fd83f9911b47df518e0544ddad6643a7d8e949dda9c444",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/002.png",
+          "source_background_sha256": "e8cc5f2b77bb1cf3ac05cc24aec910d231d9dbbba57040a313fa49a436a06f6e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 3,
+          "image": "pose3/image/003.png",
+          "mask": "pose3/mask/003.png",
+          "image_sha256": "8195954938d2e1955d354aff73f288e1b6b62832b18cfac68e74ce425bdbf125",
+          "mask_sha256": "63c84ce671811b65c803ff24e75dc1d37490b35d1f99edb6f1b55556acc926f5",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/003.png",
+          "source_background_sha256": "8195954938d2e1955d354aff73f288e1b6b62832b18cfac68e74ce425bdbf125",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 4,
+          "image": "pose3/image/004.png",
+          "mask": "pose3/mask/004.png",
+          "image_sha256": "48832a3d5cb4d50a0c98a4c4fc51e7224656bc5c40e673e2c2bd72b311c01965",
+          "mask_sha256": "0351746998c83d4de2ac240b0dda67771129c68b7d94892e9541af230ae2cde7",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/004.png",
+          "source_background_sha256": "48832a3d5cb4d50a0c98a4c4fc51e7224656bc5c40e673e2c2bd72b311c01965",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 5,
+          "image": "pose3/image/005.png",
+          "mask": "pose3/mask/005.png",
+          "image_sha256": "8abff0e600279ea8425ce61ffaded361d4f7a554d88dfaa2b934487ca4c73134",
+          "mask_sha256": "c4eaf61043b7197ebd23a6a5dc008d39a61ed74e4b7bfe988302077f57ddb094",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/005.png",
+          "source_background_sha256": "8abff0e600279ea8425ce61ffaded361d4f7a554d88dfaa2b934487ca4c73134",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 6,
+          "image": "pose3/image/006.png",
+          "mask": "pose3/mask/006.png",
+          "image_sha256": "4d8b11c80e3b0b568a1a07ac29ffbabf2f786f8e8e9c4f3af565faeca872a084",
+          "mask_sha256": "3f5a2aaf71acc270e4dddd13c36f7df4b881dddb928039cdbc20b30eec651917",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/006.png",
+          "source_background_sha256": "4d8b11c80e3b0b568a1a07ac29ffbabf2f786f8e8e9c4f3af565faeca872a084",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 7,
+          "image": "pose3/image/007.png",
+          "mask": "pose3/mask/007.png",
+          "image_sha256": "3767786a5efbf066f6332382dd3d119323c2be79eb5ea68668848a4952a085cb",
+          "mask_sha256": "b73634bec5d2e43231a5535def874d2efdd3a9c8b6eac2dd99ca3250522abcf1",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/007.png",
+          "source_background_sha256": "3767786a5efbf066f6332382dd3d119323c2be79eb5ea68668848a4952a085cb",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 8,
+          "image": "pose3/image/008.png",
+          "mask": "pose3/mask/008.png",
+          "image_sha256": "3eb6316d0d068ada200b66fbb01957c534ce721a740294002d1198e58dc35a7f",
+          "mask_sha256": "3f3a819684151d7947f905a0f5e2e7639f7f8ed6476fac42316aa9b24b6cc22c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/008.png",
+          "source_background_sha256": "3eb6316d0d068ada200b66fbb01957c534ce721a740294002d1198e58dc35a7f",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 9,
+          "image": "pose3/image/009.png",
+          "mask": "pose3/mask/009.png",
+          "image_sha256": "0ff542c50983519aec6131155b3ba1643a295c8f1f11d1b7dca2b250280bec17",
+          "mask_sha256": "11c27fc6f1574a139a3593e4be771f8d33a190760d0a9a4d3bc7ed177b345272",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/009.png",
+          "source_background_sha256": "0ff542c50983519aec6131155b3ba1643a295c8f1f11d1b7dca2b250280bec17",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 10,
+          "image": "pose3/image/010.png",
+          "mask": "pose3/mask/010.png",
+          "image_sha256": "5b2911dfec01a2d9bb26e3867e5be0f3ef80770852416022ebe22d592e353405",
+          "mask_sha256": "dd4b0bf4416f1acc766e97af313e6721cb6a13778bf843d02931a8acc1ac22cd",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/010.png",
+          "source_background_sha256": "5b2911dfec01a2d9bb26e3867e5be0f3ef80770852416022ebe22d592e353405",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 11,
+          "image": "pose3/image/011.png",
+          "mask": "pose3/mask/011.png",
+          "image_sha256": "e445cc35a60620ade5a50b7e0785b671fab5a2b83523c1e0cf0d856e6ed9ff49",
+          "mask_sha256": "01fe7c7b38840006acf1f6e427f19c6fc966a97882de2a9cef13eb13091ed9e9",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/011.png",
+          "source_background_sha256": "e445cc35a60620ade5a50b7e0785b671fab5a2b83523c1e0cf0d856e6ed9ff49",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 12,
+          "image": "pose3/image/012.png",
+          "mask": "pose3/mask/012.png",
+          "image_sha256": "f8c14095662da67eeb4d770d8b80714eaf3270ba03929f9ac44046a5edae2ad3",
+          "mask_sha256": "f4f5352089ae9db7db2d9f31e4fc43f992bc71e82eaa310d82c1f7acf47b34b1",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/012.png",
+          "source_background_sha256": "f8c14095662da67eeb4d770d8b80714eaf3270ba03929f9ac44046a5edae2ad3",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 13,
+          "image": "pose3/image/013.png",
+          "mask": "pose3/mask/013.png",
+          "image_sha256": "986df506739bf75a1101b163b16f09f78e7cfd2009a7af7187945b9238c8dfb8",
+          "mask_sha256": "7d8372efe72ea0e1533c110560280554a301db21a71e8e054b4b54d2f54cc20f",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/013.png",
+          "source_background_sha256": "986df506739bf75a1101b163b16f09f78e7cfd2009a7af7187945b9238c8dfb8",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 14,
+          "image": "pose3/image/014.png",
+          "mask": "pose3/mask/014.png",
+          "image_sha256": "13c940c4d4c78f55cacfc4792ca28096eec4d410ce23f673c6a231c62bf1d98c",
+          "mask_sha256": "98a932d34b867c96308f16c174a81806cc5eb517df7710fad574343be807b5d2",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/014.png",
+          "source_background_sha256": "13c940c4d4c78f55cacfc4792ca28096eec4d410ce23f673c6a231c62bf1d98c",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 15,
+          "image": "pose3/image/015.png",
+          "mask": "pose3/mask/015.png",
+          "image_sha256": "51d15862daa56d23249fb301d9aa71ab8fda08902e192b5eb5c4c02c20cfc798",
+          "mask_sha256": "5371eb1bac347a3ba859a2a41bc2edea75ee04fb85375d1a672094652ca19681",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/015.png",
+          "source_background_sha256": "51d15862daa56d23249fb301d9aa71ab8fda08902e192b5eb5c4c02c20cfc798",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 16,
+          "image": "pose3/image/016.png",
+          "mask": "pose3/mask/016.png",
+          "image_sha256": "a55eccb68f8d92d83977befde459497d74c552d1f51c2e17d1cba0f4698ad1b8",
+          "mask_sha256": "42595036548c4210a5d85a6287c8e6ee9b16fc06bd5f39812de475fa3d6192d6",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/016.png",
+          "source_background_sha256": "a55eccb68f8d92d83977befde459497d74c552d1f51c2e17d1cba0f4698ad1b8",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 17,
+          "image": "pose3/image/017.png",
+          "mask": "pose3/mask/017.png",
+          "image_sha256": "de4745817ab73ec7db81940ad38fb1f162e7667cef87d79add74f088959d8475",
+          "mask_sha256": "ce0b3e85d5eff0e7efbafb05f0b631318fcef617f8c64e6ffe54c31fab54c616",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/017.png",
+          "source_background_sha256": "de4745817ab73ec7db81940ad38fb1f162e7667cef87d79add74f088959d8475",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 18,
+          "image": "pose3/image/018.png",
+          "mask": "pose3/mask/018.png",
+          "image_sha256": "70e5badd3464f227565555eeda8eeb781aa61d9e71e48d65093b9fce0ca0f200",
+          "mask_sha256": "b812da45b1dd2759e229e7957b0d814cfc1b51466e4597edadca0f97b34aed9c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/018.png",
+          "source_background_sha256": "70e5badd3464f227565555eeda8eeb781aa61d9e71e48d65093b9fce0ca0f200",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 19,
+          "image": "pose3/image/019.png",
+          "mask": "pose3/mask/019.png",
+          "image_sha256": "893408c4a4e48a2593fdc09c6e8fc0015a4f40b8cdde3a1d1477dca6bbb8bde4",
+          "mask_sha256": "914654a4242a729336c0ce3091a48f1a3192c8b7fae34f9d1401f0b324ce72dd",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/019.png",
+          "source_background_sha256": "893408c4a4e48a2593fdc09c6e8fc0015a4f40b8cdde3a1d1477dca6bbb8bde4",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 20,
+          "image": "pose3/image/020.png",
+          "mask": "pose3/mask/020.png",
+          "image_sha256": "5c61f9ad2769799c9c21ee752d0bee84769d35223c4056204aeee3144ffc7821",
+          "mask_sha256": "226a17f8f9a4fff1f0ff9fe2a0155f717e19b66a2acfbe55f549fcd575377e32",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/020.png",
+          "source_background_sha256": "5c61f9ad2769799c9c21ee752d0bee84769d35223c4056204aeee3144ffc7821",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 21,
+          "image": "pose3/image/021.png",
+          "mask": "pose3/mask/021.png",
+          "image_sha256": "b2a66344814dd2cbd4f88b453f9d35f49295a393a0639b7611238e156e717ca1",
+          "mask_sha256": "dda17c0499f7ba74ec71fbd5b444b6ed4102f3e77bad99b8d621d9080ebc3ca4",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/021.png",
+          "source_background_sha256": "b2a66344814dd2cbd4f88b453f9d35f49295a393a0639b7611238e156e717ca1",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 22,
+          "image": "pose3/image/022.png",
+          "mask": "pose3/mask/022.png",
+          "image_sha256": "1897a679634b58a521a1a37159c18c718ea1563c984d5b29c970c02373180bdc",
+          "mask_sha256": "7db66814b19d8394039fde686f0470ab8322bea10a1a90ed5ff7512800fcd727",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/022.png",
+          "source_background_sha256": "1897a679634b58a521a1a37159c18c718ea1563c984d5b29c970c02373180bdc",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 23,
+          "image": "pose3/image/023.png",
+          "mask": "pose3/mask/023.png",
+          "image_sha256": "8047c8df3350882093598bca0204d897ec39fa2f4a4b2e2270125cfcb0f8270b",
+          "mask_sha256": "5f9d799c77e83d7c0c1b5b0280fd45f170d5623e3ed9cd0971225df3d321aa51",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/023.png",
+          "source_background_sha256": "8047c8df3350882093598bca0204d897ec39fa2f4a4b2e2270125cfcb0f8270b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 24,
+          "image": "pose3/image/024.png",
+          "mask": "pose3/mask/024.png",
+          "image_sha256": "714455ddc75a922c813bbe006d8894eb685f2f9fcb8946f1be136f1c8d1549db",
+          "mask_sha256": "caf398977dc42985a2597a8553e157c42cbe9f363b8efe97abd6d43eca1c896c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/024.png",
+          "source_background_sha256": "714455ddc75a922c813bbe006d8894eb685f2f9fcb8946f1be136f1c8d1549db",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 25,
+          "image": "pose3/image/025.png",
+          "mask": "pose3/mask/025.png",
+          "image_sha256": "124943c30981c65f2abc90ff45ae3ead57716425107ab3f6588719a41c6759df",
+          "mask_sha256": "87c07a8690f65a33a03e5cd28a3c9fe4daaf9b083d1543cdd053916bb7314227",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/025.png",
+          "source_background_sha256": "124943c30981c65f2abc90ff45ae3ead57716425107ab3f6588719a41c6759df",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 26,
+          "image": "pose3/image/026.png",
+          "mask": "pose3/mask/026.png",
+          "image_sha256": "ef0dc7e2e891c3b7ade25b7e92388bfd383ea11099ec21d1dd8415535520b1fe",
+          "mask_sha256": "66aa997121409f6959b9e7044cc2d8f58cd4be10b04354c673410f1df9901962",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/026.png",
+          "source_background_sha256": "ef0dc7e2e891c3b7ade25b7e92388bfd383ea11099ec21d1dd8415535520b1fe",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 27,
+          "image": "pose3/image/027.png",
+          "mask": "pose3/mask/027.png",
+          "image_sha256": "f2c0498d9ba0e552763935369a2f8ba46677c242bb3f300d1deaa7070deded56",
+          "mask_sha256": "130773ba9474c35abe5e2ad71d35d3fe4ba056d893fe91aa0f473185918df4db",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/027.png",
+          "source_background_sha256": "f2c0498d9ba0e552763935369a2f8ba46677c242bb3f300d1deaa7070deded56",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 28,
+          "image": "pose3/image/028.png",
+          "mask": "pose3/mask/028.png",
+          "image_sha256": "113b82e03f095dc36f466e2ead06b2e12941258456116d07a79123c2d7faeafc",
+          "mask_sha256": "fc0cc60f377a697c722bba8b18c7446547e70c88507801afeb0641d36de666c6",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/028.png",
+          "source_background_sha256": "113b82e03f095dc36f466e2ead06b2e12941258456116d07a79123c2d7faeafc",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 29,
+          "image": "pose3/image/029.png",
+          "mask": "pose3/mask/029.png",
+          "image_sha256": "679d50e1fac90dbe06e2a7eb9842a02f6f459cf1624ac0649784c948a20f21a9",
+          "mask_sha256": "fdc10c87828def3dca8226ad723756e7852e08766aa5e4f4ccc9c0baaa459e21",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/029.png",
+          "source_background_sha256": "679d50e1fac90dbe06e2a7eb9842a02f6f459cf1624ac0649784c948a20f21a9",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 30,
+          "image": "pose3/image/030.png",
+          "mask": "pose3/mask/030.png",
+          "image_sha256": "c8be23aec350f1abb18db6fcad5a262b7d8fb4a6ea9796517106d62b2eac1c89",
+          "mask_sha256": "dd7257f0b351c92124eb475a52f3257c3d79a7b09c48d6c44b234d042854e255",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/030.png",
+          "source_background_sha256": "c8be23aec350f1abb18db6fcad5a262b7d8fb4a6ea9796517106d62b2eac1c89",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 31,
+          "image": "pose3/image/031.png",
+          "mask": "pose3/mask/031.png",
+          "image_sha256": "e93114f2847fec527287b954d66d34a5be8d493e52d5a6d6ae26ab9bfb061d24",
+          "mask_sha256": "0c4022cd1db30e1e50e634573b324c8577c4c6d1483c5a02d54d6ae869068481",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/airplane/pose3/image/031.png",
+          "source_background_sha256": "e93114f2847fec527287b954d66d34a5be8d493e52d5a6d6ae26ab9bfb061d24",
+          "retained_copy_matches_pre_move_manifest": true
+        }
+      ],
+      "dimensions": {
+        "1024x1024 RGB": 32
+      }
+    }
+  ],
+  "dataset_version": "background_inputs_20260929",
+  "display_name": "Airplane",
+  "source_prefix": "Plane",
+  "ground_truth": "No independently measured registration RT/mesh GT provided; predictions are not GT.",
+  "source_availability_note": "E:/PoseFusionExp/real_world/background_recovered_20260929 no longer present at final packaging. Retained staged images verified byte-for-byte against manifest recorded before this external source-path change. Recovery provenance retained."
+}

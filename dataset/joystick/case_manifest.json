@@ -1,0 +1,1009 @@
+{
+  "case_id": "joystick",
+  "paper_label": "Joystick",
+  "domain": "real",
+  "status": "complete_background",
+  "poses": [
+    {
+      "pose": 1,
+      "image_count": 32,
+      "background_image_count": 32,
+      "source_background_directory": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image",
+      "camera_sha256": "38e25e477ea83c3a30f2a482655a783b7a4e684e4dd1a3f70944bb82c002a06f",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose1/image/000.png",
+          "mask": "pose1/mask/000.png",
+          "image_sha256": "eed4a88e6fbde81104cd0f1d7737b65a108347d0fcbd09477918ab893029f069",
+          "mask_sha256": "4beeb15e4384856cc99b26550712e3806d8e4127df5d454e5727d8aa7ff36739",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/000.png",
+          "source_background_sha256": "eed4a88e6fbde81104cd0f1d7737b65a108347d0fcbd09477918ab893029f069",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 1,
+          "image": "pose1/image/001.png",
+          "mask": "pose1/mask/001.png",
+          "image_sha256": "a6b3ce2cc66e1d2fb8df44ee249e3ceb0cb46479a5cefda5a8203ff20786e50e",
+          "mask_sha256": "28a0d2143945d520af988185822a4f23fb5f737b05c93923d90811c34586b4a5",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/001.png",
+          "source_background_sha256": "a6b3ce2cc66e1d2fb8df44ee249e3ceb0cb46479a5cefda5a8203ff20786e50e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 2,
+          "image": "pose1/image/002.png",
+          "mask": "pose1/mask/002.png",
+          "image_sha256": "ee88f3a73f11a86d8c8f54585997defdf0d88d533356c5cc220fd16346b71448",
+          "mask_sha256": "45cba3e4c3172acf622b6b4a151aa293f28fcda2b93ae3f37dca5b5275193ef1",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/002.png",
+          "source_background_sha256": "ee88f3a73f11a86d8c8f54585997defdf0d88d533356c5cc220fd16346b71448",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 3,
+          "image": "pose1/image/003.png",
+          "mask": "pose1/mask/003.png",
+          "image_sha256": "a61df730b930d92c6ec3da6ac1254a48420f0e06598145d77492857d764e5a4d",
+          "mask_sha256": "9722d0c599fe62739e2194448c9800bd15ab363ea0fa1c8fda09a5c59164a3be",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/003.png",
+          "source_background_sha256": "a61df730b930d92c6ec3da6ac1254a48420f0e06598145d77492857d764e5a4d",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 4,
+          "image": "pose1/image/004.png",
+          "mask": "pose1/mask/004.png",
+          "image_sha256": "41c43ba7b27fefec53907bd49f636aa00f3ea08a6a015f1c1e00390faa777f9b",
+          "mask_sha256": "e29b1b8e32840ad29efa0a2f1ba40ec1eddb91ed3e64425e86c6ae868968e62e",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/004.png",
+          "source_background_sha256": "41c43ba7b27fefec53907bd49f636aa00f3ea08a6a015f1c1e00390faa777f9b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 5,
+          "image": "pose1/image/005.png",
+          "mask": "pose1/mask/005.png",
+          "image_sha256": "aa1710ba5dfd1c171b4769706b070ef632c9d40669b74d39a0d64ac7a841a0e1",
+          "mask_sha256": "aa2e11c3fdf2524d087c6052cb32cb9fb05dc36cace79c167acdeeb6e7a22829",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/005.png",
+          "source_background_sha256": "aa1710ba5dfd1c171b4769706b070ef632c9d40669b74d39a0d64ac7a841a0e1",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 6,
+          "image": "pose1/image/006.png",
+          "mask": "pose1/mask/006.png",
+          "image_sha256": "c63d841a00cb678c6e2f677c91f22b79fb112e78273e23f9b33bd15326b1e00a",
+          "mask_sha256": "c70d4aaa714abc46e0fffa161fc6a0db1239ca48eeea64ce1a6f8eb217e1ec7d",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/006.png",
+          "source_background_sha256": "c63d841a00cb678c6e2f677c91f22b79fb112e78273e23f9b33bd15326b1e00a",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 7,
+          "image": "pose1/image/007.png",
+          "mask": "pose1/mask/007.png",
+          "image_sha256": "cba54e0e7d54973a19c1cbbc75a668cd4c8e9c39ecaa6e295946cebbc9539331",
+          "mask_sha256": "5f2f0713dbc1883923ec8bbd45c8e0cfd16fbfb5a4b4c44f9945f9c634eae5b2",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/007.png",
+          "source_background_sha256": "cba54e0e7d54973a19c1cbbc75a668cd4c8e9c39ecaa6e295946cebbc9539331",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 8,
+          "image": "pose1/image/008.png",
+          "mask": "pose1/mask/008.png",
+          "image_sha256": "0d466a700981d999a8db29f46cb0a41c0232a65aedb82dee9e2058486838b710",
+          "mask_sha256": "8d4043bfdfa2624254ce341132a693b2da4483a042c3a993bf8aa193cd11323d",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/008.png",
+          "source_background_sha256": "0d466a700981d999a8db29f46cb0a41c0232a65aedb82dee9e2058486838b710",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 9,
+          "image": "pose1/image/009.png",
+          "mask": "pose1/mask/009.png",
+          "image_sha256": "51431b0f808d42f403393d7ebca626eb4d6a7535e3c1574da6e872e47cb7329b",
+          "mask_sha256": "ce142832da664c072b1ccf18b7ca93c5f0cef5e92e1d24fe345f0133ca8e05fd",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/009.png",
+          "source_background_sha256": "51431b0f808d42f403393d7ebca626eb4d6a7535e3c1574da6e872e47cb7329b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 10,
+          "image": "pose1/image/010.png",
+          "mask": "pose1/mask/010.png",
+          "image_sha256": "2e737bca78f4407427bd8148b472c39bd7bbe0075c70c455eb32ac9e25a3d05a",
+          "mask_sha256": "98eaee5467fcd3bfeb6a1d8cd25ba3e6f771d3dd3ea91b4c17fd786ad4de3d4a",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/010.png",
+          "source_background_sha256": "2e737bca78f4407427bd8148b472c39bd7bbe0075c70c455eb32ac9e25a3d05a",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 11,
+          "image": "pose1/image/011.png",
+          "mask": "pose1/mask/011.png",
+          "image_sha256": "891434fcea403f7ac389804562f2303fce2f62a70b1d48537845f16a7d11fc22",
+          "mask_sha256": "e29438615f9bfa5863ea403b0e6bb6d399426adf1f844b0bf2b09f180bab3176",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/011.png",
+          "source_background_sha256": "891434fcea403f7ac389804562f2303fce2f62a70b1d48537845f16a7d11fc22",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 12,
+          "image": "pose1/image/012.png",
+          "mask": "pose1/mask/012.png",
+          "image_sha256": "e4cd0a49da27c8667286aebec4a8a45c4f41fdc27b081eac9f189ec104bc3491",
+          "mask_sha256": "86dcf7b4b114c2088f231a3db917f712b880d4d88abfb3828904a51e3f95a0f7",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/012.png",
+          "source_background_sha256": "e4cd0a49da27c8667286aebec4a8a45c4f41fdc27b081eac9f189ec104bc3491",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 13,
+          "image": "pose1/image/013.png",
+          "mask": "pose1/mask/013.png",
+          "image_sha256": "3a5907084c15edf7aca7f5fe574f93ddc17568fc6eb768204a9c0754509d346a",
+          "mask_sha256": "a743ec85ad4d82ad97cf6aad1ad2fa2fb70add5ad39532b97f5094f4062db8d9",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/013.png",
+          "source_background_sha256": "3a5907084c15edf7aca7f5fe574f93ddc17568fc6eb768204a9c0754509d346a",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 14,
+          "image": "pose1/image/014.png",
+          "mask": "pose1/mask/014.png",
+          "image_sha256": "7ed4ca265c5c39fb74109c93a5156d670ee38e4a0ef7d99fc32302dbc65040fc",
+          "mask_sha256": "bd44984eee1283f4a2fdb8012a68253467bfd9aef78cbd15513e6112bee72522",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/014.png",
+          "source_background_sha256": "7ed4ca265c5c39fb74109c93a5156d670ee38e4a0ef7d99fc32302dbc65040fc",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 15,
+          "image": "pose1/image/015.png",
+          "mask": "pose1/mask/015.png",
+          "image_sha256": "9df1e586700276cbf042523efa53f53e90f5217758bf7bb82b8237a503f36923",
+          "mask_sha256": "3dafb0c00058e7889514a40a73c4e95ecf350bb8bd0ee927009aac7a0a535f14",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/015.png",
+          "source_background_sha256": "9df1e586700276cbf042523efa53f53e90f5217758bf7bb82b8237a503f36923",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 16,
+          "image": "pose1/image/016.png",
+          "mask": "pose1/mask/016.png",
+          "image_sha256": "cd10c0aa5ee1df09feb2e93df2cc10cec1d966d779324210160a32887cfb855f",
+          "mask_sha256": "afab659cd53fd42cf5accdf24d16da98a36b548340185887faaae1ae273c1af8",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/016.png",
+          "source_background_sha256": "cd10c0aa5ee1df09feb2e93df2cc10cec1d966d779324210160a32887cfb855f",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 17,
+          "image": "pose1/image/017.png",
+          "mask": "pose1/mask/017.png",
+          "image_sha256": "c794e0ed4de068c2c10257a98bf26438357fa85740aa31a7380da97e6016834c",
+          "mask_sha256": "f6b0fb6e4ec6fb22e612abaded5f4636fb45845c4c8171f9ddda55fa2c6c7b13",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/017.png",
+          "source_background_sha256": "c794e0ed4de068c2c10257a98bf26438357fa85740aa31a7380da97e6016834c",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 18,
+          "image": "pose1/image/018.png",
+          "mask": "pose1/mask/018.png",
+          "image_sha256": "64589d680b2952d86af0014c98d64b5e94601bbdc05efba9628fa49fbd17b95e",
+          "mask_sha256": "997fc2add296717247481fe89e268b2f642bb2d48cc3e3b1757ce9265842a7cc",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/018.png",
+          "source_background_sha256": "64589d680b2952d86af0014c98d64b5e94601bbdc05efba9628fa49fbd17b95e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 19,
+          "image": "pose1/image/019.png",
+          "mask": "pose1/mask/019.png",
+          "image_sha256": "3f33d64382810f54470c500ce0624b63dca2f0c09999da372dfba8cf79b2f4cd",
+          "mask_sha256": "de87fc995945fca43c74bb286597f8541ff05fdd5b827be9e963b6e08cc29a2b",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/019.png",
+          "source_background_sha256": "3f33d64382810f54470c500ce0624b63dca2f0c09999da372dfba8cf79b2f4cd",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 20,
+          "image": "pose1/image/020.png",
+          "mask": "pose1/mask/020.png",
+          "image_sha256": "861d144f2570ec513958298a208050a0fcd48cc4db5ad3d61b9aac536f48be5f",
+          "mask_sha256": "8ab5d7f103a4abacb7fed9569b10a3f971a9b89bf8591d1df4a7118309f52643",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/020.png",
+          "source_background_sha256": "861d144f2570ec513958298a208050a0fcd48cc4db5ad3d61b9aac536f48be5f",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 21,
+          "image": "pose1/image/021.png",
+          "mask": "pose1/mask/021.png",
+          "image_sha256": "c18f4740baf6a6844a412860d3ae019a7925f97f7e35c156da9571b26c589c99",
+          "mask_sha256": "bc8e5621b01bdc8c7f22f69fb1fa8fda61aef44ea46da9f388c4285b75cba386",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/021.png",
+          "source_background_sha256": "c18f4740baf6a6844a412860d3ae019a7925f97f7e35c156da9571b26c589c99",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 22,
+          "image": "pose1/image/022.png",
+          "mask": "pose1/mask/022.png",
+          "image_sha256": "761e5d0237c4fdc0b3b3f06bd2b232e9ae646f0c4712bbbbf76be0fe7aea4ab9",
+          "mask_sha256": "bd0cead2df6ce05a242ea1432ed970a7a7bf97cb6fdd55f07179bfd5302f1ace",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/022.png",
+          "source_background_sha256": "761e5d0237c4fdc0b3b3f06bd2b232e9ae646f0c4712bbbbf76be0fe7aea4ab9",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 23,
+          "image": "pose1/image/023.png",
+          "mask": "pose1/mask/023.png",
+          "image_sha256": "cadf96498222d6e7b763c7144a02f8a7c7ac2c90346c3472d3a3f293ce4012de",
+          "mask_sha256": "228339fc025dcf940a4e8d5563f89c237b85c36fe7919cc8ccf69b361f47633c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/023.png",
+          "source_background_sha256": "cadf96498222d6e7b763c7144a02f8a7c7ac2c90346c3472d3a3f293ce4012de",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 24,
+          "image": "pose1/image/024.png",
+          "mask": "pose1/mask/024.png",
+          "image_sha256": "ccb54b92919145c432f74e743b1ccceb6fde4cd0e14f32fedef196616476b6ea",
+          "mask_sha256": "4e180b0e8e72886e492070765a472f6f41357cd735173cd5d22836dca4bfc8a9",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/024.png",
+          "source_background_sha256": "ccb54b92919145c432f74e743b1ccceb6fde4cd0e14f32fedef196616476b6ea",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 25,
+          "image": "pose1/image/025.png",
+          "mask": "pose1/mask/025.png",
+          "image_sha256": "24a24723d9ed4434803a2d62bc135e253d82dd4fee0c4d846ce00a3bb0577134",
+          "mask_sha256": "bad612db62274aec7bca7aa1ca09964ebe1a2d79565ff79b1883e5e5670e1d2b",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/025.png",
+          "source_background_sha256": "24a24723d9ed4434803a2d62bc135e253d82dd4fee0c4d846ce00a3bb0577134",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 26,
+          "image": "pose1/image/026.png",
+          "mask": "pose1/mask/026.png",
+          "image_sha256": "f1558afc091ebad4812601d57430489609b64ea17f45c7e99e6b4fe69535aaf5",
+          "mask_sha256": "714e902210bc6dfa0cb2b3a59427009589edfc2cbeb90fb0284fcd1fdd16fff5",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/026.png",
+          "source_background_sha256": "f1558afc091ebad4812601d57430489609b64ea17f45c7e99e6b4fe69535aaf5",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 27,
+          "image": "pose1/image/027.png",
+          "mask": "pose1/mask/027.png",
+          "image_sha256": "dfd57c1d5e1f2e91deeb8e503199854bbcd08637e8629f8ff8475682a6d11ab1",
+          "mask_sha256": "38070c4abf63427663eab64890ab826828c95b3e2196c04dffad8e9cda6b5f39",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/027.png",
+          "source_background_sha256": "dfd57c1d5e1f2e91deeb8e503199854bbcd08637e8629f8ff8475682a6d11ab1",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 28,
+          "image": "pose1/image/028.png",
+          "mask": "pose1/mask/028.png",
+          "image_sha256": "0217beb13d6bd7c26a7355d9dc599e01972d14d0b219424d580beb4a884580ca",
+          "mask_sha256": "cce24d2d38834973a2099159e6eef7274302f578690c6142c55809a77b7278f2",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/028.png",
+          "source_background_sha256": "0217beb13d6bd7c26a7355d9dc599e01972d14d0b219424d580beb4a884580ca",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 29,
+          "image": "pose1/image/029.png",
+          "mask": "pose1/mask/029.png",
+          "image_sha256": "7011a41edc608dd9036c8dcae1c88ac34145c525a4b6ab6ba13a2496e35e9cb9",
+          "mask_sha256": "9d57bb3f9d8346c6c0b98f778e90ac8035ea308501c94ac478adc2157083b391",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/029.png",
+          "source_background_sha256": "7011a41edc608dd9036c8dcae1c88ac34145c525a4b6ab6ba13a2496e35e9cb9",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 30,
+          "image": "pose1/image/030.png",
+          "mask": "pose1/mask/030.png",
+          "image_sha256": "a8056805a6f7faa4e1c87de8648bcee6c3f1ecd78297bb805cd019d151d94bfe",
+          "mask_sha256": "012253cdc36c7a076799060ef2ec491b9d6bf49164cd3e03bf7ab62facd058d7",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/030.png",
+          "source_background_sha256": "a8056805a6f7faa4e1c87de8648bcee6c3f1ecd78297bb805cd019d151d94bfe",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 31,
+          "image": "pose1/image/031.png",
+          "mask": "pose1/mask/031.png",
+          "image_sha256": "3789694770d3bdec313897d2a1a98512b4cf3377087d3def3d42945e4a2cbdb3",
+          "mask_sha256": "07c89c2702e3d8bbfe1ebde7d5d2037447d6817d0ec70deeb1197c8fc2af57d9",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose1/image/031.png",
+          "source_background_sha256": "3789694770d3bdec313897d2a1a98512b4cf3377087d3def3d42945e4a2cbdb3",
+          "retained_copy_matches_pre_move_manifest": true
+        }
+      ],
+      "dimensions": {
+        "1024x1024 RGB": 32
+      }
+    },
+    {
+      "pose": 2,
+      "image_count": 32,
+      "background_image_count": 32,
+      "source_background_directory": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image",
+      "camera_sha256": "e63baf3b62a3aa8621a87f21f5c5553f2d5223fd82ab353aa1a6570e74c3ffb7",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose2/image/000.png",
+          "mask": "pose2/mask/000.png",
+          "image_sha256": "aa531759cf5a7c988ce0b3fb5d5656890feb183aca74d5f8bc7cb2575556c802",
+          "mask_sha256": "5156f1113758a87d4673984a9d99ae891cd3554d0b70defe995189317d8234ee",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/000.png",
+          "source_background_sha256": "aa531759cf5a7c988ce0b3fb5d5656890feb183aca74d5f8bc7cb2575556c802",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 1,
+          "image": "pose2/image/001.png",
+          "mask": "pose2/mask/001.png",
+          "image_sha256": "453e86d31a5c70d4eea7e37e8c3782bd575e9439b4be28356c26ff582d1ce8e2",
+          "mask_sha256": "e2db87d03c88e15102754aacff0a3b55fd55c67b99c1b76582d85d5902b74e69",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/001.png",
+          "source_background_sha256": "453e86d31a5c70d4eea7e37e8c3782bd575e9439b4be28356c26ff582d1ce8e2",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 2,
+          "image": "pose2/image/002.png",
+          "mask": "pose2/mask/002.png",
+          "image_sha256": "b85c7fd961e2bf171dc1ab3a88f5d9e0fe0f9fc96c7ec48103216e622966d71e",
+          "mask_sha256": "b17fa8c9e732207e7a03ee71be4be94248b762399bdc527d153b1826cd9316d8",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/002.png",
+          "source_background_sha256": "b85c7fd961e2bf171dc1ab3a88f5d9e0fe0f9fc96c7ec48103216e622966d71e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 3,
+          "image": "pose2/image/003.png",
+          "mask": "pose2/mask/003.png",
+          "image_sha256": "0ba390b1ada6e1a8000e5824da3a05f003bf0034586eeb0852ec29d033a7750b",
+          "mask_sha256": "08dc69514b9ba933e19c3fd4ca419a330a3f7b2d8fd3c2ec6351d077ee45cde1",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/003.png",
+          "source_background_sha256": "0ba390b1ada6e1a8000e5824da3a05f003bf0034586eeb0852ec29d033a7750b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 4,
+          "image": "pose2/image/004.png",
+          "mask": "pose2/mask/004.png",
+          "image_sha256": "54511951a21a38f783ca63a2fb5a142ef2cb3b23742c94de860c8608d9520bbb",
+          "mask_sha256": "cc217553c3df1a4803867676057982617cd0f0b8be2cda185718ae0c8edba052",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/004.png",
+          "source_background_sha256": "54511951a21a38f783ca63a2fb5a142ef2cb3b23742c94de860c8608d9520bbb",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 5,
+          "image": "pose2/image/005.png",
+          "mask": "pose2/mask/005.png",
+          "image_sha256": "b5ffc8f88f415615e637cf27ae16037a96553320f7ad676c0710b9fa02340f11",
+          "mask_sha256": "c95eefc02a638676d57367b30ea37633c056c8153f774b16cbe9e7effe160343",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/005.png",
+          "source_background_sha256": "b5ffc8f88f415615e637cf27ae16037a96553320f7ad676c0710b9fa02340f11",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 6,
+          "image": "pose2/image/006.png",
+          "mask": "pose2/mask/006.png",
+          "image_sha256": "a0a80ebd9e8fd6e3711f9aae4efb7cb0bb72ec5ab628c9492ed5d2bc509219bd",
+          "mask_sha256": "26db860b90eae71c598225c90b90b7b6df655a3b64d13629ab90d50197417a55",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/006.png",
+          "source_background_sha256": "a0a80ebd9e8fd6e3711f9aae4efb7cb0bb72ec5ab628c9492ed5d2bc509219bd",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 7,
+          "image": "pose2/image/007.png",
+          "mask": "pose2/mask/007.png",
+          "image_sha256": "150673b5a29422252f581375bbbfb0b544036912d223f903b4aa315abf194f3a",
+          "mask_sha256": "12d0577520d4540529af9e4396465a0bc775cc205c1ae1abf8604a8382c65c6e",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/007.png",
+          "source_background_sha256": "150673b5a29422252f581375bbbfb0b544036912d223f903b4aa315abf194f3a",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 8,
+          "image": "pose2/image/008.png",
+          "mask": "pose2/mask/008.png",
+          "image_sha256": "03711cac5117a860967a30a958a37b02b07ba5682edb0b2e8910a8b50b56b74f",
+          "mask_sha256": "16b68df627178df4d079de3b336d3604be06bf3801e333e131db8f65fa0cddc3",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/008.png",
+          "source_background_sha256": "03711cac5117a860967a30a958a37b02b07ba5682edb0b2e8910a8b50b56b74f",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 9,
+          "image": "pose2/image/009.png",
+          "mask": "pose2/mask/009.png",
+          "image_sha256": "6b17eec8f09dd4204798235734b52f92e17f4ada2ccf7a23c8d6097fce84dbab",
+          "mask_sha256": "4b74470482957519da0f3c78bf07807a93f82b59961ff832a8b8ffaffc6258b1",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/009.png",
+          "source_background_sha256": "6b17eec8f09dd4204798235734b52f92e17f4ada2ccf7a23c8d6097fce84dbab",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 10,
+          "image": "pose2/image/010.png",
+          "mask": "pose2/mask/010.png",
+          "image_sha256": "e23f8ed188e8f8b643d3cc0954199d09789f1a37db0d08d08be95b63b13cc5ed",
+          "mask_sha256": "ed07827053a17b8c88a918b51b4546ee2461dc8f7e874b9d22019fc73e355a1d",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/010.png",
+          "source_background_sha256": "e23f8ed188e8f8b643d3cc0954199d09789f1a37db0d08d08be95b63b13cc5ed",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 11,
+          "image": "pose2/image/011.png",
+          "mask": "pose2/mask/011.png",
+          "image_sha256": "c72f35b31327b0f842d28d24aec6280399913392f19590bc2b85d5aea4afee00",
+          "mask_sha256": "4ae1a678392e952c2551eb53b46b68d007d69999fb70c0b120249853e7d2ecf8",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/011.png",
+          "source_background_sha256": "c72f35b31327b0f842d28d24aec6280399913392f19590bc2b85d5aea4afee00",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 12,
+          "image": "pose2/image/012.png",
+          "mask": "pose2/mask/012.png",
+          "image_sha256": "77724dcad8f54422e8d69dbbd702eaac5b8636cf7057e64414670b82e644d552",
+          "mask_sha256": "be936e9d1cafe9687340bd1e3b9db0336285fd093045c5f5189698e8a1ee1305",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/012.png",
+          "source_background_sha256": "77724dcad8f54422e8d69dbbd702eaac5b8636cf7057e64414670b82e644d552",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 13,
+          "image": "pose2/image/013.png",
+          "mask": "pose2/mask/013.png",
+          "image_sha256": "add9adf9b9b2bf973f752b93800c426fbde609dd2169250c7028539988d2885d",
+          "mask_sha256": "434775763193d5afa9297d7f8a134409dfd04be4ac112d7002e6e6e9e9dfad12",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/013.png",
+          "source_background_sha256": "add9adf9b9b2bf973f752b93800c426fbde609dd2169250c7028539988d2885d",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 14,
+          "image": "pose2/image/014.png",
+          "mask": "pose2/mask/014.png",
+          "image_sha256": "2b4e6f1a290ad6cb4a499a95ba7f74f95b28f2d472a7842b06520bba0708416b",
+          "mask_sha256": "f47c3bc0ae937d4a60d9772a03c656372bffe5487815ded01196ad440d149f2e",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/014.png",
+          "source_background_sha256": "2b4e6f1a290ad6cb4a499a95ba7f74f95b28f2d472a7842b06520bba0708416b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 15,
+          "image": "pose2/image/015.png",
+          "mask": "pose2/mask/015.png",
+          "image_sha256": "870c228ae763038fb0662a9152da81e865020856266c25ece127d2c7b306f627",
+          "mask_sha256": "0fb328b1683c3edc1e3ba8211ec4f677f9a880fb194e074f17c6ed8a7b5b5b68",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/015.png",
+          "source_background_sha256": "870c228ae763038fb0662a9152da81e865020856266c25ece127d2c7b306f627",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 16,
+          "image": "pose2/image/016.png",
+          "mask": "pose2/mask/016.png",
+          "image_sha256": "e8eeac73c4bc2502a1c986e95ea005ba18c655e7f804badaf64515223d629d24",
+          "mask_sha256": "dcc530e78ce51274ca52b8d47fff81e82cd9ce3c5f7f522547f7ca9a95eb9457",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/016.png",
+          "source_background_sha256": "e8eeac73c4bc2502a1c986e95ea005ba18c655e7f804badaf64515223d629d24",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 17,
+          "image": "pose2/image/017.png",
+          "mask": "pose2/mask/017.png",
+          "image_sha256": "e9e15aab5c6e3391e6d26d89bf97d97b5f4a925da8957dd29165c43a24eec19b",
+          "mask_sha256": "613cd55a36a79be90a6aa0dea4d550ab28ea0bace4e84f514e082cf7fb9ec4dc",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/017.png",
+          "source_background_sha256": "e9e15aab5c6e3391e6d26d89bf97d97b5f4a925da8957dd29165c43a24eec19b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 18,
+          "image": "pose2/image/018.png",
+          "mask": "pose2/mask/018.png",
+          "image_sha256": "3d7b3a24dfdeca753d52cdfc6e3dea0f855a8f806e0d5d93e5451e241c823f14",
+          "mask_sha256": "c093c191e36cd3a65b8d9f68052751e6ee76f044d32c5082316ed8922a02e428",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/018.png",
+          "source_background_sha256": "3d7b3a24dfdeca753d52cdfc6e3dea0f855a8f806e0d5d93e5451e241c823f14",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 19,
+          "image": "pose2/image/019.png",
+          "mask": "pose2/mask/019.png",
+          "image_sha256": "9deec2572b6f32e3e0f606c22acd7327d64596b111ee5fc274d2ce7ce707f8ea",
+          "mask_sha256": "9df84b12079e984dca6466d78ef314c3ed03ba725dfa8c7fd7fe9b7ee7fe481c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/019.png",
+          "source_background_sha256": "9deec2572b6f32e3e0f606c22acd7327d64596b111ee5fc274d2ce7ce707f8ea",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 20,
+          "image": "pose2/image/020.png",
+          "mask": "pose2/mask/020.png",
+          "image_sha256": "0fc2b54bef89945b732865dbe4ad854e90b8b62106aa5935af281f49a36ff70a",
+          "mask_sha256": "c8a6a31b8babed0873cd43fe17a6df429f7cab2eac2f8c85cda15a00649941d0",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/020.png",
+          "source_background_sha256": "0fc2b54bef89945b732865dbe4ad854e90b8b62106aa5935af281f49a36ff70a",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 21,
+          "image": "pose2/image/021.png",
+          "mask": "pose2/mask/021.png",
+          "image_sha256": "d5f656c8556c77644102c3b6566789de270aa65e22654bbdd2459c655297db36",
+          "mask_sha256": "82a126ee9308cdb8b8483d7bd6184381c968d7f66fb3df54119abf151c24ca60",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/021.png",
+          "source_background_sha256": "d5f656c8556c77644102c3b6566789de270aa65e22654bbdd2459c655297db36",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 22,
+          "image": "pose2/image/022.png",
+          "mask": "pose2/mask/022.png",
+          "image_sha256": "f421e3732ef318aa2f489a6f116feff80c2933c8397f2011517cf99c66a37e2e",
+          "mask_sha256": "fe124926bcab10a91cae2248c8130616ad67f2204b9013aac8fb23c807f83994",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/022.png",
+          "source_background_sha256": "f421e3732ef318aa2f489a6f116feff80c2933c8397f2011517cf99c66a37e2e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 23,
+          "image": "pose2/image/023.png",
+          "mask": "pose2/mask/023.png",
+          "image_sha256": "eb597e0a39f68ad44e9719f56ba2811f764a466919ff9280b9d9028a6f65eaa2",
+          "mask_sha256": "d6e5e3b3c23b67783f29d89d2c3da750c25a18ce6766f31d8458ba0b052f1752",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/023.png",
+          "source_background_sha256": "eb597e0a39f68ad44e9719f56ba2811f764a466919ff9280b9d9028a6f65eaa2",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 24,
+          "image": "pose2/image/024.png",
+          "mask": "pose2/mask/024.png",
+          "image_sha256": "dccdbfdfdd23a03a2b5a7346dedac68963d608757d726b493964c99b84ceb248",
+          "mask_sha256": "b4f39d4f742cf96b03c51e6fb1c51d302b8e183518c2cdd8b1dc39a868225bd4",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/024.png",
+          "source_background_sha256": "dccdbfdfdd23a03a2b5a7346dedac68963d608757d726b493964c99b84ceb248",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 25,
+          "image": "pose2/image/025.png",
+          "mask": "pose2/mask/025.png",
+          "image_sha256": "8d387b1dadd86b216b79e56bb40a752b31ecffbc3932a4a1fd90d443730444af",
+          "mask_sha256": "5f06423f5543a7bd8c32a12ffb0c69aeb3d77d076f2ab4d580ac52aaeafd4c12",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/025.png",
+          "source_background_sha256": "8d387b1dadd86b216b79e56bb40a752b31ecffbc3932a4a1fd90d443730444af",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 26,
+          "image": "pose2/image/026.png",
+          "mask": "pose2/mask/026.png",
+          "image_sha256": "500f8daf95c72c4ff3b20b6270e47e6bbbf64c35a3ab8834b61cf1274ced863c",
+          "mask_sha256": "2ace3faaa75daa82d953ee70cf6853c261d97fb6d51ba56a6ee53d7ae7d13d21",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/026.png",
+          "source_background_sha256": "500f8daf95c72c4ff3b20b6270e47e6bbbf64c35a3ab8834b61cf1274ced863c",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 27,
+          "image": "pose2/image/027.png",
+          "mask": "pose2/mask/027.png",
+          "image_sha256": "324909e1c50f93cec3e28beea6cb74dda2160f1832886b464f1a4827e19a3674",
+          "mask_sha256": "006f31839c48c2cef2e2c9e1030a91088fcb036593d5a9087dff2914450c6814",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/027.png",
+          "source_background_sha256": "324909e1c50f93cec3e28beea6cb74dda2160f1832886b464f1a4827e19a3674",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 28,
+          "image": "pose2/image/028.png",
+          "mask": "pose2/mask/028.png",
+          "image_sha256": "56100e70a3e7eb37f230e8ea23f7164dc72620b902f3336f4763915b9cbd9ff6",
+          "mask_sha256": "3b93d2e15ddc68084f6963e6e198621b9cda07c25a9a18f6606602973a11f99a",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/028.png",
+          "source_background_sha256": "56100e70a3e7eb37f230e8ea23f7164dc72620b902f3336f4763915b9cbd9ff6",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 29,
+          "image": "pose2/image/029.png",
+          "mask": "pose2/mask/029.png",
+          "image_sha256": "d2f2295ac0d2730c9168702dd9d8afa516e4d67512b4cb89233a129d79826d61",
+          "mask_sha256": "76b9441f187bc8332715f2bb7ca9e8a962aca29e0123864a0a192697034848c2",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/029.png",
+          "source_background_sha256": "d2f2295ac0d2730c9168702dd9d8afa516e4d67512b4cb89233a129d79826d61",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 30,
+          "image": "pose2/image/030.png",
+          "mask": "pose2/mask/030.png",
+          "image_sha256": "fbe79cbbc02e9f7727ccc00cdfb4f1a9b25fbfc49fd902075ed7a34a04c3ee0d",
+          "mask_sha256": "429572e197e8ce7ed7ed73bdc8cd067385da23a3e4522c6641af5999d585d98a",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/030.png",
+          "source_background_sha256": "fbe79cbbc02e9f7727ccc00cdfb4f1a9b25fbfc49fd902075ed7a34a04c3ee0d",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 31,
+          "image": "pose2/image/031.png",
+          "mask": "pose2/mask/031.png",
+          "image_sha256": "a740ca4d0a490f0630218a55d0f32dc8fb24e84f52714c8477ebfc8ab1e4d5c2",
+          "mask_sha256": "c897c95c81f9586393f04ce83b246c7afbbaaba4b85f8997b27965affb08986f",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose2/image/031.png",
+          "source_background_sha256": "a740ca4d0a490f0630218a55d0f32dc8fb24e84f52714c8477ebfc8ab1e4d5c2",
+          "retained_copy_matches_pre_move_manifest": true
+        }
+      ],
+      "dimensions": {
+        "1024x1024 RGB": 32
+      }
+    },
+    {
+      "pose": 3,
+      "image_count": 32,
+      "background_image_count": 32,
+      "source_background_directory": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image",
+      "camera_sha256": "e2938c81e7938498d80720740da759832e23c4b874e40f722dcc9141b7f1bc44",
+      "frames": [
+        {
+          "index": 0,
+          "image": "pose3/image/000.png",
+          "mask": "pose3/mask/000.png",
+          "image_sha256": "5300f0bbcb37fccc8056faddfb93a3287f03d9cea9920b7fa59f59e6ff5044c3",
+          "mask_sha256": "30e55f2a6dd6eb08189a31cb4fcb3e4b87719c5629239c4b4579c133eba318df",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/000.png",
+          "source_background_sha256": "5300f0bbcb37fccc8056faddfb93a3287f03d9cea9920b7fa59f59e6ff5044c3",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 1,
+          "image": "pose3/image/001.png",
+          "mask": "pose3/mask/001.png",
+          "image_sha256": "df05c50550a74d2e00d643b94ce88f4efe194cdf2eb35be907bb0a14cc2416db",
+          "mask_sha256": "ddd43b55c8c57e1824d1c1586d809f1da7a17ae4f88a42616034f54105034b0b",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/001.png",
+          "source_background_sha256": "df05c50550a74d2e00d643b94ce88f4efe194cdf2eb35be907bb0a14cc2416db",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 2,
+          "image": "pose3/image/002.png",
+          "mask": "pose3/mask/002.png",
+          "image_sha256": "64303a27430786bcb4a4e182d0d4cf200d691ce6a9ef1c7df84302b9c5e3f8ee",
+          "mask_sha256": "fc974097e6613e8c0b60696ecc379175305f0993ace315a201400afecbc2a917",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/002.png",
+          "source_background_sha256": "64303a27430786bcb4a4e182d0d4cf200d691ce6a9ef1c7df84302b9c5e3f8ee",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 3,
+          "image": "pose3/image/003.png",
+          "mask": "pose3/mask/003.png",
+          "image_sha256": "395be2092d0e177cbd461a3fda9f0557eaa645249d32bdc38f7b4ae9ac654109",
+          "mask_sha256": "2360d3f81d5de0d15cbbb7417071a765a1869e4e3c0902510d556ddbe2173636",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/003.png",
+          "source_background_sha256": "395be2092d0e177cbd461a3fda9f0557eaa645249d32bdc38f7b4ae9ac654109",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 4,
+          "image": "pose3/image/004.png",
+          "mask": "pose3/mask/004.png",
+          "image_sha256": "6bf2dfc0b5dbb30a663cc2aeed27b16a60114a18c479227a4cd21a0d8faa6e2e",
+          "mask_sha256": "af16a0f7e89aab391cb90263d57f89c0d051858313f332089c5eb176d8666a78",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/004.png",
+          "source_background_sha256": "6bf2dfc0b5dbb30a663cc2aeed27b16a60114a18c479227a4cd21a0d8faa6e2e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 5,
+          "image": "pose3/image/005.png",
+          "mask": "pose3/mask/005.png",
+          "image_sha256": "8a120b4aa84269e8151f743c7453a1e75e30502b4a8fb97a135b15a1b772bd2f",
+          "mask_sha256": "f114e525715fcf32078509abccf87e5259e286422995d5c14ff5cf03fb04557f",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/005.png",
+          "source_background_sha256": "8a120b4aa84269e8151f743c7453a1e75e30502b4a8fb97a135b15a1b772bd2f",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 6,
+          "image": "pose3/image/006.png",
+          "mask": "pose3/mask/006.png",
+          "image_sha256": "2894e80178a725e41a09ec3f7948ea84a24316e6f70f85359d68b795ebe190da",
+          "mask_sha256": "7d560f86ec778807efaa5cb6979b6891493ebc0ef6ae72f7062ae373ffddec6c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/006.png",
+          "source_background_sha256": "2894e80178a725e41a09ec3f7948ea84a24316e6f70f85359d68b795ebe190da",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 7,
+          "image": "pose3/image/007.png",
+          "mask": "pose3/mask/007.png",
+          "image_sha256": "13311c92a3300968e972943fc19ddeafa429c42e74755ea15bdd847a92b31b83",
+          "mask_sha256": "cf2103ac30f12f55c1788875b8d3dc7107ffd38216cc3dfd658f910bc86a2ec8",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/007.png",
+          "source_background_sha256": "13311c92a3300968e972943fc19ddeafa429c42e74755ea15bdd847a92b31b83",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 8,
+          "image": "pose3/image/008.png",
+          "mask": "pose3/mask/008.png",
+          "image_sha256": "0c8a800ed0261e88acbf6f32526c42261983ffde6f4a092fa0e530ddc17c882a",
+          "mask_sha256": "d00cb699bef84861db2b7fc9bd9d4a0ac3a318e81af56e2bcb9edbe557ebca49",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/008.png",
+          "source_background_sha256": "0c8a800ed0261e88acbf6f32526c42261983ffde6f4a092fa0e530ddc17c882a",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 9,
+          "image": "pose3/image/009.png",
+          "mask": "pose3/mask/009.png",
+          "image_sha256": "7ab7166627e1872338d86128335396c8338f176da71dd762d6050733bc7c7605",
+          "mask_sha256": "57caa87445a19cb39283c7cbfb9ac49f73bdadbff5f221d6525b69208c802e2e",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/009.png",
+          "source_background_sha256": "7ab7166627e1872338d86128335396c8338f176da71dd762d6050733bc7c7605",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 10,
+          "image": "pose3/image/010.png",
+          "mask": "pose3/mask/010.png",
+          "image_sha256": "af95599ae6ac8265e0ee5b95ac0ed8bb209b3beea456df596ac1197c5b1a3665",
+          "mask_sha256": "a7d4f6a5dcb81378f97d77287e54f5fa5f37bf916f56b7f3bdb0daf2c0f46ca4",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/010.png",
+          "source_background_sha256": "af95599ae6ac8265e0ee5b95ac0ed8bb209b3beea456df596ac1197c5b1a3665",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 11,
+          "image": "pose3/image/011.png",
+          "mask": "pose3/mask/011.png",
+          "image_sha256": "2f09922e5d90ff23bf230fa2ae8d66b17f65fc81bee76baabfb11e5d5c985b9c",
+          "mask_sha256": "526ceb00c0ea8584682adbb0f26f913a6b032af4759908ce8513210fa0563e62",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/011.png",
+          "source_background_sha256": "2f09922e5d90ff23bf230fa2ae8d66b17f65fc81bee76baabfb11e5d5c985b9c",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 12,
+          "image": "pose3/image/012.png",
+          "mask": "pose3/mask/012.png",
+          "image_sha256": "5271cdb727f1d0ab2509e5b4ab12cb44b0edbd5178df5f49e5c5a21f0985391b",
+          "mask_sha256": "b08562c93ea600222ed13e53cce5e0babd98c5f04c7fe8f75488caf8c8659998",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/012.png",
+          "source_background_sha256": "5271cdb727f1d0ab2509e5b4ab12cb44b0edbd5178df5f49e5c5a21f0985391b",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 13,
+          "image": "pose3/image/013.png",
+          "mask": "pose3/mask/013.png",
+          "image_sha256": "263be9a5c952fc5e6a8fe57c2f4118b7ac124ba25be56a775b78609d1c274126",
+          "mask_sha256": "862a9840fa27d471c370504b75666788aeee347c081dfd306c2bbe527d36c321",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/013.png",
+          "source_background_sha256": "263be9a5c952fc5e6a8fe57c2f4118b7ac124ba25be56a775b78609d1c274126",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 14,
+          "image": "pose3/image/014.png",
+          "mask": "pose3/mask/014.png",
+          "image_sha256": "316175858dccd1bfea1ed96914019dfd14275650070ca1b1a1b8fa99f0a11f55",
+          "mask_sha256": "8a2d1923ddd880d91c68321d21a29d8deca7e0db600599f7ac570a07adc398a0",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/014.png",
+          "source_background_sha256": "316175858dccd1bfea1ed96914019dfd14275650070ca1b1a1b8fa99f0a11f55",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 15,
+          "image": "pose3/image/015.png",
+          "mask": "pose3/mask/015.png",
+          "image_sha256": "46ef7c49e27516a20f18a8efcfc60d602729c27a061cba0965adee02b9619a50",
+          "mask_sha256": "bfed42aea14455499222358c3c392b1879472ac37aa3d567a849fdccb91239a9",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/015.png",
+          "source_background_sha256": "46ef7c49e27516a20f18a8efcfc60d602729c27a061cba0965adee02b9619a50",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 16,
+          "image": "pose3/image/016.png",
+          "mask": "pose3/mask/016.png",
+          "image_sha256": "73d1e87800ce552d0bd8964778417eadfa9999832ec53aa0a82975e234e4b913",
+          "mask_sha256": "eae1b815607cdcf1163933f30cd64f4a5cc9f96f23221cd2cf9ab52b705407c6",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/016.png",
+          "source_background_sha256": "73d1e87800ce552d0bd8964778417eadfa9999832ec53aa0a82975e234e4b913",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 17,
+          "image": "pose3/image/017.png",
+          "mask": "pose3/mask/017.png",
+          "image_sha256": "c22d22faf08394c42bc291299ceee342dede3df75fbb76bc26b65d4de2786b4e",
+          "mask_sha256": "608e80628f0c754e9401254387277b48c34e7ff70916f17f66d9930dce8525ef",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/017.png",
+          "source_background_sha256": "c22d22faf08394c42bc291299ceee342dede3df75fbb76bc26b65d4de2786b4e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 18,
+          "image": "pose3/image/018.png",
+          "mask": "pose3/mask/018.png",
+          "image_sha256": "0069a6a9725192573a8ee01d57cc2491422b1bc385a1138cc60dd61b8df0149a",
+          "mask_sha256": "f92174ff4d5de428d5ee17a8d589c9ee6289533803cbf3f0b789a65812c632e9",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/018.png",
+          "source_background_sha256": "0069a6a9725192573a8ee01d57cc2491422b1bc385a1138cc60dd61b8df0149a",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 19,
+          "image": "pose3/image/019.png",
+          "mask": "pose3/mask/019.png",
+          "image_sha256": "970faa6ec9dd5c6decaef75e96a14f210a9e9ca9aa5c0228d8079a628000ffbc",
+          "mask_sha256": "d6835fabd68c1f8bd0c1ef212db2a3c2906aa132641f3ed5a4e5679359f1ea9b",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/019.png",
+          "source_background_sha256": "970faa6ec9dd5c6decaef75e96a14f210a9e9ca9aa5c0228d8079a628000ffbc",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 20,
+          "image": "pose3/image/020.png",
+          "mask": "pose3/mask/020.png",
+          "image_sha256": "9f6127873560b7ee6ec493584fe83ada19e229df9386b058c93184afa9db3eae",
+          "mask_sha256": "c2e214f195cbaf68e4a401edbcf02d1887039703495c61365f50877b39cdbe54",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/020.png",
+          "source_background_sha256": "9f6127873560b7ee6ec493584fe83ada19e229df9386b058c93184afa9db3eae",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 21,
+          "image": "pose3/image/021.png",
+          "mask": "pose3/mask/021.png",
+          "image_sha256": "136a7e5686d34b03c316f71ed7979444519307a921dcf377804abce5491d23c4",
+          "mask_sha256": "1ad50b7af0bfa9438924074f77a4562dc397c62f1fc9bd8ac8bf3c33ce3cdbcb",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/021.png",
+          "source_background_sha256": "136a7e5686d34b03c316f71ed7979444519307a921dcf377804abce5491d23c4",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 22,
+          "image": "pose3/image/022.png",
+          "mask": "pose3/mask/022.png",
+          "image_sha256": "eefde5f78b685da5aa7925c4e6e2c4dcad55cace448cac58938d70e6ef33faec",
+          "mask_sha256": "fe52de2dcdcd462e6646ec1583657271c2b0850331d4767599462208aa1587c5",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/022.png",
+          "source_background_sha256": "eefde5f78b685da5aa7925c4e6e2c4dcad55cace448cac58938d70e6ef33faec",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 23,
+          "image": "pose3/image/023.png",
+          "mask": "pose3/mask/023.png",
+          "image_sha256": "59e51d3afab2e7331a6da6b412df44665b9cfb5cce74e33af5e9a9f1da86f7de",
+          "mask_sha256": "3a3eefd6bdf41f1eda216597172780fb86d6e3b1ba02a567d1302e390a4a58ae",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/023.png",
+          "source_background_sha256": "59e51d3afab2e7331a6da6b412df44665b9cfb5cce74e33af5e9a9f1da86f7de",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 24,
+          "image": "pose3/image/024.png",
+          "mask": "pose3/mask/024.png",
+          "image_sha256": "350f10062b07e2698b7bf7b1587384f136a9f946965a477328b2f79e87eb0343",
+          "mask_sha256": "b47a27911c3fa85d1e35c611ad84decb2ee8cf80a0fbee68fd4965e4f81e5bfe",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/024.png",
+          "source_background_sha256": "350f10062b07e2698b7bf7b1587384f136a9f946965a477328b2f79e87eb0343",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 25,
+          "image": "pose3/image/025.png",
+          "mask": "pose3/mask/025.png",
+          "image_sha256": "2edb2f356f96705fb709241dc2f844e801e03701c03bfe77c87b1a92a0720700",
+          "mask_sha256": "0925f8618fda31551f95eba0e7253b178285b6f2eb2259378c3ae1bebd3891c3",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/025.png",
+          "source_background_sha256": "2edb2f356f96705fb709241dc2f844e801e03701c03bfe77c87b1a92a0720700",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 26,
+          "image": "pose3/image/026.png",
+          "mask": "pose3/mask/026.png",
+          "image_sha256": "a3c5ba1778c502731c883c6eb5f82acc73ab30b78ea1da4dfc46b48d7e2ce85e",
+          "mask_sha256": "d85e290e635a442fdddca2cd10ff2b65112396adece65e506935cf7b92ca6b12",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/026.png",
+          "source_background_sha256": "a3c5ba1778c502731c883c6eb5f82acc73ab30b78ea1da4dfc46b48d7e2ce85e",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 27,
+          "image": "pose3/image/027.png",
+          "mask": "pose3/mask/027.png",
+          "image_sha256": "26579b935603614870efb3d601deb731c78975c19f09c1ea47f14159bd9d1844",
+          "mask_sha256": "8a76d1d01d6e0a6df6fd81cf14fe7138da70306c5ebb794a02ef2f77380c30bc",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/027.png",
+          "source_background_sha256": "26579b935603614870efb3d601deb731c78975c19f09c1ea47f14159bd9d1844",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 28,
+          "image": "pose3/image/028.png",
+          "mask": "pose3/mask/028.png",
+          "image_sha256": "e4e4242136c6843ea7e5d361703f28f61e5e440e7db6694db5a863cea4e9c4b8",
+          "mask_sha256": "0267fad5a327fee0a22afb09d5d13cb060d746c3c66165fbdc3757b7c8450f3c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/028.png",
+          "source_background_sha256": "e4e4242136c6843ea7e5d361703f28f61e5e440e7db6694db5a863cea4e9c4b8",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 29,
+          "image": "pose3/image/029.png",
+          "mask": "pose3/mask/029.png",
+          "image_sha256": "bc44595ed84c9f5885bde464757d9410e70e260b63166cc12ef7ee2f5f1975bd",
+          "mask_sha256": "326e17dc53911becc804771f11070f752f9e14cbd0762fcef525dc4170e8be4c",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/029.png",
+          "source_background_sha256": "bc44595ed84c9f5885bde464757d9410e70e260b63166cc12ef7ee2f5f1975bd",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 30,
+          "image": "pose3/image/030.png",
+          "mask": "pose3/mask/030.png",
+          "image_sha256": "d69c24694038b074cca5ed9e7d1b840545d3651fd7fc04e0c12e26e83d8c947d",
+          "mask_sha256": "bf7bae500e9735fe68d78c8b1e1997efe1e934d1c3a3c4e7e6fc4230392f5a46",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/030.png",
+          "source_background_sha256": "d69c24694038b074cca5ed9e7d1b840545d3651fd7fc04e0c12e26e83d8c947d",
+          "retained_copy_matches_pre_move_manifest": true
+        },
+        {
+          "index": 31,
+          "image": "pose3/image/031.png",
+          "mask": "pose3/mask/031.png",
+          "image_sha256": "6eee5c81a326bbb11132651cabc7f9a6b2196f41f304918c2e0374ed7442b564",
+          "mask_sha256": "a4117a954e1d781627be566cc39b8e4760a15a38003e50cea44c60ce884bbf44",
+          "source_background": "E:/PoseFusionExp/real_world/background_recovered_20260929/joystick/pose3/image/031.png",
+          "source_background_sha256": "6eee5c81a326bbb11132651cabc7f9a6b2196f41f304918c2e0374ed7442b564",
+          "retained_copy_matches_pre_move_manifest": true
+        }
+      ],
+      "dimensions": {
+        "1024x1024 RGB": 32
+      }
+    }
+  ],
+  "dataset_version": "background_inputs_20260929",
+  "display_name": "Joystick",
+  "source_prefix": "Joystick",
+  "ground_truth": "No independently measured registration RT/mesh GT provided; predictions are not GT.",
+  "source_availability_note": "E:/PoseFusionExp/real_world/background_recovered_20260929 no longer present at final packaging. Retained staged images verified byte-for-byte against manifest recorded before this external source-path change. Recovery provenance retained."
+}
